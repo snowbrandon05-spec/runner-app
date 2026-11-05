@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T15:35:50-05:00",
-  "observed_at": "2026-11-05T15:35:50-05:00",
+  "updated_at": "2026-11-05T15:42:41-05:00",
+  "observed_at": "2026-11-05T15:42:41-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -22,6 +22,18 @@
   "balance": 0.09,
   "positions": [],
   "trades": [
+    {
+      "ts": null,
+      "side": "sent",
+      "token": null,
+      "usd": 1.09,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "3d ago",
+      "price": null
+    },
     {
       "ts": null,
       "side": "sell",
@@ -81,6 +93,30 @@
       "by": "feed",
       "note": "3d ago",
       "price": 0.0031
+    },
+    {
+      "ts": null,
+      "side": "received",
+      "token": null,
+      "usd": 3.06,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "3d ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "sent",
+      "token": null,
+      "usd": 81.8,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": null
     },
     {
       "ts": null,
@@ -165,6 +201,18 @@
       "by": "feed",
       "note": "5d ago",
       "price": 95.88
+    },
+    {
+      "ts": null,
+      "side": "sent",
+      "token": null,
+      "usd": 106.99,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": null
     },
     {
       "ts": null,
@@ -276,5 +324,5 @@
     }
   ],
   "risk": null,
-  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $0.09, cash $0 (single cash figure; no tokens/perps split). Open positions: empty (\"No open positions\"; Show dust unchecked). Closed history 92 rows. Activity newest 3d ago."
+  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $0.09, cash $0 (single cash figure; no tokens/perps split). Open positions: empty (\"No open positions\"; Show dust unchecked). Closed history 92 rows. Activity newest 3d ago (includes Sent/Received transfers)."
 }
