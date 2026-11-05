@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T17:38:28-05:00",
-  "observed_at": "2026-11-05T17:38:28-05:00",
+  "updated_at": "2026-11-05T17:46:36-05:00",
+  "observed_at": "2026-11-05T17:46:36-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,8 +12,8 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": 0.0,
-    "perps": 0.0,
+    "tokens": null,
+    "perps": null,
     "total": 0.0
   },
   "starting_balance": null,
@@ -285,44 +285,8 @@
       "by": "feed",
       "note": "5d ago",
       "price": 4.18e-05
-    },
-    {
-      "ts": null,
-      "side": "sell",
-      "token": "A-RSI",
-      "usd": 4.86,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "5d ago",
-      "price": 2.64e-06
-    },
-    {
-      "ts": null,
-      "side": "buy",
-      "token": "A-RSI",
-      "usd": 99.05,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "5d ago",
-      "price": 5.25e-05
-    },
-    {
-      "ts": null,
-      "side": "sell",
-      "token": "David",
-      "usd": 163.2,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "5d ago",
-      "price": 0.00032
     }
   ],
   "risk": null,
-  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $0.09, cash $0 (Tokens cash $0, Perps cash $0). Open tab: No open positions (Show dust unchecked). Closed history 92 rows. Activity newest 3d ago (includes Sent/Received transfers). First 25 activity rows captured. 24h change -$0.01."
+  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $0.09, cash $0 (Tokens/Perps cash breakdown not opened). Open tab: No open positions (Show dust unchecked). Closed history 92 rows. Activity newest 3d ago (includes Sent/Received transfers). First 22 activity rows captured. 24h change -$0.01."
 }
