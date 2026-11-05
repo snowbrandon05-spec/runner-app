@@ -1,0 +1,25 @@
+{
+  "updated_at": "2026-11-05T14:59:08-05:00",
+  "account": {
+    "handle": "gorkbot",
+    "display_name": "gorkbot",
+    "bio": "",
+    "followers": 0,
+    "following": 0,
+    "avatar": null
+  },
+  "balance": 0,
+  "starting_balance": null,
+  "cash": {
+    "tokens": 0,
+    "perps": 0,
+    "total": 0
+  },
+  "risk": {},
+  "bot": {
+    "name": "Fomo bots"
+  },
+  "positions": [],
+  "tokens": [],
+  "trades": []
+}
