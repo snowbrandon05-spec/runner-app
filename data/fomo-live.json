@@ -1,20 +1,25 @@
 {
-  "updated_at": "2026-11-05T15:18:43-05:00",
-  "observed_at": "2026-11-05T15:18:43-05:00",
+  "updated_at": "2026-11-05T15:31:13-05:00",
+  "observed_at": "2026-11-05T15:31:13-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
     "bio": null,
     "followers": 11,
-    "following": 33
+    "following": 33,
+    "avg_hold": "1h 36m",
+    "trades_count": 92,
+    "joined": "Oct 2026"
   },
   "cash": {
     "tokens": 0.0,
-    "perps": 0.0
+    "perps": 0.0,
+    "total": 0.0
   },
   "starting_balance": null,
   "change_24h": 0.0,
   "portfolio_value": 0.09,
+  "balance": 0.09,
   "positions": [],
   "trades": [
     {
@@ -26,7 +31,8 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "3d ago"
+      "note": "3d ago",
+      "price": 2.65e-06
     },
     {
       "ts": null,
@@ -37,7 +43,8 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "3d ago"
+      "note": "3d ago",
+      "price": 5.96e-06
     },
     {
       "ts": null,
@@ -48,7 +55,8 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "3d ago"
+      "note": "3d ago",
+      "price": 87.94
     },
     {
       "ts": null,
@@ -59,9 +67,214 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "3d ago"
+      "note": "3d ago",
+      "price": 87.94
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "Anakin",
+      "usd": 2.99,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "3d ago",
+      "price": 0.0031
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "FOCO",
+      "usd": 82.75,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": 0.000644
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "FOCO",
+      "usd": 27.88,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": 0.000633
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "HALLOWEEN",
+      "usd": 29.06,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": 3.06e-05
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "FOCO",
+      "usd": 46.24,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": 0.000536
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "HALLOWEEN",
+      "usd": 48.13,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": 0.000121
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "HALLOWEEN",
+      "usd": 106.95,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": 7.85e-05
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "SOL",
+      "usd": 108.0,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": 95.88
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "HUSS",
+      "usd": 108.15,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": 6.68e-05
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "SOL",
+      "usd": 98.18,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": 95.97
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "HUSS",
+      "usd": 99.18,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": 0.000138
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "HUSS",
+      "usd": 4.1,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": 5.09e-05
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "SOL",
+      "usd": 4.3,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": 95.97
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "HUSS",
+      "usd": 96.74,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": 4.18e-05
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "A-RSI",
+      "usd": 4.86,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": 2.64e-06
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "A-RSI",
+      "usd": 99.05,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": 5.25e-05
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "David",
+      "usd": 163.2,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "5d ago",
+      "price": 0.00032
     }
   ],
   "risk": null,
-  "notes": "Portfolio $0.09 cash $0. Position list on Recent looked closed/history; Open tab not confirmed. No open holdings recorded."
+  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $0.09, cash $0 (single cash figure; no tokens/perps split). Closed/Recent history visible; no open holdings recorded. Activity newest 3d ago."
 }
