@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T15:59:18-05:00",
-  "observed_at": "2026-11-05T15:59:18-05:00",
+  "updated_at": "2026-11-05T16:11:03-05:00",
+  "observed_at": "2026-11-05T16:11:03-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -324,5 +324,5 @@
     }
   ],
   "risk": null,
-  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $0.09, cash $0 (single cash figure; no tokens/perps split). Open positions: empty (\"No open positions\"; Show dust unchecked). Closed history 92 rows. Activity newest 3d ago (includes Sent/Received transfers)."
+  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $0.09, cash $0 (single cash figure; no tokens/perps split). Open positions empty (portfolio is dust-level $0.09). Closed history 92 rows. Activity newest 3d ago (includes Sent/Received transfers)."
 }
