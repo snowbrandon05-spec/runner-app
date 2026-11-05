@@ -1,5 +1,3 @@
-{"ts":"2026-10-31T10:35:32-04:00","from":"crawler","type":"runner_cooling","token":"H081:EgqxxR7zowzaLEm24oep5qqBieLVAWYX78LhgeqAJAo","detail":"score 75.5 h1 53.91% m5 -0.43% flags -"}
-{"ts":"2026-10-31T10:35:32-04:00","from":"crawler","type":"rug_risk","token":"AMAZON:9L2FD9gNEu8h9NdD9VqRWCqhNgh1UznG8Ve7VZWpump","detail":"low_liquidity"}
 {"ts":"2026-10-31T10:35:47-04:00","from":"crawler","type":"runner_found","token":"MONEKO:49t765AnJMQAzSUutr9T7rC4QAtGxbqiL374qxsHpump","detail":"score 78.1 mcap $186,098 liq $40,581 h1 36.87% m5 9.55% br 0.527"}
 {"ts":"2026-10-31T10:35:47-04:00","from":"crawler","type":"runner_cooling","token":"Hallowinu:5YREyyZig2rjst2rZv5e5UtNqP5FrWSjCdPNMcm7pump","detail":"score 45 h1 200.0% m5 -6.46% flags thin_liquidity,cooling_m5"}
 {"ts":"2026-10-31T10:35:47-04:00","from":"crawler","type":"rug_risk","token":"H081:EgqxxR7zowzaLEm24oep5qqBieLVAWYX78LhgeqAJAo","detail":"falling_m5"}
@@ -298,3 +296,5 @@
 {"ts":"2026-11-05T16:30:24-05:00","from":"crawler","type":"runner_cooling","token":"AI:AjZ8JFAvMAdrRFG4yfuozGBnpEM4DKPg1JV5nuNqpump","detail":"score 45 h1 23.48% m5 -9.13% flags cooling_m5"}
 {"ts":"2026-11-05T16:30:24-05:00","from":"crawler","type":"rug_risk","token":"GAVELDROP:9mWrj77gDZ7w4rwHF6STYXDZmYRMyf39L4go1mXepump","detail":"falling_m5"}
 {"ts":"2026-11-05T16:32:39-05:00","from":"crawler","type":"runner_found","token":"GTA:9vrEeQSTctTPSCdzbiHWLrb4xcjSn91YcoJFLDyopump","detail":"score 95.2 mcap $162,489 liq $31,187 h1 33.57% m5 17.87% br 0.806"}
+{"ts":"2026-11-05T16:37:09-05:00","from":"crawler","type":"rug_risk","token":"COGE:8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump","detail":"falling_m5"}
+{"ts":"2026-11-05T16:37:54-05:00","from":"crawler","type":"rug_risk","token":"GTA:9vrEeQSTctTPSCdzbiHWLrb4xcjSn91YcoJFLDyopump","detail":"falling_m5"}
