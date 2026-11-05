@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T16:42:41-05:00",
-  "observed_at": "2026-11-05T16:42:41-05:00",
+  "updated_at": "2026-11-05T16:59:48-05:00",
+  "observed_at": "2026-11-05T16:59:48-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -55,7 +55,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "3d ago",
+      "note": "4d ago",
       "price": 5.96e-06
     },
     {
@@ -67,7 +67,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "3d ago",
+      "note": "4d ago",
       "price": 87.94
     },
     {
@@ -79,7 +79,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "3d ago",
+      "note": "4d ago",
       "price": 87.94
     },
     {
@@ -91,7 +91,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "3d ago",
+      "note": "4d ago",
       "price": 0.0031
     },
     {
@@ -103,7 +103,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "3d ago",
+      "note": "4d ago",
       "price": null
     },
     {
