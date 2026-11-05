@@ -1,25 +1,67 @@
 {
-  "updated_at": "2026-11-05T14:59:08-05:00",
+  "updated_at": "2026-11-05T15:18:43-05:00",
+  "observed_at": "2026-11-05T15:18:43-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
-    "bio": "",
-    "followers": 0,
-    "following": 0,
-    "avatar": null
+    "bio": null,
+    "followers": 11,
+    "following": 33
   },
-  "balance": 0,
-  "starting_balance": null,
   "cash": {
-    "tokens": 0,
-    "perps": 0,
-    "total": 0
+    "tokens": 0.0,
+    "perps": 0.0
   },
-  "risk": {},
-  "bot": {
-    "name": "Fomo bots"
-  },
+  "starting_balance": null,
+  "change_24h": 0.0,
+  "portfolio_value": 0.09,
   "positions": [],
-  "tokens": [],
-  "trades": []
+  "trades": [
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "COCORO",
+      "usd": 1.19,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "3d ago"
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "COCORO",
+      "usd": 2.72,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "3d ago"
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "HYPE",
+      "usd": 2.92,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "3d ago"
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "HYPE",
+      "usd": 2.79,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "3d ago"
+    }
+  ],
+  "risk": null,
+  "notes": "Portfolio $0.09 cash $0. Position list on Recent looked closed/history; Open tab not confirmed. No open holdings recorded."
 }
