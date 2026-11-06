@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T10:27:29-05:00",
-  "observed_at": "2026-11-06T10:27:29-05:00",
+  "updated_at": "2026-11-06T10:44:13-05:00",
+  "observed_at": "2026-11-06T10:44:13-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -17,9 +17,9 @@
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 0.39,
-  "portfolio_value": 0.93,
-  "balance": 0.93,
+  "change_24h": 0.62,
+  "portfolio_value": 1.09,
+  "balance": 1.09,
   "positions": [],
   "trades": [
     {
@@ -31,7 +31,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "50m ago",
+      "note": "1h ago",
       "price": null
     },
     {
@@ -189,92 +189,8 @@
       "by": "feed",
       "note": "5d ago",
       "price": 0.000121
-    },
-    {
-      "ts": null,
-      "side": "buy",
-      "token": "HALLOWEEN",
-      "usd": 106.95,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "5d ago",
-      "price": 7.85e-05
-    },
-    {
-      "ts": null,
-      "side": "sell",
-      "token": "SOL",
-      "usd": 108.0,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "5d ago",
-      "price": 95.88
-    },
-    {
-      "ts": null,
-      "side": "sent",
-      "token": null,
-      "usd": 106.99,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "5d ago",
-      "price": null
-    },
-    {
-      "ts": null,
-      "side": "sell",
-      "token": "HUSS",
-      "usd": 108.15,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "5d ago",
-      "price": 6.68e-05
-    },
-    {
-      "ts": null,
-      "side": "buy",
-      "token": "SOL",
-      "usd": 98.18,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "5d ago",
-      "price": 95.97
-    },
-    {
-      "ts": null,
-      "side": "sell",
-      "token": "HUSS",
-      "usd": 99.18,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "5d ago",
-      "price": 0.000138
-    },
-    {
-      "ts": null,
-      "side": "buy",
-      "token": "HUSS",
-      "usd": 4.1,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "5d ago",
-      "price": 5.09e-05
     }
   ],
   "risk": null,
-  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $0.93, Total cash $0 (tokens/perps cash split not shown). Open positions: none (Open filter: \"No open positions\"). Activity 21 rows newest-first (50m\u20135d ago). Header 24h change +$0.39 on $0.93. 33 Following, 11 Followers. Newest: received +$0.75 (~50m ago)."
+  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $1.09, Total cash $0 (tokens/perps cash split not shown). Open positions: none (Open filter: \"No open positions\"). Activity 14 rows newest-first (1h\u20135d ago). Header 24h change +$0.62 on $1.09. 33 Following, 11 Followers. Newest: received +$0.75 (~1h ago)."
 }
