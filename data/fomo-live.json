@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T10:24:38-05:00",
-  "observed_at": "2026-11-06T10:24:38-05:00",
+  "updated_at": "2026-11-06T10:27:29-05:00",
+  "observed_at": "2026-11-06T10:27:29-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -18,8 +18,8 @@
   },
   "starting_balance": null,
   "change_24h": 0.39,
-  "portfolio_value": 1.28,
-  "balance": 1.28,
+  "portfolio_value": 0.93,
+  "balance": 0.93,
   "positions": [],
   "trades": [
     {
@@ -31,7 +31,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "47m ago",
+      "note": "50m ago",
       "price": null
     },
     {
@@ -276,5 +276,5 @@
     }
   ],
   "risk": null,
-  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $1.28, Total cash $0 (tokens/perps cash split not shown). Open positions: none (Open filter: \"No open positions\"). Activity 21 rows newest-first (47m\u20135d ago). Header 24h change +$0.39 on $1.28. 33 Following, 11 Followers. Newest: received +$0.75 (~47m ago)."
+  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $0.93, Total cash $0 (tokens/perps cash split not shown). Open positions: none (Open filter: \"No open positions\"). Activity 21 rows newest-first (50m\u20135d ago). Header 24h change +$0.39 on $0.93. 33 Following, 11 Followers. Newest: received +$0.75 (~50m ago)."
 }
