@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T09:21:06-05:00",
-  "observed_at": "2026-11-06T09:21:06-05:00",
+  "updated_at": "2026-11-06T10:24:38-05:00",
+  "observed_at": "2026-11-06T10:24:38-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -17,11 +17,23 @@
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": -0.01,
-  "portfolio_value": 0.09,
-  "balance": 0.09,
+  "change_24h": 0.39,
+  "portfolio_value": 1.28,
+  "balance": 1.28,
   "positions": [],
   "trades": [
+    {
+      "ts": null,
+      "side": "received",
+      "token": null,
+      "usd": 0.75,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "47m ago",
+      "price": null
+    },
     {
       "ts": null,
       "side": "sent",
@@ -261,68 +273,8 @@
       "by": "feed",
       "note": "5d ago",
       "price": 5.09e-05
-    },
-    {
-      "ts": null,
-      "side": "sell",
-      "token": "SOL",
-      "usd": 4.3,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "5d ago",
-      "price": 95.97
-    },
-    {
-      "ts": null,
-      "side": "buy",
-      "token": "HUSS",
-      "usd": 96.74,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "5d ago",
-      "price": 4.18e-05
-    },
-    {
-      "ts": null,
-      "side": "sell",
-      "token": "A-RSI",
-      "usd": 4.86,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "5d ago",
-      "price": 2.64e-06
-    },
-    {
-      "ts": null,
-      "side": "buy",
-      "token": "A-RSI",
-      "usd": 99.05,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "5d ago",
-      "price": 5.25e-05
-    },
-    {
-      "ts": null,
-      "side": "sell",
-      "token": "David",
-      "usd": 163.2,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "5d ago",
-      "price": 0.00032
     }
   ],
   "risk": null,
-  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $0.09, Total cash $0 (tokens/perps cash split not shown). Open positions: none (Open filter: \"No open positions\"). Activity 25 rows newest-first (3d\u20135d ago). Header 24h change -$0.01 on $0.09. 33 Following, 11 Followers."
+  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $1.28, Total cash $0 (tokens/perps cash split not shown). Open positions: none (Open filter: \"No open positions\"). Activity 21 rows newest-first (47m\u20135d ago). Header 24h change +$0.39 on $1.28. 33 Following, 11 Followers. Newest: received +$0.75 (~47m ago)."
 }
