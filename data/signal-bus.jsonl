@@ -1,12 +1,3 @@
-{"ts":"2026-11-05T15:20:11-05:00","from":"crawler","type":"rug_risk","token":"WEALTH:8Mi9E1V2bdPeAaRkR5yxUsAvpzP6UBUEEUrYmgKNpump","detail":"falling_m5"}
-{"ts":"2026-11-05T15:21:41-05:00","from":"crawler","type":"runner_found","token":"COGE:8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump","detail":"score 69.0 mcap $742,001 liq $69,173 h1 1397.0% m5 6.04% br 0.704"}
-{"ts":"2026-11-05T15:26:37-05:00","from":"crawler","type":"rug_risk","token":"AI:AjZ8JFAvMAdrRFG4yfuozGBnpEM4DKPg1JV5nuNqpump","detail":"falling_m5"}
-{"ts":"2026-11-05T15:28:12-05:00","from":"crawler","type":"runner_found","token":"Democat:9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump","detail":"score 75.4 mcap $289,980 liq $44,693 h1 26.97% m5 10.25% br 0.661"}
-{"ts":"2026-11-05T15:28:12-05:00","from":"crawler","type":"runner_cooling","token":"COGE:DWdBJoNezK9itTwmPDYrScYpBxvWySxeWWV8N9RcmdrT","detail":"score 49.4 h1 3.14% m5 6.52% flags copycat_ticker"}
-{"ts":"2026-11-05T15:28:46-05:00","from":"crawler","type":"runner_cooling","token":"Democat:9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump","detail":"score 61.9 h1 29.61% m5 -2.95% flags -"}
-{"ts":"2026-11-05T15:28:46-05:00","from":"crawler","type":"rug_risk","token":"LUCIA:38sFzqRSerGhztsgsqQ26ToeAz5UU5ggTS6f5946pump","detail":"low_liquidity"}
-{"ts": "2026-11-05T15:31:13-05:00", "from": "fomo-live", "type": "profile_observed", "token": null, "detail": "gorkbot portfolio $0.09 cash $0 positions 0"}
-{"ts":"2026-11-05T15:32:31-05:00","from":"crawler","type":"rug_risk","token":"Democat:9Y1F6dZ6HpjZDYZdYuUGwMbkUiPsyU7WPTqTQU4Tpump","detail":"falling_m5"}
 {"ts":"2026-11-05T15:33:16-05:00","from":"crawler","type":"rug_risk","token":"COGE:8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump","detail":"falling_m5"}
 {"ts":"2026-11-05T15:34:46-05:00","from":"crawler","type":"runner_found","token":"GAVELDROP:9mWrj77gDZ7w4rwHF6STYXDZmYRMyf39L4go1mXepump","detail":"score 74.0 mcap $466,100 liq $60,526 h1 38.96% m5 2.59% br 0.714"}
 {"ts": "2026-11-05T15:35:50-05:00", "from": "fomo-live", "type": "profile_observed", "token": null, "detail": "gorkbot portfolio $0.09 cash $0 positions 0"}
@@ -298,3 +289,12 @@
 {"ts":"2026-11-05T22:34:58-05:00","from":"crawler","type":"rug_risk","token":"PIRATE:2StNe98imN7M6K341a7a4xvc8eNTvLCde5EugAKfLoat","detail":"sells_gt_buys_m5"}
 {"ts":"2026-11-05T22:38:53-05:00","from":"crawler","type":"runner_found","token":"coin:GdY4Z6pYUcr3HFrABV5FEZay3J4GnjN1Uzsw6Dvxpump","detail":"score 84.2 mcap $307,539 liq $47,654 h1 105.0% m5 9.17% br 0.527"}
 {"ts":"2026-11-05T22:38:53-05:00","from":"crawler","type":"runner_found","token":"coin:GdY4Z6pYUcr3HFrABV5FEZay3J4GnjN1Uzsw6Dvxpump","detail":"score 84.2 mcap $307,539 liq $47,654 h1 105.0% m5 9.17% br 0.527"}
+{"ts":"2026-11-05T22:40:23-05:00","from":"crawler","type":"runner_found","token":"callinu:fF44qzhsdUR5VQuQAHYxxt25iHCrKadWM3fABAApump","detail":"score 86.7 mcap $92,432 liq $25,923 h1 104.0% m5 7.28% br 0.594"}
+{"ts":"2026-11-05T22:41:53-05:00","from":"crawler","type":"rug_risk","token":"COGE:DWdBJoNezK9itTwmPDYrScYpBxvWySxeWWV8N9RcmdrT","detail":"falling_m5"}
+{"ts":"2026-11-05T22:47:07-05:00","from":"crawler","type":"runner_found","token":"RETIRE:519AMDtBqCpVk8CTYCg2i9kJQH62ZSkT5Uvfn71Upump","detail":"score 90.4 mcap $108,721 liq $25,563 h1 101.0% m5 19.81% br 0.629"}
+{"ts":"2026-11-05T22:49:23-05:00","from":"crawler","type":"rug_risk","token":"sssdfg:BQjiYCutv9LVtbgj7pKCN2Ce6k2eUM5RSKs6kDAzpump","detail":"sells_gt_buys_m5"}
+{"ts":"2026-11-05T22:49:23-05:00","from":"crawler","type":"rug_risk","token":"sssdfg:BQjiYCutv9LVtbgj7pKCN2Ce6k2eUM5RSKs6kDAzpump","detail":"sells_gt_buys_m5"}
+{"ts":"2026-11-05T22:52:22-05:00","from":"crawler","type":"runner_cooling","token":"callinu:fF44qzhsdUR5VQuQAHYxxt25iHCrKadWM3fABAApump","detail":"score 45 h1 150.0% m5 -7.79% flags thin_liquidity,cooling_m5"}
+{"ts":"2026-11-05T22:52:22-05:00","from":"crawler","type":"rug_risk","token":"Diamond:5VCEFq1aATjga39QtDunYjJqYBx67w8V8TXwHrqopump","detail":"falling_m5"}
+{"ts":"2026-11-05T22:52:22-05:00","from":"crawler","type":"runner_cooling","token":"callinu:fF44qzhsdUR5VQuQAHYxxt25iHCrKadWM3fABAApump","detail":"score 45 h1 150.0% m5 -7.79% flags thin_liquidity,cooling_m5"}
+{"ts":"2026-11-05T22:52:22-05:00","from":"crawler","type":"rug_risk","token":"Diamond:5VCEFq1aATjga39QtDunYjJqYBx67w8V8TXwHrqopump","detail":"falling_m5"}
