@@ -1,27 +1,3 @@
-{"ts":"2026-11-05T18:40:50-05:00","from":"crawler","type":"rug_risk","token":"ZELDA:E1PpVMPtWPhPUKL7DbF6f2eAmuwo3CHBkKusKk54pump","detail":"falling_m5"}
-{"ts":"2026-11-05T18:42:20-05:00","from":"crawler","type":"runner_found","token":"AMD:DDmGnuvroxVrb7CSyjYcezFU8gnAfhKasg4ZZezmpump","detail":"score 62.2 mcap $725,922 liq $85,583 h1 46.85% m5 10.44% br 0.463"}
-{"ts":"2026-11-05T18:43:05-05:00","from":"crawler","type":"rug_risk","token":"GAVELDROP:9mWrj77gDZ7w4rwHF6STYXDZmYRMyf39L4go1mXepump","detail":"falling_m5"}
-{"ts":"2026-11-05T18:43:50-05:00","from":"crawler","type":"runner_found","token":"george:Hbpjmu51QXzwojmtvnzzFtwpgYdP8SUwxTTDACGxpump","detail":"score 65.3 mcap $109,267 liq $30,805 h1 2.87% m5 11.74% br 0.585"}
-{"ts":"2026-11-05T18:45:20-05:00","from":"crawler","type":"runner_cooling","token":"george:Hbpjmu51QXzwojmtvnzzFtwpgYdP8SUwxTTDACGxpump","detail":"score 45 h1 27.02% m5 6.6% flags -"}
-{"ts":"2026-11-05T18:49:49-05:00","from":"crawler","type":"rug_risk","token":"george:Hbpjmu51QXzwojmtvnzzFtwpgYdP8SUwxTTDACGxpump","detail":"sells_gt_buys_m5"}
-{"ts":"2026-11-05T18:54:20-05:00","from":"crawler","type":"rug_risk","token":"WEALTH:8Mi9E1V2bdPeAaRkR5yxUsAvpzP6UBUEEUrYmgKNpump","detail":"falling_m5"}
-{"ts":"2026-11-05T18:55:05-05:00","from":"crawler","type":"runner_found","token":"sssdfg:BQjiYCutv9LVtbgj7pKCN2Ce6k2eUM5RSKs6kDAzpump","detail":"score 70.7 mcap $357,757 liq $49,697 h1 885.0% m5 11.44% br 0.541"}
-{"ts":"2026-11-05T18:55:50-05:00","from":"crawler","type":"rug_risk","token":"PIRATE:2StNe98imN7M6K341a7a4xvc8eNTvLCde5EugAKfLoat","detail":"falling_m5"}
-{"ts":"2026-11-05T18:58:04-05:00","from":"crawler","type":"rug_risk","token":"LEEROY:98HEU4TvXB3xjB1t15fgxHwYDLUH4fDomvp2DCzJpump","detail":"sells_gt_buys_m5"}
-{"ts":"2026-11-05T18:58:50-05:00","from":"crawler","type":"rug_risk","token":"sssdfg:BQjiYCutv9LVtbgj7pKCN2Ce6k2eUM5RSKs6kDAzpump","detail":"falling_m5"}
-{"ts":"2026-11-05T18:58:50-05:00","from":"crawler","type":"rug_risk","token":"sssdfg:BQjiYCutv9LVtbgj7pKCN2Ce6k2eUM5RSKs6kDAzpump","detail":"falling_m5"}
-{"ts":"2026-11-05T18:59:35-05:00","from":"crawler","type":"rug_risk","token":"COGE:8UQdy5sHMVWUWSHeA5B3ZuuAVNumjSLPXdf19MXcpump","detail":"liq_under_5pct_mcap"}
-{"ts":"2026-11-05T19:00:20-05:00","from":"crawler","type":"runner_found","token":"COPE:g8FFFJHQnd84dcbHGjvTRMLzRPaE7FVV2bmNs2wpump","detail":"score 68.4 mcap $395,101 liq $49,589 h1 706.0% m5 1.88% br 0.777"}
-{"ts":"2026-11-05T19:01:05-05:00","from":"crawler","type":"runner_cooling","token":"COPE:g8FFFJHQnd84dcbHGjvTRMLzRPaE7FVV2bmNs2wpump","detail":"score 62.6 h1 701.0% m5 -2.98% flags -"}
-{"ts":"2026-11-05T19:01:05-05:00","from":"crawler","type":"rug_risk","token":"Rocco:HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump","detail":"falling_m5"}
-{"ts":"2026-11-05T19:01:05-05:00","from":"crawler","type":"rug_risk","token":"Bubbles:DNerJKigs1xZ5rCBDtU9a2ACxvskScMnSihWY9yYpump","detail":"sells_gt_buys_m5"}
-{"ts":"2026-11-05T19:01:05-05:00","from":"crawler","type":"rug_risk","token":"AMD:DDmGnuvroxVrb7CSyjYcezFU8gnAfhKasg4ZZezmpump","detail":"sells_gt_buys_m5"}
-{"ts":"2026-11-05T19:01:05-05:00","from":"crawler","type":"runner_cooling","token":"COPE:g8FFFJHQnd84dcbHGjvTRMLzRPaE7FVV2bmNs2wpump","detail":"score 62.6 h1 701.0% m5 -2.98% flags -"}
-{"ts":"2026-11-05T19:01:05-05:00","from":"crawler","type":"rug_risk","token":"Rocco:HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump","detail":"falling_m5"}
-{"ts":"2026-11-05T19:01:05-05:00","from":"crawler","type":"rug_risk","token":"Bubbles:DNerJKigs1xZ5rCBDtU9a2ACxvskScMnSihWY9yYpump","detail":"sells_gt_buys_m5"}
-{"ts":"2026-11-05T19:01:05-05:00","from":"crawler","type":"rug_risk","token":"AMD:DDmGnuvroxVrb7CSyjYcezFU8gnAfhKasg4ZZezmpump","detail":"sells_gt_buys_m5"}
-{"ts":"2026-11-05T19:07:04-05:00","from":"crawler","type":"rug_risk","token":"COPE:g8FFFJHQnd84dcbHGjvTRMLzRPaE7FVV2bmNs2wpump","detail":"falling_m5"}
-{"ts":"2026-11-05T19:08:35-05:00","from":"crawler","type":"rug_risk","token":"higher:6KphvjhrxCUyQAtcAYg4HDoSwsj4qfn1uP2KDEg8qPrJ","detail":"sells_gt_buys_m5"}
 {"ts":"2026-11-05T19:12:16-05:00","from":"crawler","type":"runner_cooling","token":"Rocco:HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump","detail":"score 63.5 h1 61.49% m5 -0.78% flags -"}
 {"ts":"2026-11-05T19:22:15-05:00","from":"crawler","type":"runner_found","token":"Rocco:HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump","detail":"score 69.8 mcap $469,141 liq $63,538 h1 52.81% m5 3.18% br 0.582"}
 {"ts":"2026-11-05T19:22:15-05:00","from":"crawler","type":"rug_risk","token":"inu:Bid8i1ocWssjRmKh2kcUfHxD1K6Sk7E5pV2PSVdepump","detail":"sells_gt_buys_m5"}
@@ -298,3 +274,27 @@
 {"ts":"2026-11-06T11:33:20-05:00","from":"crawler","type":"runner_found","token":"APPLEPAID:APgbBfggjo79T7PdVqTQcEbVdQWBCif1kLTwjRwrxc8Z","detail":"score 71.0 mcap $227,754 liq $44,807 h1 2.78% m5 19.17% br 0.587"}
 {"ts":"2026-11-06T11:34:06-05:00","from":"crawler","type":"runner_cooling","token":"APPLEPAID:APgbBfggjo79T7PdVqTQcEbVdQWBCif1kLTwjRwrxc8Z","detail":"score 45 h1 -0.28% m5 15.62% flags h1_dump_from_high"}
 {"ts":"2026-11-06T11:34:06-05:00","from":"crawler","type":"rug_risk","token":"Rocco:HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump","detail":"sells_gt_buys_m5"}
+{"ts":"2026-11-06T11:35:34-05:00","from":"crawler","type":"rug_risk","token":"coin:GdY4Z6pYUcr3HFrABV5FEZay3J4GnjN1Uzsw6Dvxpump","detail":"falling_m5"}
+{"ts":"2026-11-06T11:35:34-05:00","from":"crawler","type":"rug_risk","token":"WABI:CMK5SEFQw3DDs6iGTBBAHeyQyMnBgtZvFnUp6tYwabi","detail":"falling_m5"}
+{"ts":"2026-11-06T11:36:21-05:00","from":"crawler","type":"runner_found","token":"Diamond:5VCEFq1aATjga39QtDunYjJqYBx67w8V8TXwHrqopump","detail":"score 71.5 mcap $995,208 liq $109,455 h1 46.28% m5 10.24% br 0.627"}
+{"ts":"2026-11-06T11:36:21-05:00","from":"crawler","type":"runner_cooling","token":"401kat:BNHAfUV21odrcFDKrqLmBDr6JREXE7c3yhuWBSNJpump","detail":"score 70.9 h1 25.75% m5 -0.14% flags thin_liquidity"}
+{"ts":"2026-11-06T11:37:05-05:00","from":"crawler","type":"runner_found","token":"NIG:GDst7T2Apk4qJsJf1qZG2ndE9HP1jruEPn5izqGwpump","detail":"score 72.5 mcap $80,972 liq $22,799 h1 18.89% m5 6.8% br 0.623"}
+{"ts":"2026-11-06T11:38:33-05:00","from":"crawler","type":"runner_cooling","token":"NIG:GDst7T2Apk4qJsJf1qZG2ndE9HP1jruEPn5izqGwpump","detail":"score 45 h1 19.83% m5 13.63% flags thin_liquidity"}
+{"ts":"2026-11-06T11:40:05-05:00","from":"crawler","type":"runner_found","token":"Chicxu:GAMiPgBnyW9RJ3TBobpzUC8UAa8CidBJ348A7uHEpump","detail":"score 82.8 mcap $224,089 liq $38,289 h1 282.0% m5 49.54% br 0.728"}
+{"ts":"2026-11-06T11:40:05-05:00","from":"crawler","type":"rug_risk","token":"401kat:BNHAfUV21odrcFDKrqLmBDr6JREXE7c3yhuWBSNJpump","detail":"low_liquidity,falling_m5,sells_gt_buys_m5"}
+{"ts":"2026-11-06T11:42:00-05:00","from":"crawler","type":"rug_risk","token":"Diamond:5VCEFq1aATjga39QtDunYjJqYBx67w8V8TXwHrqopump","detail":"sells_gt_buys_m5"}
+{"ts":"2026-11-06T11:42:15-05:00","from":"crawler","type":"rug_risk","token":"WEALTH:8Mi9E1V2bdPeAaRkR5yxUsAvpzP6UBUEEUrYmgKNpump","detail":"sells_gt_buys_m5"}
+{"ts":"2026-11-06T11:42:15-05:00","from":"crawler","type":"rug_risk","token":"WEALTH:8Mi9E1V2bdPeAaRkR5yxUsAvpzP6UBUEEUrYmgKNpump","detail":"sells_gt_buys_m5"}
+{"ts":"2026-11-06T11:43:01-05:00","from":"crawler","type":"rug_risk","token":"NIG:GDst7T2Apk4qJsJf1qZG2ndE9HP1jruEPn5izqGwpump","detail":"falling_m5"}
+{"ts":"2026-11-06T11:43:01-05:00","from":"crawler","type":"rug_risk","token":"NIG:GDst7T2Apk4qJsJf1qZG2ndE9HP1jruEPn5izqGwpump","detail":"falling_m5"}
+{"ts":"2026-11-06T11:47:25-05:00","from":"crawler","type":"runner_found","token":"PICASSO:Cgs33XVwju57dToPZSRxAiEMxj9qWGxR7CT8j44pump","detail":"score 86.5 mcap $173,194 liq $32,580 h1 26.22% m5 11.71% br 0.629"}
+{"ts":"2026-11-06T11:48:54-05:00","from":"crawler","type":"runner_cooling","token":"PICASSO:Cgs33XVwju57dToPZSRxAiEMxj9qWGxR7CT8j44pump","detail":"score 73.7 h1 23.96% m5 -1.08% flags -"}
+{"ts":"2026-11-06T11:50:24-05:00","from":"crawler","type":"runner_found","token":"401kinu:7zFXW5a3ySnfRXHuKX6sK9A9K5zQm35dA4JpwrdDpump","detail":"score 76.7 mcap $463,539 liq $54,099 h1 832.0% m5 20.6% br 0.783"}
+{"ts":"2026-11-06T11:51:09-05:00","from":"crawler","type":"runner_cooling","token":"401kinu:7zFXW5a3ySnfRXHuKX6sK9A9K5zQm35dA4JpwrdDpump","detail":"score 62.0 h1 782.0% m5 -2.7% flags -"}
+{"ts":"2026-11-06T11:51:53-05:00","from":"crawler","type":"runner_cooling","token":"Chicxu:GAMiPgBnyW9RJ3TBobpzUC8UAa8CidBJ348A7uHEpump","detail":"score 64.1 h1 482.0% m5 -2.22% flags -"}
+{"ts":"2026-11-06T11:51:53-05:00","from":"crawler","type":"rug_risk","token":"PICASSO:Cgs33XVwju57dToPZSRxAiEMxj9qWGxR7CT8j44pump","detail":"falling_m5"}
+{"ts":"2026-11-06T11:52:39-05:00","from":"crawler","type":"rug_risk","token":"Chicxu:GAMiPgBnyW9RJ3TBobpzUC8UAa8CidBJ348A7uHEpump","detail":"falling_m5"}
+{"ts":"2026-11-06T11:55:42-05:00","from":"crawler","type":"runner_found","token":"fun:5BWHo2duxhkRR4ftnZWErnB8GoXpFgZ4ZR9UN8LDpump","detail":"score 72.5 mcap $103,445 liq $29,644 h1 35.42% m5 27.91% br 0.587"}
+{"ts":"2026-11-06T11:57:57-05:00","from":"crawler","type":"rug_risk","token":"ZCATS:CAMJCW5oNwSKtVbaS3GSqjwZ75MXKmgYgs7Bemui4dVq","detail":"falling_m5"}
+{"ts":"2026-11-06T11:57:57-05:00","from":"crawler","type":"rug_risk","token":"ZCATS:CAMJCW5oNwSKtVbaS3GSqjwZ75MXKmgYgs7Bemui4dVq","detail":"falling_m5"}
+{"ts": "2026-11-06T11:59:12-05:00", "from": "fomo-live", "type": "profile_observed", "token": null, "detail": "gorkbot portfolio $0.09 cash $0 positions 0 trades_feed 25"}
