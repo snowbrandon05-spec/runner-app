@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T12:42:38-05:00",
-  "observed_at": "2026-11-06T12:42:38-05:00",
+  "updated_at": "2026-11-06T13:15:34-05:00",
+  "observed_at": "2026-11-06T13:15:34-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,14 +12,14 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": null,
-    "perps": null,
+    "tokens": 0.0,
+    "perps": 0.0,
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 0.0,
-  "portfolio_value": 1.17,
-  "balance": 1.17,
+  "change_24h": -0.12,
+  "portfolio_value": 0.8,
+  "balance": 0.8,
   "positions": [],
   "trades": [
     {
@@ -31,7 +31,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "26m ago",
+      "note": "59m ago",
       "price": null
     },
     {
@@ -271,7 +271,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "5d ago",
+      "note": "6d ago",
       "price": 5.09e-05
     },
     {
@@ -283,7 +283,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "5d ago",
+      "note": "6d ago",
       "price": 95.97
     },
     {
@@ -324,5 +324,5 @@
     }
   ],
   "risk": null,
-  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $1.17 (stable across 3 reads), change_24h +$0, Total cash $0 (tokens/perps breakdown not shown), 0 open positions, trades_count 92, 25 activity rows. Newest: received +$1.00 (~26m ago)."
+  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $0.80 (live-updating; briefly $0.80\u2013$1.47; final 3 reads $0.89/$0.84/$0.80), change_24h -$0.12, Total cash $0 with tokens $0 / perps $0, 0 open positions, trades_count 92, 25 activity rows. Newest: received +$1.00 (~59m ago)."
 }
