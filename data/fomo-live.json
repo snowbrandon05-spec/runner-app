@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T08:57:07-05:00",
-  "observed_at": "2026-11-06T08:57:07-05:00",
+  "updated_at": "2026-11-06T09:21:06-05:00",
+  "observed_at": "2026-11-06T09:21:06-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,12 +12,12 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": 0.0,
-    "perps": 0.0,
+    "tokens": null,
+    "perps": null,
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 0.0,
+  "change_24h": -0.01,
   "portfolio_value": 0.09,
   "balance": 0.09,
   "positions": [],
@@ -324,5 +324,5 @@
     }
   ],
   "risk": null,
-  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $0.09, cash $0.00 (Total cash shown as $0). Open positions: none (Open tab shows \"No open positions.\"; positions closed count 92). Activity 25 rows newest-first (3d\u20135d ago). Header 24h change -$0 on $0.09."
+  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $0.09, Total cash $0 (tokens/perps cash split not shown). Open positions: none (Open filter: \"No open positions\"). Activity 25 rows newest-first (3d\u20135d ago). Header 24h change -$0.01 on $0.09. 33 Following, 11 Followers."
 }
