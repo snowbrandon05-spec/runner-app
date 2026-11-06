@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T19:02:17-05:00",
-  "observed_at": "2026-11-05T19:02:17-05:00",
+  "updated_at": "2026-11-05T19:17:23-05:00",
+  "observed_at": "2026-11-05T19:17:23-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -17,7 +17,7 @@
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": -0.01,
+  "change_24h": null,
   "portfolio_value": 0.09,
   "balance": 0.09,
   "positions": [],
@@ -324,5 +324,5 @@
     }
   ],
   "risk": null,
-  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $0.09, cash $0 (Total Cash shown; Tokens/Perps cash breakdown not opened). Open tab: No open positions. Closed/trades count 92. Activity newest 3d ago (includes Sent/Received transfers). First 25 activity rows retained (head matched live feed; no new trades). 24h change -$0.01."
+  "notes": "Verified from https://fomo.family/profile/gorkbot. Portfolio $0.09, cash $0 (Total Cash shown; Tokens/Perps cash breakdown not opened). Open tab: No open positions. Positions tab count 92. Activity newest 3d ago (includes Sent/Received transfers). First 25 activity rows retained. 24h change not shown as a separate figure."
 }
