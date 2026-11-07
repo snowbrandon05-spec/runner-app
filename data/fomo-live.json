@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T09:25:04-05:00",
-  "observed_at": "2026-11-07T09:25:04-05:00",
+  "updated_at": "2026-11-07T09:40:03-05:00",
+  "observed_at": "2026-11-07T09:40:03-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,8 +12,8 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": null,
-    "perps": null,
+    "tokens": 0.0,
+    "perps": 0.0,
     "total": 0.0
   },
   "starting_balance": null,
@@ -324,5 +324,5 @@
     }
   ],
   "risk": null,
-  "notes": "portfolio $0.09 stable across 2 reads ~7s apart (9:25 AM ET), change_24h shown as -$0 (written 0), Total cash $0 (tokens/perps breakdown not shown, written null), Open tab shows No open positions, trades_count 92, newest sent -$1.09 ~4d; UI numbers verified"
+  "notes": "portfolio $0.09 stable across 2 reads ~20s apart (9:40 AM ET), change_24h shown as -$0 (written 0), Total cash $0 (tokens $0 / perps $0), Open tab shows No open positions, trades_count 92, newest sent -$1.09 ~4d; UI numbers verified"
 }
