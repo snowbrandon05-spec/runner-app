@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T11:48:00-05:00",
-  "observed_at": "2026-11-07T11:48:00-05:00",
+  "updated_at": "2026-11-07T11:56:00-05:00",
+  "observed_at": "2026-11-07T11:56:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,8 +12,8 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": null,
-    "perps": null,
+    "tokens": 0.0,
+    "perps": 0.0,
     "total": 0.0
   },
   "starting_balance": null,
@@ -27,7 +27,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.62,
+      "pct": -6.58,
       "note": "shown under Show dust"
     },
     {
@@ -36,7 +36,7 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.71,
+      "pct": -0.74,
       "note": "shown under Show dust"
     }
   ],
@@ -343,5 +343,5 @@
     }
   ],
   "risk": null,
-  "notes": "portfolio $0.09 stable across reads ~11:47:35 and ~11:48 AM ET, 24h shown -$0, Total cash $0, tokens/perps breakdown not shown (null); Open with Show dust (2 positions): SOL 0.000926 ($0.08, -6.62%), AAPLX 0.00000829 ($0.00, -0.71%); the Received +$0.50 row no longer appears in the feed (newest row Sent -$1.09, 4d); trades_count 92; UI numbers verified"
+  "notes": "portfolio $0.09 stable across two reads at ~11:56 AM ET (desktop clock), 24h shown -$0, Total cash $0 (tokens $0 / perps $0); Open with Show dust (2 positions): SOL 0.000926 ($0.08, -6.58%), AAPLX 0.00000829 ($0.00, -0.74%); newest feed row Sent -$1.09 (4d); trades_count 92; UI numbers verified"
 }
