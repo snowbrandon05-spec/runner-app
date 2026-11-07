@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T14:59:00-05:00",
-  "observed_at": "2026-11-07T14:59:00-05:00",
+  "updated_at": "2026-11-07T15:08:00-05:00",
+  "observed_at": "2026-11-07T15:08:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,31 +12,22 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": null,
-    "perps": null,
+    "tokens": 0.0,
+    "perps": 0.0,
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 1.24,
-  "portfolio_value": 1.41,
-  "balance": 1.41,
+  "change_24h": 0.46,
+  "portfolio_value": 0.09,
+  "balance": 0.09,
   "positions": [
-    {
-      "symbol": "VRAX",
-      "name": "VRAX",
-      "address": null,
-      "amount": 176.0,
-      "value": 1.33,
-      "pct": 768.63,
-      "note": "shown under Show dust"
-    },
     {
       "symbol": "SOL",
       "name": "SOL",
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.51,
+      "pct": -6.55,
       "note": "shown under Show dust"
     },
     {
@@ -45,7 +36,7 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.71,
+      "pct": -0.74,
       "note": "shown under Show dust"
     }
   ],
@@ -59,7 +50,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "2h ago, from 0xf03a...53d4aa",
+      "note": "3h ago, from 0xf03a...53d4aa",
       "price": null
     },
     {
@@ -220,5 +211,5 @@
     }
   ],
   "risk": null,
-  "notes": "read at 2:59 PM ET (taskbar clock, re-verified with dust shown): portfolio $1.41 (screenshot moment $1.40), 24h +$1.24; Total cash $0, breakdown not re-verified (null); Open (3 positions, dust shown): VRAX 176 ($1.33, +768.63%), SOL 0.000926 ($0.08, -6.51%), AAPLX 0.00000829 ($0.00, -0.71%); newest feed row Received +$0.15 from 0xf03a...53d4aa (2h), Sent -$1.09 (5d); trades_count 92"
+  "notes": "read at 3:07 PM ET and re-verified after reload at 3:08 PM ET (taskbar clock), dust shown: portfolio $0.09, 24h +$0.46 (3:07 read showed +$0.75); Total cash $0 (tokens $0 / perps $0); Open (2 positions): SOL 0.000926 ($0.08, -6.55%), AAPLX 0.00000829 ($0.00, -0.74%); VRAX (176, ~$1.33 at 2:59 PM) no longer listed and no matching sell/sent row in the feed; newest feed row Received +$0.15 from 0xf03a...53d4aa (3h), Sent -$1.09 (5d); trades_count 92"
 }
