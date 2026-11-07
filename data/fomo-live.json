@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T10:53:16-05:00",
-  "observed_at": "2026-11-07T10:53:16-05:00",
+  "updated_at": "2026-11-07T11:05:57-05:00",
+  "observed_at": "2026-11-07T11:05:57-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -17,17 +17,17 @@
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 0.81,
-  "portfolio_value": 1.5,
-  "balance": 1.5,
+  "change_24h": 0.17,
+  "portfolio_value": 0.82,
+  "balance": 0.82,
   "positions": [
     {
       "symbol": "FLOAT",
       "name": "FLOAT",
       "address": null,
       "amount": 179.0,
-      "value": 1.42,
-      "pct": 185.61,
+      "value": 0.98,
+      "pct": 97.8,
       "note": "shown under Show dust"
     },
     {
@@ -36,7 +36,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.74,
+      "pct": -6.6,
       "note": "shown under Show dust"
     },
     {
@@ -59,7 +59,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "~15m ago as of 10:51 AM ET, from 0xf03a...53d4aa (token shown as ?)",
+      "note": "~28m ago as of 11:05 AM ET, from 0xf03a...53d4aa (token shown as ?)",
       "price": null
     },
     {
@@ -364,5 +364,5 @@
     }
   ],
   "risk": null,
-  "notes": "portfolio rising with FLOAT: $1.43 at 10:51:58, $1.49 at 10:52:41, $1.50 at 10:53:16 AM ET (24h shown +$0.19 then +$0.81); Total cash $0, tokens/perps breakdown not shown (null); Open with Show dust: FLOAT 179 ($1.42, +185.61% at 10:53:16), SOL 0.000926 ($0.08, -6.74%), AAPLX 0.00000829 ($0.00, -0.71%) at 10:51:58; top feed row still Received +$0.50 from 0xf03a...53d4aa; trades_count 92; UI numbers verified"
+  "notes": "portfolio $0.90 at 11:05:21 then $0.82 at 11:05:57 AM ET (24h +$0.17 both reads), FLOAT falling back; Open list (dust shown) FLOAT 179 ($0.98, +97.80%), SOL 0.000926 ($0.08, -6.60%), AAPLX 0.00000829 ($0.00, -0.71%), position values lag the headline total; Total cash $0, tokens/perps breakdown not shown (null); top feed row still Received +$0.50 from 0xf03a...53d4aa; trades_count 92; UI numbers verified"
 }
