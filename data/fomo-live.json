@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T22:36:38-05:00",
-  "observed_at": "2026-11-06T22:36:38-05:00",
+  "updated_at": "2026-11-06T22:41:25-05:00",
+  "observed_at": "2026-11-06T22:41:25-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -324,5 +324,5 @@
     }
   ],
   "risk": null,
-  "notes": "portfolio $0.09 stable across 2 settled screenshot reads (~10:36 PM ET; one mid-reload read showed a loading placeholder and was discarded), change_24h +$0.03, Total cash $0 (tokens/perps breakdown not shown), 0 open positions, trades_count 92, newest sent -$1.09 ~4d; UI numbers verified"
+  "notes": "portfolio $0.09 stable across 2 settled screenshot reads ~30s apart (~10:41 PM ET), change_24h +$0.03, Total cash $0 (tokens/perps breakdown not shown), no open holdings (Recent list shows only historical rows), trades_count 92, newest sent -$1.09 ~4d; UI numbers verified"
 }
