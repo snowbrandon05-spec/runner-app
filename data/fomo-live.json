@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T15:08:00-05:00",
-  "observed_at": "2026-11-07T15:08:00-05:00",
+  "updated_at": "2026-11-07T15:13:00-05:00",
+  "observed_at": "2026-11-07T15:13:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -17,7 +17,7 @@
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 0.46,
+  "change_24h": 0.0,
   "portfolio_value": 0.09,
   "balance": 0.09,
   "positions": [
@@ -27,7 +27,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.55,
+      "pct": -6.5,
       "note": "shown under Show dust"
     },
     {
@@ -41,18 +41,6 @@
     }
   ],
   "trades": [
-    {
-      "ts": null,
-      "side": "received",
-      "token": null,
-      "usd": 0.15,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "3h ago, from 0xf03a...53d4aa",
-      "price": null
-    },
     {
       "ts": null,
       "side": "sent",
@@ -211,5 +199,5 @@
     }
   ],
   "risk": null,
-  "notes": "read at 3:07 PM ET and re-verified after reload at 3:08 PM ET (taskbar clock), dust shown: portfolio $0.09, 24h +$0.46 (3:07 read showed +$0.75); Total cash $0 (tokens $0 / perps $0); Open (2 positions): SOL 0.000926 ($0.08, -6.55%), AAPLX 0.00000829 ($0.00, -0.74%); VRAX (176, ~$1.33 at 2:59 PM) no longer listed and no matching sell/sent row in the feed; newest feed row Received +$0.15 from 0xf03a...53d4aa (3h), Sent -$1.09 (5d); trades_count 92"
+  "notes": "read at 3:13 PM ET (taskbar clock), dust shown: portfolio $0.09, 24h -$0 (written 0.0); Total cash $0 (tokens $0 / perps $0); Open (2 positions): SOL 0.000926 ($0.08, -6.50%), AAPLX 0.00000829 ($0.00, -0.74%); VRAX not listed; the Received +$0.15 row from 0xf03a...53d4aa no longer appears, newest feed row is Sent -$1.09 to bVeSJT...cg46Vr (5d); trades_count 92"
 }
