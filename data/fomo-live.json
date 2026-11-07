@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T10:46:58-05:00",
-  "observed_at": "2026-11-07T10:46:58-05:00",
+  "updated_at": "2026-11-07T10:53:16-05:00",
+  "observed_at": "2026-11-07T10:53:16-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,22 +12,22 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": 0.0,
-    "perps": 0.0,
+    "tokens": null,
+    "perps": null,
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 0.19,
-  "portfolio_value": 1.1,
-  "balance": 1.1,
+  "change_24h": 0.81,
+  "portfolio_value": 1.5,
+  "balance": 1.5,
   "positions": [
     {
       "symbol": "FLOAT",
       "name": "FLOAT",
       "address": null,
       "amount": 179.0,
-      "value": 1.02,
-      "pct": 105.7,
+      "value": 1.42,
+      "pct": 185.61,
       "note": "shown under Show dust"
     },
     {
@@ -36,7 +36,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.87,
+      "pct": -6.74,
       "note": "shown under Show dust"
     },
     {
@@ -59,7 +59,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "~10m ago as of 10:46 AM ET, from 0xf03a...53d4aa (token shown as ?)",
+      "note": "~15m ago as of 10:51 AM ET, from 0xf03a...53d4aa (token shown as ?)",
       "price": null
     },
     {
@@ -364,5 +364,5 @@
     }
   ],
   "risk": null,
-  "notes": "portfolio $1.31 (24h -$0.17) at 10:46:21 then $1.10 (24h +$0.19) at 10:46:58 AM ET, not stable as FLOAT price moves; Total cash $0 (tokens $0 / perps $0); Open with Show dust: FLOAT 179 ($1.02, +105.70%), SOL 0.000926 ($0.08, -6.87%), AAPLX 0.00000829 ($0.00, -0.71%); top feed row still Received +$0.50 from 0xf03a...53d4aa; trades_count 92; UI numbers verified"
+  "notes": "portfolio rising with FLOAT: $1.43 at 10:51:58, $1.49 at 10:52:41, $1.50 at 10:53:16 AM ET (24h shown +$0.19 then +$0.81); Total cash $0, tokens/perps breakdown not shown (null); Open with Show dust: FLOAT 179 ($1.42, +185.61% at 10:53:16), SOL 0.000926 ($0.08, -6.74%), AAPLX 0.00000829 ($0.00, -0.71%) at 10:51:58; top feed row still Received +$0.50 from 0xf03a...53d4aa; trades_count 92; UI numbers verified"
 }
