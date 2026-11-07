@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T10:26:55-05:00",
-  "observed_at": "2026-11-07T10:26:55-05:00",
+  "updated_at": "2026-11-07T10:38:49-05:00",
+  "observed_at": "2026-11-07T10:38:49-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,22 +12,31 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": 0.0,
-    "perps": 0.0,
+    "tokens": null,
+    "perps": null,
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 0.0,
-  "portfolio_value": 0.09,
-  "balance": 0.09,
+  "change_24h": null,
+  "portfolio_value": 0.73,
+  "balance": 0.73,
   "positions": [
+    {
+      "symbol": "FLOAT",
+      "name": "FLOAT",
+      "address": null,
+      "amount": 179.0,
+      "value": 0.64,
+      "pct": 29.03,
+      "note": "shown under Show dust"
+    },
     {
       "symbol": "SOL",
       "name": "SOL",
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.39,
+      "pct": -6.71,
       "note": "shown under Show dust"
     },
     {
@@ -36,11 +45,23 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.71,
+      "pct": -0.7,
       "note": "shown under Show dust"
     }
   ],
   "trades": [
+    {
+      "ts": null,
+      "side": "received",
+      "token": null,
+      "usd": 0.5,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "~2m ago as of 10:38 AM ET, from 0xf03a...53d4aa (token shown as ?)",
+      "price": null
+    },
     {
       "ts": null,
       "side": "sent",
@@ -343,5 +364,5 @@
     }
   ],
   "risk": null,
-  "notes": "portfolio $0.09 stable across reads 10:26:18 and 10:26:55 AM ET, 24h shown -$0, Total cash $0 (tokens $0 / perps $0); Open with Show dust: SOL 0.000926 ($0.08, -6.39%), AAPLX 0.00000829 ($0.00, -0.71%); the earlier Received +$0.43 row no longer appears in the feed (newest row Sent -$1.09, 4d); trades_count 92; UI numbers verified"
+  "notes": "portfolio $0.75 at 10:38:35 then $0.73 at 10:38:49 AM ET (FLOAT price moving); 24h shown as '- $0.17' with unclear sign so recorded null; Total cash $0, tokens/perps breakdown not shown (null); Open tab empty unless Show dust is ticked, which lists FLOAT 179 ($0.64, +29.03%), SOL 0.000926 ($0.08, -6.71%), AAPLX 0.00000829 ($0.00, -0.70%); new feed row Received +$0.50 from 0xf03a...53d4aa ~2m ago; trades_count 92; UI numbers verified"
 }
