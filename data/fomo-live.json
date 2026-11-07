@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T16:55:00-05:00",
-  "observed_at": "2026-11-07T16:55:00-05:00",
+  "updated_at": "2026-11-07T17:07:00-05:00",
+  "observed_at": "2026-11-07T17:07:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,8 +12,8 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": 0.0,
-    "perps": 0.0,
+    "tokens": null,
+    "perps": null,
     "total": 0.0
   },
   "starting_balance": null,
@@ -27,7 +27,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -7.05,
+      "pct": -6.97,
       "note": "shown under Show dust"
     },
     {
@@ -199,5 +199,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 4:55 PM ET (box clock), dust shown: portfolio $0.09, 24h -$0 (written 0.0); Total cash $0 (tokens $0 / perps $0); Open (2 positions): SOL 0.000926 ($0.08, -7.05%), AAPLX 0.00000829 ($0.00, -0.77%); VRAX not listed; newest feed row Sent -$1.09 to bVeSJT...cg46Vr (5d); COCORO buy now shows 6d; trades_count 92"
+  "notes": "read about 5:07 PM ET (box clock), dust shown: portfolio $0.09, 24h -$0 (written 0.0); Total cash $0 (breakdown not shown, null); Open (2 positions): SOL 0.000926 ($0.08, -6.97%), AAPLX 0.00000829 ($0.00, -0.77%); VRAX not listed; newest feed row Sent -$1.09 to bVeSJT...cg46Vr (5d); trades_count 92"
 }
