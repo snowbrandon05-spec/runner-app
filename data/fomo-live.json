@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T12:54:00-05:00",
-  "observed_at": "2026-11-07T12:54:00-05:00",
+  "updated_at": "2026-11-07T13:03:00-05:00",
+  "observed_at": "2026-11-07T13:03:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -17,17 +17,17 @@
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 1.0,
-  "portfolio_value": 0.87,
-  "balance": 0.87,
+  "change_24h": 0.68,
+  "portfolio_value": 1.0,
+  "balance": 1.0,
   "positions": [
     {
       "symbol": "VRAX",
       "name": "VRAX",
       "address": null,
       "amount": 176.0,
-      "value": 0.79,
-      "pct": 414.51,
+      "value": 0.92,
+      "pct": 501.1,
       "note": "shown under Show dust"
     },
     {
@@ -45,7 +45,7 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.76,
+      "pct": -0.72,
       "note": "shown under Show dust"
     }
   ],
@@ -59,7 +59,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "53m ago, from 0xf03a...53d4aa",
+      "note": "1h ago, from 0xf03a...53d4aa",
       "price": null
     },
     {
@@ -364,5 +364,5 @@
     }
   ],
   "risk": null,
-  "notes": "read at 12:54 PM ET (taskbar clock, no seconds): portfolio $0.87, 24h +$1.00 (live values; 24h figure exceeds portfolio as shown on page); Total cash $0, breakdown not shown (null); Open (3 positions, dust shown): VRAX 176 ($0.79, +414.51%), SOL 0.000926 ($0.08, -6.37%), AAPLX 0.00000829 ($0.00, -0.76%); newest feed row Received +$0.15 from 0xf03a...53d4aa (53m); trades_count 92; UI numbers verified"
+  "notes": "read at 1:03 PM ET (taskbar clock, no seconds): portfolio $1.00, 24h +$0.68; Total cash $0, breakdown not shown (null); Open (3 positions, dust shown): VRAX 176 ($0.92, +501.10%), SOL 0.000926 ($0.08, -6.37%), AAPLX 0.00000829 ($0.00, -0.72%); newest feed row Received +$0.15 from 0xf03a...53d4aa (1h); trades_count 92; UI numbers verified"
 }
