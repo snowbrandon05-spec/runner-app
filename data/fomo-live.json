@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T13:54:00-05:00",
-  "observed_at": "2026-11-07T13:54:00-05:00",
+  "updated_at": "2026-11-07T14:02:00-05:00",
+  "observed_at": "2026-11-07T14:02:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -18,16 +18,16 @@
   },
   "starting_balance": null,
   "change_24h": 0.81,
-  "portfolio_value": 0.98,
-  "balance": 0.98,
+  "portfolio_value": 1.48,
+  "balance": 1.48,
   "positions": [
     {
       "symbol": "VRAX",
       "name": "VRAX",
       "address": null,
       "amount": 176.0,
-      "value": 0.89,
-      "pct": 482.25,
+      "value": 1.34,
+      "pct": 778.8,
       "note": "shown under Show dust"
     },
     {
@@ -36,7 +36,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.33,
+      "pct": -6.39,
       "note": "shown under Show dust"
     },
     {
@@ -45,7 +45,7 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.69,
+      "pct": -0.72,
       "note": "shown under Show dust"
     }
   ],
@@ -59,7 +59,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1h ago, from 0xf03a...53d4aa",
+      "note": "2h ago, from 0xf03a...53d4aa",
       "price": null
     },
     {
@@ -71,7 +71,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "5d ago",
+      "note": "5d ago, to bVeSJT...cg46Vr",
       "price": null
     },
     {
@@ -143,7 +143,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "5d ago",
+      "note": "5d ago, from 2bnNGc...g5pjVD",
       "price": null
     },
     {
@@ -155,7 +155,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "6d ago",
+      "note": "6d ago, to bVeSJT...cg46Vr",
       "price": null
     },
     {
@@ -217,152 +217,8 @@
       "by": "feed",
       "note": "6d ago",
       "price": 0.000121
-    },
-    {
-      "ts": null,
-      "side": "buy",
-      "token": "HALLOWEEN",
-      "usd": 106.95,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "6d ago",
-      "price": 7.85e-05
-    },
-    {
-      "ts": null,
-      "side": "sell",
-      "token": "SOL",
-      "usd": 108.0,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "6d ago",
-      "price": 95.88
-    },
-    {
-      "ts": null,
-      "side": "sent",
-      "token": null,
-      "usd": 106.99,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "6d ago",
-      "price": null
-    },
-    {
-      "ts": null,
-      "side": "sell",
-      "token": "HUSS",
-      "usd": 108.15,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "6d ago",
-      "price": 6.68e-05
-    },
-    {
-      "ts": null,
-      "side": "buy",
-      "token": "SOL",
-      "usd": 98.18,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "6d ago",
-      "price": 95.97
-    },
-    {
-      "ts": null,
-      "side": "sell",
-      "token": "HUSS",
-      "usd": 99.18,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "6d ago",
-      "price": 0.000138
-    },
-    {
-      "ts": null,
-      "side": "buy",
-      "token": "HUSS",
-      "usd": 4.1,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "6d ago",
-      "price": 5.09e-05
-    },
-    {
-      "ts": null,
-      "side": "sell",
-      "token": "SOL",
-      "usd": 4.3,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "6d ago",
-      "price": 95.97
-    },
-    {
-      "ts": null,
-      "side": "buy",
-      "token": "HUSS",
-      "usd": 96.74,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "6d ago",
-      "price": 4.18e-05
-    },
-    {
-      "ts": null,
-      "side": "sell",
-      "token": "A-RSI",
-      "usd": 4.86,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "6d ago",
-      "price": 2.64e-06
-    },
-    {
-      "ts": null,
-      "side": "buy",
-      "token": "A-RSI",
-      "usd": 99.05,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "6d ago",
-      "price": 5.25e-05
-    },
-    {
-      "ts": null,
-      "side": "sell",
-      "token": "David",
-      "usd": 163.2,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "6d ago",
-      "price": 0.00032
     }
   ],
   "risk": null,
-  "notes": "read at 1:54 PM ET (taskbar clock, no seconds): portfolio $0.98, 24h +$0.81; Total cash $0, breakdown not shown (null); Open (3 positions, dust shown): VRAX 176 ($0.89, +482.25%), SOL 0.000926 ($0.08, -6.33%), AAPLX 0.00000829 ($0.00, -0.69%); newest feed row Received +$0.15 from 0xf03a...53d4aa (1h), Sent -$1.09 (5d); trades_count 92; UI numbers verified"
+  "notes": "read at 2:02 PM ET (taskbar clock): portfolio $1.48 (live; screenshot moment $1.39), 24h +$0.81; Total cash $0, breakdown not shown (null); Open (3 positions, dust shown): VRAX 176 ($1.34, +778.80%; screenshot $1.30/+753.96%), SOL 0.000926 ($0.08, -6.39%), AAPLX 0.00000829 ($0.00, -0.72%); newest feed row Received +$0.15 from 0xf03a...53d4aa (2h), Sent -$1.09 (5d); trades_count 92; UI numbers verified"
 }
