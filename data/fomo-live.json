@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T10:38:49-05:00",
-  "observed_at": "2026-11-07T10:38:49-05:00",
+  "updated_at": "2026-11-07T10:46:58-05:00",
+  "observed_at": "2026-11-07T10:46:58-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,22 +12,22 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": null,
-    "perps": null,
+    "tokens": 0.0,
+    "perps": 0.0,
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": null,
-  "portfolio_value": 0.73,
-  "balance": 0.73,
+  "change_24h": 0.19,
+  "portfolio_value": 1.1,
+  "balance": 1.1,
   "positions": [
     {
       "symbol": "FLOAT",
       "name": "FLOAT",
       "address": null,
       "amount": 179.0,
-      "value": 0.64,
-      "pct": 29.03,
+      "value": 1.02,
+      "pct": 105.7,
       "note": "shown under Show dust"
     },
     {
@@ -36,7 +36,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.71,
+      "pct": -6.87,
       "note": "shown under Show dust"
     },
     {
@@ -45,7 +45,7 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.7,
+      "pct": -0.71,
       "note": "shown under Show dust"
     }
   ],
@@ -59,7 +59,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "~2m ago as of 10:38 AM ET, from 0xf03a...53d4aa (token shown as ?)",
+      "note": "~10m ago as of 10:46 AM ET, from 0xf03a...53d4aa (token shown as ?)",
       "price": null
     },
     {
@@ -364,5 +364,5 @@
     }
   ],
   "risk": null,
-  "notes": "portfolio $0.75 at 10:38:35 then $0.73 at 10:38:49 AM ET (FLOAT price moving); 24h shown as '- $0.17' with unclear sign so recorded null; Total cash $0, tokens/perps breakdown not shown (null); Open tab empty unless Show dust is ticked, which lists FLOAT 179 ($0.64, +29.03%), SOL 0.000926 ($0.08, -6.71%), AAPLX 0.00000829 ($0.00, -0.70%); new feed row Received +$0.50 from 0xf03a...53d4aa ~2m ago; trades_count 92; UI numbers verified"
+  "notes": "portfolio $1.31 (24h -$0.17) at 10:46:21 then $1.10 (24h +$0.19) at 10:46:58 AM ET, not stable as FLOAT price moves; Total cash $0 (tokens $0 / perps $0); Open with Show dust: FLOAT 179 ($1.02, +105.70%), SOL 0.000926 ($0.08, -6.87%), AAPLX 0.00000829 ($0.00, -0.71%); top feed row still Received +$0.50 from 0xf03a...53d4aa; trades_count 92; UI numbers verified"
 }
