@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T10:12:12-05:00",
-  "observed_at": "2026-11-07T10:12:12-05:00",
+  "updated_at": "2026-11-07T10:26:55-05:00",
+  "observed_at": "2026-11-07T10:26:55-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -17,7 +17,7 @@
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 0.9,
+  "change_24h": 0.0,
   "portfolio_value": 0.09,
   "balance": 0.09,
   "positions": [
@@ -27,7 +27,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.43,
+      "pct": -6.39,
       "note": "shown under Show dust"
     },
     {
@@ -36,23 +36,11 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.7,
+      "pct": -0.71,
       "note": "shown under Show dust"
     }
   ],
   "trades": [
-    {
-      "ts": null,
-      "side": "received",
-      "token": null,
-      "usd": 0.43,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "~27m ago as of 10:12 AM ET, from 0x70e1...b43a99 (token shown as ?)",
-      "price": null
-    },
     {
       "ts": null,
       "side": "sent",
@@ -355,5 +343,5 @@
     }
   ],
   "risk": null,
-  "notes": "portfolio $0.09 stable across 2 reads 10:11:13 and 10:12:12 AM ET (brief $1.40-1.41 while settling, discarded), change_24h shown +$0.90, Total cash $0 (tokens $0 / perps $0); Open with Show dust: SOL 0.000926 ($0.08, -6.43%), AAPLX ~0 ($0.00); FLOAT no longer listed and no FLOAT sell in feed; trades_count 92; UI numbers verified"
+  "notes": "portfolio $0.09 stable across reads 10:26:18 and 10:26:55 AM ET, 24h shown -$0, Total cash $0 (tokens $0 / perps $0); Open with Show dust: SOL 0.000926 ($0.08, -6.39%), AAPLX 0.00000829 ($0.00, -0.71%); the earlier Received +$0.43 row no longer appears in the feed (newest row Sent -$1.09, 4d); trades_count 92; UI numbers verified"
 }
