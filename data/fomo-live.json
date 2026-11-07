@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T12:11:00-05:00",
-  "observed_at": "2026-11-07T12:11:00-05:00",
+  "updated_at": "2026-11-07T12:26:00-05:00",
+  "observed_at": "2026-11-07T12:26:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -17,17 +17,17 @@
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 0.0,
-  "portfolio_value": 1.08,
-  "balance": 1.08,
+  "change_24h": 0.46,
+  "portfolio_value": 1.32,
+  "balance": 1.32,
   "positions": [
     {
       "symbol": "VRAX",
       "name": "VRAX",
       "address": null,
       "amount": 176.0,
-      "value": 0.99,
-      "pct": 548.35,
+      "value": 1.24,
+      "pct": 710.17,
       "note": "shown under Show dust"
     },
     {
@@ -36,7 +36,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.53,
+      "pct": -6.47,
       "note": "shown under Show dust"
     },
     {
@@ -45,11 +45,23 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.74,
+      "pct": -0.72,
       "note": "shown under Show dust"
     }
   ],
   "trades": [
+    {
+      "ts": null,
+      "side": "received",
+      "token": null,
+      "usd": 0.15,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "26m ago, from 0xf03a...53d4aa",
+      "price": null
+    },
     {
       "ts": null,
       "side": "sent",
@@ -352,5 +364,5 @@
     }
   ],
   "risk": null,
-  "notes": "reads at 12:11 PM ET (taskbar clock, no seconds): portfolio rose $0.90 -> $1.02 -> $1.08 as new VRAX holding climbed; 24h shown -$0; Total cash $0, breakdown not shown (null); Open (3 positions, dust shown): VRAX 176 ($0.81 +432.66% then $0.99 +548.35%), SOL 0.000926 ($0.08, -6.53%), AAPLX 0.00000829 ($0.00, -0.74%); the Received +$0.15 row no longer appears in the feed (newest row Sent -$1.09, 4d); trades_count 92; UI numbers verified"
+  "notes": "read at 12:26 PM ET (taskbar clock, no seconds): portfolio $1.32, 24h +$0.46; Total cash $0, breakdown not shown (null); Open (3 positions, dust shown): VRAX 176 ($1.24, +710.17%), SOL 0.000926 ($0.08, -6.47%), AAPLX 0.00000829 ($0.00, -0.72%); Received +$0.15 from 0xf03a...53d4aa (26m) reappeared as newest feed row; trades_count 92; UI numbers verified"
 }
