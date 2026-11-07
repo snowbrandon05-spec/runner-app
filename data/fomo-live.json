@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T11:14:24-05:00",
-  "observed_at": "2026-11-07T11:14:24-05:00",
+  "updated_at": "2026-11-07T11:29:22-05:00",
+  "observed_at": "2026-11-07T11:29:22-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,31 +12,22 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": null,
-    "perps": null,
+    "tokens": 0.0,
+    "perps": 0.0,
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 1.01,
-  "portfolio_value": 1.25,
-  "balance": 1.25,
+  "change_24h": 0.0,
+  "portfolio_value": 0.09,
+  "balance": 0.09,
   "positions": [
-    {
-      "symbol": "FLOAT",
-      "name": "FLOAT",
-      "address": null,
-      "amount": 179.0,
-      "value": 1.16,
-      "pct": 134.9,
-      "note": "shown under Show dust"
-    },
     {
       "symbol": "SOL",
       "name": "SOL",
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.54,
+      "pct": -6.52,
       "note": "shown under Show dust"
     },
     {
@@ -59,7 +50,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "~37m ago as of 11:13 AM ET, from 0xf03a...53d4aa (token shown as ?)",
+      "note": "~53m ago as of 11:28 AM ET, from 0xf03a...53d4aa (token shown as ?)",
       "price": null
     },
     {
@@ -364,5 +355,5 @@
     }
   ],
   "risk": null,
-  "notes": "portfolio $1.42 at 11:13:49 (24h +$1.01) then $1.25 at 11:14:24 AM ET as FLOAT swings; FLOAT 179 $1.34 (+169.60%) then $1.16 (+134.90%); SOL 0.000926 ($0.08, -6.54%), AAPLX 0.00000829 ($0.00, -0.71%), dust shown; change_24h is from the first read; Total cash $0, tokens/perps breakdown not shown (null); top feed row still Received +$0.50 from 0xf03a...53d4aa; trades_count 92; UI numbers verified"
+  "notes": "portfolio $0.09 stable across reads 11:28:34 and 11:29:22 AM ET, 24h shown -$0, Total cash $0 (tokens $0 / perps $0); Open with Show dust: SOL 0.000926 ($0.08, -6.52%), AAPLX 0.00000829 ($0.00, -0.71%); FLOAT (179) no longer listed and no FLOAT sell in feed; top feed row still Received +$0.50 from 0xf03a...53d4aa; trades_count 92; UI numbers verified"
 }
