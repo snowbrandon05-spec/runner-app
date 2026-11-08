@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T10:17:00-05:00",
-  "observed_at": "2026-11-08T10:17:00-05:00",
+  "updated_at": "2026-11-08T10:21:00-05:00",
+  "observed_at": "2026-11-08T10:21:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -18,17 +18,17 @@
   },
   "starting_balance": null,
   "change_24h": 0.0,
-  "portfolio_value": 0.72,
-  "balance": 0.72,
+  "portfolio_value": 1.24,
+  "balance": 1.24,
   "positions": [
     {
       "symbol": "CLAUDIA",
       "name": "CLAUDIA",
       "address": null,
       "amount": 178.0,
-      "value": 0.63,
-      "pct": 78.41,
-      "note": "new since 10:02 AM read; no matching feed row shown"
+      "value": 1.15,
+      "pct": 226.1,
+      "note": "first seen 10:17 AM read; no matching feed row shown"
     },
     {
       "symbol": "SOL",
@@ -36,7 +36,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.55,
+      "pct": -6.54,
       "note": "shown under Show dust"
     },
     {
@@ -45,7 +45,7 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.74,
+      "pct": -0.73,
       "note": "shown under Show dust"
     }
   ],
@@ -208,5 +208,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 10:17 AM ET (box clock): portfolio $0.72 (showed $0.71 on first load), 24h -$0 (written 0.0); Total cash $0 (breakdown not shown, null); Open (3 positions): CLAUDIA 178.00 ($0.63, +78.41%, new, no feed row), SOL 0.000926 ($0.08, -6.55%), AAPLX 0.00000829 ($0.00, -0.74%); VRAX not listed; newest feed row Sent -$1.09 to bVeSJT...cg46Vr (5d); trades_count 92"
+  "notes": "read about 10:21 AM ET (box clock): portfolio $1.24, 24h -$0 (written 0.0); Total cash $0 (breakdown not shown, null); Open (3 positions): CLAUDIA 178.00 ($1.15, +226.10%, no feed row), SOL 0.000926 ($0.08, -6.54%), AAPLX 0.00000829 ($0.00, -0.73%); VRAX not listed; newest feed row Sent -$1.09 to bVeSJT...cg46Vr (5d); trades_count 92"
 }
