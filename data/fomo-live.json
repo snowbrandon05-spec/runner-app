@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T18:44:48-05:00",
-  "observed_at": "2026-11-08T18:44:48-05:00",
+  "updated_at": "2026-11-08T18:58:16-05:00",
+  "observed_at": "2026-11-08T18:58:16-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -27,7 +27,7 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -9.21,
+      "pct": -10.0,
       "note": "open list dust"
     },
     {
@@ -36,7 +36,7 @@
       "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.8,
+      "pct": -1.09,
       "note": "open list dust"
     }
   ],
@@ -364,8 +364,176 @@
       "by": "feed",
       "note": "1w ago",
       "price": null
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "DOUGHBRIKS",
+      "usd": 29.32,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "DOUGHBRIKS",
+      "usd": 99.05,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "DAVID",
+      "usd": 130.87,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "DOUGHBRIKS",
+      "usd": 231.71,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "DAVID",
+      "usd": 149.05,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "DAVID",
+      "usd": 384.48,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "DAVID",
+      "usd": 285.54,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "Pikmin",
+      "usd": 66.64,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "HI",
+      "usd": 222.13,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "Pikmin",
+      "usd": 4.42,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "MAX",
+      "usd": 4.62,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "MAX",
+      "usd": 19.83,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "HOPE",
+      "usd": 20.24,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "HOPE",
+      "usd": 15.94,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
     }
   ],
   "risk": "Stable",
-  "notes": "read about 6:44 PM ET (box clock): portfolio $0.08, 24h -$0; Total cash $0 (tokens $0 / perps $0); Open (2): SOL 0.000926 ($0.08, -9.21%), AAPLX 0.00000829 ($0.00, -0.80%); feed newest row Sent -$1.09, 6d; trades_count 92; risk Stable"
+  "notes": "read about 6:58 PM ET (box clock): portfolio $0.08, 24h -$0; Total cash $0 (tokens $0 / perps $0); Open (2): SOL 0.000926 ($0.08, -10.00%), AAPLX 0.00000829 ($0.00, -1.09%); feed newest row Sent -$1.09, 6d; trades_count 92; risk Stable"
 }
