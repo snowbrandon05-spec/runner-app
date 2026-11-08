@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T11:58:39-05:00",
-  "observed_at": "2026-11-08T11:58:39-05:00",
+  "updated_at": "2026-11-08T12:06:00-05:00",
+  "observed_at": "2026-11-08T12:06:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -17,7 +17,7 @@
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 1.14,
+  "change_24h": 0.0,
   "portfolio_value": 0.09,
   "balance": 0.09,
   "positions": [
@@ -27,7 +27,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -7.09,
+      "pct": -6.97,
       "note": "open list"
     },
     {
@@ -36,23 +36,11 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.77,
+      "pct": -0.76,
       "note": "open list dust"
     }
   ],
   "trades": [
-    {
-      "ts": null,
-      "side": "received",
-      "token": null,
-      "usd": 0.29,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "51m ago at 11:58 read (about 11:07 AM ET), from 0x7a16...9818a1, token shown as ?",
-      "price": null
-    },
     {
       "ts": null,
       "side": "sent",
@@ -196,8 +184,20 @@
       "by": "feed",
       "note": "1w ago",
       "price": 0.000536
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "HALLOWEEN",
+      "usd": 48.13,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago (row partly cut off; token from screenshot)",
+      "price": null
     }
   ],
   "risk": null,
-  "notes": "read about 11:58 AM ET (box clock): portfolio $0.09, 24h +$1.14; Total cash $0 (breakdown not shown); Open (2): SOL 0.000926 ($0.08, -7.09%), AAPLX 0.00000829 ($0.00, -0.77%); GTA6 (166.00, $1.03 at 11:46) no longer listed, no matching feed row; newest feed row Received +$0.29 from 0x7a16...9818a1 (51m, token ?); trades_count 92"
+  "notes": "read about 12:06 PM ET (box clock): portfolio $0.09, 24h -$0; Total cash $0 (breakdown not shown); Open (2): SOL 0.000926 ($0.08, -6.97%), AAPLX 0.00000829 ($0.00, -0.76%); Received +$0.29 row no longer shown in feed; newest row Sent -$1.09, 5d; trades_count 92"
 }
