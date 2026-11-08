@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T11:09:00-05:00",
-  "observed_at": "2026-11-08T11:09:00-05:00",
+  "updated_at": "2026-11-08T11:28:34-05:00",
+  "observed_at": "2026-11-08T11:28:34-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -17,18 +17,18 @@
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 0.0,
-  "portfolio_value": 0.5,
-  "balance": 0.5,
+  "change_24h": 0.52,
+  "portfolio_value": 1.4,
+  "balance": 1.4,
   "positions": [
     {
       "symbol": "GTA6",
       "name": "GTA6",
       "address": null,
       "amount": 166.0,
-      "value": 0.42,
-      "pct": 45.88,
-      "note": "new; token icon shown as ?, no matching feed row"
+      "value": 1.31,
+      "pct": 359.11,
+      "note": "token icon shown as ?; likely arrived via Received +$0.29 row"
     },
     {
       "symbol": "SOL",
@@ -36,7 +36,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.46,
+      "pct": -6.56,
       "note": "open list"
     },
     {
@@ -45,11 +45,23 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.71,
+      "pct": -0.75,
       "note": "open list dust"
     }
   ],
   "trades": [
+    {
+      "ts": null,
+      "side": "received",
+      "token": null,
+      "usd": 0.29,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "21m ago (about 11:07 AM ET), from 0x7a16...9818a1, token shown as ?",
+      "price": null
+    },
     {
       "ts": null,
       "side": "sent",
@@ -193,20 +205,8 @@
       "by": "feed",
       "note": "1w ago",
       "price": 0.000536
-    },
-    {
-      "ts": null,
-      "side": "sell",
-      "token": "HALLOWEEN",
-      "usd": 48.13,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "1w ago",
-      "price": null
     }
   ],
   "risk": null,
-  "notes": "read about 11:09 AM ET (box clock): portfolio $0.50, 24h $0; Total cash $0 (breakdown not shown); Open (3): GTA6 166.00 ($0.42, +45.88%, new, no feed row), SOL 0.000926 ($0.08, -6.46%), AAPLX 0.00000829 ($0.00, -0.71%); CLAUDIA not listed; Received +$0.35 row no longer shown in feed; newest row Sent -$1.09, 5d; trades_count 92"
+  "notes": "read about 11:28 AM ET (box clock): portfolio $1.40, 24h +$0.52; Total cash $0 (breakdown not shown); Open (3): GTA6 166.00 ($1.31, +359.11%), SOL 0.000926 ($0.08, -6.56%), AAPLX 0.00000829 ($0.00, -0.75%); new feed row Received +$0.29 from 0x7a16...9818a1 (21m, token ?); trades_count 92"
 }
