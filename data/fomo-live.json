@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T10:37:00-05:00",
-  "observed_at": "2026-11-08T10:37:00-05:00",
+  "updated_at": "2026-11-08T10:44:00-05:00",
+  "observed_at": "2026-11-08T10:44:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,24 +12,15 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": 0.0,
-    "perps": 0.0,
+    "tokens": null,
+    "perps": null,
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 0.64,
-  "portfolio_value": 1.18,
-  "balance": 1.18,
+  "change_24h": 0.4,
+  "portfolio_value": 0.09,
+  "balance": 0.09,
   "positions": [
-    {
-      "symbol": "CLAUDIA",
-      "name": "CLAUDIA",
-      "address": null,
-      "amount": 178.0,
-      "value": 1.1,
-      "pct": 210.76,
-      "note": "first seen 10:17 AM read"
-    },
     {
       "symbol": "SOL",
       "name": "SOL",
@@ -45,7 +36,7 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.74,
+      "pct": -0.71,
       "note": "shown under Show dust"
     }
   ],
@@ -59,7 +50,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "23m ago at 10:37 AM ET read, from 0x7a16...9818a1, token shown as ?",
+      "note": "31m ago at 10:44 AM ET read, from 0x7a16...9818a1, token shown as ?",
       "price": null
     },
     {
@@ -208,5 +199,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 10:37 AM ET (box clock): portfolio $1.18, 24h +$0.64; Total cash $0 (tokens $0 / perps $0); Open (3 positions): CLAUDIA 178.00 ($1.10, +210.76%), SOL 0.000926 ($0.08, -6.47%), AAPLX 0.00000829 ($0.00, -0.74%); VRAX not listed; newest feed row Received +$0.35 from 0x7a16...9818a1 (23m, token ?); trades_count 92"
+  "notes": "read about 10:44 AM ET (box clock): portfolio $0.09, 24h +$0.40; Total cash $0 (breakdown not shown); Open (2 positions): SOL 0.000926 ($0.08, -6.47%), AAPLX 0.00000829 ($0.00, -0.71%); CLAUDIA no longer listed (no matching feed row); VRAX not listed; feed unchanged (newest Received +$0.35, 31m); trades_count 92"
 }
