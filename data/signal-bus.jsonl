@@ -1,4 +1,3 @@
-{"ts":"2026-11-05T21:09:11-05:00","from":"crawler","type":"rug_risk","token":"COPE:g8FFFJHQnd84dcbHGjvTRMLzRPaE7FVV2bmNs2wpump","detail":"low_liquidity"}
 {"ts":"2026-11-05T21:17:53-05:00","from":"crawler","type":"rug_risk","token":"sssdfg:BQjiYCutv9LVtbgj7pKCN2Ce6k2eUM5RSKs6kDAzpump","detail":"falling_m5"}
 {"ts":"2026-11-05T21:17:53-05:00","from":"crawler","type":"rug_risk","token":"Bubbles:DNerJKigs1xZ5rCBDtU9a2ACxvskScMnSihWY9yYpump","detail":"sells_gt_buys_m5"}
 {"ts":"2026-11-05T21:17:53-05:00","from":"crawler","type":"rug_risk","token":"sssdfg:BQjiYCutv9LVtbgj7pKCN2Ce6k2eUM5RSKs6kDAzpump","detail":"falling_m5"}
@@ -298,3 +297,4 @@
 {"ts":"2026-11-06T20:22:10-05:00","source":"fomo","type":"live_refresh","account":"gorkbot","portfolio_value":0.09,"change_24h":0.03,"cash_total":0.0,"positions":0,"newest":{"side":"sent","usd":1.09,"note":"4d ago"}}
 {"ts":"2026-11-08T15:28:00-05:00","source":"fomo","type":"live_refresh","account":"gorkbot","portfolio_value":0.09,"change_24h":-0.75,"cash_total":0.0,"positions":2,"newest":{"side":"sent","usd":1.09,"note":"6d ago"}}
 {"ts":"2026-11-08T15:36:00-05:00","source":"fomo","type":"live_refresh","account":"gorkbot","portfolio_value":0.09,"change_24h":-0.75,"cash_total":0.0,"positions":2,"newest":{"side":"sent","usd":1.09,"note":"6d ago"}}
+{"ts":"2026-11-08T16:23:00-05:00","source":"fomo","type":"live_refresh","account":"gorkbot","portfolio_value":0.09,"change_24h":0.0,"cash_total":0.0,"positions":2,"newest":{"side":"sent","usd":1.09,"note":"6d ago"}}
