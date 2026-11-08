@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T11:28:34-05:00",
-  "observed_at": "2026-11-08T11:28:34-05:00",
+  "updated_at": "2026-11-08T11:37:33-05:00",
+  "observed_at": "2026-11-08T11:37:33-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -17,17 +17,17 @@
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 0.52,
-  "portfolio_value": 1.4,
-  "balance": 1.4,
+  "change_24h": 0.87,
+  "portfolio_value": 1.36,
+  "balance": 1.36,
   "positions": [
     {
       "symbol": "GTA6",
       "name": "GTA6",
       "address": null,
       "amount": 166.0,
-      "value": 1.31,
-      "pct": 359.11,
+      "value": 1.27,
+      "pct": 343.75,
       "note": "token icon shown as ?; likely arrived via Received +$0.29 row"
     },
     {
@@ -36,7 +36,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.56,
+      "pct": -6.71,
       "note": "open list"
     },
     {
@@ -45,7 +45,7 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.75,
+      "pct": -0.76,
       "note": "open list dust"
     }
   ],
@@ -59,7 +59,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "21m ago (about 11:07 AM ET), from 0x7a16...9818a1, token shown as ?",
+      "note": "30m ago at 11:37 read (about 11:07 AM ET), from 0x7a16...9818a1, token shown as ?",
       "price": null
     },
     {
@@ -208,5 +208,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 11:28 AM ET (box clock): portfolio $1.40, 24h +$0.52; Total cash $0 (breakdown not shown); Open (3): GTA6 166.00 ($1.31, +359.11%), SOL 0.000926 ($0.08, -6.56%), AAPLX 0.00000829 ($0.00, -0.75%); new feed row Received +$0.29 from 0x7a16...9818a1 (21m, token ?); trades_count 92"
+  "notes": "read about 11:37 AM ET (box clock): portfolio $1.36, 24h +$0.87; Total cash $0 (breakdown not shown); Open (3): GTA6 166.00 ($1.27, +343.75%), SOL 0.000926 ($0.08, -6.71%), AAPLX 0.00000829 ($0.00, -0.76%); newest feed row Received +$0.29 from 0x7a16...9818a1 (30m, token ?); trades_count 92"
 }
