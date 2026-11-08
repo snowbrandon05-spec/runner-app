@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T13:28:00-05:00",
-  "observed_at": "2026-11-08T13:28:00-05:00",
+  "updated_at": "2026-11-08T13:33:00-05:00",
+  "observed_at": "2026-11-08T13:33:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -27,7 +27,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.5,
+      "pct": -6.48,
       "note": "open list"
     },
     {
@@ -50,7 +50,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "5d ago, to bVeSJT...cg46Vr",
+      "note": "6d ago, to bVeSJT...cg46Vr",
       "price": null
     },
     {
@@ -199,5 +199,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 1:28 PM ET (box clock): portfolio $0.09, 24h -$0.68; Total cash $0 (breakdown not shown); Open (2): SOL 0.000926 ($0.08, -6.50%), AAPLX 0.00000829 ($0.00, -0.75%); feed unchanged, newest row Sent -$1.09, 5d; trades_count 92"
+  "notes": "read about 1:33 PM ET (box clock): portfolio $0.09, 24h -$0.68; Total cash $0 (breakdown not shown); Open (2): SOL 0.000926 ($0.08, -6.48%), AAPLX 0.00000829 ($0.00, -0.75%); feed unchanged, newest row Sent -$1.09 now 6d; trades_count 92"
 }
