@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T10:21:00-05:00",
-  "observed_at": "2026-11-08T10:21:00-05:00",
+  "updated_at": "2026-11-08T10:37:00-05:00",
+  "observed_at": "2026-11-08T10:37:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,23 +12,23 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": null,
-    "perps": null,
+    "tokens": 0.0,
+    "perps": 0.0,
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 0.0,
-  "portfolio_value": 1.24,
-  "balance": 1.24,
+  "change_24h": 0.64,
+  "portfolio_value": 1.18,
+  "balance": 1.18,
   "positions": [
     {
       "symbol": "CLAUDIA",
       "name": "CLAUDIA",
       "address": null,
       "amount": 178.0,
-      "value": 1.15,
-      "pct": 226.1,
-      "note": "first seen 10:17 AM read; no matching feed row shown"
+      "value": 1.1,
+      "pct": 210.76,
+      "note": "first seen 10:17 AM read"
     },
     {
       "symbol": "SOL",
@@ -36,7 +36,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.54,
+      "pct": -6.47,
       "note": "shown under Show dust"
     },
     {
@@ -45,11 +45,23 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.73,
+      "pct": -0.74,
       "note": "shown under Show dust"
     }
   ],
   "trades": [
+    {
+      "ts": null,
+      "side": "received",
+      "token": null,
+      "usd": 0.35,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "23m ago at 10:37 AM ET read, from 0x7a16...9818a1, token shown as ?",
+      "price": null
+    },
     {
       "ts": null,
       "side": "sent",
@@ -193,20 +205,8 @@
       "by": "feed",
       "note": "1w ago",
       "price": 0.000536
-    },
-    {
-      "ts": null,
-      "side": "sell",
-      "token": "HALLOWEEN",
-      "usd": 48.13,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "1w ago",
-      "price": 0.000121
     }
   ],
   "risk": null,
-  "notes": "read about 10:21 AM ET (box clock): portfolio $1.24, 24h -$0 (written 0.0); Total cash $0 (breakdown not shown, null); Open (3 positions): CLAUDIA 178.00 ($1.15, +226.10%, no feed row), SOL 0.000926 ($0.08, -6.54%), AAPLX 0.00000829 ($0.00, -0.73%); VRAX not listed; newest feed row Sent -$1.09 to bVeSJT...cg46Vr (5d); trades_count 92"
+  "notes": "read about 10:37 AM ET (box clock): portfolio $1.18, 24h +$0.64; Total cash $0 (tokens $0 / perps $0); Open (3 positions): CLAUDIA 178.00 ($1.10, +210.76%), SOL 0.000926 ($0.08, -6.47%), AAPLX 0.00000829 ($0.00, -0.74%); VRAX not listed; newest feed row Received +$0.35 from 0x7a16...9818a1 (23m, token ?); trades_count 92"
 }
