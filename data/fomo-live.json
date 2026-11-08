@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T11:37:33-05:00",
-  "observed_at": "2026-11-08T11:37:33-05:00",
+  "updated_at": "2026-11-08T11:46:04-05:00",
+  "observed_at": "2026-11-08T11:46:04-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,22 +12,22 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": null,
-    "perps": null,
+    "tokens": 0.0,
+    "perps": 0.0,
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 0.87,
-  "portfolio_value": 1.36,
-  "balance": 1.36,
+  "change_24h": 0.7,
+  "portfolio_value": 1.12,
+  "balance": 1.12,
   "positions": [
     {
       "symbol": "GTA6",
       "name": "GTA6",
       "address": null,
       "amount": 166.0,
-      "value": 1.27,
-      "pct": 343.75,
+      "value": 1.03,
+      "pct": 260.71,
       "note": "token icon shown as ?; likely arrived via Received +$0.29 row"
     },
     {
@@ -36,7 +36,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.71,
+      "pct": -6.73,
       "note": "open list"
     },
     {
@@ -45,7 +45,7 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.76,
+      "pct": -0.77,
       "note": "open list dust"
     }
   ],
@@ -59,7 +59,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "30m ago at 11:37 read (about 11:07 AM ET), from 0x7a16...9818a1, token shown as ?",
+      "note": "39m ago at 11:46 read (about 11:07 AM ET), from 0x7a16...9818a1, token shown as ?",
       "price": null
     },
     {
@@ -208,5 +208,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 11:37 AM ET (box clock): portfolio $1.36, 24h +$0.87; Total cash $0 (breakdown not shown); Open (3): GTA6 166.00 ($1.27, +343.75%), SOL 0.000926 ($0.08, -6.71%), AAPLX 0.00000829 ($0.00, -0.76%); newest feed row Received +$0.29 from 0x7a16...9818a1 (30m, token ?); trades_count 92"
+  "notes": "read about 11:46 AM ET (box clock): portfolio $1.12, 24h +$0.70; Total cash $0 (tokens $0 / perps $0); Open (3): GTA6 166.00 ($1.03, +260.71%), SOL 0.000926 ($0.08, -6.73%), AAPLX 0.00000829 ($0.00, -0.77%); newest feed row Received +$0.29 from 0x7a16...9818a1 (39m, token ?); trades_count 92"
 }
