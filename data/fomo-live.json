@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T15:28:00-05:00",
-  "observed_at": "2026-11-08T15:28:00-05:00",
+  "updated_at": "2026-11-08T15:36:00-05:00",
+  "observed_at": "2026-11-08T15:36:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,8 +12,8 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": 0.0,
-    "perps": 0.0,
+    "tokens": null,
+    "perps": null,
     "total": 0.0
   },
   "starting_balance": null,
@@ -27,7 +27,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.73,
+      "pct": -6.71,
       "note": "open list"
     },
     {
@@ -36,7 +36,7 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.66,
+      "pct": -0.68,
       "note": "open list dust"
     }
   ],
@@ -63,7 +63,7 @@
       "pnl_pct": null,
       "by": "feed",
       "note": "6d ago",
-      "price": 2.65e-06
+      "price": null
     },
     {
       "ts": null,
@@ -75,7 +75,7 @@
       "pnl_pct": null,
       "by": "feed",
       "note": "6d ago",
-      "price": 5.96e-06
+      "price": null
     },
     {
       "ts": null,
@@ -87,7 +87,7 @@
       "pnl_pct": null,
       "by": "feed",
       "note": "6d ago",
-      "price": 87.94
+      "price": null
     },
     {
       "ts": null,
@@ -99,7 +99,7 @@
       "pnl_pct": null,
       "by": "feed",
       "note": "6d ago",
-      "price": 87.94
+      "price": null
     },
     {
       "ts": null,
@@ -111,7 +111,7 @@
       "pnl_pct": null,
       "by": "feed",
       "note": "6d ago",
-      "price": 0.0031
+      "price": null
     },
     {
       "ts": null,
@@ -147,7 +147,7 @@
       "pnl_pct": null,
       "by": "feed",
       "note": "1w ago",
-      "price": 0.000644
+      "price": null
     },
     {
       "ts": null,
@@ -159,7 +159,7 @@
       "pnl_pct": null,
       "by": "feed",
       "note": "1w ago",
-      "price": 0.000633
+      "price": null
     },
     {
       "ts": null,
@@ -171,7 +171,7 @@
       "pnl_pct": null,
       "by": "feed",
       "note": "1w ago",
-      "price": 3.06e-05
+      "price": null
     },
     {
       "ts": null,
@@ -183,7 +183,7 @@
       "pnl_pct": null,
       "by": "feed",
       "note": "1w ago",
-      "price": 0.000536
+      "price": null
     },
     {
       "ts": null,
@@ -196,8 +196,128 @@
       "by": "feed",
       "note": "1w ago",
       "price": null
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "HALLOWEEN",
+      "usd": 106.95,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "SOL",
+      "usd": 108.0,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "sent",
+      "token": null,
+      "usd": 106.99,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago, to bVeSJT...cg46Vr",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "HUSS",
+      "usd": 108.15,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "SOL",
+      "usd": 98.18,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "HUSS",
+      "usd": 99.18,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "HUSS",
+      "usd": 4.1,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "SOL",
+      "usd": 4.3,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "HUSS",
+      "usd": 96.74,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "A-RSI",
+      "usd": 4.86,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
     }
   ],
   "risk": "Stable",
-  "notes": "read about 3:28 PM ET (box clock): portfolio $0.09, 24h -$0.75; Total cash $0 (tokens $0 / perps $0); Open (2): SOL 0.000926 ($0.08, -6.73%), AAPLX 0.00000829 ($0.00, -0.66%); feed unchanged, newest row Sent -$1.09, 6d; trades_count 92; risk Stable"
+  "notes": "read about 3:36 PM ET (box clock): portfolio $0.09, 24h -$0.75; Total cash $0 (breakdown not shown); Open (2): SOL 0.000926 ($0.08, -6.71%), AAPLX 0.00000829 ($0.00, -0.68%); feed unchanged, newest row Sent -$1.09, 6d; trades_count 92; risk Stable"
 }
