@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T18:12:38-05:00",
-  "observed_at": "2026-11-08T18:12:38-05:00",
+  "updated_at": "2026-11-08T18:26:29-05:00",
+  "observed_at": "2026-11-08T18:26:29-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -27,7 +27,7 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -9.21,
+      "pct": -8.28,
       "note": "open list dust"
     },
     {
@@ -36,7 +36,7 @@
       "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": -0.77,
+      "pct": -0.42,
       "note": "open list dust"
     }
   ],
@@ -319,9 +319,21 @@
     },
     {
       "ts": null,
+      "side": "buy",
+      "token": "A-RSI",
+      "usd": 99.05,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
       "side": "sell",
-      "token": "HI",
-      "usd": 222.13,
+      "token": "David",
+      "usd": 163.2,
       "mcap": null,
       "pnl_usd": null,
       "pnl_pct": null,
@@ -332,8 +344,20 @@
     {
       "ts": null,
       "side": "buy",
-      "token": "Pikmin",
-      "usd": 4.42,
+      "token": "David",
+      "usd": 201.56,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "note": "1w ago",
+      "price": null
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "DOUGHBRIKS",
+      "usd": 203.46,
       "mcap": null,
       "pnl_usd": null,
       "pnl_pct": null,
@@ -343,5 +367,5 @@
     }
   ],
   "risk": "Stable",
-  "notes": "read about 6:12 PM ET (box clock): portfolio $0.08, 24h -$0; Total cash $0 (cash breakdown not shown); Open (2): SOL 0.000926 ($0.08, -9.21%), AAPLX 0.00000829 ($0.00, -0.77%); feed newest row Sent -$1.09, 6d; trades_count 92; risk Stable"
+  "notes": "read about 6:26 PM ET (box clock): portfolio $0.08, 24h -$0; Total cash $0 (cash breakdown not shown); Open (2): SOL 0.000926 ($0.08, -8.28%), AAPLX 0.00000829 ($0.00, -0.42%); feed newest row Sent -$1.09, 6d; trades_count 92; risk Stable"
 }
