@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-07T22:42:00-05:00",
-  "observed_at": "2026-11-07T22:42:00-05:00",
+  "updated_at": "2026-11-07T22:57:00-05:00",
+  "observed_at": "2026-11-07T22:57:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,8 +12,8 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": null,
-    "perps": null,
+    "tokens": 0.0,
+    "perps": 0.0,
     "total": 0.0
   },
   "starting_balance": null,
@@ -27,7 +27,7 @@
       "address": null,
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -6.92,
+      "pct": -6.93,
       "note": "shown under Show dust"
     },
     {
@@ -199,5 +199,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 10:42 PM ET (box clock), dust shown: portfolio $0.09, 24h -$0 (written 0.0); Total cash $0 (tokens/perps breakdown not shown, null); Open (2 positions): SOL 0.000926 ($0.08, -6.92%), AAPLX 0.00000829 ($0.00, -0.77%); VRAX not listed; newest feed row Sent -$1.09 to bVeSJT...cg46Vr (5d); trades_count 92"
+  "notes": "read about 10:57 PM ET (box clock), dust shown: portfolio $0.09, 24h -$0 (written 0.0); Total cash $0 (tokens $0 / perps $0); Open (2 positions): SOL 0.000926 ($0.08, -6.93%), AAPLX 0.00000829 ($0.00, -0.77%); VRAX not listed; newest feed row Sent -$1.09 to bVeSJT...cg46Vr (5d); trades_count 92"
 }
