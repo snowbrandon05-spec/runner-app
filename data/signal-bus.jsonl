@@ -1,4 +1,3 @@
-{"ts": "2026-11-05T21:32:01-05:00", "from": "fomo-live", "type": "profile_observed", "token": null, "detail": "gorkbot portfolio $0.09 cash $0 positions 0 trades_feed 25"}
 {"ts":"2026-11-05T21:32:53-05:00","from":"crawler","type":"runner_found","token":"sssdfg:BQjiYCutv9LVtbgj7pKCN2Ce6k2eUM5RSKs6kDAzpump","detail":"score 71.2 mcap $140,563 liq $31,904 h1 4.38% m5 19.03% br 0.563"}
 {"ts":"2026-11-05T21:32:53-05:00","from":"crawler","type":"rug_risk","token":"PIRATE:2StNe98imN7M6K341a7a4xvc8eNTvLCde5EugAKfLoat","detail":"sells_gt_buys_m5"}
 {"ts":"2026-11-05T21:33:38-05:00","from":"crawler","type":"rug_risk","token":"AI:AjZ8JFAvMAdrRFG4yfuozGBnpEM4DKPg1JV5nuNqpump","detail":"sells_gt_buys_m5"}
@@ -298,3 +297,4 @@
 {"ts":"2026-11-08T19:47:36-05:00","source":"fomo","type":"live_refresh","account":"gorkbot","portfolio_value":0.08,"change_24h":0.0,"cash_total":0.0,"positions":2,"newest":{"side":"sent","usd":1.09,"note":"6d ago"}}
 {"ts":"2026-11-08T20:12:12-05:00","source":"fomo","type":"live_refresh","account":"gorkbot","portfolio_value":0.08,"change_24h":0.0,"cash_total":0.0,"positions":2,"newest":{"side":"sent","usd":1.09,"note":"6d ago"}}
 {"ts":"2026-11-08T20:25:39-05:00","source":"fomo","type":"live_refresh","account":"gorkbot","portfolio_value":0.08,"change_24h":0.0,"cash_total":0.0,"positions":2,"newest":{"side":"sent","usd":1.09,"note":"6d ago"}}
+{"ts":"2026-11-08T20:35:21-05:00","source":"fomo","type":"live_refresh","account":"gorkbot","portfolio_value":0.08,"change_24h":0.0,"cash_total":0.0,"positions":2,"newest":{"side":"sent","usd":1.09,"note":"6d ago"}}
