@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T12:51:52-05:00",
-  "observed_at": "2026-11-09T12:51:52-05:00",
+  "updated_at": "2026-11-09T12:58:52-05:00",
+  "observed_at": "2026-11-09T12:58:52-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -18,17 +18,17 @@
   },
   "starting_balance": null,
   "change_24h": 0.66,
-  "portfolio_value": 1.38,
-  "balance": 1.38,
+  "portfolio_value": 1.1,
+  "balance": 1.1,
   "positions": [
     {
       "symbol": "PUSSY",
       "name": "PUSSY",
       "address": null,
       "amount": 520.0,
-      "value": 1.3,
-      "pct": 791.96,
-      "note": "Shown as \u25b2 791.96%"
+      "value": 1.05,
+      "pct": 625.4,
+      "note": "Shown as \u25b2 625.40%"
     },
     {
       "symbol": "SOL",
@@ -59,7 +59,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "33m ago, from 0xad1e...32ae7b",
+      "note": "40m ago, from 0xad1e...32ae7b",
       "price": null
     },
     {
@@ -2740,5 +2740,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 12:51 PM ET (box clock): portfolio $1.38, 24h +$0.66; Total cash $0 (tokens/perps not shown); Open (3): PUSSY 520.0 ($1.30, +791.96%); SOL 0.000926 ($0.08, -9.64%); AAPLX 8.29e-06 ($0.0, +1.37%); feed newest row Received $0.15, 33m ago, from 0xad1e...32ae7b; previous newest Received $0.21 from 0x7a16...9818a1 kept as 2nd though not visible in this viewport (2nd visible was Sent $1.09); trades_count 92; risk None; PUSSY still in open list at 520 (was $0.97 / +566.72% at 12:35 PM ET); Show dust present on Open tab (state unread; helper did not toggle it); first scrape this run hit 'Minor issues: Portfolio balances are not loading' with skeleton positions, retry after hard-refresh loaded cleanly with no warning banner; #1 Trade strip showed +$1.19 (\u25b2 817.26%); helper switched from default Recent tab to Open (view only); trades 224 kept after top-of-feed match"
+  "notes": "read about 12:58 PM ET (box clock): portfolio $1.10 (was $1.38) from PUSSY mark-down 520 ($1.05, +625.40%; was $1.30, +791.96%); SOL 0.000926 ($0.08, -9.64%), AAPLX 0.00000829 ($0.0, +1.37%); cash breakdown not shown (total $0 visible; tokens/perps null), risk not shown; 24h +$0.66; feed top unchanged (newest Received +$0.15 40m from 0xad1e...32ae7b; $0.21 row from 0x7a16...9818a1 not visible as 2nd this viewport but kept; 224 rows); trades 92; Show dust visible on Open tab and checked/pressed (left untouched); #1 Trade strip showed +$0.88 (\u25b2 607.81%); helper switched from default Recent tab to Open (view only) then back; warning 'Minor issues: Portfolio balances are not loading' present before and after one hard-refresh (values still loaded, not skeletons); portfolio $1.10 vs open-position sum $1.13"
 }

@@ -1,4 +1,3 @@
-{"ts":"2026-11-05T22:08:54-05:00","from":"crawler","type":"rug_risk","token":"COGE:DWdBJoNezK9itTwmPDYrScYpBxvWySxeWWV8N9RcmdrT","detail":"falling_m5"}
 {"ts": "2026-11-05T22:09:22-05:00", "from": "fomo-live", "type": "profile_observed", "token": null, "detail": "gorkbot portfolio $0.09 cash $0 positions 0 trades_feed 25"}
 {"ts":"2026-11-05T22:12:38-05:00","from":"crawler","type":"rug_risk","token":"Bubbles:DNerJKigs1xZ5rCBDtU9a2ACxvskScMnSihWY9yYpump","detail":"sells_gt_buys_m5"}
 {"ts":"2026-11-05T22:12:38-05:00","from":"crawler","type":"rug_risk","token":"Bubbles:DNerJKigs1xZ5rCBDtU9a2ACxvskScMnSihWY9yYpump","detail":"sells_gt_buys_m5"}
@@ -298,3 +297,4 @@
 {"ts": "2026-11-09T12:23:05-05:00", "source": "fomo", "type": "live_refresh", "account": "gorkbot", "portfolio_value": 0.08, "change_24h": 0.0, "cash_total": 0.0, "positions": 2, "newest": {"side": "received", "usd": 0.15, "note": "2m ago"}}
 {"ts": "2026-11-09T12:35:12-05:00", "source": "fomo", "type": "live_refresh", "account": "gorkbot", "portfolio_value": 1.05, "change_24h": 0.0, "cash_total": 0.0, "positions": 3, "newest": {"side": "received", "usd": 0.15, "note": "15m ago"}}
 {"ts": "2026-11-09T12:51:52-05:00", "source": "fomo", "type": "live_refresh", "account": "gorkbot", "portfolio_value": 1.38, "change_24h": 0.66, "cash_total": 0.0, "positions": 3, "newest": {"side": "received", "usd": 0.15, "note": "33m ago"}}
+{"ts": "2026-11-09T12:58:52-05:00", "source": "fomo", "type": "live_refresh", "account": "gorkbot", "portfolio_value": 1.1, "change_24h": 0.66, "cash_total": 0.0, "positions": 3, "newest": {"side": "received", "usd": 0.15, "note": "40m ago"}}
