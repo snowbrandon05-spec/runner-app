@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T17:31:00-05:00",
-  "observed_at": "2026-11-09T17:31:00-05:00",
+  "updated_at": "2026-11-09T17:39:00-05:00",
+  "observed_at": "2026-11-09T17:39:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -27,8 +27,8 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -9.62,
-      "note": "Shown as \u25bc 9.62% on later Open crops with cash popover closed (/tmp/fomo-zoom2-open-1729.png, /tmp/fomo-zoom2-open_pcts-1729.png); was -9.93% at 17:09:00; same-run first desktop/cash screenshot at 5:30 PM showed \u25bc 9.68%"
+      "pct": -9.36,
+      "note": "Shown as \u25bc 9.36% on Open crops with cash popover overlapping the header (/tmp/fomo-zoom2-open-1738.png, /tmp/fomo-zoom2-open_pcts-1738.png); was -9.62% at 17:31:00"
     },
     {
       "symbol": "AAPLX",
@@ -37,7 +37,7 @@
       "amount": 8.29e-06,
       "value": 0.0,
       "pct": 1.78,
-      "note": "Shown as \u25b2 1.78%; unchanged from 17:09:00"
+      "note": "Shown as \u25b2 1.78%; unchanged from 17:31:00"
     }
   ],
   "trades": [
@@ -2707,5 +2707,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 5:31 PM ET (desktop clock Mon Nov 9 5:30 PM on /tmp/fomo-gorkbot-desktop-1729.png; Open crops taken shortly after, helper reported 5:30-5:31 PM; verified on crops /tmp/fomo-zoom2-open-1729.png, /tmp/fomo-zoom2-cash-1729.png, /tmp/fomo-zoom2-wallet-1729.png, /tmp/fomo-zoom2-portfolio-1729.png, /tmp/fomo-zoom2-feed-1729.png, /tmp/fomo-zoom2-open_pcts-1729.png, /tmp/fomo-zoom2-meta-1729.png): portfolio $0.08 (unchanged from 17:09); 24h +$0 (header and top-right wallet both show +$0 24h; numeric change_24h still 0.0); cash $0 (Total cash $0 with Withdraw / Deposit; cash screenshot /tmp/fomo-zoom2-cash-1729.png is a crop of the first desktop capture at 5:30 PM while hovering Total cash and shows the expanded popover with Tokens cash balance $0 and Perps cash balance $0 plus Transfer, which was not clicked; two later Total cash clicks at ~5:31 did not re-expand, so tokens and perps recorded from that first verified screenshot as 0.0); top-right wallet showed $0.00 cash and $0.08 portfolio, +$0 24h; risk not shown; Open (Your positions 2, Show dust checked, Open tab selected with blue dot; cash popover closed for this capture): SOL 0.000926 ($0.08, -9.62%; was -9.93% at 17:09; earlier same-run cash/desktop screenshot at 5:30 PM showed -9.68%); AAPLX 0.00000829 ($0.00, +1.78%; unchanged from 17:09); PUSSY still absent from Open; feed top unchanged (newest Sent $1.09 1w to bVeSJT...cg46Vr; 2nd COCORO Sell $1.19 1w; 3rd COCORO Buy $2.72 1w; then HYPE Sell $2.92, HYPE Buy $2.79, Anakin Sell $2.99, Received +$3.06 from 2bnNGc...g5pjVD, Sent $81.80 to bVeSJT...cg46Vr; then FOCO Sell $82.75, FOCO Buy $27.88; Received +$0.15 from 0xad1e...32ae7b and +$0.21 from 0x7a16...9818a1 still not visible); trades 92; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; open-position sum $0.08 vs portfolio $0.08 (SOL $0.08 + AAPLX $0.00); values loaded, not skeletons; confirmed on screenshot (header $0.08, +$0 24h, Total cash $0, 92 trades; Open SOL 0.000926 / $0.08 / -9.62%, AAPLX 0.00000829 / $0.00 / +1.78%, PUSSY absent). Default activity view was Feed (Buy/Sell cards); Transactions tab was selected only to read transfer rows. Show dust was already checked."
+  "notes": "read about 5:39 PM ET (desktop clock Mon Nov 9 5:39 PM on /tmp/fomo-gorkbot-desktop-1738.png; verified on crops /tmp/fomo-zoom2-open-1738.png, /tmp/fomo-zoom2-cash-1738.png, /tmp/fomo-zoom2-wallet-1738.png, /tmp/fomo-zoom2-portfolio-1738.png, /tmp/fomo-zoom2-feed-1738.png, /tmp/fomo-zoom2-open_pcts-1738.png, /tmp/fomo-zoom2-meta-1738.png): portfolio $0.08 (unchanged from 17:31); 24h +$0 (header and top-right wallet both show +$0 24h; numeric change_24h still 0.0); cash $0 (Total cash $0 with Withdraw / Deposit; cash screenshot /tmp/fomo-zoom2-cash-1738.png shows the expanded popover with Tokens cash balance $0 and Perps cash balance $0 plus Transfer, which was not clicked); top-right wallet showed $0.00 cash and $0.08 portfolio, +$0 24h; risk not shown; Open (Your positions label partly hidden by cash popover as \"Your pos\" / \"ow dust\"; two rows listed with Show dust inferred checked because dust AAPLX $0.00 is listed; Open tab selected with blue dot): SOL 0.000926 ($0.08, -9.36%; was -9.62% at 17:31); AAPLX 0.00000829 ($0.00, +1.78%; unchanged from 17:31); PUSSY still absent from Open; visible Feed crop starts mid-history at FOCO Sell $83 1w at $635.2K MC (matches previously recorded FOCO Sell $82.75 further down the 17:31 list; then FOCO Buy $28, HALLOWEEN Sell $29, FOCO Buy $47, HALLOWEEN Sell $48, HALLOWEEN Buy $108, HUSS Sell $108); top of feed including prior newest Sent $1.09 1w to bVeSJT...cg46Vr and COCORO Sell $1.19 / Buy $2.72 not in this crop (possible scroll or Min size filter; Filter and Min size controls are visible); trades list retained from last full verification because SOL/AAPLX amounts and cash are unchanged so no new fills are evidenced; Received +$0.15 from 0xad1e...32ae7b and +$0.21 from 0x7a16...9818a1 still not visible; trades 92; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; open-position sum $0.08 vs portfolio $0.08 (SOL $0.08 + AAPLX $0.00); values loaded, not skeletons; confirmed on screenshot (header $0.08, +$0 24h, Total cash $0, 92 trades; Open SOL 0.000926 / $0.08 / -9.36%, AAPLX 0.00000829 / $0.00 / +1.78%, PUSSY absent). Default activity view was Feed (Buy/Sell cards). Show dust label was partly hidden by the cash popover."
 }
