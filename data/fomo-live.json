@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T13:14:37-05:00",
-  "observed_at": "2026-11-09T13:14:37-05:00",
+  "updated_at": "2026-11-09T13:31:04-05:00",
+  "observed_at": "2026-11-09T13:31:04-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -18,17 +18,17 @@
   },
   "starting_balance": null,
   "change_24h": 1.22,
-  "portfolio_value": 1.44,
-  "balance": 1.44,
+  "portfolio_value": 0.97,
+  "balance": 0.97,
   "positions": [
     {
       "symbol": "PUSSY",
       "name": "PUSSY",
       "address": null,
       "amount": 520.0,
-      "value": 1.35,
-      "pct": 830.8,
-      "note": "Shown as \u25b2 830.80%"
+      "value": 0.89,
+      "pct": 513.68,
+      "note": "Shown as \u25b2 513.68%"
     },
     {
       "symbol": "SOL",
@@ -36,8 +36,8 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -9.61,
-      "note": "Shown as \u25bc 9.61%"
+      "pct": -10.02,
+      "note": "Shown as \u25bc 10.02%"
     },
     {
       "symbol": "AAPLX",
@@ -59,7 +59,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "58m ago, from 0xad1e...32ae7b",
+      "note": "1h ago, from 0xad1e...32ae7b",
       "price": null
     },
     {
@@ -2740,5 +2740,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 1:14 PM ET (box clock): portfolio $1.44 (was $1.60) from PUSSY mark-down 520 ($1.35, +830.80%; was $1.52, +942.85%); SOL 0.000926 ($0.08, -9.61%; was -9.46%), AAPLX 0.00000829 ($0.0, +1.36%; unchanged); cash breakdown not shown (total $0 visible; tokens/perps null), risk not shown; 24h +$1.22 (was +$0.66); feed top unchanged (newest Received +$0.15 58m from 0xad1e...32ae7b; $0.21 row from 0x7a16...9818a1 not visible as 2nd this viewport but kept; 224 rows); trades 92; Show dust visible on Open tab and checked/pressed (left untouched); #1 Trade strip showed +$1.16 (\u25b2 800.13%) on Recent and +$1.15 (\u25b2 791.04%) on Open, both with $1.44; helper switched from default Recent tab to Open (view only); no Minor issues banner; values loaded, not skeletons; no refresh; open-position sum $1.43 vs portfolio $1.44 (rounding)"
+  "notes": "read about 1:29 PM ET (box clock): portfolio $0.97 (was $1.44) from PUSSY mark-down 520 ($0.89, +513.68%; was $1.35, +830.80%); SOL 0.000926 ($0.08, -10.02%; was -9.61%), AAPLX 0.00000829 ($0.0, +1.36%; unchanged); cash breakdown not shown (total $0 visible; tokens/perps null), risk not shown; 24h +$1.22 (unchanged); feed top unchanged (newest Received +$0.15 1h from 0xad1e...32ae7b; $0.21 row from 0x7a16...9818a1 not visible as 2nd this viewport but kept; 224 rows); trades 92; Show dust visible on Open tab and checked/pressed (left untouched); #1 Trade strip showed +$0.77 (\u25b2 526.42%) with $0.97; helper switched from default Recent tab to Open (view only); helper reported 'Minor issues: Portfolio balances are not loading' although values were displayed (banner not visible in saved header screenshot); values loaded, not skeletons; no refresh; open-position sum $0.97 vs portfolio $0.97; PUSSY mark moved during capture (helper read +515.81%, later feed crop showed ~$1.11) \u2014 published the complete Open-list screenshot: 520 / $0.89 / +513.68%"
 }
