@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T11:51:24-05:00",
-  "observed_at": "2026-11-09T11:51:24-05:00",
+  "updated_at": "2026-11-09T11:58:36-05:00",
+  "observed_at": "2026-11-09T11:58:36-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -18,26 +18,17 @@
   },
   "starting_balance": null,
   "change_24h": 0.7,
-  "portfolio_value": 1.32,
-  "balance": 1.32,
+  "portfolio_value": 0.08,
+  "balance": 0.08,
   "positions": [
-    {
-      "symbol": "PUSSY",
-      "name": "PUSSY",
-      "address": null,
-      "amount": 500.0,
-      "value": 1.23,
-      "pct": 499.43,
-      "note": "Shown as \u25b2 499.43%"
-    },
     {
       "symbol": "SOL",
       "name": "SOL",
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -9.31,
-      "note": "Shown as \u25bc 9.31%"
+      "pct": -9.23,
+      "note": "Shown as \u25bc 9.23%"
     },
     {
       "symbol": "AAPLX",
@@ -46,7 +37,7 @@
       "amount": 8.29e-06,
       "value": 0.0,
       "pct": 1.53,
-      "note": "Shown as \u25b2 1.53%"
+      "note": "Shown as \u25b2 1.53%; value shown $0.00"
     }
   ],
   "trades": [
@@ -2727,6 +2718,6 @@
       "price": null
     }
   ],
-  "risk": null,
-  "notes": "read about 11:51 AM ET (box clock): portfolio $1.32, 24h +$0.70; Total cash $0 (tokens/perps not shown); Open (3): PUSSY 500.0 ($1.23, +499.43%); SOL 0.000926 ($0.08, -9.31%); AAPLX 8.29e-06 ($0.0, +1.53%); feed newest row Received $0.21, 2m ago, from 0x7a16...9818a1; trades_count 92; risk None"
+  "risk": "Stable",
+  "notes": "read about 11:58 AM ET (box clock): portfolio $0.08, 24h +$0.70; Total cash $0 (tokens/perps not shown); Open (2): SOL 0.000926 ($0.08, -9.23%); AAPLX 8.29e-06 ($0.0, +1.53%); feed newest row Received $0.21, 2m ago, from 0x7a16...9818a1; trades_count 92; risk Stable"
 }
