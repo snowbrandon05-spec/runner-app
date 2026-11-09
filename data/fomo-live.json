@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T12:23:05-05:00",
-  "observed_at": "2026-11-09T12:23:05-05:00",
+  "updated_at": "2026-11-09T12:35:12-05:00",
+  "observed_at": "2026-11-09T12:35:12-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -18,17 +18,26 @@
   },
   "starting_balance": null,
   "change_24h": 0.0,
-  "portfolio_value": 0.08,
-  "balance": 0.08,
+  "portfolio_value": 1.05,
+  "balance": 1.05,
   "positions": [
+    {
+      "symbol": "PUSSY",
+      "name": "PUSSY",
+      "address": null,
+      "amount": 520.0,
+      "value": 0.97,
+      "pct": 566.72,
+      "note": "Shown as \u25b2 566.72%; back in open list"
+    },
     {
       "symbol": "SOL",
       "name": "SOL",
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -9.64,
-      "note": "Shown as \u25bc 9.64%"
+      "pct": -9.84,
+      "note": "Shown as \u25bc 9.84%"
     },
     {
       "symbol": "AAPLX",
@@ -37,7 +46,7 @@
       "amount": 8.29e-06,
       "value": 0.0,
       "pct": 1.52,
-      "note": "Shown as \u25b2 1.52%; value shown $0.00"
+      "note": "Shown as \u25b2 1.52%"
     }
   ],
   "trades": [
@@ -50,7 +59,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "2m ago, from 0xad1e...32ae7b",
+      "note": "15m ago, from 0xad1e...32ae7b",
       "price": null
     },
     {
@@ -2731,5 +2740,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 12:22 PM ET (box clock): portfolio $0.08, 24h -$0; Total cash $0 (tokens/perps not shown); Open (2): SOL 0.000926 ($0.08, -9.64%); AAPLX 8.29e-06 ($0.0, +1.52%); feed newest row Received $0.15, 2m ago, from 0xad1e...32ae7b; previous newest Received $0.21 from 0x7a16...9818a1 now 2nd (1h); trades_count 92; risk not shown; page showed 'Minor issues: Portfolio balances are not loading' with balance-request 504s, but visible profile/positions/feed rendered"
+  "notes": "read about 12:35 PM ET (box clock): portfolio $1.05, 24h -$0; Total cash $0 (tokens/perps not shown); Open (3): PUSSY 520.0 ($0.97, +566.72%); SOL 0.000926 ($0.08, -9.84%); AAPLX 8.29e-06 ($0.0, +1.52%); feed newest row Received $0.15, 15m ago, from 0xad1e...32ae7b; previous newest Received $0.21 from 0x7a16...9818a1 kept as 2nd though not visible in this viewport (2nd visible was Sent $1.09); trades_count 92; risk None; PUSSY back in open list at 520 (was absent after 11:58 AM ET drop, previously 500); Show dust was checked (helper said they did not toggle it); no page warning banner; values ticked portfolio $1.05->$1.08 and PUSSY $0.97->$0.99 during scrape (snapshot uses consistent $1.05/$0.97); trades 224 kept after top-of-feed match"
 }
