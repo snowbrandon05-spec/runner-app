@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T15:18:35-05:00",
-  "observed_at": "2026-11-09T15:18:35-05:00",
+  "updated_at": "2026-11-09T15:24:00-05:00",
+  "observed_at": "2026-11-09T15:24:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,8 +12,8 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": 0.0,
-    "perps": 0.0,
+    "tokens": null,
+    "perps": null,
     "total": 0.0
   },
   "starting_balance": null,
@@ -27,8 +27,8 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -9.29,
-      "note": "Shown as \u25bc 9.29%; was -9.75% at 15:09:22"
+      "pct": -9.36,
+      "note": "Shown as \u25bc 9.36%; was -9.29% at 15:18:35; page text read 9.38% a moment earlier (ticking)"
     },
     {
       "symbol": "AAPLX",
@@ -37,7 +37,7 @@
       "amount": 8.29e-06,
       "value": 0.0,
       "pct": 1.8,
-      "note": "Shown as \u25b2 1.80%; was +1.80% at 15:09:22"
+      "note": "Shown as \u25b2 1.80%; was +1.80% at 15:18:35"
     }
   ],
   "trades": [
@@ -2707,5 +2707,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 3:18\u20133:20 PM ET (helper desktop clock 2026-11-09 15:20 EST; screenshot mtimes 2026-11-09 15:18 EST header/cash/open/feed): portfolio $0.08 (unchanged from 15:09); 24h -$0 (unchanged; header shows -$0 24h); cash $0 (Total cash click expanded: tokens $0, perps $0), risk not shown; Open (2, Show dust checked): SOL 0.000926 ($0.08, -9.29%; was -9.75%), AAPLX 0.00000829 ($0.00, +1.80%; unchanged); PUSSY still absent from Open; feed top unchanged (newest Sent $1.09 1w to bVeSJT...cg46Vr; 2nd COCORO Sell $1.19 1w; 3rd COCORO Buy $2.72 1w; Received +$0.15 from 0xad1e...32ae7b and +$0.21 from 0x7a16...9818a1 still not visible); trades 92; Show dust checked on Open tab; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; open-position sum $0.08 vs portfolio $0.08 (SOL $0.08 + AAPLX $0.00); no #1 Trade strip visible this capture; values loaded, not skeletons; confirmed on /tmp/fomo-gorkbot-header.png ($0.08, -$0 24h, Total cash $0, 92 trades) and /tmp/fomo-gorkbot-open.png (SOL 0.000926 / $0.08 / -9.29%, AAPLX 0.00000829 / $0.00 / +1.80%, PUSSY absent, Show dust checked) plus cash popover (Total cash $0, Tokens $0 / Perps $0) and feed (Sent -$1.09 at top)."
+  "notes": "read about 3:24 PM ET (helper desktop clock 2026-11-09 15:24 EST; screenshot /tmp/fomo-gorkbot-header.png and matching webp): portfolio $0.08 (unchanged from 15:18); 24h -$0 (unchanged; header shows -$0 24h); cash $0 (Total cash visible as $0; clicking Total cash did not expand, so tokens/perps left null, not invented); risk not shown; Open (2, Show dust checked): SOL 0.000926 ($0.08, -9.36%; was -9.29%; page text ticked 9.38% shortly before the screenshot); AAPLX 0.00000829 ($0.00, +1.80%; unchanged); PUSSY still absent from Open; feed top unchanged (newest Sent $1.09 1w to bVeSJT...cg46Vr; 2nd COCORO Sell $1.19 1w; 3rd COCORO Buy $2.72 1w; Received +$0.15 from 0xad1e...32ae7b and +$0.21 from 0x7a16...9818a1 still not visible); trades 92; Show dust checked on Open tab; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; open-position sum $0.08 vs portfolio $0.08 (SOL $0.08 + AAPLX $0.00); no #1 Trade strip visible this capture; values loaded, not skeletons; top-right wallet also showed $0.00 cash and $0.08 / -$0 24h; confirmed on screenshot (header $0.08, -$0 24h, Total cash $0, 92 trades; Open SOL 0.000926 / $0.08 / -9.36%, AAPLX 0.00000829 / $0.00 / +1.80%, PUSSY absent, Show dust checked)."
 }
