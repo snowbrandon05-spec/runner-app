@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T14:30:53-05:00",
-  "observed_at": "2026-11-09T14:30:53-05:00",
+  "updated_at": "2026-11-09T14:43:35-05:00",
+  "observed_at": "2026-11-09T14:43:35-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -17,7 +17,7 @@
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 0.6,
+  "change_24h": 0.0,
   "portfolio_value": 0.08,
   "balance": 0.08,
   "positions": [
@@ -27,8 +27,8 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -9.94,
-      "note": "Shown as \u25bc 9.94%; ticked from \u22129.93% on 14:29 desktop and \u22129.97% during recapture"
+      "pct": -9.33,
+      "note": "Shown as \u25bc 9.33%; was -9.94% at 14:30:53"
     },
     {
       "symbol": "AAPLX",
@@ -36,17 +36,8 @@
       "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": 1.76,
-      "note": "Shown as \u25b2 1.76%"
-    },
-    {
-      "symbol": "PUSSY",
-      "name": "PUSSY",
-      "address": null,
-      "amount": 520.0,
-      "value": 0.0,
-      "pct": -100.0,
-      "note": "Shown as $0 / \u25bc 100.00% on Open tab at 14:30:53; still held 520.00. Was $1.51 on 14:12 header/feed (Open tab then 520.00 / $1.47 / \u25b2 911.62%). Listed third after the mark-down."
+      "pct": 1.82,
+      "note": "Shown as \u25b2 1.82%; was +1.76% at 14:30:53"
     }
   ],
   "trades": [
@@ -2740,5 +2731,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 2:30 PM ET (box clock 14:30:53 EST; helper screenshots mtime 2026-11-09 14:30:53 EST header/open/cash; desktop check 14:29): portfolio $0.08 (was $1.59) after PUSSY marked to $0 / \u25bc 100.00% (520.00 still held; was $1.51 on final header/feed at 14:12; Open tab then showed $1.47 / +911.62%); SOL 0.000926 ($0.08, -9.94%; was -9.67%; ticked -9.93% on 14:29 desktop and -9.97% during recapture), AAPLX 0.00000829 ($0.0, +1.76%; was +1.64%); cash $0 (tokens/perps breakdown not shown; clicking Total cash did not expand), risk not shown; 24h +$0.60 (unchanged from 14:12); feed top unchanged (newest Received +$0.15 2h from 0xad1e...32ae7b; $0.21 row from 0x7a16...9818a1 not visible as 2nd this viewport but kept; visible 2nd Sent $1.09 1w to bVeSJT...cg46Vr); trades 92; Show dust checked on Open tab (left untouched); #1 Trade strip showed +$0.81 (\u25b2 554.49%) on header and +$0.81 (\u25b2 554.36%) on open shot (14:29 desktop had +$0.82 / 563.88%) with portfolio $0.08; Open tab order SOL / AAPLX / PUSSY; open-position sum $0.08 vs portfolio $0.08 (SOL $0.08 + AAPLX $0.00 + PUSSY $0); values loaded, not skeletons; no refresh; confirmed on /tmp/fomo-gorkbot-header-1429.png ($0.08, +$0.60 24h, Total cash $0, #1 +$0.81/554.49%) and /tmp/fomo-gorkbot-open-1429.png (SOL 0.000926 / $0.08 / -9.94%, AAPLX 0.00000829 / $0.00 / +1.76%, PUSSY 520.00 / $0 / -100.00%) plus cash crop (Total cash $0, no tokens/perps split)."
+  "notes": "read about 2:43 PM ET (box clock 14:44:49 EST; helper screenshots mtime 2026-11-09 14:43:21 EST header/feed and 14:43:34\u201314:43:35 EST open/cash; desktop clock Mon Nov 9 2:43 PM): portfolio $0.08 (unchanged from 14:30); 24h -$0 (was +$0.60 at 14:30; header, open, and top bar all show -$0 24h); cash $0 (tokens/perps breakdown not shown; clicking Total cash did not expand), risk not shown; Open (2, Show dust checked): SOL 0.000926 ($0.08, -9.33%; was -9.94%), AAPLX 0.00000829 ($0.00, +1.82%; was +1.76%); PUSSY gone from Open (was 520.00 / $0 / \u25bc 100.00% at 14:30:53, then still held; no new feed row explaining the removal; trades_count still 92); feed top unchanged (newest Received +$0.15 2h from 0xad1e...32ae7b; $0.21 row from 0x7a16...9818a1 not visible as 2nd this viewport but kept; visible 2nd Sent $1.09 1w to bVeSJT...cg46Vr; 3rd COCORO Sell $1.19 1w); trades 92; Show dust checked on Open tab; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; open-position sum $0.08 vs portfolio $0.08 (SOL $0.08 + AAPLX $0.00); no #1 Trade strip visible this capture; values loaded, not skeletons; confirmed on /tmp/fomo-gorkbot-header.png ($0.08, -$0 24h, Total cash $0) and /tmp/fomo-gorkbot-open.png (SOL 0.000926 / $0.08 / -9.33%, AAPLX 0.00000829 / $0.00 / +1.82%, PUSSY absent) plus cash crop (Total cash $0, no tokens/perps split) and feed crop (Received +$0.15 / Sent -$1.09)."
 }
