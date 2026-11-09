@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T20:35:21-05:00",
-  "observed_at": "2026-11-08T20:35:21-05:00",
+  "updated_at": "2026-11-08T20:59:30-05:00",
+  "observed_at": "2026-11-08T20:59:30-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,12 +12,12 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": 0.0,
-    "perps": 0.0,
-    "total": 0.0
+    "tokens": 0,
+    "perps": 0,
+    "total": 0
   },
   "starting_balance": null,
-  "change_24h": 0.0,
+  "change_24h": 0,
   "portfolio_value": 0.08,
   "balance": 0.08,
   "positions": [
@@ -27,7 +27,7 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -9.29,
+      "pct": -8.32,
       "note": "open list dust"
     },
     {
@@ -35,8 +35,8 @@
       "name": "AAPLX",
       "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
       "amount": 8.29e-06,
-      "value": 0.0,
-      "pct": -0.34,
+      "value": 0,
+      "pct": -0.3,
       "note": "open list dust"
     }
   ],
@@ -2318,7 +2318,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago",
+      "note": "2w ago",
       "price": null
     },
     {
@@ -2330,7 +2330,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago",
+      "note": "2w ago",
       "price": null
     },
     {
@@ -2342,7 +2342,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago",
+      "note": "2w ago",
       "price": null
     },
     {
@@ -2354,7 +2354,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago",
+      "note": "2w ago",
       "price": null
     },
     {
@@ -2366,7 +2366,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago",
+      "note": "2w ago",
       "price": null
     },
     {
@@ -2378,7 +2378,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago",
+      "note": "2w ago",
       "price": null
     },
     {
@@ -2390,7 +2390,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago",
+      "note": "2w ago",
       "price": null
     },
     {
@@ -2402,7 +2402,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago",
+      "note": "2w ago",
       "price": null
     },
     {
@@ -2707,5 +2707,5 @@
     }
   ],
   "risk": "Stable",
-  "notes": "read about 8:35 PM ET (box clock): portfolio $0.08, 24h -$0; Total cash $0 (tokens $0 / perps $0); Open (2): SOL 0.000926 ($0.08, -9.29%); AAPLX 0.00000829 ($0.00, -0.34%); feed newest row Sent -$1.09, 6d ago, to bVeSJT...cg46Vr; trades_count 92; risk Stable"
+  "notes": "read about 8:59 PM ET (box clock): portfolio $0.08, 24h -$0; Total cash $0 (tokens $0 / perps $0); Open (2): SOL 0.000926 ($0.08, -8.32%); AAPLX 8.29e-06 ($0, -0.30%); feed newest row Sent -$1.09, 6d ago, to bVeSJT...cg46Vr; trades_count 92; risk Stable"
 }
