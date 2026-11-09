@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08T22:24:19-05:00",
-  "observed_at": "2026-11-08T22:24:19-05:00",
+  "updated_at": "2026-11-08T22:43:54-05:00",
+  "observed_at": "2026-11-08T22:43:54-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,8 +12,8 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": 0,
-    "perps": 0,
+    "tokens": null,
+    "perps": null,
     "total": 0
   },
   "starting_balance": null,
@@ -27,8 +27,8 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -8.76,
-      "note": "open list dust"
+      "pct": -8.5,
+      "note": null
     },
     {
       "symbol": "AAPLX",
@@ -36,8 +36,8 @@
       "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
       "amount": 8.29e-06,
       "value": 0,
-      "pct": -0.3,
-      "note": "open list dust"
+      "pct": -0.24,
+      "note": null
     }
   ],
   "trades": [
@@ -2707,5 +2707,5 @@
     }
   ],
   "risk": "Stable",
-  "notes": "read about 10:24 PM ET (box clock): portfolio $0.08, 24h +$0; Total cash $0 (tokens $0 / perps $0); Open (2): SOL 0.000926 ($0.08, -8.76%); AAPLX 8.29e-06 ($0, -0.3%); feed newest row Sent -$1.09, 6d ago, to bVeSJT...cg46Vr; trades_count 92; risk Stable"
+  "notes": "read about 10:43 PM ET (box clock): portfolio $0.08, 24h +$0; Total cash $0 (tokens/perps split not visible); Open (2): SOL 0.000926 ($0.08, -8.50%); AAPLX 8.29e-06 ($0, -0.24%); feed newest row Sent -$1.09, 6d ago, to bVeSJT...cg46Vr; trades_count 92; risk Stable"
 }
