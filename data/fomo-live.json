@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T17:39:00-05:00",
-  "observed_at": "2026-11-09T17:39:00-05:00",
+  "updated_at": "2026-11-09T17:50:00-05:00",
+  "observed_at": "2026-11-09T17:50:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,8 +12,8 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": 0.0,
-    "perps": 0.0,
+    "tokens": null,
+    "perps": null,
     "total": 0.0
   },
   "starting_balance": null,
@@ -27,8 +27,8 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -9.36,
-      "note": "Shown as \u25bc 9.36% on Open crops with cash popover overlapping the header (/tmp/fomo-zoom2-open-1738.png, /tmp/fomo-zoom2-open_pcts-1738.png); was -9.62% at 17:31:00"
+      "pct": -9.32,
+      "note": "Shown as \u25bc 9.32% on Open crops with Open selected and Show dust checked (/tmp/fomo-zoom2-open-1748.png, /tmp/fomo-zoom2-open_pcts-1748.png, /tmp/fomo-gorkbot-desktop-open-1748.png); was -9.36% at 17:39:00"
     },
     {
       "symbol": "AAPLX",
@@ -36,8 +36,8 @@
       "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": 1.78,
-      "note": "Shown as \u25b2 1.78%; unchanged from 17:31:00"
+      "pct": 1.77,
+      "note": "Shown as \u25b2 1.77%; was +1.78% at 17:39:00"
     }
   ],
   "trades": [
@@ -2707,5 +2707,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 5:39 PM ET (desktop clock Mon Nov 9 5:39 PM on /tmp/fomo-gorkbot-desktop-1738.png; verified on crops /tmp/fomo-zoom2-open-1738.png, /tmp/fomo-zoom2-cash-1738.png, /tmp/fomo-zoom2-wallet-1738.png, /tmp/fomo-zoom2-portfolio-1738.png, /tmp/fomo-zoom2-feed-1738.png, /tmp/fomo-zoom2-open_pcts-1738.png, /tmp/fomo-zoom2-meta-1738.png): portfolio $0.08 (unchanged from 17:31); 24h +$0 (header and top-right wallet both show +$0 24h; numeric change_24h still 0.0); cash $0 (Total cash $0 with Withdraw / Deposit; cash screenshot /tmp/fomo-zoom2-cash-1738.png shows the expanded popover with Tokens cash balance $0 and Perps cash balance $0 plus Transfer, which was not clicked); top-right wallet showed $0.00 cash and $0.08 portfolio, +$0 24h; risk not shown; Open (Your positions label partly hidden by cash popover as \"Your pos\" / \"ow dust\"; two rows listed with Show dust inferred checked because dust AAPLX $0.00 is listed; Open tab selected with blue dot): SOL 0.000926 ($0.08, -9.36%; was -9.62% at 17:31); AAPLX 0.00000829 ($0.00, +1.78%; unchanged from 17:31); PUSSY still absent from Open; visible Feed crop starts mid-history at FOCO Sell $83 1w at $635.2K MC (matches previously recorded FOCO Sell $82.75 further down the 17:31 list; then FOCO Buy $28, HALLOWEEN Sell $29, FOCO Buy $47, HALLOWEEN Sell $48, HALLOWEEN Buy $108, HUSS Sell $108); top of feed including prior newest Sent $1.09 1w to bVeSJT...cg46Vr and COCORO Sell $1.19 / Buy $2.72 not in this crop (possible scroll or Min size filter; Filter and Min size controls are visible); trades list retained from last full verification because SOL/AAPLX amounts and cash are unchanged so no new fills are evidenced; Received +$0.15 from 0xad1e...32ae7b and +$0.21 from 0x7a16...9818a1 still not visible; trades 92; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; open-position sum $0.08 vs portfolio $0.08 (SOL $0.08 + AAPLX $0.00); values loaded, not skeletons; confirmed on screenshot (header $0.08, +$0 24h, Total cash $0, 92 trades; Open SOL 0.000926 / $0.08 / -9.36%, AAPLX 0.00000829 / $0.00 / +1.78%, PUSSY absent). Default activity view was Feed (Buy/Sell cards). Show dust label was partly hidden by the cash popover."
+  "notes": "read about 5:50 PM ET (desktop clock Mon Nov 9 5:50 PM on /tmp/fomo-gorkbot-desktop-1748.png and /tmp/fomo-gorkbot-desktop-open-1748.png; verified on crops /tmp/fomo-zoom2-open-1748.png, /tmp/fomo-zoom2-cash-1748.png, /tmp/fomo-zoom2-wallet-1748.png, /tmp/fomo-zoom2-portfolio-1748.png, /tmp/fomo-zoom2-feed-1748.png, /tmp/fomo-zoom2-open_pcts-1748.png, /tmp/fomo-zoom2-meta-1748.png, /tmp/fomo-zoom2-header-1748.png): portfolio $0.08 (unchanged from 17:39); 24h +$0 (header and top-right wallet both show +$0 24h; numeric change_24h still 0.0); cash total $0 (Total cash $0 with Withdraw / Deposit on both desktop captures and /tmp/fomo-zoom2-cash-1748.png; Tokens/Perps split not visible on any saved screenshot \u2014 helper reported the popover already showed Tokens $0 / Perps $0 but the cash crop and both desktop shots show only the unexpanded Total cash $0 row, so tokens and perps written as null); top-right wallet showed $0.00 cash and $0.08 portfolio, +$0 24h; risk not shown; Open (Your positions 2, Show dust checked, Open tab selected with blue dot on /tmp/fomo-zoom2-open-1748.png and /tmp/fomo-gorkbot-desktop-open-1748.png): SOL 0.000926 ($0.08, -9.32%; was -9.36% at 17:39); AAPLX 0.00000829 ($0.00, +1.77%; was +1.78% at 17:39); PUSSY still absent from Open; first desktop capture /tmp/fomo-gorkbot-desktop-1748.png was on Closed (Your positions 92, Recent) showing COCORO -$1.53, HYPE +$0, Anakin -$0.07 before Open was selected; visible Feed crop starts mid-history at FOCO Sell $83 1w at $635.2K MC (matches previously recorded FOCO Sell $82.75 further down the 17:31 list; then FOCO Buy $28, HALLOWEEN Sell $29, FOCO Buy $47, HALLOWEEN Sell $48, HALLOWEEN Buy $108, HUSS Sell $108); top of feed including prior newest Sent $1.09 1w to bVeSJT...cg46Vr and COCORO Sell $1.19 / Buy $2.72 not in this crop (possible scroll or Min size filter; Filter and Min size controls are visible); trades list retained from last full verification because SOL/AAPLX amounts and cash total are unchanged so no new fills are evidenced; Received +$0.15 from 0xad1e...32ae7b and +$0.21 from 0x7a16...9818a1 still not visible; trades 92; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; open-position sum $0.08 vs portfolio $0.08 (SOL $0.08 + AAPLX $0.00); values loaded, not skeletons; confirmed on screenshot (header $0.08, +$0 24h, Total cash $0, 92 trades; Open SOL 0.000926 / $0.08 / -9.32%, AAPLX 0.00000829 / $0.00 / +1.77%, PUSSY absent). Default activity view was Feed (Buy/Sell cards)."
 }
