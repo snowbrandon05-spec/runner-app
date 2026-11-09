@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T16:26:00-05:00",
-  "observed_at": "2026-11-09T16:26:00-05:00",
+  "updated_at": "2026-11-09T16:39:00-05:00",
+  "observed_at": "2026-11-09T16:39:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,8 +12,8 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": null,
-    "perps": null,
+    "tokens": 0.0,
+    "perps": 0.0,
     "total": 0.0
   },
   "starting_balance": null,
@@ -27,8 +27,8 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -9.82,
-      "note": "Shown as \u25bc 9.82%; was -9.70% at 16:15:00"
+      "pct": -9.94,
+      "note": "Shown as \u25bc 9.94%; was -9.82% at 16:26:00"
     },
     {
       "symbol": "AAPLX",
@@ -36,8 +36,8 @@
       "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": 1.79,
-      "note": "Shown as \u25b2 1.79%; was +1.80% at 16:15:00"
+      "pct": 1.78,
+      "note": "Shown as \u25b2 1.78%; was +1.79% at 16:26:00"
     }
   ],
   "trades": [
@@ -2707,5 +2707,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 4:26 PM ET (helper desktop clock Mon Nov 9 4:26 PM EST; verified on live desktop screenshot /tmp/fomo-gorkbot-desktop-1626.png and crops /tmp/fomo-zoom2-open-1626.png, /tmp/fomo-zoom2-cash-1626.png, /tmp/fomo-zoom2-wallet-1626.png, /tmp/fomo-zoom2-portfolio-1626.png, /tmp/fomo-zoom2-feed-1626.png, /tmp/fomo-zoom2-open_pcts-1626.png): portfolio $0.08 (unchanged from 16:15); 24h -$0 (unchanged; header shows -$0 24h); cash $0 (Total cash showed $0 with Withdraw / Deposit; helper reported Tokens cash $0 and Perps cash $0 after clicking Total cash, but saved desktop and cash screenshots show only the unexpanded Total cash $0 row, so tokens cash and perps cash are recorded as null; Transfer not clicked); top-right wallet showed $0.00 cash and $0.08 portfolio, -$0 24h; risk not shown; Open (2, Show dust checked on screenshot): SOL 0.000926 ($0.08, -9.82%; was -9.70%); AAPLX 0.00000829 ($0.00, +1.79%; was +1.80%); PUSSY still absent from Open; feed top unchanged (newest Sent $1.09 1w to bVeSJT...cg46Vr; 2nd COCORO Sell $1.19 1w; 3rd COCORO Buy $2.72 1w; then HYPE Sell $2.92, HYPE Buy $2.79, Anakin Sell $2.99, Received +$3.06 from 2bnNGc...g5pjVD, Sent $81.80 to bVeSJT...cg46Vr; Received +$0.15 from 0xad1e...32ae7b and +$0.21 from 0x7a16...9818a1 still not visible); trades 92; Show dust checked on Open tab; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; open-position sum $0.08 vs portfolio $0.08 (SOL $0.08 + AAPLX $0.00); values loaded, not skeletons; confirmed on screenshot (header $0.08, -$0 24h, Total cash $0, 92 trades; Open SOL 0.000926 / $0.08 / -9.82%, AAPLX 0.00000829 / $0.00 / +1.79%, PUSSY absent, Show dust checked)."
+  "notes": "read about 4:39 PM ET (helper desktop clock Mon Nov 9 4:39 PM EST; verified on live desktop screenshot /tmp/fomo-gorkbot-desktop-1638.png and crops /tmp/fomo-zoom2-open-1638.png, /tmp/fomo-zoom2-cash-1638.png, /tmp/fomo-zoom2-wallet-1638.png, /tmp/fomo-zoom2-portfolio-1638.png, /tmp/fomo-zoom2-feed-1638.png, /tmp/fomo-zoom2-open_pcts-1638.png, /tmp/fomo-zoom2-meta-1638.png): portfolio $0.08 (unchanged from 16:26); 24h -$0 (unchanged; header shows -$0 24h); cash $0 (Total cash $0 with Withdraw / Deposit; after one Total cash click, cash screenshot /tmp/fomo-zoom2-cash-1638.png shows the expanded popover with Tokens cash balance $0 and Perps cash balance $0 plus Transfer, which was not clicked; tokens and perps recorded as 0.0); top-right wallet showed $0.00 cash and $0.08 portfolio, -$0 24h; risk not shown; Open (2, Show dust checked on screenshot): SOL 0.000926 ($0.08, -9.94%; was -9.82%); AAPLX 0.00000829 ($0.00, +1.78%; was +1.79%); PUSSY still absent from Open; feed top unchanged (newest Sent $1.09 1w to bVeSJT...cg46Vr; 2nd COCORO Sell $1.19 1w; 3rd COCORO Buy $2.72 1w; then HYPE Sell $2.92, HYPE Buy $2.79, Anakin Sell $2.99, Received +$3.06 from 2bnNGc...g5pjVD, Sent $81.80 to bVeSJT...cg46Vr; Received +$0.15 from 0xad1e...32ae7b and +$0.21 from 0x7a16...9818a1 still not visible); trades 92; Show dust checked on Open tab; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; open-position sum $0.08 vs portfolio $0.08 (SOL $0.08 + AAPLX $0.00); values loaded, not skeletons; confirmed on screenshot (header $0.08, -$0 24h, Total cash $0, 92 trades; Open SOL 0.000926 / $0.08 / -9.94%, AAPLX 0.00000829 / $0.00 / +1.78%, PUSSY absent, Show dust checked). First Total cash click briefly flipped the list to Closed (92 closed positions visible in the cash screenshot); Open was restored before the desktop and open crops."
 }
