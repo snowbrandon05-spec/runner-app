@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T13:38:26-05:00",
-  "observed_at": "2026-11-09T13:38:26-05:00",
+  "updated_at": "2026-11-09T13:49:13-05:00",
+  "observed_at": "2026-11-09T13:49:13-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,23 +12,23 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": null,
-    "perps": null,
+    "tokens": 0.0,
+    "perps": 0.0,
     "total": 0.0
   },
   "starting_balance": null,
   "change_24h": 1.22,
-  "portfolio_value": 1.2,
-  "balance": 1.2,
+  "portfolio_value": 0.96,
+  "balance": 0.96,
   "positions": [
     {
       "symbol": "PUSSY",
       "name": "PUSSY",
       "address": null,
       "amount": 520.0,
-      "value": 1.12,
-      "pct": 670.83,
-      "note": "Shown as \u25b2 670.83%"
+      "value": 0.87,
+      "pct": 500.34,
+      "note": "Shown as \u25b2 500.34%"
     },
     {
       "symbol": "SOL",
@@ -36,8 +36,8 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -9.74,
-      "note": "Shown as \u25bc 9.74%"
+      "pct": -9.66,
+      "note": "Shown as \u25bc 9.66%"
     },
     {
       "symbol": "AAPLX",
@@ -2740,5 +2740,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 1:36 PM ET (box clock; helper page-text ~1:36\u20131:40 PM ET): portfolio $1.20 (was $0.97) from PUSSY mark-up 520 ($1.12, +670.83%; was $0.89, +513.68%); SOL 0.000926 ($0.08, -9.74%; was -10.02%), AAPLX 0.00000829 ($0.0, +1.36%; unchanged); cash breakdown not shown (total $0 visible; tokens/perps null), risk not shown; 24h +$1.22 (unchanged); feed top unchanged (newest Received +$0.15 1h from 0xad1e...32ae7b; $0.21 row from 0x7a16...9818a1 not visible as 2nd this viewport but kept; visible 2nd was Sent $1.09 1w to bVeSJT...cg46Vr, was 6d; feed_total_rows not shown); trades 92; Show dust visible on Open tab and checked/pressed (left untouched); #1 Trade strip showed +$0.96 (\u25b2 662.98%) with $1.20; helper switched from default Recent tab to Open (view only); helper reported only a footer 'Minor issues' link, no balances-not-loading banner; values loaded, not skeletons; no refresh; open-position sum $1.20 vs portfolio $1.20; PUSSY mark moved during capture (portfolio $1.27 \u2192 $1.08 \u2192 $1.20; PUSSY $1.18/+714.03% \u2192 $0.99 \u2192 $1.12/+670.83%; SOL -9.76% \u2192 -9.74%; #1 Trade +$1.04 \u2192 +$0.85 \u2192 +$0.96) \u2014 published the helper's final consistent page-text snapshot: 520 / $1.12 / +670.83%. Helper did not overwrite /tmp screenshots (files still dated 12:32 PM ET); figures are from the live page-text read, not those images."
+  "notes": "read about 1:49 PM ET (box clock 13:49:13 EST; helper screenshots mtime 2026-11-09 13:49:13 EST): portfolio $0.96 (was $1.20) from PUSSY mark-down 520 ($0.87, +500.34%; was $1.12, +670.83%); SOL 0.000926 ($0.08, -9.66%; was -9.74%), AAPLX 0.00000829 ($0.0, +1.36%; unchanged); cash $0 (tokens $0 / perps $0), risk not shown; 24h +$1.22 (unchanged); feed top unchanged (newest Received +$0.15 1h from 0xad1e...32ae7b; $0.21 row from 0x7a16...9818a1 not visible as 2nd this viewport but kept; visible 2nd was Sent $1.09 1w to bVeSJT...cg46Vr; feed_total_rows not shown); trades 92; Show dust visible on Open tab and checked (left untouched); #1 Trade strip showed +$0.74 (\u25b2 510.08%) with $0.96 (header capture had \u25b2 509.54% while portfolio already $0.96); helper used Open tab (view only); helper reported a footer 'Minor issues' link, no balances-not-loading banner; values loaded, not skeletons; no refresh; open-position sum $0.95 vs portfolio $0.96 (PUSSY $0.87 + SOL $0.08 + AAPLX $0.00); PUSSY mark moved during capture (portfolio $0.85 \u2192 $0.96; PUSSY $0.76/+424.43% \u2192 $0.87/+500.34%) \u2014 published the helper's final consistent page-text snapshot: 520 / $0.87 / +500.34%, confirmed on /tmp/fomo-gorkbot-feed.png ($0.87/+500.34%, $0.08/-9.66%, $0.00/+1.36%) and header/open screenshots ($0.96, +$1.22 24h, Total cash $0, 3 positions)."
 }
