@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T14:54:23-05:00",
-  "observed_at": "2026-11-09T14:54:23-05:00",
+  "updated_at": "2026-11-09T15:09:22-05:00",
+  "observed_at": "2026-11-09T15:09:22-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -27,8 +27,8 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -9.68,
-      "note": "Shown as \u25bc 9.68%; was -9.33% at 14:43:35"
+      "pct": -9.75,
+      "note": "Shown as \u25bc 9.75%; was -9.68% at 14:54:23"
     },
     {
       "symbol": "AAPLX",
@@ -37,34 +37,10 @@
       "amount": 8.29e-06,
       "value": 0.0,
       "pct": 1.8,
-      "note": "Shown as \u25b2 1.80%; was +1.82% at 14:43:35"
+      "note": "Shown as \u25b2 1.80%; was +1.80% at 14:54:23"
     }
   ],
   "trades": [
-    {
-      "ts": null,
-      "side": "received",
-      "token": null,
-      "usd": 0.15,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "2h ago, from 0xad1e...32ae7b",
-      "price": null
-    },
-    {
-      "ts": null,
-      "side": "received",
-      "token": null,
-      "usd": 0.21,
-      "mcap": null,
-      "pnl_usd": null,
-      "pnl_pct": null,
-      "by": "feed",
-      "note": "2m ago, from 0x7a16...9818a1",
-      "price": null
-    },
     {
       "ts": null,
       "side": "sent",
@@ -2731,5 +2707,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 2:54 PM ET (helper desktop clock Mon Nov 9, 2026, 2:54:23 PM EST; screenshot mtimes 2026-11-09 14:54:22 EST header and 14:54:23 EST cash/open/feed): portfolio $0.08 (unchanged from 14:43); 24h -$0 (unchanged; header shows -$0 24h); cash $0 (Total cash click expanded this time: tokens $0, perps $0; crop shows expanded Tokens cash balance label, amounts confirmed in helper page snapshot), risk not shown; Open (2, Show dust checked): SOL 0.000926 ($0.08, -9.68%; was -9.33%), AAPLX 0.00000829 ($0.00, +1.80%; was +1.82%); PUSSY still absent from Open; feed top unchanged (newest Received +$0.15 2h from 0xad1e...32ae7b; $0.21 row from 0x7a16...9818a1 not visible as 2nd this viewport but kept; visible 2nd Sent $1.09 1w to bVeSJT...cg46Vr; 3rd COCORO Sell $1.19 1w); trades 92; Show dust checked on Open tab; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; open-position sum $0.08 vs portfolio $0.08 (SOL $0.08 + AAPLX $0.00); no #1 Trade strip visible this capture; values loaded, not skeletons; four non-fatal WalletConnect explorer fetches blocked by page CSP; confirmed on /tmp/fomo-gorkbot-header.png ($0.08, -$0 24h, Total cash $0, 92 trades) and /tmp/fomo-gorkbot-open.png (SOL 0.000926 / $0.08 / -9.68%, AAPLX 0.00000829 / $0.00 / +1.80%, PUSSY absent, Show dust checked) plus cash crop (Total cash $0, expanded Tokens cash balance label) and feed crop (Received +$0.15 / Sent -$1.09)."
+  "notes": "read about 3:09 PM ET (helper desktop clock 2026-11-09 15:09:22 EST; screenshot mtimes 2026-11-09 15:09 EST header/cash/open/feed): portfolio $0.08 (unchanged from 14:54); 24h -$0 (unchanged; header shows -$0 24h); cash $0 (Total cash click expanded: tokens $0, perps $0), risk not shown; Open (2, Show dust checked): SOL 0.000926 ($0.08, -9.75%; was -9.68%), AAPLX 0.00000829 ($0.00, +1.80%; unchanged); PUSSY still absent from Open; feed top now starts with Sent $1.09 1w to bVeSJT...cg46Vr (previously newest Received +$0.15 2h from 0xad1e...32ae7b at 14:54; that row and the kept Received +$0.21 from 0x7a16...9818a1 were not visible at the top and not found after scrolling the activity list this capture, so both were dropped from the live trades head); visible 2nd COCORO Sell $1.19 1w; 3rd COCORO Buy $2.72 1w; trades 92; Show dust checked on Open tab; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; open-position sum $0.08 vs portfolio $0.08 (SOL $0.08 + AAPLX $0.00); no #1 Trade strip visible this capture; values loaded, not skeletons; confirmed on /tmp/fomo-gorkbot-header.png ($0.08, -$0 24h, Total cash $0, 92 trades) and /tmp/fomo-gorkbot-open.png (SOL 0.000926 / $0.08 / -9.75%, AAPLX 0.00000829 / $0.00 / +1.80%, PUSSY absent, Show dust checked) plus cash popover (Total cash $0, Tokens $0 / Perps $0) and feed (Sent -$1.09 at top)."
 }
