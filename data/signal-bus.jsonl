@@ -1,5 +1,4 @@
 {"ts":"2026-11-05T21:52:22-05:00","from":"crawler","type":"runner_found","token":"Diamond:5VCEFq1aATjga39QtDunYjJqYBx67w8V8TXwHrqopump","detail":"score 89.7 mcap $461,175 liq $65,983 h1 66.57% m5 18.05% br 0.589"}
-{"ts":"2026-11-05T21:52:22-05:00","from":"crawler","type":"runner_found","token":"Diamond:5VCEFq1aATjga39QtDunYjJqYBx67w8V8TXwHrqopump","detail":"score 89.7 mcap $461,175 liq $65,983 h1 66.57% m5 18.05% br 0.589"}
 {"ts":"2026-11-05T21:57:49-05:00","from":"crawler","type":"runner_found","token":"LEEROY:98HEU4TvXB3xjB1t15fgxHwYDLUH4fDomvp2DCzJpump","detail":"score 79.1 mcap $297,995 liq $54,728 h1 39.37% m5 14.36% br 0.555"}
 {"ts":"2026-11-05T21:57:49-05:00","from":"crawler","type":"runner_cooling","token":"DEGEN:Dk2iHPgeStfACECMbmigRRcDtP8yzfTjdHnMq7hqpump","detail":"score 67.0 h1 104.0% m5 -4.09% flags thin_liquidity,cooling_m5"}
 {"ts":"2026-11-05T21:58:34-05:00","from":"crawler","type":"runner_found","token":"Chika:Fyff8ZbT3omcwoqmAgLbXH25tzqQp1FoM4UYWtePpump","detail":"score 82.6 mcap $283,205 liq $43,716 h1 244.0% m5 49.31% br 0.638"}
@@ -298,3 +297,4 @@
 {"ts":"2026-11-09T08:03:41-05:00","source":"fomo","type":"live_refresh","account":"gorkbot","portfolio_value":0.08,"change_24h":0.0,"cash_total":0,"positions":2,"newest":{"side":"sent","usd":1.09,"note":"6d ago"}}
 {"ts":"2026-11-09T08:20:12-05:00","source":"fomo","type":"live_refresh","account":"gorkbot","portfolio_value":0.08,"change_24h":0.0,"cash_total":0,"positions":2,"newest":{"side":"sent","usd":1.09,"note":"6d ago"}}
 {"ts":"2026-11-09T08:51:41-05:00","source":"fomo","type":"live_refresh","account":"gorkbot","portfolio_value":0.08,"change_24h":0.0,"cash_total":0,"positions":2,"newest":{"side":"sent","usd":1.09,"note":"6d ago"}}
+{"ts":"2026-11-09T08:56:20-05:00","source":"fomo","type":"live_refresh","account":"gorkbot","portfolio_value":0.08,"change_24h":0.0,"cash_total":0,"positions":2,"newest":{"side":"sent","usd":1.09,"note":"6d ago"}}
