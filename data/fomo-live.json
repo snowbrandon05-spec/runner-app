@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T11:13:56-05:00",
-  "observed_at": "2026-11-09T11:13:56-05:00",
+  "updated_at": "2026-11-09T11:30:50-05:00",
+  "observed_at": "2026-11-09T11:30:50-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,23 +12,23 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": 0,
-    "perps": 0,
-    "total": 0
+    "tokens": null,
+    "perps": null,
+    "total": 0.0
   },
   "starting_balance": null,
   "change_24h": 0.0,
-  "portfolio_value": 1.12,
-  "balance": 1.12,
+  "portfolio_value": 0.89,
+  "balance": 0.89,
   "positions": [
     {
       "symbol": "PUSSY",
       "name": "PUSSY",
       "address": null,
       "amount": 500.0,
-      "value": 1.04,
-      "pct": 404.06,
-      "note": "Shown as \u25b2 404.06%"
+      "value": 0.8,
+      "pct": 289.88,
+      "note": "Shown as \u25b2 289.88%"
     },
     {
       "symbol": "SOL",
@@ -36,8 +36,8 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -8.88,
-      "note": "Shown as \u25bc 8.88%"
+      "pct": -9.62,
+      "note": "Shown as \u25bc 9.62%"
     },
     {
       "symbol": "AAPLX",
@@ -45,8 +45,8 @@
       "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": 1.58,
-      "note": "Shown as \u25b2 1.58%"
+      "pct": 1.53,
+      "note": "Shown as \u25b2 1.53%"
     }
   ],
   "trades": [
@@ -2728,5 +2728,5 @@
     }
   ],
   "risk": "Stable",
-  "notes": "read about 11:13 AM ET (box clock): portfolio $1.12, 24h -$0; Total cash $0 (tokens $0 / perps $0); Open (3): PUSSY 500.0 ($1.04, +404.06%); SOL 0.000926 ($0.08, -8.88%); AAPLX 0.00000829 ($0.0, +1.58%); feed newest row Received +$0.21, 20m ago, from 0x7a16...9818a1; trades_count 92; risk Stable"
+  "notes": "read about 11:30 AM ET (box clock): portfolio $0.89, 24h -$0; Total cash $0 (tokens/perps not shown); Open (3): PUSSY 500.0 ($0.8, +289.88%); SOL 0.000926 ($0.08, -9.62%); AAPLX 8.29e-06 ($0.0, +1.53%); feed newest row Received $0.21, 2m ago, from 0x7a16...9818a1; trades_count 92; risk Stable"
 }
