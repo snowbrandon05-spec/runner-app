@@ -1,4 +1,3 @@
-{"ts":"2026-11-06T07:21:23-05:00","from":"crawler","type":"rug_risk","token":"coin:GdY4Z6pYUcr3HFrABV5FEZay3J4GnjN1Uzsw6Dvxpump","detail":"falling_m5"}
 {"ts":"2026-11-06T08:05:38-05:00","from":"crawler","type":"runner_found","token":"APPLEPAID:APgbBfggjo79T7PdVqTQcEbVdQWBCif1kLTwjRwrxc8Z","detail":"score 86.1 mcap $222,484 liq $43,168 h1 189.0% m5 33.81% br 0.585"}
 {"ts":"2026-11-06T08:05:53-05:00","from":"crawler","type":"runner_found","token":"DNUT:4vCafgiFHVn6tcCKvi1d9qq7y3VtEQLvfuSavT8Jpump","detail":"score 89.9 mcap $103,443 liq $24,716 h1 171.0% m5 13.15% br 0.639"}
 {"ts":"2026-11-06T08:05:53-05:00","from":"crawler","type":"runner_cooling","token":"APPLEPAID:APgbBfggjo79T7PdVqTQcEbVdQWBCif1kLTwjRwrxc8Z","detail":"score 65.6 h1 15.37% m5 -2.36% flags -"}
@@ -298,3 +297,4 @@
 {"ts": "2026-11-10T09:15:04-05:00", "source": "fomo", "type": "live_refresh", "account": "gorkbot", "portfolio_value": 1.43, "change_24h": 0.0, "cash_total": 0.0, "positions": 3, "newest": {"side": "received", "usd": 0.12, "note": "21m ago, from 0xad1e...32ae7b"}}
 {"ts": "2026-11-10T09:28:11-05:00", "source": "fomo", "type": "live_refresh", "account": "gorkbot", "portfolio_value": 1.24, "change_24h": 0.0, "cash_total": 0.0, "positions": 3, "newest": {"side": "received", "usd": 0.12, "note": "34m ago, from 0xad1e...32ae7b"}}
 {"ts": "2026-11-10T09:39:23-05:00", "source": "fomo", "type": "live_refresh", "account": "gorkbot", "portfolio_value": 1.01, "change_24h": 0.59, "cash_total": 0.0, "positions": 3, "newest": {"side": "received", "usd": 0.12, "note": "46m ago, from 0xad1e...32ae7b"}}
+{"ts": "2026-11-10T09:48:27-05:00", "source": "fomo", "type": "live_refresh", "account": "gorkbot", "portfolio_value": 1.31, "change_24h": 1.16, "cash_total": 0.0, "positions": 3, "newest": {"side": "received", "usd": 0.12, "note": "55m ago, from 0xad1e...32ae7b"}}
