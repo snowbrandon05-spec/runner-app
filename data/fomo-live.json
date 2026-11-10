@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T12:21:36-05:00",
-  "observed_at": "2026-11-10T12:21:36-05:00",
+  "updated_at": "2026-11-10T12:27:25-05:00",
+  "observed_at": "2026-11-10T12:27:25-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -27,8 +27,8 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -14.14,
-      "note": "Shown as 0.000926 SOL $0.08 -14.14% on /tmp/fomo-gorkbot-desktop-1220-open-scrolled.webp and /tmp/fomo-gorkbot-desktop-1220-transactions.webp (Open, Show dust checked, Your positions 2); was -14.22% at 12:15:23; token contract not shown this run so prior verified address was kept"
+      "pct": -14.06,
+      "note": "Shown as 0.000926 SOL $0.08 -14.06% on /tmp/fomo-gorkbot-desktop-1226-open-scrolled.png and /tmp/fomo-gorkbot-desktop-1226-transactions.png (Open, Show dust checked, Your positions 2); was -14.14% at 12:21:36; token contract not shown this run so prior verified address was kept"
     },
     {
       "symbol": "AAPLX",
@@ -36,8 +36,8 @@
       "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": 0.72,
-      "note": "Shown as 0.00000829 AAPLX $0.00 +0.72% on /tmp/fomo-gorkbot-desktop-1220-open-scrolled.webp and /tmp/fomo-gorkbot-desktop-1220-transactions.webp; unchanged from 12:15:23; token contract not shown this run so prior verified address was kept"
+      "pct": 0.76,
+      "note": "Shown as 0.00000829 AAPLX $0.00 +0.76% on /tmp/fomo-gorkbot-desktop-1226-open-scrolled.png and /tmp/fomo-gorkbot-desktop-1226-transactions.png; was +0.72% at 12:21:36; token contract not shown this run so prior verified address was kept"
     }
   ],
   "trades": [
@@ -50,7 +50,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1h ago, from 0xad1e...32ae7b (shown as 0xad1e...32a... on /tmp/fomo-gorkbot-desktop-1220-transactions.webp)",
+      "note": "1h ago, from 0xad1e...32ae7b (shown as 0xad1e...32a... on /tmp/fomo-gorkbot-desktop-1226-transactions.png)",
       "price": null
     },
     {
@@ -62,7 +62,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on transactions at 12:21:36 (list showed Received +$0.90 1h then Sent $1.09 1w to bVeSJT...cg46Vr, with no +$0.12 row between them); last verified at 11:02:29 from 0xad1e...32ae7b",
+      "note": "not visible on transactions at 12:27:25 (list showed Received +$0.90 1h then Sent $1.09 1w to bVeSJT...cg46Vr, with no +$0.12 row between them); last verified at 11:02:29 from 0xad1e...32ae7b",
       "price": null
     },
     {
@@ -2731,5 +2731,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 12:21 PM ET (screenshot mtimes 12:21:16 landing, 12:21:35 cash-popover, 12:21:36 open-scrolled/feed/transactions under /tmp/fomo-gorkbot-desktop-1220-*.webp; open-scrolled and feed identical checksum; no desktop clock visible); no sign-in required; portfolio $0.08 on all shots (was $0.08 at 12:15:23; $1.28 at 11:56:15); 24h -$0 on all shots (numeric 0.0); Total cash $0; clicking Total cash row opened popover with Tokens cash balance $0 and Perps cash balance $0 and a Transfer button (not clicked), so tokens/perps cash now recorded as 0 (were null at 12:15:23); Open (Your positions 2, Show dust checked): SOL 0.000926 $0.08 -14.14%, AAPLX 0.00000829 $0.00 +0.72%; AudaCity, Dacity, PUSSY absent; landing showed Closed list (92): COCORO -$1.53 -56.15%, HYPE +$0 0.00%, Anakin -$0.07 -2.41%, FOCO +$8.63 +11.65%, HALLOWEEN -$29.75 -27.82% (not recorded as Open); Transactions newest: Received +$0.90 from 0xad1e...32a.. 1h, Sent $1.09 to bVeSJT...cg4.. 1w, Sell COCORO $1.19, Buy COCORO $2.72, Sell HYPE $2.92, Buy HYPE $2.79, Sell Anakin $2.99, Received +$3.06 from 2bnNGc...g5.., Sent $81.80, Sell FOCO $82.75, Buy FOCO $27.88, Sell HALLOWEEN $29.06, Buy FOCO $46.24, Sell HALLOWEEN $48.13, Buy HALLOWEEN $106.95, Sell SOL $108.00; previous Received +$0.12 still not visible; Feed panel starts FOCO Sell $83 1w at $635.2K MC, FOCO Buy $28 at $624.6K MC, HALLOWEEN Sell $29 at $29.3K MC, FOCO Buy $47 at $528.9K MC; trades 92; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; #1 Trade badge not visible; values loaded (landing re-taken after skeleton); open-row sum $0.08 matches header. Helper left Open + Show dust + Transactions selected; no financial action."
+  "notes": "read about 12:27 PM ET (screenshot mtimes 12:27:14 landing-cash-popover, 12:27:19 open-scrolled, 12:27:25 transactions under /tmp/fomo-gorkbot-desktop-1226-*.png; no separate Feed-tab or Cash-tab-only shot \u2014 cash popover captured on landing, Feed panel visible on landing and open-scrolled; no desktop clock visible); no sign-in required; final URL https://fomo.family/profile/gorkbot?r=gorkbot; portfolio $0.08 on all shots (was $0.08 at 12:21:36; $1.28 at 11:56:15); 24h -$0 on all shots (numeric 0.0); Total cash $0; clicking Total cash row opened popover with Tokens cash balance $0 and Perps cash balance $0 and a Transfer button (not clicked); Open (Your positions 2, Show dust checked): SOL 0.000926 $0.08 -14.06%, AAPLX 0.00000829 $0.00 +0.76% on both open-scrolled and transactions; AudaCity, Dacity, PUSSY absent; landing showed All list (92): COCORO -$1.53 -56.15%, HYPE +$0 0.00%, Anakin -$0.07 -2.41%, FOCO +$8.63 +11.65%, HALLOWEEN -$29.75 (not recorded as Open); Transactions newest: Received +$0.90 from 0xad1e...32a.. 1h, Sent $1.09 to bVeSJT...cg4.. 1w, Sell COCORO $1.19, Buy COCORO $2.72, Sell HYPE $2.92, Buy HYPE $2.79, Sell Anakin $2.99, Received +$3.06 from 2bnNGc...g5.., Sent $81.80, Sell FOCO $82.75, Buy FOCO $27.88, Sell HALLOWEEN $29.06, Buy FOCO $46.24, Sell HALLOWEEN $48.13, Buy HALLOWEEN $106.95, Sell SOL $108.00; previous Received +$0.12 still not visible; Feed panel starts FOCO Sell $83 1w at $635.2K MC, FOCO Buy $28 at $624.6K MC, HALLOWEEN Sell $29 at $29.3K MC, FOCO Buy $47 at $528.9K MC; trades 92; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; values loaded (not skeleton); open-row sum $0.08 matches header. Helper left Open + Show dust + Transactions selected; no financial action."
 }
