@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T09:15:04-05:00",
-  "observed_at": "2026-11-10T09:15:04-05:00",
+  "updated_at": "2026-11-10T09:28:11-05:00",
+  "observed_at": "2026-11-10T09:28:11-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -18,17 +18,17 @@
   },
   "starting_balance": null,
   "change_24h": 0.0,
-  "portfolio_value": 1.43,
-  "balance": 1.43,
+  "portfolio_value": 1.24,
+  "balance": 1.24,
   "positions": [
     {
       "symbol": "Dacity",
       "name": "Dacity",
       "address": null,
       "amount": 520.0,
-      "value": 1.35,
-      "pct": 1068.77,
-      "note": "Shown as 520.00 Dacity $1.35 \u25b2 1,068.77% on open shot /tmp/fomo-gorkbot-desktop-open-0913.png (mtime 09:15:04) and crop /tmp/fomo-crop2-0913-open-pos.png; later $1.35 \u25b2 1,071.28% on transactions shot /tmp/fomo-gorkbot-desktop-transactions-0913.png (mtime 09:15:11) and crop /tmp/fomo-crop3-0913-tx-pos2.png; amount 520.00 vs $0.62 / +437.18% at 09:01:13 and vs 3K / $1.33 / +2.51% at 08:25:59; absent at 08:39:31 and 08:49:52; token contract not shown so address is null"
+      "value": 1.16,
+      "pct": 905.1,
+      "note": "Shown as 520.00 Dacity $1.16 +905.10% on scrolled shot /tmp/fomo-gorkbot-desktop-open-scrolled-0925.png and crop /tmp/fomo-crop-0925-opensc-posonly.png; $1.16 +904.51% on open shot /tmp/fomo-gorkbot-desktop-open-0925.png and crop /tmp/fomo-crop-0925-open-pos.png; amount 520.00 vs $1.35 / +1,068.77% at 09:15:04 and vs $0.62 / +437.18% at 09:01:13 and vs 3K / $1.33 / +2.51% at 08:25:59; absent at 08:39:31 and 08:49:52; token contract not shown so address is null"
     },
     {
       "symbol": "SOL",
@@ -36,8 +36,8 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -12.2,
-      "note": "Shown as SOL $0.08 on open shot /tmp/fomo-gorkbot-desktop-open-0913.png and crop /tmp/fomo-crop3-0913-open-solrow.png and on transactions shot /tmp/fomo-gorkbot-desktop-transactions-0913.png; amount and percent were below the dock on those saved shots; scrape helper reported 0.000926 SOL $0.08 \u25bc 12.20%; amount unchanged from 09:01 / 08:49 / 08:39 / 08:26; was -12.09% at 09:01:13 and -12.13% on that run's transactions shot"
+      "pct": -12.75,
+      "note": "Shown as 0.000926 SOL $0.08 -12.75% on scrolled shot /tmp/fomo-gorkbot-desktop-open-scrolled-0925.png and crop /tmp/fomo-crop-0925-opensc-posonly.png; $0.08 visible on open shot with amount and percent cut off by the dock; amount unchanged from 09:15 / 09:01 / 08:49 / 08:39 / 08:26; was -12.20% at 09:15:04"
     },
     {
       "symbol": "AAPLX",
@@ -45,8 +45,8 @@
       "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": 2.02,
-      "note": "Third Open row was below the fold on saved open and transactions shots (/tmp/fomo-gorkbot-desktop-open-0913.png and /tmp/fomo-gorkbot-desktop-transactions-0913.png); open-scrolled shot /tmp/fomo-gorkbot-desktop-open-scrolled-0913.png did not keep the positions list in view; scrape helper reported AAPLX 0.00000829 ($0.00, +2.02%) on the Open list after checking Show dust, with Your positions 3 visible; amount matches last screenshot-verified values at 08:49:52; was +2.01% at 09:01:13; no AAPLX buy/sell in newest visible feed rows"
+      "pct": 2.01,
+      "note": "Shown as 0.00000829 AAPLX $0.00 +2.01% on scrolled shot /tmp/fomo-gorkbot-desktop-open-scrolled-0925.png and crop /tmp/fomo-crop-0925-opensc-posonly.png, labelled AAPLX; below the dock on the open shot; amount unchanged from 09:15:04 / 08:49:52; was +2.02% at 09:15:04; token contract not shown this run so prior verified address was kept"
     }
   ],
   "trades": [
@@ -59,7 +59,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "21m ago, from 0xad1e...32ae7b",
+      "note": "34m ago, from 0xad1e...32ae7b",
       "price": null
     },
     {
@@ -2728,5 +2728,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 9:15 AM ET (screenshot mtimes 09:14:46 on /tmp/fomo-gorkbot-desktop-0913.png, 09:14:58 on /tmp/fomo-gorkbot-desktop-cash-0913.png, 09:15:04 on /tmp/fomo-gorkbot-desktop-open-0913.png, 09:15:07 on /tmp/fomo-gorkbot-desktop-feed-0913.png and /tmp/fomo-gorkbot-desktop-open-scrolled-0913.png, 09:15:11 on /tmp/fomo-gorkbot-desktop-transactions-0913.png; desktop clock visible as Tue Nov 10 9:14 AM on landing and 9:15 AM on later shots): portfolio $1.43 on landing, cash, open, and transactions headers (was $0.70 at 09:01:13; was $0.08 at 08:49:52; was $1.42 at 08:25:59); 24h -$0 (header shows -$0 24h on landing, open, and transactions shots; numeric change_24h still 0.0; was -$0 24h at 09:01); top-right wallet showed $0.00 cash and Deposit more, with adjacent chip $1.43 and -$0 24h on /tmp/fomo-crop2-0913-open-wallet.png; cash total $0 (Total cash $0 with Withdraw / Deposit on landing, cash, open, and transactions); Tokens cash $0 / Perps cash $0 verified on cash-shot popover /tmp/fomo-crop3-0913-cash-cashbox.png after Total cash click (helper report said the breakdown never appeared; screenshot shows Tokens cash balance $0 and Perps cash balance $0); risk not shown; Open (Your positions 3, Show dust checked, Open tab selected on /tmp/fomo-gorkbot-desktop-open-0913.png and transactions shot): Dacity 520.00 ($1.35, +1,068.77% on open shot /tmp/fomo-gorkbot-desktop-open-0913.png and crop /tmp/fomo-crop2-0913-open-pos.png; $1.35 +1,071.28% on transactions shot /tmp/fomo-gorkbot-desktop-transactions-0913.png and crop /tmp/fomo-crop3-0913-tx-pos2.png; was 520.00 / $0.62 / +437.18% at 09:01:13; was 3K / $1.33 / +2.51% at 08:25:59; absent at 08:39:31 and 08:49:52); SOL 0.000926 ($0.08, amount and percent below the dock on saved open and transactions shots; scrape helper reported 0.000926 / $0.08 / -12.20%; $0.08 verified on open and tx shots; amount unchanged from 09:01 / 08:49 / 08:39 / 08:26; was -12.09% at 09:01:13); AAPLX 0.00000829 ($0.00, +2.02% reported by scrape helper on the Open list and below the fold on saved open and transactions shots; open-scrolled shot did not keep the positions list in view; amount unchanged from 08:49:52; was +2.01% at 09:01:13); PUSSY still absent; landing/cash shot /tmp/fomo-gorkbot-desktop-0913.png had Closed/Recent history visible (COCORO and HYPE; landing showed Your positions 92 with Closed/Recent selected), not used as open positions; Feed panel on open, feed, and saved transactions shots still starts at FOCO Sell $83 1w at $635.2K MC (then FOCO Buy $28 at $624.6K MC, HALLOWEEN Sell $29 at $29.3K MC, FOCO Buy $47 at $528.9K MC, HALLOWEEN Sell $48 at $116.4K MC, HALLOWEEN Buy $108 at $75.2K MC); saved transactions shot /tmp/fomo-gorkbot-desktop-transactions-0913.png still showed that Feed panel (Transactions tab not screenshot-verified this run); scrape helper reported Transactions newest still Received +$0.12 from 0xad1e...32ae7b shown as 21m (same row was 7m at 09:01:13; 14m elapsed matches 21m); Received +$1.30 from 0xad1e...32ae7b is still not visible; trades 92; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; #1 Trade badge +$1.23 (+1,070.04% on landing, +1,071.27% on open); open-position sum $1.43 vs header $1.43 on the open shot (Dacity $1.35 + SOL $0.08 + AAPLX $0.00); values loaded, not skeletons; confirmed on screenshot (header $1.43, -$0 24h, Total cash $0, tokens $0 / perps $0 on cash popover, 92 trades; Open Dacity 520.00 / $1.35 / +1,068.77%, SOL helper-reported 0.000926 / $0.08 / -12.20% with $0.08 screenshot-verified, AAPLX helper-reported 0.00000829 / $0.00 / +2.02%, PUSSY absent). Default activity view was Feed on the landing, open, and saved transactions shots."
+  "notes": "read about 9:27 AM ET (screenshot file mtimes 09:28:10 on /tmp/fomo-gorkbot-desktop-0925.png and /tmp/fomo-gorkbot-desktop-cash-0925.png, 09:28:11 on /tmp/fomo-gorkbot-desktop-open-0925.png, /tmp/fomo-gorkbot-desktop-open-scrolled-0925.png, /tmp/fomo-gorkbot-desktop-feed-0925.png, and /tmp/fomo-gorkbot-desktop-transactions-0925.png; desktop clock visible as Tue Nov 10 9:27 AM on landing, cash, open, and scrolled shots): portfolio $1.24 on landing, cash, open, and transactions headers (was $1.43 at 09:15:04; was $0.70 at 09:01:13; was $0.08 at 08:49:52; was $1.42 at 08:25:59); 24h -$0 (header shows -$0 24h on landing, cash, open, and transactions shots; numeric change_24h still 0.0; was -$0 24h at 09:15); top-right wallet showed $0.00 cash and Deposit more, with adjacent chip $1.24 and -$0 24h on /tmp/fomo-crop-0925-land-wallet2.png; cash total $0 (Total cash $0 with Withdraw / Deposit on landing, cash, open, and scrolled); Tokens cash $0 / Perps cash $0 verified on cash-shot popover /tmp/fomo-crop-0925-cash-cashbox2.png after Total cash hover (cash_breakdown_shown true); risk not shown; Open (Your positions 3, Show dust checked, Open tab selected on /tmp/fomo-gorkbot-desktop-open-0925.png and /tmp/fomo-gorkbot-desktop-open-scrolled-0925.png): Dacity 520.00 ($1.16, +904.51% on open shot /tmp/fomo-crop-0925-open-pos.png; $1.16 +905.10% on scrolled shot /tmp/fomo-crop-0925-opensc-posonly.png; was 520.00 / $1.35 / +1,068.77% at 09:15:04; was 520.00 / $0.62 / +437.18% at 09:01:13; was 3K / $1.33 / +2.51% at 08:25:59; absent at 08:39:31 and 08:49:52); SOL 0.000926 ($0.08, -12.75% on scrolled shot /tmp/fomo-crop-0925-opensc-posonly.png; $0.08 visible on open shot with amount and percent cut off by the dock; amount unchanged from 09:15 / 09:01 / 08:49 / 08:39 / 08:26; was -12.20% at 09:15:04); AAPLX 0.00000829 ($0.00, +2.01% on scrolled shot /tmp/fomo-crop-0925-opensc-posonly.png, labelled AAPLX; below the dock on the open shot; amount unchanged from 09:15:04 / 08:49:52; was +2.02% at 09:15:04); PUSSY still absent; landing/cash shots had Closed/Recent history visible (COCORO and HYPE; landing showed Your positions 92 with Closed selected), not used as open positions; Feed panel on landing, cash, open, feed, and the feed side of later shots still starts at FOCO Sell $83 1w at $635.2K MC (then FOCO Buy $28 at $624.6K MC, HALLOWEEN Sell $29 at $29.3K MC, FOCO Buy $47 at $528.9K MC, HALLOWEEN Sell $48 at $116.4K MC, HALLOWEEN Buy $108 at $75.2K MC); Transactions tab selected on /tmp/fomo-crop-0925-tx-feedfull.png with newest Received +$0.12 from 0xad1e...32ae7b shown as 34m (same row was 21m at 09:15:04 and 7m at 09:01:13; elapsed time matches); Received +$1.30 from 0xad1e...32ae7b is still not visible; trades 92; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; #1 Trade badge +$1.04 (+904.93% on landing /tmp/fomo-crop-0925-land-header.png, +905.10% on open header /tmp/fomo-crop-0925-open-header.png) then +$0.94 (+815.73% on transactions header /tmp/fomo-crop-0925-tx-header2.png) while the portfolio header stayed $1.24; open-position sum $1.24 vs header $1.24 on the scrolled shot (Dacity $1.16 + SOL $0.08 + AAPLX $0.00); values loaded, not skeletons; confirmed on screenshot (header $1.24, -$0 24h, Total cash $0, tokens $0 / perps $0 on cash popover, 92 trades; Open Dacity 520.00 / $1.16 / +905.10%, SOL 0.000926 / $0.08 / -12.75%, AAPLX 0.00000829 / $0.00 / +2.01%, PUSSY absent). Default activity view was Feed with Closed selected on the landing and cash shots. A stray click during scrolling opened a FOCO token modal; no Buy/Sell was used and the profile was reloaded before these shots."
 }
