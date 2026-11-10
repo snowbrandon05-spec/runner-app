@@ -1,4 +1,3 @@
-{"ts":"2026-11-06T08:18:38-05:00","from":"crawler","type":"runner_cooling","token":"WEALTH:8Mi9E1V2bdPeAaRkR5yxUsAvpzP6UBUEEUrYmgKNpump","detail":"score 69.5 h1 47.07% m5 -2.58% flags -"}
 {"ts":"2026-11-06T08:30:44-05:00","from":"crawler","type":"runner_found","token":"Rocco:HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump","detail":"score 63.2 mcap $969,550 liq $94,413 h1 34.96% m5 13.2% br 0.519"}
 {"ts":"2026-11-06T08:32:14-05:00","from":"crawler","type":"runner_cooling","token":"Rocco:HZbiEpF2oM658EpjNRRqxharz5L9Ddm8akpSH2R5pump","detail":"score 52.4 h1 19.45% m5 6.68% flags parabolic_24h"}
 {"ts":"2026-11-06T08:33:44-05:00","from":"crawler","type":"rug_risk","token":"APPLEPAID:APgbBfggjo79T7PdVqTQcEbVdQWBCif1kLTwjRwrxc8Z","detail":"falling_m5"}
@@ -298,3 +297,4 @@
 {"ts": "2026-11-10T10:49:25-05:00", "source": "fomo", "type": "live_refresh", "account": "gorkbot", "portfolio_value": 0.08, "change_24h": 0.0, "cash_total": 0.0, "positions": 2, "newest": {"side": "received", "usd": 0.12, "note": "1h ago, from 0xad1e...32ae7b"}}
 {"ts": "2026-11-10T11:02:29-05:00", "source": "fomo", "type": "live_refresh", "account": "gorkbot", "portfolio_value": 0.08, "change_24h": 0.0, "cash_total": 0.0, "positions": 2, "newest": {"side": "received", "usd": 0.12, "note": "2h ago, from 0xad1e...32ae7b"}}
 {"ts": "2026-11-10T11:13:32-05:00", "source": "fomo", "type": "live_refresh", "account": "gorkbot", "portfolio_value": 0.08, "change_24h": 0.0, "cash_total": 0.0, "positions": 2, "newest": {"side": "received", "usd": 0.12, "note": "not visible this run; last verified 2h ago at 11:02:29 from 0xad1e...32ae7b"}}
+{"ts": "2026-11-10T11:30:41-05:00", "source": "fomo", "type": "live_refresh", "account": "gorkbot", "portfolio_value": 1.57, "change_24h": -0.21, "cash_total": 0.0, "positions": 3, "newest": {"side": "received", "usd": 0.9, "note": "14m ago, from 0xad1e...32ae7b"}}
