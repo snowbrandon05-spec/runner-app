@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T09:48:27-05:00",
-  "observed_at": "2026-11-10T09:48:27-05:00",
+  "updated_at": "2026-11-10T10:09:13-05:00",
+  "observed_at": "2026-11-10T10:09:13-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -12,23 +12,23 @@
     "joined": "Oct 2026"
   },
   "cash": {
-    "tokens": null,
-    "perps": null,
+    "tokens": 0.0,
+    "perps": 0.0,
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 1.16,
-  "portfolio_value": 1.31,
-  "balance": 1.31,
+  "change_24h": 0.78,
+  "portfolio_value": 0.9,
+  "balance": 0.9,
   "positions": [
     {
       "symbol": "Dacity",
       "name": "Dacity",
       "address": null,
       "amount": 520.0,
-      "value": 1.23,
-      "pct": 967.01,
-      "note": "Shown as 520.00 Dacity $1.23 +967.01% on scrolled shot /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/9978beb4c247a002cf858877f899d04d1c8a396182e05508b6890f1be6c6cc6d.webp and feed shots /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/521fb82f42119a5b8725ab45f747305b532fad51542eb59d3a769d2dc549c3bb.webp / /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/69998bd1b9dd0275343cbd98cab6b5a47ca9df047f99f16b700a09e02619a84b.webp; $1.23 +964.35% on landing /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/5d2d0972f0b4662731960550b0736d2052dee2154891fb2f2eb8d1da8b66efd3.webp; amount 520.00 vs $0.76 / +555.61% at 09:39:23 and vs $1.16 / +905.10% at 09:28:11 and vs $1.35 / +1,068.77% at 09:15:04 and vs $0.62 / +437.18% at 09:01:13 and vs 3K / $1.33 / +2.51% at 08:25:59; absent at 08:39:31 and 08:49:52; token contract not shown so address is null"
+      "value": 0.83,
+      "pct": 619.07,
+      "note": "Shown as 520.00 Dacity $0.83 +619.07% on scrolled shot /tmp/fomo-gorkbot-desktop-1007-open-scrolled.webp; $0.82 +613.86% on landing /tmp/fomo-gorkbot-desktop-1007-landing.webp; $0.83 +620.04% on cash /tmp/fomo-gorkbot-desktop-1007-cash-popover.webp; $0.82 +612.63% on feed /tmp/fomo-gorkbot-desktop-1007-feed.webp; $0.82 +610.27% on transactions /tmp/fomo-gorkbot-desktop-1007-transactions.webp; amount 520.00 vs $1.23 / +967.01% at 09:48:27 and vs $0.76 / +555.61% at 09:39:23 and vs $1.16 / +905.10% at 09:28:11 and vs $1.35 / +1,068.77% at 09:15:04 and vs $0.62 / +437.18% at 09:01:13 and vs 3K / $1.33 / +2.51% at 08:25:59; absent at 08:39:31 and 08:49:52; token contract not shown so address is null"
     },
     {
       "symbol": "SOL",
@@ -36,8 +36,8 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -12.38,
-      "note": "Shown as 0.000926 SOL $0.08 -12.38% on scrolled shot /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/9978beb4c247a002cf858877f899d04d1c8a396182e05508b6890f1be6c6cc6d.webp; $0.08 visible on landing /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/5d2d0972f0b4662731960550b0736d2052dee2154891fb2f2eb8d1da8b66efd3.webp and feed shots /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/521fb82f42119a5b8725ab45f747305b532fad51542eb59d3a769d2dc549c3bb.webp / /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/69998bd1b9dd0275343cbd98cab6b5a47ca9df047f99f16b700a09e02619a84b.webp with amount and percent cut off by the dock; amount unchanged from 09:39 / 09:28 / 09:15 / 09:01 / 08:49 / 08:39 / 08:26; was -11.96% at 09:39:23"
+      "pct": -11.54,
+      "note": "Shown as 0.000926 SOL $0.08 -11.54% on scrolled shot /tmp/fomo-gorkbot-desktop-1007-open-scrolled.webp; $0.08 visible on landing /tmp/fomo-gorkbot-desktop-1007-landing.webp, cash /tmp/fomo-gorkbot-desktop-1007-cash-popover.webp, feed /tmp/fomo-gorkbot-desktop-1007-feed.webp, and transactions /tmp/fomo-gorkbot-desktop-1007-transactions.webp with amount and percent cut off by the dock; amount unchanged from 09:48 / 09:39 / 09:28 / 09:15 / 09:01 / 08:49 / 08:39 / 08:26; was -12.38% at 09:48:27"
     },
     {
       "symbol": "AAPLX",
@@ -45,8 +45,8 @@
       "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": 1.69,
-      "note": "Shown as 0.00000829 AAPLX $0.00 +1.69% on scrolled shot /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/9978beb4c247a002cf858877f899d04d1c8a396182e05508b6890f1be6c6cc6d.webp, labelled AAPLX; below the dock on landing /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/5d2d0972f0b4662731960550b0736d2052dee2154891fb2f2eb8d1da8b66efd3.webp and feed shots /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/521fb82f42119a5b8725ab45f747305b532fad51542eb59d3a769d2dc549c3bb.webp / /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/69998bd1b9dd0275343cbd98cab6b5a47ca9df047f99f16b700a09e02619a84b.webp; amount unchanged from 09:39:23 / 09:28:11 / 09:15:04 / 08:49:52; was +1.77% at 09:39:23; token contract not shown this run so prior verified address was kept"
+      "pct": 0.97,
+      "note": "Shown as 0.00000829 AAPLX $0.00 +0.97% on scrolled shot /tmp/fomo-gorkbot-desktop-1007-open-scrolled.webp, labelled AAPLX; below the dock on landing /tmp/fomo-gorkbot-desktop-1007-landing.webp, cash /tmp/fomo-gorkbot-desktop-1007-cash-popover.webp, feed /tmp/fomo-gorkbot-desktop-1007-feed.webp, and transactions /tmp/fomo-gorkbot-desktop-1007-transactions.webp; amount unchanged from 09:48:27 / 09:39:23 / 09:28:11 / 09:15:04 / 08:49:52; was +1.69% at 09:48:27; token contract not shown this run so prior verified address was kept"
     }
   ],
   "trades": [
@@ -59,7 +59,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "55m ago, from 0xad1e...32ae7b",
+      "note": "1h ago, from 0xad1e...32ae7b",
       "price": null
     },
     {
@@ -581,7 +581,7 @@
     {
       "ts": null,
       "side": "sell",
-      "token": "\u76d8\u53e4\u5e01",
+      "token": "盘古币",
       "usd": 15.86,
       "mcap": null,
       "pnl_usd": null,
@@ -593,7 +593,7 @@
     {
       "ts": null,
       "side": "buy",
-      "token": "\u76d8\u53e4\u5e01",
+      "token": "盘古币",
       "usd": 11.69,
       "mcap": null,
       "pnl_usd": null,
@@ -2728,5 +2728,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 9:48 AM ET (screenshot file mtimes 09:48:10 on /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/5d2d0972f0b4662731960550b0736d2052dee2154891fb2f2eb8d1da8b66efd3.webp, 09:48:18 on /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/7e20a2fb762da9b9e4e1fc52791782f8bdb60d78201a8d4ff5f28bb7a8977c90.webp, 09:48:19 on /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/fad9aaa50605893e0f864c6307f9ae91b9ec36f95df1098dfc2754c3bb361fa4.webp, 09:48:23 on /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/9978beb4c247a002cf858877f899d04d1c8a396182e05508b6890f1be6c6cc6d.webp, and 09:48:27 on /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/521fb82f42119a5b8725ab45f747305b532fad51542eb59d3a769d2dc549c3bb.webp and /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/69998bd1b9dd0275343cbd98cab6b5a47ca9df047f99f16b700a09e02619a84b.webp; desktop clock visible as Tue Nov 10 9:48 AM on landing, scrolled, and feed shots): portfolio $1.31 on landing (was $1.01 at 09:39:23; was $1.24 at 09:28:11; was $1.43 at 09:15:04; was $0.70 at 09:01:13; was $0.08 at 08:49:52; was $1.42 at 08:25:59); headers were mostly steady this capture at $1.31 (landing center header $1.31 / landing top-right chip read as $1.30 +$1.16 24h / scrolled top-right chip $1.31 / feed header $1.31 and feed top-right chip $1.31); scrolled center showed $0.08 labelled -$0 Nov 9, 10:00 PM while hovering the chart, which is a historical tooltip not the live portfolio; separate cash/open/transactions tab shots were not captured after landing (Open was already selected on landing and scrolled; Transactions was selected on landing/scrolled; Feed was selected later); 24h +$1.16 (header shows +$1.16 24h on landing center, landing top-right chip, scrolled top-right chip, and feed header/chip; numeric change_24h 1.16; was +$0.59 24h at 09:39); top-right wallet showed $0.00 cash and Deposit more; cash total $0 (Total cash $0 with Withdraw / Deposit on landing, scrolled, and feed); Tokens cash / Perps cash unknown this run because Total cash hover did not expand a popover on /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/521fb82f42119a5b8725ab45f747305b532fad51542eb59d3a769d2dc549c3bb.webp (cash_breakdown_shown false; tokens and perps stored as null); risk not shown; Open (Your positions 3, Show dust checked, Open tab selected on /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/5d2d0972f0b4662731960550b0736d2052dee2154891fb2f2eb8d1da8b66efd3.webp and /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/9978beb4c247a002cf858877f899d04d1c8a396182e05508b6890f1be6c6cc6d.webp): Dacity 520.00 ($1.23, +964.35% on landing /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/5d2d0972f0b4662731960550b0736d2052dee2154891fb2f2eb8d1da8b66efd3.webp; $1.23 +967.01% on scrolled /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/9978beb4c247a002cf858877f899d04d1c8a396182e05508b6890f1be6c6cc6d.webp and feed /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/521fb82f42119a5b8725ab45f747305b532fad51542eb59d3a769d2dc549c3bb.webp / /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/69998bd1b9dd0275343cbd98cab6b5a47ca9df047f99f16b700a09e02619a84b.webp; was 520.00 / $0.76 / +555.61% at 09:39:23; was 520.00 / $1.16 / +905.10% at 09:28:11; was 520.00 / $1.35 / +1,068.77% at 09:15:04; was 520.00 / $0.62 / +437.18% at 09:01:13; was 3K / $1.33 / +2.51% at 08:25:59; absent at 08:39:31 and 08:49:52); SOL 0.000926 ($0.08, -12.38% on scrolled /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/9978beb4c247a002cf858877f899d04d1c8a396182e05508b6890f1be6c6cc6d.webp; $0.08 visible on landing and feed with amount and percent cut off by the dock; amount unchanged from 09:39 / 09:28 / 09:15 / 09:01 / 08:49 / 08:39 / 08:26; was -11.96% at 09:39:23); AAPLX 0.00000829 ($0.00, +1.69% on scrolled /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/9978beb4c247a002cf858877f899d04d1c8a396182e05508b6890f1be6c6cc6d.webp, labelled AAPLX; below the dock on landing and feed; amount unchanged from 09:39:23 / 09:28:11 / 09:15:04 / 08:49:52; was +1.77% at 09:39:23); PUSSY still absent; Feed panel on /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/69998bd1b9dd0275343cbd98cab6b5a47ca9df047f99f16b700a09e02619a84b.webp and /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/521fb82f42119a5b8725ab45f747305b532fad51542eb59d3a769d2dc549c3bb.webp still starts at FOCO Sell $83 1w at $635.2K MC (then FOCO Buy $28 at $624.6K MC, HALLOWEEN Sell $29 at $29.3K MC, FOCO Buy $47 at $528.9K MC, HALLOWEEN Sell $48 at $116.4K MC, HALLOWEEN Buy $108 at $75.2K MC); Transactions tab selected on landing /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/5d2d0972f0b4662731960550b0736d2052dee2154891fb2f2eb8d1da8b66efd3.webp and scrolled /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/9978beb4c247a002cf858877f899d04d1c8a396182e05508b6890f1be6c6cc6d.webp with newest Received +$0.12 from 0xad1e...32ae7b shown as 55m (same row was 46m at 09:39:23, 34m at 09:28:11, 21m at 09:15:04 and 7m at 09:01:13; elapsed time matches); Received +$1.30 from 0xad1e...32ae7b is still not visible; trades 92; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; #1 Trade badge +$1.11 (+965.03% on landing /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/5d2d0972f0b4662731960550b0736d2052dee2154891fb2f2eb8d1da8b66efd3.webp) then +$1.12 (+975.35% on scrolled /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/9978beb4c247a002cf858877f899d04d1c8a396182e05508b6890f1be6c6cc6d.webp) and +$1.10 (+954.07% on feed /cursor/stores/user/grok-bot/agents/3e5e631b-fff2-413b-b5d5-4bc308ba40a0/assets/69998bd1b9dd0275343cbd98cab6b5a47ca9df047f99f16b700a09e02619a84b.webp); open-position sum $1.31 vs landing header $1.31 (Dacity $1.23 + SOL $0.08 + AAPLX $0.00); values loaded, not skeletons; confirmed on screenshot (header $1.31, +$1.16 24h, Total cash $0, tokens/perps split not shown, 92 trades; Open Dacity 520.00 / $1.23 / +967.01%, SOL 0.000926 / $0.08 / -12.38%, AAPLX 0.00000829 / $0.00 / +1.69%, PUSSY absent). Default activity view was Transactions selected on the landing and scrolled shots, with Open selected on the positions panel. No token modal opened this run. Browser helper could not write /tmp/fomo-gorkbot-desktop-0947.png crops; Computer-tool webp screenshots above were used instead."
+  "notes": "read about 10:09 AM ET (screenshot file mtimes 10:08:16 on /tmp/fomo-gorkbot-desktop-1007-landing.webp, 10:08:22 on /tmp/fomo-gorkbot-desktop-1007-cash-popover.webp, 10:08:44 on /tmp/fomo-gorkbot-desktop-1007-open-scrolled.webp, 10:09:00 on /tmp/fomo-gorkbot-desktop-1007-feed.webp, and 10:09:13 on /tmp/fomo-gorkbot-desktop-1007-transactions.webp; desktop clock visible as Tue Nov 10 10:08 AM on landing, cash, scrolled, and feed shots and as Tue Nov 10 10:09 AM on the transactions shot): portfolio $0.90 on landing (was $1.31 at 09:48:27; was $1.01 at 09:39:23; was $1.24 at 09:28:11; was $1.43 at 09:15:04; was $0.70 at 09:01:13; was $0.08 at 08:49:52; was $1.42 at 08:25:59); headers moved during capture as Dacity marked around (landing center $0.90 / landing top-right chip $0.90; cash center $0.91 / cash top-right chip $0.91; scrolled top-right chip $0.91 with center header scrolled off; feed center $0.90 / feed top-right chip $0.90; transactions center $0.90 / transactions top-right chip $0.90); 24h +$0.78 (header shows +$0.78 24h on landing, cash, scrolled top-right chip, feed, and transactions shots; numeric change_24h 0.78; was +$1.16 24h at 09:48); top-right wallet showed $0.00 cash and Deposit more (adjacent chip showed $0.90 and +$0.78 24h on landing / feed / transactions and $0.91 and +$0.78 24h on cash / scrolled); cash $0 (tokens $0 / perps $0 after Total cash hover expanded a popover, verified on /tmp/fomo-gorkbot-desktop-1007-cash-popover.webp); risk not shown; Open (Your positions 3, Show dust checked, Open tab selected on /tmp/fomo-gorkbot-desktop-1007-landing.webp, /tmp/fomo-gorkbot-desktop-1007-cash-popover.webp, /tmp/fomo-gorkbot-desktop-1007-open-scrolled.webp, /tmp/fomo-gorkbot-desktop-1007-feed.webp, and /tmp/fomo-gorkbot-desktop-1007-transactions.webp): Dacity 520.00 ($0.82, +613.86% on landing /tmp/fomo-gorkbot-desktop-1007-landing.webp; $0.83 +620.04% on cash /tmp/fomo-gorkbot-desktop-1007-cash-popover.webp; $0.83 +619.07% on scrolled /tmp/fomo-gorkbot-desktop-1007-open-scrolled.webp; $0.82 +612.63% on feed /tmp/fomo-gorkbot-desktop-1007-feed.webp; $0.82 +610.27% on transactions /tmp/fomo-gorkbot-desktop-1007-transactions.webp; was 520.00 / $1.23 / +967.01% at 09:48:27; was 520.00 / $0.76 / +555.61% at 09:39:23; was 520.00 / $1.16 / +905.10% at 09:28:11; was 520.00 / $1.35 / +1,068.77% at 09:15:04; was 520.00 / $0.62 / +437.18% at 09:01:13; was 3K / $1.33 / +2.51% at 08:25:59; absent at 08:39:31 and 08:49:52); SOL 0.000926 ($0.08, -11.54% on scrolled /tmp/fomo-gorkbot-desktop-1007-open-scrolled.webp; $0.08 visible on landing, cash, feed, and transactions with amount and percent cut off by the dock; amount unchanged from 09:48 / 09:39 / 09:28 / 09:15 / 09:01 / 08:49 / 08:39 / 08:26; was -12.38% at 09:48:27); AAPLX 0.00000829 ($0.00, +0.97% on scrolled /tmp/fomo-gorkbot-desktop-1007-open-scrolled.webp, labelled AAPLX; below the dock on landing, cash, feed, and transactions; amount unchanged from 09:48:27 / 09:39:23 / 09:28:11 / 09:15:04 / 08:49:52; was +1.69% at 09:48:27); PUSSY still absent; Feed panel on /tmp/fomo-gorkbot-desktop-1007-landing.webp and /tmp/fomo-gorkbot-desktop-1007-feed.webp still starts at FOCO Sell $83 1w at $635.2K MC (then FOCO Buy $28 at $624.6K MC, HALLOWEEN Sell $29 at $29.3K MC, FOCO Buy $47 at $528.9K MC, HALLOWEEN Sell $48 at $116.4K MC, HALLOWEEN Buy $108 at $75.2K MC); scrolled feed on /tmp/fomo-gorkbot-desktop-1007-open-scrolled.webp continued through HUSS Sell $108 at $63.9K MC, SOL Buy $98 at $58.2B MC, HUSS Sell $99 at $132K MC, HUSS Buy $98 at $40.0K MC, and A-RSI Buy $100 at $49.9K MC; Transactions tab selected on /tmp/fomo-gorkbot-desktop-1007-transactions.webp with newest Received +$0.12 from 0xad1e...32ae7b shown as 1h (same row was 55m at 09:48:27, 46m at 09:39:23, 34m at 09:28:11, 21m at 09:15:04 and 7m at 09:01:13; elapsed time matches); Received +$1.30 from 0xad1e...32ae7b is still not visible; trades 92; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; #1 Trade badge +$1.29 (+1,121.76% on landing /tmp/fomo-gorkbot-desktop-1007-landing.webp, cash /tmp/fomo-gorkbot-desktop-1007-cash-popover.webp, feed /tmp/fomo-gorkbot-desktop-1007-feed.webp, and transactions /tmp/fomo-gorkbot-desktop-1007-transactions.webp); open-position sum $0.91 vs scrolled/cash header $0.91 (Dacity $0.83 + SOL $0.08 + AAPLX $0.00) and vs landing/feed/transactions header $0.90 (Dacity $0.82 + SOL $0.08 + AAPLX $0.00); values loaded, not skeletons; confirmed on screenshot (header $0.90, +$0.78 24h, Total cash $0, tokens $0 / perps $0, 92 trades; Open Dacity 520.00 / $0.83 / +619.07%, SOL 0.000926 / $0.08 / -11.54%, AAPLX 0.00000829 / $0.00 / +0.97%, PUSSY absent). Default activity view was Feed selected on the landing, cash, scrolled, and feed shots, with Transactions selected on /tmp/fomo-gorkbot-desktop-1007-transactions.webp. No token modal opened this run. Browser helper saved the /tmp webp screenshots above after using the desktop UI because the browser automation bridge was unavailable; helper reported briefly selecting Closed then restoring Open, with no financial action."
 }
