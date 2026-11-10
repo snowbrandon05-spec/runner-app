@@ -1,4 +1,3 @@
-{"ts":"2026-11-06T08:35:14-05:00","from":"crawler","type":"runner_found","token":"GM:B7tXcd782qYKZiZk3HNu6nDzsYLto8hr23rLUKBCpump","detail":"score 72.4 mcap $234,883 liq $45,320 h1 528.0% m5 58.01% br 0.572"}
 {"ts":"2026-11-06T08:38:14-05:00","from":"crawler","type":"rug_risk","token":"DNUT:4vCafgiFHVn6tcCKvi1d9qq7y3VtEQLvfuSavT8Jpump","detail":"low_liquidity"}
 {"ts":"2026-11-06T08:54:39-05:00","from":"crawler","type":"runner_found","token":"coin:GdY4Z6pYUcr3HFrABV5FEZay3J4GnjN1Uzsw6Dvxpump","detail":"score 78.9 mcap $448,677 liq $61,435 h1 66.05% m5 15.34% br 0.549"}
 {"ts":"2026-11-06T08:55:23-05:00","from":"crawler","type":"runner_cooling","token":"coin:GdY4Z6pYUcr3HFrABV5FEZay3J4GnjN1Uzsw6Dvxpump","detail":"score 49.1 h1 57.28% m5 -2.14% flags parabolic_24h_fading"}
@@ -298,3 +297,4 @@
 {"ts": "2026-11-10T12:15:23-05:00", "source": "fomo", "type": "live_refresh", "account": "gorkbot", "portfolio_value": 0.08, "change_24h": 0.0, "cash_total": 0.0, "positions": 2, "newest": {"side": "received", "usd": 0.9, "note": "59m ago, from 0xad1e...32ae7b"}}
 {"ts":"2026-11-10T12:21:36-05:00","source":"fomo","type":"live_refresh","account":"gorkbot","portfolio_value":0.08,"change_24h":0.0,"cash_total":0.0,"positions":2,"newest":{"side":"received","usd":0.9,"note":"1h ago, from 0xad1e...32ae7b"}}
 {"ts":"2026-11-10T12:27:25-05:00","source":"fomo","type":"live_refresh","account":"gorkbot","portfolio_value":0.08,"change_24h":0.0,"cash_total":0.0,"positions":2,"newest":{"side":"received","usd":0.9,"note":"1h ago, from 0xad1e...32ae7b"}}
+{"ts":"2026-11-10T12:45:18-05:00","source":"fomo","type":"live_refresh","account":"gorkbot","portfolio_value":2.58,"change_24h":0.0,"cash_total":0.0,"positions":3,"newest":{"side":"received","usd":0.9,"note":"1h ago, from 0xad1e...32ae7b"}}
