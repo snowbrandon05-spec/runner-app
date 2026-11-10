@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T19:31:00-05:00",
-  "observed_at": "2026-11-09T19:31:00-05:00",
+  "updated_at": "2026-11-09T19:44:00-05:00",
+  "observed_at": "2026-11-09T19:44:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -27,8 +27,8 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -9.81,
-      "note": "Shown as \u25bc 9.81% on Open with Open selected and Show dust checked (/tmp/fomo-gorkbot-desktop-open-1929.png); same-run feed shot -9.85% on /tmp/fomo-gorkbot-desktop-feed-1929.png and transactions shot -9.84% on /tmp/fomo-gorkbot-desktop-transactions-1929.png; was -9.65% at 19:18:00"
+      "pct": -9.77,
+      "note": "Shown as \u25bc 9.77% on Open with Open selected and Show dust checked (/tmp/fomo-gorkbot-desktop-open-1941.png); same-run feed shot -9.77% on /tmp/fomo-gorkbot-desktop-feed-1941.png and transactions shot -9.78% on /tmp/fomo-gorkbot-desktop-transactions-1941.png; was -9.81% at 19:31:00"
     },
     {
       "symbol": "AAPLX",
@@ -37,7 +37,7 @@
       "amount": 8.29e-06,
       "value": 0.0,
       "pct": 1.74,
-      "note": "Shown as \u25b2 1.74% on Open with Open selected and Show dust checked (/tmp/fomo-gorkbot-desktop-open-1929.png); same-run feed and transactions shots also +1.74% on /tmp/fomo-gorkbot-desktop-feed-1929.png and /tmp/fomo-gorkbot-desktop-transactions-1929.png; was +1.79% at 19:18:00"
+      "note": "Shown as \u25b2 1.74% on Open with Open selected and Show dust checked (/tmp/fomo-gorkbot-desktop-open-1941.png); same-run feed and transactions shots +1.75% on /tmp/fomo-gorkbot-desktop-feed-1941.png and /tmp/fomo-gorkbot-desktop-transactions-1941.png; was +1.74% at 19:31:00"
     }
   ],
   "trades": [
@@ -2707,5 +2707,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 7:31 PM ET (screenshot mtimes 19:30 EST on /tmp/fomo-gorkbot-desktop-1929.png and /tmp/fomo-gorkbot-desktop-cash-1929.png, 19:31 EST on /tmp/fomo-gorkbot-desktop-open-1929.png, /tmp/fomo-gorkbot-desktop-feed-1929.png and /tmp/fomo-gorkbot-desktop-transactions-1929.png; desktop clock not visible; landing shot /tmp/fomo-gorkbot-desktop-1929.png): portfolio $0.08 (unchanged from 19:18); 24h +$0 (header shows +$0 24h on desktop, cash, open, feed, and transactions shots; numeric change_24h still 0.0); top-right wallet showed $0.00 cash and Deposit more; cash total $0 (Total cash $0 with Withdraw / Deposit on desktop); Tokens cash balance $0 and Perps cash balance $0 verified on expanded popover /tmp/fomo-gorkbot-desktop-cash-1929.png (Transfer button visible, not clicked); risk not shown; Open (Your positions 2, Show dust checked, Open tab selected on /tmp/fomo-gorkbot-desktop-open-1929.png and also visible on feed/transactions shots): SOL 0.000926 ($0.08, -9.81% on open shot; same-run feed shot -9.85% and transactions shot -9.84%; was -9.65% at 19:18:00); AAPLX 0.00000829 ($0.00, +1.74% on open, feed, and transactions shots; was +1.79% at 19:18:00); PUSSY still absent from Open; landing shot /tmp/fomo-gorkbot-desktop-1929.png had Closed selected showing COCORO and HYPE history, not used as open positions; Feed tab on /tmp/fomo-gorkbot-desktop-feed-1929.png, /tmp/fomo-gorkbot-desktop-cash-1929.png, /tmp/fomo-gorkbot-desktop-open-1929.png, and /tmp/fomo-gorkbot-desktop-1929.png starts at FOCO Sell $83 1w at $635.2K MC (then FOCO Buy $28 at $624.6K MC, HALLOWEEN Sell $29 at $29.3K MC, FOCO Buy $47 at $528.9K MC, HALLOWEEN Sell $48 at $116.4K MC, HALLOWEEN Buy $108 at $75.2K MC); Transactions tab newest is still Sent $1.09 1w to bVeSJT...cg46Vr, then COCORO Sell $1.19 / Buy $2.72, HYPE Sell $2.92 / Buy $2.79, Anakin Sell $2.99, Received +$3.06 from 2bnNGc...g5pjVD, Sent $81.80 to bVeSJT...cg46Vr, FOCO Sell $82.75 / Buy $27.88, HALLOWEEN Sell $29.06, FOCO Buy $46.24; trades list retained from last full verification because SOL/AAPLX amounts and cash total are unchanged so no new fills are evidenced; Received +$0.15 from 0xad1e...32ae7b and +$0.21 from 0x7a16...9818a1 still not visible; trades 92; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; open-position sum $0.08 vs portfolio $0.08 (SOL $0.08 + AAPLX $0.00); values loaded, not skeletons; confirmed on screenshot (header $0.08, +$0 24h, Total cash $0, tokens $0 / perps $0, 92 trades; Open SOL 0.000926 / $0.08 / -9.81%, AAPLX 0.00000829 / $0.00 / +1.74%, PUSSY absent). Default activity view was Feed (Buy/Sell cards)."
+  "notes": "read about 7:44 PM ET (screenshot mtimes 19:44 EST on /tmp/fomo-gorkbot-desktop-1941.png, /tmp/fomo-gorkbot-desktop-cash-1941.png, /tmp/fomo-gorkbot-desktop-open-1941.png, /tmp/fomo-gorkbot-desktop-feed-1941.png and /tmp/fomo-gorkbot-desktop-transactions-1941.png; desktop clock not visible; landing shot /tmp/fomo-gorkbot-desktop-1941.png): portfolio $0.08 (unchanged from 19:31); 24h +$0 (header shows +$0 24h on desktop, cash, open, feed, and transactions shots; numeric change_24h still 0.0); top-right wallet showed $0.00 cash and Deposit more; cash total $0 (Total cash $0 with Withdraw / Deposit on desktop); Tokens cash balance $0 and Perps cash balance $0 verified on expanded popover /tmp/fomo-gorkbot-desktop-cash-1941.png (Transfer button visible, not clicked); risk not shown; Open (Your positions 2, Show dust checked, Open tab selected on /tmp/fomo-gorkbot-desktop-open-1941.png and also visible on feed/transactions shots): SOL 0.000926 ($0.08, -9.77% on open shot; same-run feed shot -9.77% and transactions shot -9.78%; was -9.81% at 19:31:00); AAPLX 0.00000829 ($0.00, +1.74% on open shot; same-run feed and transactions shots +1.75%; was +1.74% at 19:31:00); PUSSY still absent from Open; landing shot /tmp/fomo-gorkbot-desktop-1941.png had Closed selected showing COCORO and HYPE history, not used as open positions; Feed tab on /tmp/fomo-gorkbot-desktop-feed-1941.png, /tmp/fomo-gorkbot-desktop-cash-1941.png, /tmp/fomo-gorkbot-desktop-open-1941.png, and /tmp/fomo-gorkbot-desktop-1941.png starts at FOCO Sell $83 1w at $635.2K MC (then FOCO Buy $28 at $624.6K MC, HALLOWEEN Sell $29 at $29.3K MC, FOCO Buy $47 at $528.9K MC, HALLOWEEN Sell $48 at $116.4K MC, HALLOWEEN Buy $108 at $75.2K MC); Transactions tab newest is still Sent $1.09 1w to bVeSJT...cg46Vr, then COCORO Sell $1.19 / Buy $2.72, HYPE Sell $2.92 / Buy $2.79, Anakin Sell $2.99, Received +$3.06 from 2bnNGc...g5pjVD, Sent $81.80 to bVeSJT...cg46Vr, FOCO Sell $82.75 / Buy $27.88, HALLOWEEN Sell $29.06, FOCO Buy $46.24; trades list retained from last full verification because SOL/AAPLX amounts and cash total are unchanged so no new fills are evidenced; Received +$0.15 from 0xad1e...32ae7b and +$0.21 from 0x7a16...9818a1 still not visible; trades 92; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; open-position sum $0.08 vs portfolio $0.08 (SOL $0.08 + AAPLX $0.00); values loaded, not skeletons; confirmed on screenshot (header $0.08, +$0 24h, Total cash $0, tokens $0 / perps $0, 92 trades; Open SOL 0.000926 / $0.08 / -9.77%, AAPLX 0.00000829 / $0.00 / +1.74%, PUSSY absent). Default activity view was Feed (Buy/Sell cards)."
 }
