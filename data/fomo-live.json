@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T13:12:26-05:00",
-  "observed_at": "2026-11-10T13:12:26-05:00",
+  "updated_at": "2026-11-10T13:32:46-05:00",
+  "observed_at": "2026-11-10T13:32:46-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -18,17 +18,26 @@
   },
   "starting_balance": null,
   "change_24h": 0.0,
-  "portfolio_value": 0.08,
-  "balance": 0.08,
+  "portfolio_value": 5.68,
+  "balance": 5.68,
   "positions": [
+    {
+      "symbol": "FLOAT",
+      "name": "FLOAT",
+      "address": null,
+      "amount": 3200,
+      "value": 5.6,
+      "pct": null,
+      "note": "Shown as 3.2K FLOAT $5.60 with percent -- on /tmp/fomo-gorkbot-desktop-1331-transactions.png (Open, Show dust checked, Your positions 3); was $5.44 on /tmp/fomo-gorkbot-desktop-1331-open-scrolled.png and /tmp/fomo-gorkbot-desktop-1331-landing-cash-popover.png; was $5.27 on /tmp/fomo-gorkbot-desktop-1331-landing.png; FLOAT was absent at 13:12:26; was 3K $0 -100.00% at 12:57:17; was 3K $2.50 +8,837.46% at 12:45:18; token contract not shown this run so address left null"
+    },
     {
       "symbol": "SOL",
       "name": "SOL",
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -14.01,
-      "note": "Shown as 0.000926 SOL $0.08 -14.01% on /tmp/fomo-gorkbot-desktop-1309-transactions.png (Open, Show dust checked, Your positions 2); was -14.05% on /tmp/fomo-gorkbot-desktop-1309-open-scrolled.png; was -13.98% at 12:57:17; token contract not shown this run so prior verified address was kept"
+      "pct": -13.54,
+      "note": "Shown as 0.000926 SOL $0.08 -13.54% on /tmp/fomo-gorkbot-desktop-1331-landing.png and /tmp/fomo-gorkbot-desktop-1331-transactions.png (Open, Show dust checked, Your positions 3); was -13.58% on /tmp/fomo-gorkbot-desktop-1331-landing-cash-popover.png and /tmp/fomo-gorkbot-desktop-1331-open-scrolled.png; was -14.01% at 13:12:26; token contract not shown this run so prior verified address was kept"
     },
     {
       "symbol": "AAPLX",
@@ -37,7 +46,7 @@
       "amount": 8.29e-06,
       "value": 0.0,
       "pct": 0.76,
-      "note": "Shown as 0.00000829 AAPLX $0.00 +0.76% on /tmp/fomo-gorkbot-desktop-1309-open-scrolled.png and /tmp/fomo-gorkbot-desktop-1309-transactions.png; same +0.76% at 12:57:17; token contract not shown this run so prior verified address was kept"
+      "note": "Shown as 0.00000829 AAPLX $0.00 +0.76% on /tmp/fomo-gorkbot-desktop-1331-landing.png, /tmp/fomo-gorkbot-desktop-1331-landing-cash-popover.png, /tmp/fomo-gorkbot-desktop-1331-open-scrolled.png and /tmp/fomo-gorkbot-desktop-1331-transactions.png; same +0.76% at 13:12:26; token contract not shown this run so prior verified address was kept"
     }
   ],
   "trades": [
@@ -50,7 +59,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on transactions at 13:12:26 (list showed Sent $1.09 1w to bVeSJT...cg46Vr as newest, with no +$0.90 row above it); last verified at 12:45:18 as 1h ago from 0xad1e...32ae7b (shown as 0xad1e...32a... on /tmp/fomo-gorkbot-desktop-1242-transactions.png)",
+      "note": "not visible on transactions at 13:32:46 (list showed Sent $1.09 1w to bVeSJT...cg46Vr as newest, with no +$0.90 row above it); last verified at 12:45:18 as 1h ago from 0xad1e...32ae7b (shown as 0xad1e...32a... on /tmp/fomo-gorkbot-desktop-1242-transactions.png)",
       "price": null
     },
     {
@@ -62,7 +71,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on transactions at 13:12:26, 12:57:17, or 12:45:18 (list showed Sent $1.09 1w to bVeSJT...cg46Vr, with no +$0.12 row); last verified at 11:02:29 from 0xad1e...32ae7b",
+      "note": "not visible on transactions at 13:32:46, 13:12:26, 12:57:17, or 12:45:18 (list showed Sent $1.09 1w to bVeSJT...cg46Vr, with no +$0.12 row); last verified at 11:02:29 from 0xad1e...32ae7b",
       "price": null
     },
     {
@@ -74,7 +83,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago, to bVeSJT...cg46Vr; newest visible row on /tmp/fomo-gorkbot-desktop-1309-transactions.png (shown as bVeSJT...cg4... Sent -$1.09 1w)",
+      "note": "1w ago, to bVeSJT...cg46Vr; newest visible row on /tmp/fomo-gorkbot-desktop-1331-transactions.png (shown as bVeSJT...cg46 Sent -$1.09 1w)",
       "price": null
     },
     {
@@ -86,7 +95,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.00000265 on /tmp/fomo-gorkbot-desktop-1309-transactions.png",
+      "note": "1w ago; price $0.00000265 on /tmp/fomo-gorkbot-desktop-1331-transactions.png",
       "price": 2.65e-06
     },
     {
@@ -98,7 +107,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.00000596 on /tmp/fomo-gorkbot-desktop-1309-transactions.png",
+      "note": "1w ago; price $0.00000596 on /tmp/fomo-gorkbot-desktop-1331-transactions.png",
       "price": 5.96e-06
     },
     {
@@ -110,7 +119,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $87.94 on /tmp/fomo-gorkbot-desktop-1309-transactions.png",
+      "note": "1w ago; price $87.94 on /tmp/fomo-gorkbot-desktop-1331-transactions.png",
       "price": 87.94
     },
     {
@@ -122,7 +131,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $87.94 on /tmp/fomo-gorkbot-desktop-1309-transactions.png",
+      "note": "1w ago; price $87.94 on /tmp/fomo-gorkbot-desktop-1331-transactions.png",
       "price": 87.94
     },
     {
@@ -134,7 +143,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.00310 on /tmp/fomo-gorkbot-desktop-1309-transactions.png",
+      "note": "1w ago; price $0.00310 on /tmp/fomo-gorkbot-desktop-1331-transactions.png",
       "price": 0.0031
     },
     {
@@ -146,7 +155,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago, from 2bnNGc...g5pjVD; shown as 2bnNGc...g5... Received +$3.06 1w on /tmp/fomo-gorkbot-desktop-1309-transactions.png",
+      "note": "1w ago, from 2bnNGc...g5pjVD; shown as 2bnNGc...g5p... Received +$3.06 1w on /tmp/fomo-gorkbot-desktop-1331-transactions.png",
       "price": null
     },
     {
@@ -158,7 +167,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago, to bVeSJT...cg46Vr; shown as bVeSJT...cg4... Sent -$81.80 1w on /tmp/fomo-gorkbot-desktop-1309-transactions.png",
+      "note": "1w ago, to bVeSJT...cg46Vr; shown as bVeSJT...cg46 Sent -$81.80 1w on /tmp/fomo-gorkbot-desktop-1331-transactions.png",
       "price": null
     },
     {
@@ -170,7 +179,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000644 on /tmp/fomo-gorkbot-desktop-1309-transactions.png",
+      "note": "1w ago; price $0.000644 on /tmp/fomo-gorkbot-desktop-1331-transactions.png",
       "price": 0.000644
     },
     {
@@ -182,7 +191,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000633 on /tmp/fomo-gorkbot-desktop-1309-transactions.png",
+      "note": "1w ago; price $0.000633 on /tmp/fomo-gorkbot-desktop-1331-transactions.png",
       "price": 0.000633
     },
     {
@@ -194,7 +203,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000306 on /tmp/fomo-gorkbot-desktop-1309-transactions.png",
+      "note": "1w ago; price $0.0000306 on /tmp/fomo-gorkbot-desktop-1331-transactions.png",
       "price": 3.06e-05
     },
     {
@@ -206,7 +215,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000536 on /tmp/fomo-gorkbot-desktop-1309-transactions.png",
+      "note": "1w ago; price $0.000536 on /tmp/fomo-gorkbot-desktop-1331-transactions.png",
       "price": 0.000536
     },
     {
@@ -218,7 +227,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000121 on /tmp/fomo-gorkbot-desktop-1309-transactions.png",
+      "note": "1w ago; price $0.000121 on /tmp/fomo-gorkbot-desktop-1331-transactions.png",
       "price": 0.000121
     },
     {
@@ -230,7 +239,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000785 on /tmp/fomo-gorkbot-desktop-1309-transactions.png",
+      "note": "1w ago; price $0.0000785 on /tmp/fomo-gorkbot-desktop-1331-transactions.png",
       "price": 7.85e-05
     },
     {
@@ -242,7 +251,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $95.88 on /tmp/fomo-gorkbot-desktop-1309-transactions.png",
+      "note": "1w ago; price $95.88 on /tmp/fomo-gorkbot-desktop-1331-transactions.png",
       "price": 95.88
     },
     {
@@ -254,7 +263,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago, to bVeSJT...cg46Vr; shown as bVeSJT...cg4... Sent -$106.99 1w on /tmp/fomo-gorkbot-desktop-1309-transactions.png (last visible row this run)",
+      "note": "1w ago, to bVeSJT...cg46Vr; shown as bVeSJT...cg46 Sent -$106.99 1w on /tmp/fomo-gorkbot-desktop-1331-transactions.png (last visible row this run)",
       "price": null
     },
     {
@@ -584,7 +593,7 @@
     {
       "ts": null,
       "side": "sell",
-      "token": "盘古币",
+      "token": "\u76d8\u53e4\u5e01",
       "usd": 15.86,
       "mcap": null,
       "pnl_usd": null,
@@ -596,7 +605,7 @@
     {
       "ts": null,
       "side": "buy",
-      "token": "盘古币",
+      "token": "\u76d8\u53e4\u5e01",
       "usd": 11.69,
       "mcap": null,
       "pnl_usd": null,
@@ -2731,5 +2740,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 1:12 PM ET (screenshot mtimes: landing 13:10:59, landing-cash-popover 13:11:22, open-scrolled 13:11:57, transactions 13:12:26 under /tmp/fomo-gorkbot-desktop-1309-*.png; no separate Feed-tab or Cash-tab-only shot — cash popover captured on landing; Feed panel visible on landing and open-scrolled; no desktop clock visible this run); no sign-in required; final URL https://fomo.family/profile/gorkbot?r=gorkbot; headers steady at $0.08 on landing / cash-popover / open-scrolled / transactions (was $0.08 at 12:57:17; was $1.98 landing / $2.17 cash-popover / $2.55 open-scrolled / $2.58 transactions at 12:45:18); used last shot (transactions $0.08) as portfolio_value/balance; 24h -$0 on all shots (numeric 0.0); Total cash $0; clicking Total cash row opened popover with Tokens cash balance $0 and Perps cash balance $0 and a Transfer button (not clicked); closed popover with Escape; Open (Your positions 2, Show dust checked): SOL 0.000926 $0.08 -14.01% on transactions (was -14.05% on open-scrolled; was -13.98% at 12:57:17); AAPLX 0.00000829 $0.00 +0.76% on open-scrolled and transactions (same +0.76% at 12:57:17); FLOAT absent this run (was 3K $0 -100.00% at 12:57:17; was $2.50 +8,837.46% at 12:45:18); AudaCity, Dacity, PUSSY absent; landing showed All/Closed list (not Open): COCORO -$1.53 -56.15%, HYPE +$0 0.00%, Anakin -$0.07 -2.41%, FOCO +$8.63 +11.65%, HALLOWEEN -$29.75 -27.82%; Transactions newest visible: Sent $1.09 to bVeSJT...cg4.. 1w, Sell COCORO $1.19 at $0.00000265, Buy COCORO $2.72 at $0.00000596, Sell HYPE $2.92 at $87.94, Buy HYPE $2.79 at $87.94, Sell Anakin $2.99 at $0.00310, Received +$3.06 from 2bnNGc...g5.., Sent $81.80, Sell FOCO $82.75 at $0.000644, Buy FOCO $27.88 at $0.000633, Sell HALLOWEEN $29.06 at $0.0000306, Buy FOCO $46.24 at $0.000536, Sell HALLOWEEN $48.13 at $0.000121, Buy HALLOWEEN $106.95 at $0.0000785, Sell SOL $108.00 at $95.88, Sent $106.99; Received +$0.90 from 0xad1e...32ae7b and previous Received +$0.12 not visible; Feed panel starts FOCO Sell $83 1w at $635.2K MC, FOCO Buy $28 at $624.6K MC, HALLOWEEN Sell $29 at $29.3K MC, FOCO Buy $47 at $528.9K MC, HALLOWEEN Sell $48 at $116.4K MC, HALLOWEEN Buy $108 at $75.5K MC, HUGE Sell $108 at $63.9K MC, SOL Sell $108 at $68.2K MC; left Discover feed also showed other traders (not gorkbot positions): cobratrade GOLD opened, slotbandit FLOAT sell, mynt_josh NVDA opened; trades 92; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; values loaded (not skeleton); open-row sum $0.08+$0.00=$0.08 matches header on open-scrolled and transactions; Helper left Open + Show dust + Transactions selected; no financial action."
+  "notes": "read about 1:32 PM ET (screenshot mtimes: landing / landing-cash-popover / open-scrolled / transactions all 13:32:46 under /tmp/fomo-gorkbot-desktop-1331-*.png \u2014 helper said browser-tool saves to /tmp were silent so files were copied from the screenshot tool; copy timestamps are identical; no separate Feed-tab or Cash-tab-only shot \u2014 cash popover captured on landing; Feed panel visible on landing and open-scrolled; no desktop clock visible this run); no sign-in required; final URL https://fomo.family/profile/gorkbot?r=gorkbot; headers moved during capture as FLOAT marked up: $5.35 landing / $5.51 cash-popover / $5.51 open-scrolled / $5.68 transactions (was $0.08 at 13:12:26; was $0.08 at 12:57:17; was $1.98 landing / $2.17 cash-popover / $2.55 open-scrolled / $2.58 transactions at 12:45:18); used last shot (transactions $5.68) as portfolio_value/balance; 24h -$0 on all shots (numeric 0.0); Total cash $0; clicking Total cash row opened popover with Tokens cash balance $0 and Perps cash balance $0 and a Transfer button (not clicked); closed popover with Escape; Open (Your positions 3, Show dust checked): FLOAT 3.2K $5.60 percent -- on transactions (was $5.44 open-scrolled and cash-popover; was $5.27 landing; was absent at 13:12:26; was 3K $0 -100.00% at 12:57:17; was 3K $2.50 +8,837.46% at 12:45:18); SOL 0.000926 $0.08 -13.54% on landing and transactions (was -13.58% cash-popover and open-scrolled; was -14.01% at 13:12:26); AAPLX 0.00000829 $0.00 +0.76% on all four shots (same +0.76% at 13:12:26); AudaCity, Dacity, PUSSY absent; Transactions newest visible: Sent $1.09 to bVeSJT...cg46 1w, Sell COCORO $1.19 at $0.00000265, Buy COCORO $2.72 at $0.00000596, Sell HYPE $2.92 at $87.94, Buy HYPE $2.79 at $87.94, Sell Anakin $2.99 at $0.00310, Received +$3.06 from 2bnNGc...g5p.., Sent $81.80, Sell FOCO $82.75 at $0.000644, Buy FOCO $27.88 at $0.000633, Sell HALLOWEEN $29.06 at $0.0000306, Buy FOCO $46.24 at $0.000536, Sell HALLOWEEN $48.13 at $0.000121, Buy HALLOWEEN $106.95 at $0.0000785, Sell SOL $108.00 at $95.88, Sent $106.99; Received +$0.90 from 0xad1e...32ae7b and previous Received +$0.12 not visible; Feed panel starts FOCO Sell $83 1w at $635.2K MC, FOCO Buy $28 at $624.6K MC, HALLOWEEN Sell $29 at $29.3K MC, FOCO Buy $47 at $528.9K MC, HALLOWEEN Sell $48 at $116.4K MC, HALLOWEEN Buy $108 at $75.5K MC, HUSS Sell $108 at $63.9K MC, SOL Buy $98 at $68.2K MC; left Discover feed also showed other traders (not gorkbot positions): fomo recap pinned, luciol WASTED, LargeProudApe Dacity buy, Lordeddy Dacity sell, jul3ss GATE, Binkieee thesis; trades 92; followers 11 / following 33 / avg hold 1h 36m / joined Oct 2026; values loaded (not skeleton); open-row sum $5.60+$0.08+$0.00=$5.68 matches header on transactions; Helper left Open + Show dust + Transactions selected; no financial action."
 }
