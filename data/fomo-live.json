@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T10:17:28-05:00",
-  "observed_at": "2026-11-11T10:17:28-05:00",
+  "updated_at": "2026-11-11T10:32:14-05:00",
+  "observed_at": "2026-11-11T10:32:14-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -18,17 +18,17 @@
   },
   "starting_balance": null,
   "change_24h": 0.0,
-  "portfolio_value": 5.71,
-  "balance": 5.71,
+  "portfolio_value": 20.16,
+  "balance": 20.16,
   "positions": [
     {
       "symbol": "mihao",
       "name": "mihao",
       "address": null,
       "amount": 3300.0,
-      "value": 5.63,
-      "pct": 2531.04,
-      "note": "Shown as 3.3K mihao $5.63 +2,531.04% on /tmp/fomo-gorkbot-desktop-1012-transactions.png (crop /tmp/fomo-1012-crops/tx-v2-pos-rows.png); Open, Show dust checked, Your positions 3 on landing, cash-popover, open-scrolled, and transactions; amount stored as 3300 from the on-screen 3.3K compact figure (no fuller token count was shown); token contract not shown this run so address is null; live value moved during the scrape: landing 10:15:54 $7.94 +3,609.81% (crops /tmp/fomo-1012-crops/land-v2-pos-rows.png and /tmp/fomo-1012-crops/land-v2-pos-vals.png; center header $8.02 matched 7.94+0.08; #1 Trade badge +$7.87 +3,678.99% on /tmp/fomo-1012-crops/land-v2-header.png); cash-popover 10:16:15 $7.00 +3,171.28% (crops /tmp/fomo-1012-crops/cash-v2-pos-rows.png and /tmp/fomo-1012-crops/cash-mihao-pct2.png; center $7.08 matched 7.00+0.08; badge +$6.51 +3,041.47% on /tmp/fomo-1012-crops/cash-v2-header.png); open-scrolled 10:16:35 $6.62 +2,996.02% (crops /tmp/fomo-1012-crops/open-v2-pos-rows.png and /tmp/fomo-1012-crops/open-v2-pos-vals.png; center $6.70 matched 6.62+0.08; badge +$6.03 +2,818.83%); transactions 10:17:28 $5.63 +2,531.04% (center $5.71 matched 5.63+0.08; badge +$5.46 +2,551.07% on /tmp/fomo-1012-crops/tx-v2-header.png); not present at 10:05:17 when open positions were only SOL and AAPLX; GTA6/FLOAT/HI/MONEKO/AudaCity/Dacity/PUSSY absent as open positions"
+      "value": 20.08,
+      "pct": 9286.29,
+      "note": "Shown as 3.3K mihao $20.08 +9,286.29% on /tmp/fomo-gorkbot-desktop-1029-transactions.png (crop /tmp/fomo-1029-crops/tx-v2-pos-rows.png and zoom /tmp/fomo-1029-crops/tx-sol-pct-x4.png); Open, Show dust checked, Your positions 3 on landing, cash-popover, open-scrolled, and transactions; amount stored as 3300 from the on-screen 3.3K compact figure (no fuller token count was shown); token contract not shown this run so address is null; live value moved during the scrape: landing 10:30:49 $21.65 +10,019.15% (crops /tmp/fomo-1029-crops/land-v2-pos-rows.png and /tmp/fomo-1029-crops/land-sol-pct-x4.png; center header $21.73 matched 21.65+0.08; #1 Trade badge +$21.54 +10,069.07% on /tmp/fomo-1029-crops/land-v2-header.png and /tmp/fomo-1029-crops/land-v2-badge.png); cash-popover 10:31:13 $21.78 +10,080.48% (crops /tmp/fomo-1029-crops/cash-v2-pos-rows.png and /tmp/fomo-1029-crops/cash-sol-pct-x4.png; center $21.86 matched 21.78+0.08; badge +$21.58 +10,080.70% on /tmp/fomo-1029-crops/cash-v2-header.png and /tmp/fomo-1029-crops/cash-v2-badge.png); open-scrolled 10:31:33 $20.89 +9,664.34% (crops /tmp/fomo-1029-crops/open-v2-pos-rows.png and /tmp/fomo-1029-crops/open-sol-pct-x4.png; center $20.97 matched 20.89+0.08; badge +$20.72 +9,665.00% on /tmp/fomo-1029-crops/open-v2-header.png and /tmp/fomo-1029-crops/open-v2-badge.png); transactions 10:32:14 $20.08 +9,286.29% (center $20.16 matched 20.08+0.08; badge +$19.94 +9,322.45% on /tmp/fomo-1029-crops/tx-v2-header.png and /tmp/fomo-1029-crops/tx-v2-badge.png); was 3.3K $5.63 +2,531.04% at 10:17:28; GTA6/FLOAT/HI/MONEKO/AudaCity/Dacity/PUSSY absent as open positions"
     },
     {
       "symbol": "SOL",
@@ -37,7 +37,7 @@
       "amount": 0.000926,
       "value": 0.08,
       "pct": -12.38,
-      "note": "Shown as 0.000926 SOL $0.08 -12.38% on /tmp/fomo-gorkbot-desktop-1012-open-scrolled.png, /tmp/fomo-gorkbot-desktop-1012-cash-popover.png, and /tmp/fomo-gorkbot-desktop-1012-transactions.png (crops /tmp/fomo-1012-crops/open-v2-pos-rows.png, /tmp/fomo-1012-crops/open-v2-pos-vals.png, /tmp/fomo-1012-crops/tx-v2-pos-rows.png, and /tmp/fomo-1012-crops/cash-v2-pos-rows.png); landing PNG at 10:15:54 read -12.31% (crops /tmp/fomo-1012-crops/land-v2-pos-rows.png and /tmp/fomo-1012-crops/land-v2-pos-vals.png); helper reported -12.38% on all views, but the saved landing PNG reads -12.31%; was -12.46% on landing and open-scrolled at 10:05:17; token contract not shown this run so prior verified address was kept"
+      "note": "Shown as 0.000926 SOL $0.08 -12.38% on /tmp/fomo-gorkbot-desktop-1029-transactions.png (crops /tmp/fomo-1029-crops/tx-v2-pos-rows.png and zoom /tmp/fomo-1029-crops/tx-sol-pct-x4.png); landing PNG at 10:30:49 read -12.34% (crop /tmp/fomo-1029-crops/land-sol-pct-x4.png); cash-popover PNG at 10:31:13 read -12.26% (crop /tmp/fomo-1029-crops/cash-sol-pct-x4.png); open-scrolled PNG at 10:31:33 read -12.29% (crop /tmp/fomo-1029-crops/open-sol-pct-x4.png); helper reported cash-popover SOL as -12.29%, but the saved cash-popover PNG reads -12.26%; helper reported landing -12.34%, open-scrolled -12.29%, and transactions -12.38%, matching those saved PNGs; was -12.38% on cash-popover/open-scrolled/transactions at 10:17:28 (landing then -12.31%); token contract not shown this run so prior verified address was kept"
     },
     {
       "symbol": "AAPLX",
@@ -46,7 +46,7 @@
       "amount": 8.29e-06,
       "value": 0.0,
       "pct": 2.39,
-      "note": "Shown as 0.00000829 AAPLX $0.00 +2.39% on landing, cash-popover, open-scrolled, and transactions (crops /tmp/fomo-1012-crops/land-v2-pos-rows.png, /tmp/fomo-1012-crops/open-v2-pos-rows.png, /tmp/fomo-1012-crops/tx-v2-pos-rows.png, and /tmp/fomo-1012-crops/cash-v2-pos-rows.png); Open, Show dust checked, Your positions 3; was +2.39% at 10:05:17; token contract not shown this run so prior verified address was kept"
+      "note": "Shown as 0.00000829 AAPLX $0.00 +2.39% on landing, cash-popover, open-scrolled, and transactions (crops /tmp/fomo-1029-crops/land-v2-pos-rows.png, /tmp/fomo-1029-crops/open-v2-pos-rows.png, /tmp/fomo-1029-crops/tx-v2-pos-rows.png, and /tmp/fomo-1029-crops/cash-v2-pos-rows.png); Open, Show dust checked, Your positions 3; was +2.39% at 10:17:28; token contract not shown this run so prior verified address was kept"
     }
   ],
   "trades": [
@@ -59,7 +59,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "9m ago, from 0xf3e0...62b8fe; newest visible row on /tmp/fomo-gorkbot-desktop-1012-transactions.png (shown as 0xf3e0...62b8fe Received +$0.21 9m on crop /tmp/fomo-1012-crops/tx-first-rows.png and /tmp/fomo-1012-crops/tx-v2-tx-top.png); helper reported 8m, but the saved PNG reads 9m; not present at 10:05:17 when newest visible was Sent to bVeSJT...cg46...; coincides with the new 3.3K mihao open position that was also absent at 10:05:17; cash still Total cash $0 / tokens $0 / perps $0 on the verified popover",
+      "note": "23m ago, from 0xf3e0...62b8fe; newest visible row on /tmp/fomo-gorkbot-desktop-1029-transactions.png (shown as 0xf3e0...62b8fe Received +$0.21 23m on crop /tmp/fomo-1029-crops/tx-first-rows.png and /tmp/fomo-1029-crops/tx-v2-tx-top.png); was 9m ago at 10:17:28; not present at 10:05:17 when newest visible was Sent to bVeSJT...cg46...; coincides with the 3.3K mihao open position first seen at 10:17:28; cash still Total cash $0 / tokens $0 / perps $0 on the verified popover",
       "price": null
     },
     {
@@ -71,7 +71,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on transactions at 10:17:28 (list showed Received +$0.21 from 0xf3e0...62b8fe as newest, then Sent to bVeSJT...cg46..., with no +$0.14 Received row on /tmp/fomo-gorkbot-desktop-1012-transactions.png and crop /tmp/fomo-1012-crops/tx-v2-tx-top.png); not visible on transactions at 10:05:17 (list showed Sent to bVeSJT...cg46... as newest, then Sell COCORO); not visible at 09:55:56, 09:38:33, 09:12:57, 08:53:57, 08:32:38 and 08:27:18; was 41m ago at 08:08:06, from 0x568e...c706..., newest visible row on /tmp/fomo-gorkbot-desktop-0806-transactions.png (shown as 0x568e...c706... Received +$0.14 41m)",
+      "note": "not visible on transactions at 10:32:14 (list showed Received +$0.21 from 0xf3e0...62b8fe as newest, then Sent to bVeSJT...cg46..., with no +$0.14 Received row on /tmp/fomo-gorkbot-desktop-1029-transactions.png and crop /tmp/fomo-1029-crops/tx-v2-tx-top.png); not visible on transactions at 10:17:28 or 10:05:17; not visible at 09:55:56, 09:38:33, 09:12:57, 08:53:57, 08:32:38 and 08:27:18; was 41m ago at 08:08:06, from 0x568e...c706..., newest visible row on /tmp/fomo-gorkbot-desktop-0806-transactions.png (shown as 0x568e...c706... Received +$0.14 41m)",
       "price": null
     },
     {
@@ -83,7 +83,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on transactions at 10:17:28 (list showed Received +$0.21 from 0xf3e0...62b8fe as newest, then Sent to bVeSJT...cg46..., with no +$0.10 row); not visible at 10:05:17, 09:55:56, 09:38:33, 09:12:57, 08:53:57, 08:32:38, or 08:08:06; last verified at 14:30:33 as 30m ago from 0xad1e...32ae7b (shown as 0xad1e...32ae... Received +$0.10 30m on /tmp/fomo-gorkbot-desktop-1429-transactions.png)",
+      "note": "not visible on transactions at 10:32:14 (list showed Received +$0.21 from 0xf3e0...62b8fe as newest, then Sent to bVeSJT...cg46..., with no +$0.10 row); not visible at 10:17:28, 10:05:17, 09:55:56, 09:38:33, 09:12:57, 08:53:57, 08:32:38, or 08:08:06; last verified at 14:30:33 as 30m ago from 0xad1e...32ae7b (shown as 0xad1e...32ae... Received +$0.10 30m on /tmp/fomo-gorkbot-desktop-1429-transactions.png)",
       "price": null
     },
     {
@@ -95,7 +95,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on transactions at 10:17:28 (list showed Received +$0.21 from 0xf3e0...62b8fe as newest, then Sent to bVeSJT...cg46..., with no +$0.90 row); not visible at 10:05:17, 09:55:56, 09:38:33, 09:12:57, 08:53:57, 08:32:38, or 08:08:06; last verified at 12:45:18 as 1h ago from 0xad1e...32ae7b (shown as 0xad1e...32a... on /tmp/fomo-gorkbot-desktop-1242-transactions.png)",
+      "note": "not visible on transactions at 10:32:14 (list showed Received +$0.21 from 0xf3e0...62b8fe as newest, then Sent to bVeSJT...cg46..., with no +$0.90 row); not visible at 10:17:28, 10:05:17, 09:55:56, 09:38:33, 09:12:57, 08:53:57, 08:32:38, or 08:08:06; last verified at 12:45:18 as 1h ago from 0xad1e...32ae7b (shown as 0xad1e...32a... on /tmp/fomo-gorkbot-desktop-1242-transactions.png)",
       "price": null
     },
     {
@@ -107,7 +107,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on transactions at 10:17:28, 10:05:17, 09:55:56, 09:38:33, 09:12:57, 08:53:57, 08:32:38, 08:27:18, or 08:08:06 (list now starts Received +$0.21 from 0xf3e0...62b8fe, then Sent to bVeSJT...cg46..., with no +$0.12 row); last verified at 11:02:29 from 0xad1e...32ae7b",
+      "note": "not visible on transactions at 10:32:14, 10:17:28, 10:05:17, 09:55:56, 09:38:33, 09:12:57, 08:53:57, 08:32:38, 08:27:18, or 08:08:06 (list now starts Received +$0.21 from 0xf3e0...62b8fe, then Sent to bVeSJT...cg46..., with no +$0.12 row); last verified at 11:02:29 from 0xad1e...32ae7b",
       "price": null
     },
     {
@@ -119,7 +119,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago, to bVeSJT...cg46Vr; second visible row on /tmp/fomo-gorkbot-desktop-1012-transactions.png (shown as bVeSJT...cg46... Sent -$1.09 1w; amount independently readable this run on crops /tmp/fomo-1012-crops/tx-first-rows.png and /tmp/fomo-1012-crops/tx-v2-tx-top.png); newest visible is now Received +$0.21 9m from 0xf3e0...62b8fe; was the newest visible row at 10:05:17 when the amount column was clipped",
+      "note": "1w ago, to bVeSJT...cg46Vr; second visible row on /tmp/fomo-gorkbot-desktop-1029-transactions.png (shown as bVeSJT...cg46... Sent -$1.09 1w; amount independently readable this run on crops /tmp/fomo-1029-crops/tx-first-rows.png and /tmp/fomo-1029-crops/tx-v2-tx-top.png); newest visible is Received +$0.21 23m from 0xf3e0...62b8fe",
       "price": null
     },
     {
@@ -251,7 +251,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000536 independently re-read on /tmp/fomo-gorkbot-desktop-1012-transactions.png (crop /tmp/fomo-1012-crops/tx-v2-tx-top.png); helper reported $0.0000536 this run, but the saved PNG reads $0.000536, matching the prior verified price from /tmp/fomo-gorkbot-desktop-1352-transactions.png",
+      "note": "1w ago; price $0.000536 independently re-read on /tmp/fomo-gorkbot-desktop-1029-transactions.png (crop /tmp/fomo-1029-crops/tx-prices-bot-x2.png and /tmp/fomo-1029-crops/tx-v2-tx-top.png); helper reported $0.000536 this run, matching the saved PNG and the prior verified price from /tmp/fomo-gorkbot-desktop-1352-transactions.png",
       "price": 0.000536
     },
     {
@@ -629,7 +629,7 @@
     {
       "ts": null,
       "side": "sell",
-      "token": "\u76d8\u53e4\u5e01",
+      "token": "盘古币",
       "usd": 15.86,
       "mcap": null,
       "pnl_usd": null,
@@ -641,7 +641,7 @@
     {
       "ts": null,
       "side": "buy",
-      "token": "\u76d8\u53e4\u5e01",
+      "token": "盘古币",
       "usd": 11.69,
       "mcap": null,
       "pnl_usd": null,
@@ -2776,5 +2776,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 10:17 AM ET (saved shot mtimes 10:15:54 on /tmp/fomo-gorkbot-desktop-1012-landing.png, 10:16:15 on /tmp/fomo-gorkbot-desktop-1012-cash-popover.png, 10:16:35 on /tmp/fomo-gorkbot-desktop-1012-open-scrolled.png, and 10:17:28 on /tmp/fomo-gorkbot-desktop-1012-transactions.png); no sign-in required; opened https://fomo.family/profile/gorkbot (site added ?r=gorkbot on the shots); helper persisted native desktop PNGs (1280x800) at the requested paths; helper clicked the Total cash amount and the popover overlay is visible on /tmp/fomo-gorkbot-desktop-1012-cash-popover.png and crop /tmp/fomo-1012-crops/cash-v2-cash-pop.png: Tokens cash balance $0 and Perps cash balance $0 plus a Transfer button (not clicked); Total cash $0 is independently visible on landing, cash-popover, open-scrolled, and transactions shots; top-right mini header was fully inside the persisted 1280x800 frames this run and read $0.00 cash plus Deposit more with the same portfolio as the center header and -$0 24h on all four shots (crops /tmp/fomo-1012-crops/land-mini-wide.png, cash-mini-wide.png, open-mini-wide.png, tx-mini-wide.png); helper reported mini-header 24h as -$0.24, but the saved PNGs read -$0 24h matching the center headers, so change_24h is 0.0; Tokens/Perps recorded as $0/$0 from the verified popover overlay together with Total cash $0; Total cash row also shows Withdraw and Deposit buttons beside it (not clicked); Open (Your positions 3, Show dust checked): new mihao 3.3K plus SOL 0.000926 $0.08 and AAPLX 0.00000829 $0.00 +2.39%; live header moved during capture: landing $8.02 (mihao $7.94 +3,609.81%, SOL -12.31%), cash-popover $7.08 (mihao $7.00 +3,171.28%, SOL -12.38%), open-scrolled $6.70 (mihao $6.62 +2,996.02%, SOL -12.38%), transactions $5.71 (mihao $5.63 +2,531.04%, SOL -12.38%); open-row sums matched each center header (7.94+0.08=8.02, 7.00+0.08=7.08, 6.62+0.08=6.70, 5.63+0.08=5.71); persisted portfolio_value/balance $5.71 and mihao $5.63 +2,531.04% / SOL -12.38% from the latest transactions shot at 10:17:28; GTA6 absent (was 3.5K $8.36 percent -- on transactions at 14:39:40); FLOAT absent as an open position; AudaCity, Dacity, PUSSY, HI, and MONEKO absent as open positions; used latest saved shot mtime 10:17:28 as observed_at; account header: gorkbot / @gorkbot, 1h 36m avg. hold, 92 trades, Joined Oct 2026; Following 33 and Followers 11 verified on landing and transactions (crops /tmp/fomo-1012-crops/land-v2-followers.png and /tmp/fomo-1012-crops/tx-v2-followers.png); Transactions tab selected; newest visible rows: Received 0xf3e0...62b8fe +$0.21 9m, Sent bVeSJT...cg46... -$1.09 1w, Sell COCORO $1.19 $0.00000265, Buy COCORO $2.72 $0.00000596, Sell HYPE $2.92 $87.94, Buy HYPE $2.79 $87.94, Sell Anakin $2.99 $0.00310, Received 2bnNGc...g5pj... +$3.06, Sent bVeSJT...cg46... -$81.80, Sell FOCO $82.75 $0.000644, Buy FOCO $27.88 $0.000633, Sell HALLOWEEN $29.06 $0.0000306, Buy FOCO $46.24 $0.000536, Sell HALLOWEEN $48.13 $0.000121 (amount and price columns were visible this run on /tmp/fomo-1012-crops/tx-v2-tx-top.png; helper reported the FOCO $46.24 price as $0.0000536, but the saved PNG reads $0.000536); trades_count still 92 (unchanged from 10:05:17); Received +$0.14 from 0x568e...c706... not visible this run; Received +$0.10 / +$0.90 / +$0.12 also not visible; left Discover/feed on landing/open/cash shots showed other traders (not gorkbot positions); no New version available banner this run; values loaded (not skeleton) on all four saved views; helper clicked the Total cash amount and the Transactions tab; closed the cash popover with Escape; Show dust was already checked and was left checked; Open was already selected; avg hold 1h 36m / following 33 / followers 11 / joined Oct 2026; no token modal opened this run; helper touched none of Buy/Sell/Deposit/Withdraw/Transfer; no financial action."
+  "notes": "read about 10:32 AM ET (saved shot mtimes 10:30:49 on /tmp/fomo-gorkbot-desktop-1029-landing.png, 10:31:13 on /tmp/fomo-gorkbot-desktop-1029-cash-popover.png, 10:31:33 on /tmp/fomo-gorkbot-desktop-1029-open-scrolled.png, and 10:32:14 on /tmp/fomo-gorkbot-desktop-1029-transactions.png); no sign-in required; opened https://fomo.family/profile/gorkbot (site added ?r=gorkbot on the shots); helper persisted native desktop PNGs (1280x800) at the requested paths; helper clicked the Total cash amount and the popover overlay is visible on /tmp/fomo-gorkbot-desktop-1029-cash-popover.png and crop /tmp/fomo-1029-crops/cash-v2-cash-pop.png: Tokens cash balance $0 and Perps cash balance $0 plus a Transfer button (not clicked); Total cash $0 is independently visible on landing, cash-popover, open-scrolled, and transactions shots; top-right mini header was fully inside the persisted 1280x800 frames this run and read $0.00 cash plus Deposit more with the same portfolio as the center header and -$0 24h on all four shots (crops /tmp/fomo-1029-crops/land-v2-mini-full.png, cash-v2-mini-full.png, open-v2-mini-full.png, tx-v2-mini-full.png); Tokens/Perps recorded as $0/$0 from the verified popover overlay together with Total cash $0; Total cash row also shows Withdraw and Deposit buttons beside it (not clicked); Open (Your positions 3, Show dust checked): mihao 3.3K plus SOL 0.000926 $0.08 and AAPLX 0.00000829 $0.00 +2.39%; live header moved during capture: landing $21.73 (mihao $21.65 +10,019.15%, SOL -12.34%), cash-popover $21.86 (mihao $21.78 +10,080.48%, SOL -12.26%), open-scrolled $20.97 (mihao $20.89 +9,664.34%, SOL -12.29%), transactions $20.16 (mihao $20.08 +9,286.29%, SOL -12.38%); open-row sums matched each center header (21.65+0.08=21.73, 21.78+0.08=21.86, 20.89+0.08=20.97, 20.08+0.08=20.16); persisted portfolio_value/balance $20.16 and mihao $20.08 +9,286.29% / SOL -12.38% from the latest transactions shot at 10:32:14; helper reported cash-popover SOL as -12.29%, but the saved PNG reads -12.26%; GTA6 absent (was 3.5K $8.36 percent -- on transactions at 14:39:40); FLOAT absent as an open position; AudaCity, Dacity, PUSSY, HI, and MONEKO absent as open positions; used latest saved shot mtime 10:32:14 as observed_at; account header: gorkbot / @gorkbot, 1h 36m avg. hold, 92 trades, Joined Oct 2026; Following 33 and Followers 11 verified on landing (crops /tmp/fomo-1029-crops/land-v2-followers.png and /tmp/fomo-1029-crops/land-v2-account.png); Transactions tab selected; newest visible rows: Received 0xf3e0...62b8fe +$0.21 23m, Sent bVeSJT...cg46... -$1.09 1w, Sell COCORO $1.19 $0.00000265, Buy COCORO $2.72 $0.00000596, Sell HYPE $2.92 $87.94, Buy HYPE $2.79 $87.94, Sell Anakin $2.99 $0.00310, Received 2bnNGc...g5pj... +$3.06, Sent bVeSJT...cg46... -$81.80, Sell FOCO $82.75 $0.000644, Buy FOCO $27.88 $0.000633, Sell HALLOWEEN $29.06 $0.0000306, Buy FOCO $46.24 $0.000536, Sell HALLOWEEN $48.13 $0.000121 (amount and price columns were visible this run on /tmp/fomo-1029-crops/tx-v2-tx-top.png and /tmp/fomo-1029-crops/tx-prices-bot-x2.png); trades_count still 92 (unchanged from 10:17:28); Received +$0.14 from 0x568e...c706... not visible this run; Received +$0.10 / +$0.90 / +$0.12 also not visible; left Discover/feed on landing/open/cash shots showed other traders (not gorkbot positions); no New version available banner this run; values loaded (not skeleton) on all four saved views; helper clicked the Total cash amount and the Transactions tab; closed the cash popover with Escape; Show dust was already checked and was left checked; Open was already selected; avg hold 1h 36m / following 33 / followers 11 / joined Oct 2026; no token modal opened this run; helper touched none of Buy/Sell/Deposit/Withdraw/Transfer; no financial action."
 }
