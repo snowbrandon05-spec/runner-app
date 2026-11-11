@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T13:17:00-05:00",
-  "observed_at": "2026-11-11T13:17:00-05:00",
+  "updated_at": "2026-11-11T13:35:57-05:00",
+  "observed_at": "2026-11-11T13:35:57-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -27,8 +27,8 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -11.11,
-      "note": "Shown as 0.000926 SOL $0.08 -11.11% on /tmp/fomo-gorkbot-desktop-1315-open.png and /tmp/fomo-gorkbot-desktop-1315-transactions.png (crops /tmp/fomo-1315-crops/open-positions-wide.png, /tmp/fomo-1315-crops/open-pos-wide2.png, /tmp/fomo-1315-crops/open-pos-card.png, /tmp/fomo-1315-crops/open-positions-left.png, /tmp/fomo-1315-crops/open-profile-panel.png, /tmp/fomo-1315-crops/open-pos-left-tight.png, and /tmp/fomo-1315-crops/tx2-mid.png); was -10.94% at 13:04:10; was -10.99% at 12:51:32; was -10.94% at 12:40:45; Open, Show dust checked, Your positions 2; token contract not shown this run so prior verified address was kept"
+      "pct": -10.98,
+      "note": "Shown as 0.000926 SOL $0.08 -10.98% on /tmp/fomo-gorkbot-desktop-1330-open.png and /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/open-pos-block2.png, /tmp/fomo-1330-crops/open-pos-block3.png, /tmp/fomo-1330-crops/open-pos-rows-tight.png, /tmp/fomo-1330-crops/open-sol-aaplx.png, /tmp/fomo-1330-crops/open-sol-row2.png, /tmp/fomo-1330-crops/open-pos-title.png, /tmp/fomo-1330-crops/zoom-both-pos.png, /tmp/fomo-1330-crops/zoom-sol-amt.png, /tmp/fomo-1330-crops/zoom-pos-values.png, and /tmp/fomo-1330-crops/tx-center-list.png); was -11.11% at 13:17:00; was -10.94% at 13:04:10; was -10.99% at 12:51:32; was -10.94% at 12:40:45; Open, Show dust checked, Your positions 2; token contract not shown this run so prior verified address was kept"
     },
     {
       "symbol": "AAPLX",
@@ -36,8 +36,8 @@
       "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": 2.62,
-      "note": "Shown as 0.00000829 AAPLX $0.00 +2.62% on /tmp/fomo-gorkbot-desktop-1315-open.png and /tmp/fomo-gorkbot-desktop-1315-transactions.png (crops /tmp/fomo-1315-crops/open-positions-wide.png, /tmp/fomo-1315-crops/open-pos-wide2.png, /tmp/fomo-1315-crops/open-pos-card.png, /tmp/fomo-1315-crops/open-positions-left.png, /tmp/fomo-1315-crops/open-profile-panel.png, /tmp/fomo-1315-crops/open-pos-left-tight.png, and /tmp/fomo-1315-crops/tx2-mid.png); Open, Show dust checked, Your positions 2; was +2.62% at 13:04:10, 12:51:32 and 12:40:45; token contract not shown this run so prior verified address was kept"
+      "pct": 2.68,
+      "note": "Shown as 0.00000829 AAPLX $0.00 +2.68% on /tmp/fomo-gorkbot-desktop-1330-open.png and /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/open-pos-block2.png, /tmp/fomo-1330-crops/open-pos-block3.png, /tmp/fomo-1330-crops/open-pos-rows-tight.png, /tmp/fomo-1330-crops/open-sol-aaplx.png, /tmp/fomo-1330-crops/open-aaplx-row2.png, /tmp/fomo-1330-crops/zoom-both-pos.png, /tmp/fomo-1330-crops/zoom-aaplx-amt.png, /tmp/fomo-1330-crops/zoom-pos-values.png, and /tmp/fomo-1330-crops/tx-center-list.png); Open, Show dust checked, Your positions 2; was +2.62% at 13:17:00, 13:04:10, 12:51:32 and 12:40:45; token contract not shown this run so prior verified address was kept"
     }
   ],
   "trades": [
@@ -50,7 +50,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on persisted shots at 13:17:00 (newest row on /tmp/fomo-gorkbot-desktop-1315-transactions.png is bVeSJT...cg46... Sent -$1.09 1w, with no +$0.25 Received row); was not visible at 13:04:10, 12:51:32, 12:40:45, 12:14:51 or 12:05:12; was newest at 11:44:36 as 26m from 0xf3e0...62b8fe",
+      "note": "not visible on persisted shots at 13:35:57 (newest row on /tmp/fomo-gorkbot-desktop-1330-transactions.png is bVeSJT...cg46... Sent -$1.09 1w, with no +$0.25 Received row); was not visible at 13:17:00, 13:04:10, 12:51:32, 12:40:45, 12:14:51 or 12:05:12; was newest at 11:44:36 as 26m from 0xf3e0...62b8fe",
       "price": null
     },
     {
@@ -62,7 +62,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on persisted shots at 13:17:00 (list starts Sent -$1.09 1w on /tmp/fomo-gorkbot-desktop-1315-transactions.png, with no +$0.24 Received row); not visible at 13:04:10, 12:51:32, 12:40:45, 12:14:51, 12:05:12 or 11:44:36; was second visible at 11:18:59 as 27m ago from 0xf3e0...62b8fe",
+      "note": "not visible on persisted shots at 13:35:57 (list starts Sent -$1.09 1w on /tmp/fomo-gorkbot-desktop-1330-transactions.png, with no +$0.24 Received row); not visible at 13:17:00, 13:04:10, 12:51:32, 12:40:45, 12:14:51, 12:05:12 or 11:44:36; was second visible at 11:18:59 as 27m ago from 0xf3e0...62b8fe",
       "price": null
     },
     {
@@ -74,7 +74,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on persisted shots at 13:17:00 (list starts Sent -$1.09 1w on /tmp/fomo-gorkbot-desktop-1315-transactions.png, with no +$0.21 Received row); not visible at 13:04:10, 12:51:32, 12:40:45, 12:14:51, 12:05:12, 11:44:36, 11:33:11, 11:18:59 or 11:10:58; was second visible at 11:01:38 as 53m ago from 0xf3e0...62b8fe",
+      "note": "not visible on persisted shots at 13:35:57 (list starts Sent -$1.09 1w on /tmp/fomo-gorkbot-desktop-1330-transactions.png, with no +$0.21 Received row); not visible at 13:17:00, 13:04:10, 12:51:32, 12:40:45, 12:14:51, 12:05:12, 11:44:36, 11:33:11, 11:18:59 or 11:10:58; was second visible at 11:01:38 as 53m ago from 0xf3e0...62b8fe",
       "price": null
     },
     {
@@ -86,7 +86,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on persisted shots at 13:17:00 (list starts Sent -$1.09 1w on /tmp/fomo-gorkbot-desktop-1315-transactions.png, with no +$0.14 Received row); not visible at 13:04:10, 12:51:32, 12:40:45, 12:14:51, 12:05:12, 11:44:36, 11:33:11, 11:18:59, 11:10:58, 11:01:38, 10:48:06, 10:32:14, 10:17:28 or 10:05:17; last verified at 08:08:06 as 41m ago from 0x568e...c706...",
+      "note": "not visible on persisted shots at 13:35:57 (list starts Sent -$1.09 1w on /tmp/fomo-gorkbot-desktop-1330-transactions.png, with no +$0.14 Received row); not visible at 13:17:00, 13:04:10, 12:51:32, 12:40:45, 12:14:51, 12:05:12, 11:44:36, 11:33:11, 11:18:59, 11:10:58, 11:01:38, 10:48:06, 10:32:14, 10:17:28 or 10:05:17; last verified at 08:08:06 as 41m ago from 0x568e...c706...",
       "price": null
     },
     {
@@ -98,7 +98,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on persisted shots at 13:17:00 (list starts Sent -$1.09 1w, with no +$0.10 row); not visible at 13:04:10, 12:51:32, 12:40:45 or earlier 12:14:51 through 08:08:06; last verified at 14:30:33 as 30m ago from 0xad1e...32ae7b",
+      "note": "not visible on persisted shots at 13:35:57 (list starts Sent -$1.09 1w, with no +$0.10 row); not visible at 13:17:00, 13:04:10, 12:51:32, 12:40:45 or earlier 12:14:51 through 08:08:06; last verified at 14:30:33 as 30m ago from 0xad1e...32ae7b",
       "price": null
     },
     {
@@ -110,7 +110,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on persisted shots at 13:17:00 (list starts Sent -$1.09 1w, with no +$0.90 row); not visible at 13:04:10, 12:51:32, 12:40:45 or earlier 12:14:51 through 08:08:06; last verified at 12:45:18 as 1h ago from 0xad1e...32ae7b",
+      "note": "not visible on persisted shots at 13:35:57 (list starts Sent -$1.09 1w, with no +$0.90 row); not visible at 13:17:00, 13:04:10, 12:51:32, 12:40:45 or earlier 12:14:51 through 08:08:06; last verified at 12:45:18 as 1h ago from 0xad1e...32ae7b",
       "price": null
     },
     {
@@ -122,7 +122,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on persisted shots at 13:17:00, 13:04:10, 12:51:32, 12:40:45, 12:14:51, 12:05:12, 11:44:36, 11:33:11, 11:18:59, 11:10:58, 11:01:38, 10:48:06, 10:32:14, 10:17:28, 10:05:17, 09:55:56, 09:38:33, 09:12:57, 08:53:57, 08:32:38, or 08:08:06 (list now starts Sent -$1.09 1w to bVeSJT...cg46... on /tmp/fomo-gorkbot-desktop-1315-transactions.png, with no +$0.12 row); last verified at 11:02:29 from 0xad1e...32ae7b",
+      "note": "not visible on persisted shots at 13:35:57, 13:17:00, 13:04:10, 12:51:32, 12:40:45, 12:14:51, 12:05:12, 11:44:36, 11:33:11, 11:18:59, 11:10:58, 11:01:38, 10:48:06, 10:32:14, 10:17:28, 10:05:17, 09:55:56, 09:38:33, 09:12:57, 08:53:57, 08:32:38, or 08:08:06 (list now starts Sent -$1.09 1w to bVeSJT...cg46... on /tmp/fomo-gorkbot-desktop-1330-transactions.png, with no +$0.12 row); last verified at 11:02:29 from 0xad1e...32ae7b",
       "price": null
     },
     {
@@ -134,7 +134,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago, to bVeSJT...cg46Vr; shown as bVeSJT...cg46... Sent -$1.09 1w on /tmp/fomo-gorkbot-desktop-1315-transactions.png (crop /tmp/fomo-1315-crops/tx2-full.png and /tmp/fomo-1315-crops/tx2-top.png); newest visible row this run; was newest at 13:04:10, 12:40:45, 12:14:51 and 12:05:12",
+      "note": "1w ago, to bVeSJT...cg46Vr; shown as bVeSJT...cg46... Sent -$1.09 1w on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crop /tmp/fomo-1330-crops/tx2-full.png, /tmp/fomo-1330-crops/tx2-top.png, /tmp/fomo-1330-crops/tx-firstrows.png, and /tmp/fomo-1330-crops/tx-tx-full.png); newest visible row this run; was newest at 13:17:00, 13:04:10, 12:40:45, 12:14:51 and 12:05:12",
       "price": null
     },
     {
@@ -146,7 +146,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.00000265 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions.png (crops /tmp/fomo-1315-crops/tx2-full.png, /tmp/fomo-1315-crops/tx2-top.png, /tmp/fomo-1315-crops/tx2-mid.png, /tmp/fomo-1315-crops/tx2-bot.png, and /tmp/fomo-1315-crops/tx-received-band.png) as COCORO",
+      "note": "1w ago; price $0.00000265 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/tx2-full.png, /tmp/fomo-1330-crops/tx2-top.png, /tmp/fomo-1330-crops/tx2-mid.png, /tmp/fomo-1330-crops/tx2-bot.png, /tmp/fomo-1330-crops/tx-tx-full.png, /tmp/fomo-1330-crops/tx-center-list.png, and /tmp/fomo-1330-crops/tx-received-tight.png) as COCORO",
       "price": 2.65e-06
     },
     {
@@ -158,7 +158,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.00000596 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions.png (crops /tmp/fomo-1315-crops/tx2-full.png, /tmp/fomo-1315-crops/tx2-top.png, /tmp/fomo-1315-crops/tx2-mid.png, /tmp/fomo-1315-crops/tx2-bot.png, and /tmp/fomo-1315-crops/tx-received-band.png) as COCORO",
+      "note": "1w ago; price $0.00000596 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/tx2-full.png, /tmp/fomo-1330-crops/tx2-top.png, /tmp/fomo-1330-crops/tx2-mid.png, /tmp/fomo-1330-crops/tx2-bot.png, /tmp/fomo-1330-crops/tx-tx-full.png, /tmp/fomo-1330-crops/tx-center-list.png, and /tmp/fomo-1330-crops/tx-received-tight.png) as COCORO",
       "price": 5.96e-06
     },
     {
@@ -170,7 +170,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $87.94 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions.png (crops /tmp/fomo-1315-crops/tx2-full.png, /tmp/fomo-1315-crops/tx2-top.png, /tmp/fomo-1315-crops/tx2-mid.png, /tmp/fomo-1315-crops/tx2-bot.png, and /tmp/fomo-1315-crops/tx-received-band.png) as HYPE",
+      "note": "1w ago; price $87.94 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/tx2-full.png, /tmp/fomo-1330-crops/tx2-top.png, /tmp/fomo-1330-crops/tx2-mid.png, /tmp/fomo-1330-crops/tx2-bot.png, /tmp/fomo-1330-crops/tx-tx-full.png, /tmp/fomo-1330-crops/tx-center-list.png, and /tmp/fomo-1330-crops/tx-received-tight.png) as HYPE",
       "price": 87.94
     },
     {
@@ -182,7 +182,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $87.94 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions.png (crops /tmp/fomo-1315-crops/tx2-full.png, /tmp/fomo-1315-crops/tx2-top.png, /tmp/fomo-1315-crops/tx2-mid.png, /tmp/fomo-1315-crops/tx2-bot.png, and /tmp/fomo-1315-crops/tx-received-band.png) as HYPE; second fully visible buy/sell pair after the newest Sent -$1.09 row",
+      "note": "1w ago; price $87.94 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/tx2-full.png, /tmp/fomo-1330-crops/tx2-top.png, /tmp/fomo-1330-crops/tx2-mid.png, /tmp/fomo-1330-crops/tx2-bot.png, /tmp/fomo-1330-crops/tx-tx-full.png, /tmp/fomo-1330-crops/tx-center-list.png, and /tmp/fomo-1330-crops/tx-received-tight.png) as HYPE",
       "price": 87.94
     },
     {
@@ -194,7 +194,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.00310 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions.png (crops /tmp/fomo-1315-crops/tx2-full.png, /tmp/fomo-1315-crops/tx2-top.png, /tmp/fomo-1315-crops/tx2-mid.png, /tmp/fomo-1315-crops/tx2-bot.png, and /tmp/fomo-1315-crops/tx-received-band.png) as Anakin",
+      "note": "1w ago; price $0.00310 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/tx2-full.png, /tmp/fomo-1330-crops/tx2-top.png, /tmp/fomo-1330-crops/tx2-mid.png, /tmp/fomo-1330-crops/tx2-bot.png, /tmp/fomo-1330-crops/tx-tx-full.png, /tmp/fomo-1330-crops/tx-center-list.png, and /tmp/fomo-1330-crops/tx-received-tight.png) as Anakin",
       "price": 0.0031
     },
     {
@@ -206,7 +206,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago, from 2bnNGc...g5pjVD; shown as 2bnNGc...g5pj... Received +$3.06 1w on /tmp/fomo-gorkbot-desktop-1315-transactions.png (tight crop /tmp/fomo-1315-crops/tx-received-band.png and /tmp/fomo-1315-crops/tx2-full.png / /tmp/fomo-1315-crops/tx2-top.png / /tmp/fomo-1315-crops/tx2-mid.png); a looser vision read of +$3.08 was not used",
+      "note": "1w ago, from 2bnNGc...g5pjVD; shown as 2bnNGc...g5pj... Received +$3.06 1w on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/tx-received-tight.png, /tmp/fomo-1330-crops/tx2-full.png, /tmp/fomo-1330-crops/tx2-top.png, and /tmp/fomo-1330-crops/tx2-mid.png); a looser vision read of +$3.08 was not used",
       "price": null
     },
     {
@@ -218,7 +218,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago, to bVeSJT...cg46Vr; shown as bVeSJT...cg46... Sent -$81.80 1w on /tmp/fomo-gorkbot-desktop-1315-transactions.png (crop /tmp/fomo-1315-crops/tx2-full.png)",
+      "note": "1w ago, to bVeSJT...cg46Vr; shown as bVeSJT...cg46... Sent -$81.80 1w on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/tx2-full.png and /tmp/fomo-1330-crops/tx2-mid.png)",
       "price": null
     },
     {
@@ -230,7 +230,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000644 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions.png (crops /tmp/fomo-1315-crops/tx2-full.png, /tmp/fomo-1315-crops/tx2-top.png, /tmp/fomo-1315-crops/tx2-mid.png, /tmp/fomo-1315-crops/tx2-bot.png, and /tmp/fomo-1315-crops/tx-received-band.png) as FOCO",
+      "note": "1w ago; price $0.000644 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/tx2-full.png, /tmp/fomo-1330-crops/tx2-top.png, /tmp/fomo-1330-crops/tx2-mid.png, /tmp/fomo-1330-crops/tx2-bot.png, /tmp/fomo-1330-crops/tx-tx-full.png, /tmp/fomo-1330-crops/tx-center-list.png, and /tmp/fomo-1330-crops/tx-received-tight.png) as FOCO",
       "price": 0.000644
     },
     {
@@ -242,7 +242,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000633 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions.png (crops /tmp/fomo-1315-crops/tx2-full.png, /tmp/fomo-1315-crops/tx2-top.png, /tmp/fomo-1315-crops/tx2-mid.png, /tmp/fomo-1315-crops/tx2-bot.png, and /tmp/fomo-1315-crops/tx-received-band.png) as FOCO",
+      "note": "1w ago; price $0.000633 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/tx2-full.png, /tmp/fomo-1330-crops/tx2-top.png, /tmp/fomo-1330-crops/tx2-mid.png, /tmp/fomo-1330-crops/tx2-bot.png, /tmp/fomo-1330-crops/tx-tx-full.png, /tmp/fomo-1330-crops/tx-center-list.png, and /tmp/fomo-1330-crops/tx-received-tight.png) as FOCO",
       "price": 0.000633
     },
     {
@@ -254,7 +254,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000306 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions.png (crops /tmp/fomo-1315-crops/tx2-full.png, /tmp/fomo-1315-crops/tx2-top.png, /tmp/fomo-1315-crops/tx2-mid.png, /tmp/fomo-1315-crops/tx2-bot.png, and /tmp/fomo-1315-crops/tx-received-band.png) as HALLOWEEN",
+      "note": "1w ago; price $0.0000306 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/tx2-full.png, /tmp/fomo-1330-crops/tx2-top.png, /tmp/fomo-1330-crops/tx2-mid.png, /tmp/fomo-1330-crops/tx2-bot.png, /tmp/fomo-1330-crops/tx-tx-full.png, /tmp/fomo-1330-crops/tx-center-list.png, and /tmp/fomo-1330-crops/tx-received-tight.png) as HALLOWEEN",
       "price": 3.06e-05
     },
     {
@@ -266,7 +266,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000536 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions.png (crops /tmp/fomo-1315-crops/tx2-full.png, /tmp/fomo-1315-crops/tx2-top.png, /tmp/fomo-1315-crops/tx2-mid.png, /tmp/fomo-1315-crops/tx2-bot.png, and /tmp/fomo-1315-crops/tx-received-band.png) as FOCO",
+      "note": "1w ago; price $0.000536 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/tx2-full.png, /tmp/fomo-1330-crops/tx2-top.png, /tmp/fomo-1330-crops/tx2-mid.png, /tmp/fomo-1330-crops/tx2-bot.png, /tmp/fomo-1330-crops/tx-tx-full.png, /tmp/fomo-1330-crops/tx-center-list.png, and /tmp/fomo-1330-crops/tx-received-tight.png) as FOCO",
       "price": 0.000536
     },
     {
@@ -278,7 +278,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000121 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions.png (crops /tmp/fomo-1315-crops/tx2-full.png, /tmp/fomo-1315-crops/tx2-top.png, /tmp/fomo-1315-crops/tx2-mid.png, /tmp/fomo-1315-crops/tx2-bot.png, and /tmp/fomo-1315-crops/tx-received-band.png) as HALLOWEEN",
+      "note": "1w ago; price $0.000121 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/tx2-full.png, /tmp/fomo-1330-crops/tx2-top.png, /tmp/fomo-1330-crops/tx2-mid.png, /tmp/fomo-1330-crops/tx2-bot.png, /tmp/fomo-1330-crops/tx-tx-full.png, /tmp/fomo-1330-crops/tx-center-list.png, and /tmp/fomo-1330-crops/tx-received-tight.png) as HALLOWEEN",
       "price": 0.000121
     },
     {
@@ -290,7 +290,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000785 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions.png (crops /tmp/fomo-1315-crops/tx2-full.png, /tmp/fomo-1315-crops/tx2-top.png, /tmp/fomo-1315-crops/tx2-mid.png, /tmp/fomo-1315-crops/tx2-bot.png, and /tmp/fomo-1315-crops/tx-received-band.png) as HALLOWEEN",
+      "note": "1w ago; price $0.0000785 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/tx2-full.png, /tmp/fomo-1330-crops/tx2-top.png, /tmp/fomo-1330-crops/tx2-mid.png, /tmp/fomo-1330-crops/tx2-bot.png, /tmp/fomo-1330-crops/tx-tx-full.png, /tmp/fomo-1330-crops/tx-center-list.png, and /tmp/fomo-1330-crops/tx-received-tight.png) as HALLOWEEN",
       "price": 7.85e-05
     },
     {
@@ -302,7 +302,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $95.88 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions.png (crops /tmp/fomo-1315-crops/tx2-full.png, /tmp/fomo-1315-crops/tx2-top.png, /tmp/fomo-1315-crops/tx2-mid.png, /tmp/fomo-1315-crops/tx2-bot.png, and /tmp/fomo-1315-crops/tx-received-band.png) as SOL",
+      "note": "1w ago; price $95.88 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/tx2-full.png, /tmp/fomo-1330-crops/tx2-top.png, /tmp/fomo-1330-crops/tx2-mid.png, /tmp/fomo-1330-crops/tx2-bot.png, /tmp/fomo-1330-crops/tx-tx-full.png, /tmp/fomo-1330-crops/tx-center-list.png, and /tmp/fomo-1330-crops/tx-received-tight.png) as SOL",
       "price": 95.88
     },
     {
@@ -314,7 +314,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago, to bVeSJT...cg46Vr; shown as bVeSJT...cg46... Sent -$106.99 1w on /tmp/fomo-gorkbot-desktop-1315-transactions.png (crop /tmp/fomo-1315-crops/tx2-full.png and /tmp/fomo-1315-crops/tx2-bot.png) and again on the scrolled shot; last fully visible row on the unscrolled transactions shot (helper said this Sent row was cut off below SOL Sell $108.00, but the crops show it fully visible)",
+      "note": "1w ago, to bVeSJT...cg46Vr; shown as bVeSJT...cg46... Sent -$106.99 1w on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/tx2-full.png, /tmp/fomo-1330-crops/tx2-bot.png, and /tmp/fomo-1330-crops/tx-tx-full.png); last fully visible row on the unscrolled transactions shot",
       "price": null
     },
     {
@@ -326,7 +326,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000668 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-scrolled.png (crops /tmp/fomo-1315-crops/txsc-verytop.png, /tmp/fomo-1315-crops/txsc2-full.png, /tmp/fomo-1315-crops/txsc2-top.png, /tmp/fomo-1315-crops/txsc2-mid.png, and /tmp/fomo-1315-crops/txsc2-bot.png) as HUSS; former scroll-gap row now independently visible on this run's scrolled shot",
+      "note": "1w ago; price $0.0000668 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as HUSS; first fully visible row on the scrolled shot",
       "price": 6.68e-05
     },
     {
@@ -338,7 +338,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $95.97 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-scrolled.png (crops /tmp/fomo-1315-crops/txsc-verytop.png, /tmp/fomo-1315-crops/txsc2-full.png, /tmp/fomo-1315-crops/txsc2-top.png, /tmp/fomo-1315-crops/txsc2-mid.png, and /tmp/fomo-1315-crops/txsc2-bot.png) as SOL; former scroll-gap row now independently visible on this run's scrolled shot",
+      "note": "1w ago; price $95.97 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as SOL",
       "price": 95.97
     },
     {
@@ -350,7 +350,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000138 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-scrolled.png (crops /tmp/fomo-1315-crops/txsc-verytop.png, /tmp/fomo-1315-crops/txsc2-full.png, /tmp/fomo-1315-crops/txsc2-top.png, /tmp/fomo-1315-crops/txsc2-mid.png, and /tmp/fomo-1315-crops/txsc2-bot.png) as HUSS; former scroll-gap row now independently visible on this run's scrolled shot",
+      "note": "1w ago; price $0.000138 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as HUSS",
       "price": 0.000138
     },
     {
@@ -362,7 +362,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000509 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-scrolled.png (crops /tmp/fomo-1315-crops/txsc-verytop.png, /tmp/fomo-1315-crops/txsc2-full.png, /tmp/fomo-1315-crops/txsc2-top.png, /tmp/fomo-1315-crops/txsc2-mid.png, and /tmp/fomo-1315-crops/txsc2-bot.png) as HUSS",
+      "note": "1w ago; price $0.0000509 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as HUSS",
       "price": 5.09e-05
     },
     {
@@ -374,7 +374,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $95.97 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-scrolled.png (crops /tmp/fomo-1315-crops/txsc-verytop.png, /tmp/fomo-1315-crops/txsc2-full.png, /tmp/fomo-1315-crops/txsc2-top.png, /tmp/fomo-1315-crops/txsc2-mid.png, and /tmp/fomo-1315-crops/txsc2-bot.png) as SOL",
+      "note": "1w ago; price $95.97 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as SOL",
       "price": 95.97
     },
     {
@@ -386,7 +386,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000418 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-scrolled.png (crops /tmp/fomo-1315-crops/txsc-verytop.png, /tmp/fomo-1315-crops/txsc2-full.png, /tmp/fomo-1315-crops/txsc2-top.png, /tmp/fomo-1315-crops/txsc2-mid.png, and /tmp/fomo-1315-crops/txsc2-bot.png) as HUSS",
+      "note": "1w ago; price $0.0000418 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as HUSS",
       "price": 4.18e-05
     },
     {
@@ -398,7 +398,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.00000264 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-scrolled.png (crops /tmp/fomo-1315-crops/txsc-verytop.png, /tmp/fomo-1315-crops/txsc2-full.png, /tmp/fomo-1315-crops/txsc2-top.png, /tmp/fomo-1315-crops/txsc2-mid.png, and /tmp/fomo-1315-crops/txsc2-bot.png) as A-RSI",
+      "note": "1w ago; price $0.00000264 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as A-RSI",
       "price": 2.64e-06
     },
     {
@@ -410,7 +410,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000525 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-scrolled.png (crops /tmp/fomo-1315-crops/txsc-verytop.png, /tmp/fomo-1315-crops/txsc2-full.png, /tmp/fomo-1315-crops/txsc2-top.png, /tmp/fomo-1315-crops/txsc2-mid.png, and /tmp/fomo-1315-crops/txsc2-bot.png) as A-RSI; helper agreed this run; a prior helper-reported $0.00000525 was not used",
+      "note": "1w ago; price $0.0000525 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as A-RSI; a prior helper-reported $0.00000525 was not used",
       "price": 5.25e-05
     },
     {
@@ -422,7 +422,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000320 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-scrolled.png (crops /tmp/fomo-1315-crops/txsc-verytop.png, /tmp/fomo-1315-crops/txsc2-full.png, /tmp/fomo-1315-crops/txsc2-top.png, /tmp/fomo-1315-crops/txsc2-mid.png, and /tmp/fomo-1315-crops/txsc2-bot.png) as David",
+      "note": "1w ago; price $0.000320 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as David",
       "price": 0.00032
     },
     {
@@ -434,7 +434,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000387 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-scrolled.png (crops /tmp/fomo-1315-crops/txsc-verytop.png, /tmp/fomo-1315-crops/txsc2-full.png, /tmp/fomo-1315-crops/txsc2-top.png, /tmp/fomo-1315-crops/txsc2-mid.png, and /tmp/fomo-1315-crops/txsc2-bot.png) as David; also at the top edge of the further-scrolled shot",
+      "note": "1w ago; price $0.000387 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as David",
       "price": 0.000387
     },
     {
@@ -446,7 +446,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000260 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-scrolled.png (crops /tmp/fomo-1315-crops/txsc-verytop.png, /tmp/fomo-1315-crops/txsc2-full.png, /tmp/fomo-1315-crops/txsc2-top.png, /tmp/fomo-1315-crops/txsc2-mid.png, and /tmp/fomo-1315-crops/txsc2-bot.png) as an unlabeled \u2014 row on the scrolled shot, and named DOUGHBRIKS on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr2-full.png and /tmp/fomo-1315-crops/txfr-verytop.png)",
+      "note": "1w ago; price $0.000260 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as DOUGHBRIKS",
       "price": 0.00026
     },
     {
@@ -458,7 +458,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000413 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-scrolled.png (crops /tmp/fomo-1315-crops/txsc-verytop.png, /tmp/fomo-1315-crops/txsc2-full.png, /tmp/fomo-1315-crops/txsc2-top.png, /tmp/fomo-1315-crops/txsc2-mid.png, and /tmp/fomo-1315-crops/txsc2-bot.png) as an unlabeled \u2014 row on the scrolled shot (last fully visible scrolled row), and named DOUGHBRIKS on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr2-full.png and /tmp/fomo-1315-crops/txfr-verytop.png)",
+      "note": "1w ago; price $0.000413 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as DOUGHBRIKS",
       "price": 0.000413
     },
     {
@@ -470,7 +470,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000409 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as DOUGHBRIKS",
+      "note": "1w ago; price $0.000409 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as DOUGHBRIKS",
       "price": 0.000409
     },
     {
@@ -482,7 +482,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.00157 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as DAVID",
+      "note": "1w ago; price $0.00157 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as DAVID",
       "price": 0.00157
     },
     {
@@ -494,7 +494,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000477 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as DOUGHBRIKS",
+      "note": "1w ago; price $0.000477 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as DOUGHBRIKS",
       "price": 0.000477
     },
     {
@@ -506,7 +506,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.00177 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as DAVID",
+      "note": "1w ago; price $0.00177 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as DAVID; also first fully visible row on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png and /tmp/fomo-1330-crops/txfr-above.png)",
       "price": 0.00177
     },
     {
@@ -518,7 +518,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.00183 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as DAVID",
+      "note": "1w ago; price $0.00183 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as DAVID; also on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png and /tmp/fomo-1330-crops/txfr-above.png)",
       "price": 0.00183
     },
     {
@@ -530,7 +530,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.00135 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as DAVID",
+      "note": "1w ago; price $0.00135 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as DAVID; also on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png and /tmp/fomo-1330-crops/txfr-above.png)",
       "price": 0.00135
     },
     {
@@ -542,7 +542,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000471 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as Pikmin",
+      "note": "1w ago; price $0.0000471 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as Pikmin; also on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr-verytop.png, and /tmp/fomo-1330-crops/txfr-above.png)",
       "price": 4.71e-05
     },
     {
@@ -554,7 +554,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000383 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as HI",
+      "note": "1w ago; price $0.000383 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as HI; also on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, and /tmp/fomo-1330-crops/txfr-above.png)",
       "price": 0.000383
     },
     {
@@ -566,7 +566,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000518 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as Pikmin",
+      "note": "1w ago; price $0.0000518 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as Pikmin; also on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr2-full.png and /tmp/fomo-1330-crops/txfr2-top.png)",
       "price": 5.18e-05
     },
     {
@@ -578,7 +578,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000166 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as MAX",
+      "note": "1w ago; price $0.0000166 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as MAX; also on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr2-full.png and /tmp/fomo-1330-crops/txfr2-top.png)",
       "price": 1.66e-05
     },
     {
@@ -590,7 +590,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000705 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as MAX",
+      "note": "1w ago; price $0.0000705 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as MAX; also on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr2-full.png and /tmp/fomo-1330-crops/txfr2-top.png)",
       "price": 7.05e-05
     },
     {
@@ -602,7 +602,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000425 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as HOPE",
+      "note": "1w ago; price $0.0000425 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, /tmp/fomo-1330-crops/txsc-tx-full.png, and /tmp/fomo-1330-crops/sc-arsi-tight.png) as HOPE; last fully visible row on the scrolled shot; also on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr2-full.png and /tmp/fomo-1330-crops/txfr2-top.png)",
       "price": 4.25e-05
     },
     {
@@ -614,7 +614,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000334 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as HOPE",
+      "note": "1w ago; price $0.0000334 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png, /tmp/fomo-1330-crops/txfr-above.png, /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, /tmp/fomo-1330-crops/txfr2-mid.png, /tmp/fomo-1330-crops/txfr2-bot.png, and /tmp/fomo-1330-crops/fr-newprices-tight.png) as HOPE",
       "price": 3.34e-05
     },
     {
@@ -626,7 +626,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $95.95 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as SOL",
+      "note": "1w ago; price $95.95 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png, /tmp/fomo-1330-crops/txfr-above.png, /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, /tmp/fomo-1330-crops/txfr2-mid.png, /tmp/fomo-1330-crops/txfr2-bot.png, and /tmp/fomo-1330-crops/fr-newprices-tight.png) as SOL",
       "price": 95.95
     },
     {
@@ -638,7 +638,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $95.80 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as SOL",
+      "note": "1w ago; price $95.80 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png, /tmp/fomo-1330-crops/txfr-above.png, /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, /tmp/fomo-1330-crops/txfr2-mid.png, /tmp/fomo-1330-crops/txfr2-bot.png, and /tmp/fomo-1330-crops/fr-newprices-tight.png) as SOL",
       "price": 95.8
     },
     {
@@ -650,7 +650,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000513 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as \u76d8\u53e4\u5e01; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $0.0000513 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png, /tmp/fomo-1330-crops/txfr-above.png, /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, /tmp/fomo-1330-crops/txfr2-mid.png, /tmp/fomo-1330-crops/txfr2-bot.png, and /tmp/fomo-1330-crops/fr-newprices-tight.png) as \u76d8\u53e4\u5e01",
       "price": 5.13e-05
     },
     {
@@ -662,7 +662,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000379 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as \u76d8\u53e4\u5e01; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $0.0000379 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png, /tmp/fomo-1330-crops/txfr-above.png, /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, /tmp/fomo-1330-crops/txfr2-mid.png, /tmp/fomo-1330-crops/txfr2-bot.png, and /tmp/fomo-1330-crops/fr-newprices-tight.png) as \u76d8\u53e4\u5e01",
       "price": 3.79e-05
     },
     {
@@ -674,7 +674,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $95.80 independently re-read on /tmp/fomo-gorkbot-desktop-1315-transactions-further.png (crops /tmp/fomo-1315-crops/txfr-verytop.png, /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, and /tmp/fomo-1315-crops/txfr2-bot.png) as SOL; last fully visible row on the further-scrolled shot; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $95.80 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png, /tmp/fomo-1330-crops/txfr-above.png, /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, /tmp/fomo-1330-crops/txfr2-mid.png, /tmp/fomo-1330-crops/txfr2-bot.png, and /tmp/fomo-1330-crops/fr-newprices-tight.png) as SOL",
       "price": 95.8
     },
     {
@@ -686,8 +686,8 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago",
-      "price": null
+      "note": "1w ago; price $95.86 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png, /tmp/fomo-1330-crops/txfr-above.png, /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, /tmp/fomo-1330-crops/txfr2-mid.png, /tmp/fomo-1330-crops/txfr2-bot.png, and /tmp/fomo-1330-crops/fr-newprices-tight.png) as SOL; price newly independently verified this run (was null); also first fully visible row on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png and /tmp/fomo-1330-crops/ef-newprices-tight.png)",
+      "price": 95.86
     },
     {
       "ts": null,
@@ -698,8 +698,8 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago",
-      "price": null
+      "note": "1w ago; price $0.000102 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png, /tmp/fomo-1330-crops/txfr-above.png, /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, /tmp/fomo-1330-crops/txfr2-mid.png, /tmp/fomo-1330-crops/txfr2-bot.png, and /tmp/fomo-1330-crops/fr-newprices-tight.png) as billy; price newly independently verified this run (was null); also on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png and /tmp/fomo-1330-crops/ef-newprices-tight.png)",
+      "price": 0.000102
     },
     {
       "ts": null,
@@ -710,8 +710,8 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago",
-      "price": null
+      "note": "1w ago; price $0.0000888 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png, /tmp/fomo-1330-crops/txfr-above.png, /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, /tmp/fomo-1330-crops/txfr2-mid.png, /tmp/fomo-1330-crops/txfr2-bot.png, and /tmp/fomo-1330-crops/fr-newprices-tight.png) as billy; price newly independently verified this run (was null); also on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png and /tmp/fomo-1330-crops/ef-newprices-tight.png)",
+      "price": 8.88e-05
     },
     {
       "ts": null,
@@ -722,7 +722,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $95.89 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as SOL; first fully visible row on the further-scrolled shot; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $95.89 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png, /tmp/fomo-1330-crops/txfr-above.png, /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, /tmp/fomo-1330-crops/txfr2-mid.png, /tmp/fomo-1330-crops/txfr2-bot.png, and /tmp/fomo-1330-crops/fr-newprices-tight.png) as SOL; also on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png",
       "price": 95.89
     },
     {
@@ -734,7 +734,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $95.74 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as SOL; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $95.74 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png, /tmp/fomo-1330-crops/txfr-above.png, /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, /tmp/fomo-1330-crops/txfr2-mid.png, /tmp/fomo-1330-crops/txfr2-bot.png, and /tmp/fomo-1330-crops/fr-newprices-tight.png) as SOL; also on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png",
       "price": 95.74
     },
     {
@@ -746,7 +746,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $5.67 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as DJT; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $5.67 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png, /tmp/fomo-1330-crops/txfr-above.png, /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, /tmp/fomo-1330-crops/txfr2-mid.png, /tmp/fomo-1330-crops/txfr2-bot.png, and /tmp/fomo-1330-crops/fr-newprices-tight.png) as DJT; also on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png",
       "price": 5.67
     },
     {
@@ -758,7 +758,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $5.67 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as DJT; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $5.67 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png, /tmp/fomo-1330-crops/txfr-above.png, /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, /tmp/fomo-1330-crops/txfr2-mid.png, /tmp/fomo-1330-crops/txfr2-bot.png, and /tmp/fomo-1330-crops/fr-newprices-tight.png) as DJT; also on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png",
       "price": 5.67
     },
     {
@@ -770,7 +770,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $600.31 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as XMR; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $600.31 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png, /tmp/fomo-1330-crops/txfr-above.png, /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, /tmp/fomo-1330-crops/txfr2-mid.png, /tmp/fomo-1330-crops/txfr2-bot.png, and /tmp/fomo-1330-crops/fr-newprices-tight.png) as XMR; also on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png",
       "price": 600.31
     },
     {
@@ -782,7 +782,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $601.38 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as XMR; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $601.38 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-further.png (crops /tmp/fomo-1330-crops/txfr-verytop.png, /tmp/fomo-1330-crops/txfr-above.png, /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, /tmp/fomo-1330-crops/txfr2-mid.png, /tmp/fomo-1330-crops/txfr2-bot.png, and /tmp/fomo-1330-crops/fr-newprices-tight.png) as XMR; last fully visible row on the further-scrolled shot; also on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png",
       "price": 601.38
     },
     {
@@ -794,7 +794,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $87.23 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as HYPE; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $87.23 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png, /tmp/fomo-1330-crops/txef2-full.png, /tmp/fomo-1330-crops/ef-newprices-tight.png, /tmp/fomo-1330-crops/ef-lower-tight.png, /tmp/fomo-1330-crops/ef-spcx-tight.png, and /tmp/fomo-1330-crops/ef-sis-tooltip-tight.png) as HYPE",
       "price": 87.23
     },
     {
@@ -806,7 +806,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $87.28 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as HYPE; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $87.28 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png, /tmp/fomo-1330-crops/txef2-full.png, /tmp/fomo-1330-crops/ef-newprices-tight.png, /tmp/fomo-1330-crops/ef-lower-tight.png, /tmp/fomo-1330-crops/ef-spcx-tight.png, and /tmp/fomo-1330-crops/ef-sis-tooltip-tight.png) as HYPE",
       "price": 87.28
     },
     {
@@ -818,7 +818,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $95.75 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as SOL; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $95.75 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png, /tmp/fomo-1330-crops/txef2-full.png, /tmp/fomo-1330-crops/ef-newprices-tight.png, /tmp/fomo-1330-crops/ef-lower-tight.png, /tmp/fomo-1330-crops/ef-spcx-tight.png, and /tmp/fomo-1330-crops/ef-sis-tooltip-tight.png) as SOL",
       "price": 95.75
     },
     {
@@ -830,7 +830,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $95.74 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as SOL; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $95.74 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png, /tmp/fomo-1330-crops/txef2-full.png, /tmp/fomo-1330-crops/ef-newprices-tight.png, /tmp/fomo-1330-crops/ef-lower-tight.png, /tmp/fomo-1330-crops/ef-spcx-tight.png, and /tmp/fomo-1330-crops/ef-sis-tooltip-tight.png) as SOL",
       "price": 95.74
     },
     {
@@ -842,7 +842,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000601 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as Pikmin; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $0.0000601 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png, /tmp/fomo-1330-crops/txef2-full.png, /tmp/fomo-1330-crops/ef-newprices-tight.png, /tmp/fomo-1330-crops/ef-lower-tight.png, /tmp/fomo-1330-crops/ef-spcx-tight.png, and /tmp/fomo-1330-crops/ef-sis-tooltip-tight.png) as Pikmin",
       "price": 6.01e-05
     },
     {
@@ -854,7 +854,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $137.10 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as SPCX; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $137.10 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png, /tmp/fomo-1330-crops/txef2-full.png, /tmp/fomo-1330-crops/ef-newprices-tight.png, /tmp/fomo-1330-crops/ef-lower-tight.png, /tmp/fomo-1330-crops/ef-spcx-tight.png, and /tmp/fomo-1330-crops/ef-sis-tooltip-tight.png) as SPCX (tight zoom /tmp/fomo-1330-crops/spcx-row-wide.png; a looser unzoomed $13710 reading was not used)",
       "price": 137.1
     },
     {
@@ -866,7 +866,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000482 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as SIS; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $0.0000482 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png, /tmp/fomo-1330-crops/txef2-full.png, /tmp/fomo-1330-crops/ef-newprices-tight.png, /tmp/fomo-1330-crops/ef-lower-tight.png, /tmp/fomo-1330-crops/ef-spcx-tight.png, and /tmp/fomo-1330-crops/ef-sis-tooltip-tight.png) as SIS",
       "price": 4.82e-05
     },
     {
@@ -878,7 +878,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000723 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as SIS; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $0.0000723 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png, /tmp/fomo-1330-crops/txef2-full.png, /tmp/fomo-1330-crops/ef-newprices-tight.png, /tmp/fomo-1330-crops/ef-lower-tight.png, /tmp/fomo-1330-crops/ef-spcx-tight.png, and /tmp/fomo-1330-crops/ef-sis-tooltip-tight.png) as SIS",
       "price": 7.23e-05
     },
     {
@@ -890,7 +890,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000283 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as SIS; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; SIS Sell row is visible on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png between SIS Buy $104.29 and HI Buy $233.88 (crops /tmp/fomo-1330-crops/txef2-full.png, /tmp/fomo-1330-crops/ef-lower-tight.png, /tmp/fomo-1330-crops/ef-spcx-tight.png, and /tmp/fomo-1330-crops/ef-sis-tooltip-tight.png), but a time tooltip (Oct 31, 2026, 11:21 AM) covered the amount and price this run so prior independently verified values $106.19 @$0.0000283 were kept",
       "price": 2.83e-05
     },
     {
@@ -902,7 +902,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000396 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as HI; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $0.000396 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png, /tmp/fomo-1330-crops/txef2-full.png, /tmp/fomo-1330-crops/ef-newprices-tight.png, /tmp/fomo-1330-crops/ef-lower-tight.png, /tmp/fomo-1330-crops/ef-spcx-tight.png, and /tmp/fomo-1330-crops/ef-sis-tooltip-tight.png) as HI",
       "price": 0.000396
     },
     {
@@ -914,7 +914,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000149 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as SIS; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $0.000149 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png, /tmp/fomo-1330-crops/txef2-full.png, /tmp/fomo-1330-crops/ef-newprices-tight.png, /tmp/fomo-1330-crops/ef-lower-tight.png, /tmp/fomo-1330-crops/ef-spcx-tight.png, and /tmp/fomo-1330-crops/ef-sis-tooltip-tight.png) as SIS",
       "price": 0.000149
     },
     {
@@ -926,7 +926,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000420 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as SIS; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $0.0000420 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png, /tmp/fomo-1330-crops/txef2-full.png, /tmp/fomo-1330-crops/ef-newprices-tight.png, /tmp/fomo-1330-crops/ef-lower-tight.png, /tmp/fomo-1330-crops/ef-spcx-tight.png, and /tmp/fomo-1330-crops/ef-sis-tooltip-tight.png) as SIS",
       "price": 4.2e-05
     },
     {
@@ -938,7 +938,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000426 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as LUMI; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $0.000426 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png, /tmp/fomo-1330-crops/txef2-full.png, /tmp/fomo-1330-crops/ef-newprices-tight.png, /tmp/fomo-1330-crops/ef-lower-tight.png, /tmp/fomo-1330-crops/ef-spcx-tight.png, and /tmp/fomo-1330-crops/ef-sis-tooltip-tight.png) as LUMI",
       "price": 0.000426
     },
     {
@@ -950,7 +950,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.000411 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as LUMI; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $0.000411 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png, /tmp/fomo-1330-crops/txef2-full.png, /tmp/fomo-1330-crops/ef-newprices-tight.png, /tmp/fomo-1330-crops/ef-lower-tight.png, /tmp/fomo-1330-crops/ef-spcx-tight.png, and /tmp/fomo-1330-crops/ef-sis-tooltip-tight.png) as LUMI",
       "price": 0.000411
     },
     {
@@ -962,7 +962,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "1w ago; price $0.0000000969 independently re-read on /tmp/fomo-gorkbot-desktop-1302-transactions-further.png (crops /tmp/fomo-1302-crops/txfr-above.png, /tmp/fomo-1302-crops/txfr-verytop.png, /tmp/fomo-1302-crops/txfr2-full.png, /tmp/fomo-1302-crops/txfr2-top.png, /tmp/fomo-1302-crops/txfr2-mid.png, and /tmp/fomo-1302-crops/txfr2-bot.png) as Mog; price was not independently verified on an earlier persisted shot",
+      "note": "1w ago; price $0.0000000969 independently re-read on /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png (crops /tmp/fomo-1330-crops/txef-verytop.png, /tmp/fomo-1330-crops/txef2-full.png, /tmp/fomo-1330-crops/ef-newprices-tight.png, /tmp/fomo-1330-crops/ef-lower-tight.png, /tmp/fomo-1330-crops/ef-spcx-tight.png, and /tmp/fomo-1330-crops/ef-sis-tooltip-tight.png) as Mog; last fully visible row on the even-further shot",
       "price": 9.69e-08
     },
     {
@@ -2791,5 +2791,5 @@
     }
   ],
   "risk": null,
-  "notes": "read about 1:17 PM ET (desktop shots /tmp/fomo-gorkbot-desktop-1315-landing.png mtime 13:16:18, /tmp/fomo-gorkbot-desktop-1315-cash-popover.png mtime 13:16:32, /tmp/fomo-gorkbot-desktop-1315-open.png mtime 13:16:49, /tmp/fomo-gorkbot-desktop-1315-transactions.png mtime 13:16:50, /tmp/fomo-gorkbot-desktop-1315-transactions-scrolled.png mtime 13:16:59, and /tmp/fomo-gorkbot-desktop-1315-transactions-further.png mtime 13:17:00; all 1280x800); no sign-in required; opened https://fomo.family/profile/gorkbot (site added ?r=gorkbot); independently verified on persisted shots: account gorkbot / @gorkbot, 1h 36m avg. hold, 92 trades, Joined Oct 2026, Following 33, Followers 11 (crops /tmp/fomo-1315-crops/landing-profile-panel.png, /tmp/fomo-1315-crops/landing-center-header.png, /tmp/fomo-1315-crops/landing-profile-center.png, /tmp/fomo-1315-crops/open-profile-panel.png, /tmp/fomo-1315-crops/open-center.png, and /tmp/fomo-1315-crops/cash-full-left.png); center header $0.08 / +$0 24h and top-right mini header $0.00 cash / $0.08 / +$0 24h on /tmp/fomo-1315-crops/landing-header-bar.png, /tmp/fomo-1315-crops/landing-mini.png, /tmp/fomo-1315-crops/open-mini.png, and the profile panels; cash overlay Total cash $0 / Tokens cash balance $0 / Perps cash balance $0 with Transfer visible and not clicked on /tmp/fomo-gorkbot-desktop-1315-cash-popover.png (crops /tmp/fomo-1315-crops/cash-overlay.png, /tmp/fomo-1315-crops/cash-full-left.png, and /tmp/fomo-1315-crops/cash-overlay-tight.png); Withdraw and Deposit buttons visible beside Total cash and not clicked; Open (Your positions 2, Show dust already checked): SOL 0.000926 $0.08 -11.11% and AAPLX 0.00000829 $0.00 +2.62% on /tmp/fomo-gorkbot-desktop-1315-open.png and again beside the transactions list (crops /tmp/fomo-1315-crops/open-positions-wide.png, /tmp/fomo-1315-crops/open-pos-wide2.png, /tmp/fomo-1315-crops/open-pos-card.png, /tmp/fomo-1315-crops/open-positions-left.png, /tmp/fomo-1315-crops/open-profile-panel.png, /tmp/fomo-1315-crops/open-pos-left-tight.png, and /tmp/fomo-1315-crops/tx2-mid.png); was SOL -10.94% at 13:04:10; was -10.99% at 12:51:32; was -10.94% at 12:40:45; open-row sum matches the header (0.08+0.00=0.08); persisted portfolio_value/balance $0.08 from the verified mini and center headers (numeric change_24h 0.0); Tokens/Perps recorded as $0/$0 from the independently verified cash overlay; GTA6 is absent this run (was 3.4K $0.53 +114.16% at 11:18:59; was absent at 13:04:10, 12:51:32, 12:40:45, 12:14:51, 12:05:12, 11:44:36, 11:33:11 and 11:10:58; was 3.4K $16.57 +6,944.03% at 11:01:38); no Buy, Sell, or Sent GTA6 row is visible and trades_count is still 92, so a gorkbot GTA6 sell this run was not verified; mihao, FLOAT, AudaCity, Dacity, PUSSY, HI, and MONEKO absent as open positions; no open-scrolled PNG this run because both open rows were fully visible without scrolling; no #1 Trade badge visible on persisted shots; used saved shot mtime 13:17:00 as observed_at; newest visible transaction is Sent -$1.09 1w to bVeSJT...cg46... independently visible on /tmp/fomo-gorkbot-desktop-1315-transactions.png (crop /tmp/fomo-1315-crops/tx2-full.png and /tmp/fomo-1315-crops/tx2-top.png), matching the 13:04:10 / 12:40:45 / 12:14:51 / 12:05:12 newest row; independently re-read visible rows on transactions.png through Sent -$106.99 (helper said SOL Sell $108.00 was last fully visible with a Sent row cut off below, but the crops show Sent -$106.99 fully visible); scrolled shot independently re-read from FOCO Sell $82.75 $0.000644 through Buy \u2014/DOUGHBRIKS $29.32 $0.000413, including the former gap rows Sell HUSS $108.15 $0.0000668, Buy SOL $98.18 $95.97, and Sell HUSS $99.18 $0.000138 (crops /tmp/fomo-1315-crops/txsc2-full.png, /tmp/fomo-1315-crops/txsc2-top.png, /tmp/fomo-1315-crops/txsc2-mid.png, /tmp/fomo-1315-crops/txsc2-bot.png, and /tmp/fomo-1315-crops/txsc-verytop.png); helper said the first fully visible scrolled row was HYPE Buy $2.79, but the crops start around Sent -$81.80 / FOCO Sell $82.75; further-scrolled shot independently re-read from DOUGHBRIKS Sell $203.46 $0.000260 through Sell SOL $11.80 $95.80, including new independent prices for \u76d8\u53e4\u5e01 Sell $15.86 $0.0000513, \u76d8\u53e4\u5e01 Buy $11.69 $0.0000379, and SOL Sell $11.80 $95.80 (crops /tmp/fomo-1315-crops/txfr2-full.png, /tmp/fomo-1315-crops/txfr2-top.png, /tmp/fomo-1315-crops/txfr2-mid.png, /tmp/fomo-1315-crops/txfr2-bot.png, and /tmp/fomo-1315-crops/txfr-verytop.png); last fully visible row on the further-scrolled shot is Sell SOL $11.80 $95.80; helper said the first fully visible further row was A-RSI Sell $4.86, but the crops start around David Buy $201.56 / DOUGHBRIKS Sell $203.46; A-RSI Buy price independently re-read as $0.0000525 (helper agreed this run; a prior helper $0.00000525 reading was not used); a looser vision read of Received +$3.08 was not used (crops and prior verified value show +$3.06); scroll gap after further end (Sell SOL $11.80) left SOL Buy $10.61 and billy Sell $10.84 / Buy $9.44 not visible on persisted shots so prior readings were kept (no prices invented); the 13:04 further-shot rows from Sell SOL $9.74 through Sell HI $193.67 were not visible this run so prior verified readings were kept; helper page-text CRIME rows below the further shot were not visible on persisted shots so prior readings were kept; the 2w Kongo-through-SOL $64.25 rows from the 12:40 scrolled shot were not visible this run so prior verified readings were kept; Received +$0.25 from 0xf3e0...62b8fe is not visible this run (was newest at 11:44:36 as 26m; was already not visible at 13:04:10, 12:51:32, 12:40:45, 12:14:51 and 12:05:12); trades_count still 92; Received +$0.24 / +$0.21 / +$0.14 / +$0.10 / +$0.90 / +$0.12 also not visible; values loaded (not skeleton) on the persisted views; Show dust was already checked and left checked; Open and Transactions were selected; no token modal opened this run; no financial action on the verified captures; helper reported it clicked Total cash breakdown, pressed Escape to dismiss the overlay, selected Open, clicked Transactions, and scrolled the transaction list only and did not click Buy/Sell/Deposit/Withdraw/Transfer."
+  "notes": "read about 1:35 PM ET (desktop shots /tmp/fomo-gorkbot-desktop-1330-landing.png mtime 13:33:25, /tmp/fomo-gorkbot-desktop-1330-cash-popover.png mtime 13:33:25, /tmp/fomo-gorkbot-desktop-1330-open.png mtime 13:34:18, /tmp/fomo-gorkbot-desktop-1330-transactions.png mtime 13:34:18, /tmp/fomo-gorkbot-desktop-1330-transactions-scrolled.png mtime 13:34:52, /tmp/fomo-gorkbot-desktop-1330-transactions-further.png mtime 13:35:20, and /tmp/fomo-gorkbot-desktop-1330-transactions-even-further.png mtime 13:35:57; all 1280x800); no sign-in required; opened https://fomo.family/profile/gorkbot (site added ?r=gorkbot); independently verified on persisted shots: account gorkbot / @gorkbot, 1h 36m avg. hold, 92 trades, Joined Oct 2026, Following 33, Followers 11, empty bio and no #1 Trade badge (crops /tmp/fomo-1330-crops/landing-header-bar.png, /tmp/fomo-1330-crops/landing-profile-panel.png, /tmp/fomo-1330-crops/landing-profile-stats.png, /tmp/fomo-1330-crops/landing-center-header.png, /tmp/fomo-1330-crops/landing-profile-card.png, /tmp/fomo-1330-crops/landing-profile-top.png, /tmp/fomo-1330-crops/landing-value-full.png, /tmp/fomo-1330-crops/landing-right-stats.png, /tmp/fomo-1330-crops/open-account-top.png, and /tmp/fomo-1330-crops/open-value-full.png); center header $0.08 / +$0 24h and top-right mini header $0.00 cash / $0.08 / +$0 24h on /tmp/fomo-1330-crops/landing-header-bar.png, /tmp/fomo-1330-crops/landing-mini.png, /tmp/fomo-1330-crops/landing-value-full.png, /tmp/fomo-1330-crops/open-value-full.png, /tmp/fomo-1330-crops/open-mini.png, /tmp/fomo-1330-crops/cash-mini.png, and the profile panels; cash overlay Total cash $0 / Tokens cash balance $0 / Perps cash balance $0 with Transfer visible and not clicked on /tmp/fomo-gorkbot-desktop-1330-cash-popover.png (crops /tmp/fomo-1330-crops/cash-overlay.png, /tmp/fomo-1330-crops/cash-overlay-zone.png, /tmp/fomo-1330-crops/cash-overlay-focus.png, /tmp/fomo-1330-crops/cash-overlay-tight2.png, and /tmp/fomo-1330-crops/cash-buttons.png); Withdraw and Deposit buttons visible beside Total cash and not clicked; Open (Your positions 2, Show dust already checked): SOL 0.000926 $0.08 -10.98% and AAPLX 0.00000829 $0.00 +2.68% on /tmp/fomo-gorkbot-desktop-1330-open.png and again beside the transactions list (crops /tmp/fomo-1330-crops/open-pos-block2.png, /tmp/fomo-1330-crops/open-pos-block3.png, /tmp/fomo-1330-crops/open-pos-rows-tight.png, /tmp/fomo-1330-crops/open-sol-aaplx.png, /tmp/fomo-1330-crops/open-sol-row2.png, /tmp/fomo-1330-crops/open-aaplx-row2.png, /tmp/fomo-1330-crops/open-pos-title.png, /tmp/fomo-1330-crops/zoom-both-pos.png, /tmp/fomo-1330-crops/zoom-sol-amt.png, /tmp/fomo-1330-crops/zoom-pos-values.png, and /tmp/fomo-1330-crops/tx-center-list.png); was SOL -11.11% at 13:17:00; was -10.94% at 13:04:10; was -10.99% at 12:51:32; was -10.94% at 12:40:45; AAPLX was +2.62% at 13:17:00, 13:04:10, 12:51:32 and 12:40:45; open-row sum matches the header (0.08+0.00=0.08); persisted portfolio_value/balance $0.08 from the verified mini and center headers (numeric change_24h 0.0); Tokens/Perps recorded as $0/$0 from the independently verified cash overlay; GTA6 is absent this run (was 3.4K $0.53 +114.16% at 11:18:59; was absent at 13:17:00, 13:04:10, 12:51:32, 12:40:45, 12:14:51, 12:05:12, 11:44:36, 11:33:11 and 11:10:58; was 3.4K $16.57 +6,944.03% at 11:01:38); no Buy, Sell, or Sent GTA6 row is visible and trades_count is still 92, so a gorkbot GTA6 sell this run was not verified; mihao, FLOAT, AudaCity, Dacity, PUSSY, HI, and MONEKO absent as open positions; no open-scrolled PNG this run because both open rows were fully visible without scrolling; no #1 Trade badge visible on persisted shots; used saved shot mtime 13:35:57 as observed_at; newest visible transaction is Sent -$1.09 1w to bVeSJT...cg46... independently visible on /tmp/fomo-gorkbot-desktop-1330-transactions.png (crops /tmp/fomo-1330-crops/tx2-full.png, /tmp/fomo-1330-crops/tx2-top.png, and /tmp/fomo-1330-crops/tx-firstrows.png), matching the 13:17:00 / 13:04:10 / 12:40:45 / 12:14:51 / 12:05:12 newest row; independently re-read visible rows on transactions.png from Sent -$1.09 through Sent -$106.99; scrolled shot independently re-read from HUSS Sell $108.15 $0.0000668 through HOPE Sell $20.24 $0.0000425 (crops /tmp/fomo-1330-crops/txsc-verytop.png, /tmp/fomo-1330-crops/txsc-above.png, /tmp/fomo-1330-crops/txsc2-full.png, /tmp/fomo-1330-crops/txsc2-top.png, /tmp/fomo-1330-crops/txsc2-mid.png, /tmp/fomo-1330-crops/txsc2-bot.png, and /tmp/fomo-1330-crops/txsc-tx-full.png); further-scrolled shot independently re-read from DAVID Buy $149.05 $0.00177 through XMR Buy $2.80 $601.38, including new independent prices for SOL Buy $10.61 $95.86, billy Sell $10.84 $0.000102, and billy Buy $9.44 $0.0000888 (crops /tmp/fomo-1330-crops/txfr-verytop.png, /tmp/fomo-1330-crops/txfr-above.png, /tmp/fomo-1330-crops/txfr2-full.png, /tmp/fomo-1330-crops/txfr2-top.png, /tmp/fomo-1330-crops/txfr2-mid.png, /tmp/fomo-1330-crops/txfr2-bot.png, and /tmp/fomo-1330-crops/fr-newprices-tight.png); even-further shot independently re-read from SOL Buy $10.61 $95.86 through Mog Sell $45.97 $0.0000000969 (crops /tmp/fomo-1330-crops/txef-verytop.png, /tmp/fomo-1330-crops/txef2-full.png, /tmp/fomo-1330-crops/ef-newprices-tight.png, /tmp/fomo-1330-crops/ef-lower-tight.png, /tmp/fomo-1330-crops/ef-spcx-tight.png, /tmp/fomo-1330-crops/ef-sis-tooltip-tight.png, and /tmp/fomo-1330-crops/spcx-row-wide.png); helper first/last claims matched the crops this run on all four transaction shots (initial first Sent -$1.09 / last Sent -$106.99; scrolled first HUSS Sell $108.15 / last HOPE Sell $20.24; further first DAVID Buy $149.05 / last XMR Buy $2.80; even-further first SOL Buy $10.61 / last Mog Sell $45.97); SIS Sell $106.19 @$0.0000283 is visible on the even-further shot but a time tooltip (Oct 31, 2026, 11:21 AM) covered the amount and price, so prior verified values were kept; SPCX Sell price independently re-read as $137.10 on the zoomed crop (a looser unzoomed $13710 reading was not used); A-RSI Buy price independently re-read as $0.0000525 (a prior helper $0.00000525 reading was not used); a looser vision read of Received +$3.08 was not used (crops and prior verified value show +$3.06); rows after Mog Sell $45.97 (Mog Buy onward, including CRIME etc. and the 2w Kongo-through-SOL $64.25 block) were not visible on this run's shots so prior verified readings were kept; Received +$0.25 from 0xf3e0...62b8fe is not visible this run (was newest at 11:44:36 as 26m; was already not visible at 13:17:00, 13:04:10, 12:51:32, 12:40:45, 12:14:51 and 12:05:12); trades_count still 92; Received +$0.24 / +$0.21 / +$0.14 / +$0.10 / +$0.90 / +$0.12 also not visible; values loaded (not skeleton) on the persisted views; Show dust was already checked and left checked; Open and Transactions were selected; no token modal opened this run; no financial action on the verified captures; helper reported it clicked Total cash breakdown, pressed Escape to dismiss the overlay, selected Open, clicked Transactions, and scrolled the transaction list (including further and even-further) only and did not click Buy/Sell/Deposit/Withdraw/Transfer."
 }
