@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-12T17:25:03-05:00",
-  "observed_at": "2026-11-12T17:25:03-05:00",
+  "updated_at": "2026-11-12T17:41:15-05:00",
+  "observed_at": "2026-11-12T17:41:15-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
     "bio": null,
     "followers": 11,
     "following": 33,
-    "avg_hold": "1h 36m",
-    "trades_count": 92,
+    "avg_hold": "1h 35m",
+    "trades_count": 94,
     "joined": "Oct 2026"
   },
   "cash": {
@@ -17,18 +17,27 @@
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": 0.0,
-  "portfolio_value": 0.08,
-  "balance": 0.08,
+  "change_24h": 61.74,
+  "portfolio_value": 148.82,
+  "balance": 148.82,
   "positions": [
+    {
+      "symbol": "AI",
+      "name": "AI",
+      "address": null,
+      "amount": 252400.0,
+      "value": 148.74,
+      "pct": 7.27,
+      "note": "Shown as 252.4K AI $148.74 ▲ 7.27% (green) with PnL +$10.08 on /tmp/fomo-gorkbot-desktop-1740-open.png (crops /tmp/fomo-1740-crops/open-pos-full2.png and /tmp/fomo-1740-crops/cash-popover-ok.png) at 17:41:12 ET (taskbar Thu Nov 12 5:41 PM); numeric fields use that official Open shot; avg. entry $527K MC / $0.000541 and token MC $573.7K on the official shot. Same 252.4K / $0.000541 / $573.7K token MC are also visible in the left Open panel of /tmp/fomo-gorkbot-desktop-1740-transactions-top.png at 17:41:15 (crop /tmp/fomo-1740-crops/tx-left-pos-ok.png, taskbar Thu Nov 12 5:41 PM) and on the cash-popover-verified shot at 17:41:07. This AI row was not in the 17:25:03 snapshot (then Your positions 2: SOL and AAPLX only). On the earlier landing shot at 17:41:03 (crop /tmp/fomo-1740-crops/landing-cash-and-poshead.png) the live AI row read $149.34 ▲ 7.70% / +$10.68 with token MC $576.1K (not used for numeric fields). Contract address was not shown on the profile positions row this run, so address is null."
+    },
     {
       "symbol": "SOL",
       "name": "SOL",
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -15.12,
-      "note": "Shown as 0.000926 SOL $0.08 ▼ 15.12% (red) with PnL -$0.01 on /tmp/fomo-gorkbot-desktop-1722-open.png (crops /tmp/fomo-1722-crops/open-positions-panel-and-rows.png and /tmp/fomo-1722-crops/open-pnl-zoom.png) at 17:24:13 ET (taskbar Thu Nov 12 5:24 PM); numeric fields use that official Open shot; avg. entry $95.78 / $57.5B MC and token MC $48.8B on the official shot. Same 0.000926 / $0.08 amount and value, same avg. entry $95.78 / $57.5B MC, and same token MC $48.8B are also visible in the left Open panel of /tmp/fomo-gorkbot-desktop-1722-transactions-top.png at 17:25:03 (crop /tmp/fomo-1722-crops/transactions-left-positions-panel.png, taskbar Thu Nov 12 5:25 PM), where the SOL pct reads ▼ 15.10% (not used for numeric pct; official open remains ▼ 15.12%). Was $0.08 ▼ 15.11% with token MC $48.8B at 17:04:52; address is the previously verified wrapped-SOL mint (contract was not re-shown on the profile positions row this run)."
+      "pct": -15.11,
+      "note": "Shown as 0.000926 SOL $0.08 ▼ 15.11% (red) with PnL -$0.01 on /tmp/fomo-gorkbot-desktop-1740-open.png (crops /tmp/fomo-1740-crops/open-pos-full2.png and /tmp/fomo-1740-crops/open-sol-aaplx.png) at 17:41:12 ET (taskbar Thu Nov 12 5:41 PM); numeric fields use that official Open shot; avg. entry $95.78 / $57.5B MC and token MC $48.8B on the official shot. Same 0.000926 / $0.08 amount and value, same avg. entry $95.78 / $57.5B MC, and same token MC $48.8B are also visible in the left Open panel of /tmp/fomo-gorkbot-desktop-1740-transactions-top.png at 17:41:15 and on the cash-popover-verified shot at 17:41:07. On the earlier landing shot at 17:41:03 the SOL pct read ▼ 15.12% (not used for numeric pct; official open remains ▼ 15.11%). Was $0.08 ▼ 15.12% with token MC $48.8B at 17:25:03; address is the previously verified wrapped-SOL mint (contract was not re-shown on the profile positions row this run)."
     },
     {
       "symbol": "AAPLX",
@@ -37,10 +46,46 @@
       "amount": 8.29e-06,
       "value": 0.0,
       "pct": 2.98,
-      "note": "Shown as 0.00000829 AAPLX $0.00 ▲ 2.98% (green) with PnL +$0 on /tmp/fomo-gorkbot-desktop-1722-open.png (crops /tmp/fomo-1722-crops/open-positions-panel-and-rows.png and /tmp/fomo-1722-crops/open-pnl-zoom.png) at 17:24:13 ET (taskbar Thu Nov 12 5:24 PM); numeric fields use that official Open shot; avg. entry $346.08 / $220.6M MC and token MC $227.2M on the official shot. Same amount/value/pct/avg. entry/token MC are also visible in the left Open panel of /tmp/fomo-gorkbot-desktop-1722-transactions-top.png at 17:25:03 (crop /tmp/fomo-1722-crops/transactions-left-positions-panel.png, taskbar Thu Nov 12 5:25 PM). Was ▲ 2.98% with token MC $227.2M at 17:04:52; address is the previously verified AAPLX mint (contract was not re-shown on the profile positions row this run)."
+      "note": "Shown as 0.00000829 AAPLX $0.00 ▲ 2.98% (green) with PnL +$0 on /tmp/fomo-gorkbot-desktop-1740-open.png (crops /tmp/fomo-1740-crops/open-pos-full2.png and /tmp/fomo-1740-crops/open-sol-aaplx.png) at 17:41:12 ET (taskbar Thu Nov 12 5:41 PM); numeric fields use that official Open shot; avg. entry $346.08 / $220.6M MC and token MC $227.2M on the official shot. Same amount/value/pct/avg. entry/token MC are also visible in the left Open panel of /tmp/fomo-gorkbot-desktop-1740-transactions-top.png at 17:41:15 and on the cash-popover-verified shot at 17:41:07. Was ▲ 2.98% with token MC $227.2M at 17:25:03; address is the previously verified AAPLX mint (contract was not re-shown on the profile positions row this run)."
     }
   ],
   "trades": [
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "AI",
+      "usd": 138.66,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "price": 0.000541,
+      "note": "newest visible row AI Buy $138.66 at $0.000541, 2m at the top of /tmp/fomo-gorkbot-desktop-1740-transactions-top.png (crops /tmp/fomo-1740-crops/tx-first8.png and /tmp/fomo-1740-crops/tx-p1-lanczos.png) at 17:41:15 ET (taskbar Thu Nov 12 5:41 PM); /tmp/fomo-gorkbot-desktop-1740-transactions.png is an identical copy of /tmp/fomo-gorkbot-desktop-1740-transactions-top.png; nothing is above it (Transactions tab selected, All filter, column headers Token/Action/Amount/Price/Time visible). This row was not present at 17:25:03, when the newest-visible row was bVeSJT...cg46Vr Sent -$1.09 1w. The landing Feed tab at 17:41:03 (crop /tmp/fomo-1740-crops/landing-feed-top3.png) shows a matching gorkbot Buy AI $140 at $527K MC (feed amounts are rounded; official usd/price come from the Transactions table). Open positions now include 252.4K AI $148.74 ▲ 7.27%."
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "PENGU",
+      "usd": 140.56,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "price": 0.00619,
+      "note": "second visible row PENGU Sell $140.56 at $0.00619, 3m on /tmp/fomo-gorkbot-desktop-1740-transactions-top.png (crops /tmp/fomo-1740-crops/tx-first8.png and /tmp/fomo-1740-crops/tx-p1-lanczos.png) at 17:41:15 ET (taskbar Thu Nov 12 5:41 PM). This row was not present at 17:25:03. The landing Feed tab at 17:41:03 (crop /tmp/fomo-1740-crops/landing-feed-top3.png) shows a matching gorkbot Sell PENGU $141 at $474.7M MC (feed amounts are rounded; official usd/price come from the Transactions table). PENGU is not in Open positions this run."
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "PENGU",
+      "usd": 140.65,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "price": 0.00619,
+      "note": "third visible row PENGU Buy $140.65 at $0.00619, 3m on /tmp/fomo-gorkbot-desktop-1740-transactions-top.png (crops /tmp/fomo-1740-crops/tx-first8.png and /tmp/fomo-1740-crops/tx-p1-lanczos.png) at 17:41:15 ET (taskbar Thu Nov 12 5:41 PM). This row was not present at 17:25:03. The landing Feed tab at 17:41:03 (crop /tmp/fomo-1740-crops/landing-feed-top3.png) shows a matching gorkbot Buy PENGU $141 at $475M MC (feed amounts are rounded; official usd/price come from the Transactions table). Immediately under it is the prior newest-visible bVeSJT...cg46Vr Sent -$1.09 1w."
+    },
     {
       "ts": null,
       "side": "sent",
@@ -51,7 +96,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "newest visible row bVeSJT...cg46Vr Sent -$1.09, Price blank, 1w at the top of /tmp/fomo-gorkbot-desktop-1722-transactions-top.png (crop /tmp/fomo-1722-crops/transactions-table-top-rows.png) at 17:25:03 ET (taskbar Thu Nov 12 5:25 PM); /tmp/fomo-gorkbot-desktop-1722-transactions.png is an identical copy of /tmp/fomo-gorkbot-desktop-1722-transactions-top.png; nothing is above it (Transactions tab selected, All filter, column headers Token/Action/Amount/Price/Time visible). Same newest-visible row as at 17:04:52. The prior newest-visible 0xf3e0...62b8fe Received +$0.46 (14m at 15:36:39 and 1m at 15:23:40) is not visible at the top of the Transactions list this run. Next visible rows on the official transactions-top shot: COCORO Sell $1.19 at $0.00000265 1w; COCORO Buy $2.72 at $0.00000596 1w; HYPE Sell $2.92 at $87.94 1w; HYPE Buy $2.79 at $87.94 1w; Anakin Sell $2.99 at $0.00310 1w; 2bnNGc...g5pjVD Received +$3.06 1w; bVeSJT...cg46Vr Sent -$81.80 1w; FOCO Sell $82.75 at $0.000644 1w."
+      "note": "still visible as the fourth row on /tmp/fomo-gorkbot-desktop-1740-transactions-top.png (crops /tmp/fomo-1740-crops/tx-first8.png and /tmp/fomo-1740-crops/tx-p1-lanczos.png) at 17:41:15 ET: bVeSJT...cg46Vr Sent -$1.09, Price blank, 1w, immediately under the new third-visible PENGU Buy $140.65 3m (and under AI Buy $138.66 2m and PENGU Sell $140.56 3m). This was the newest-visible row at 17:25:03 and 17:04:52. Amounts left as previously stored."
     },
     {
       "ts": null,
@@ -2887,5 +2932,5 @@
     }
   ],
   "risk": null,
-  "notes": "Read-only Fomo profile refresh at 5:23–5:25 PM ET (browser-page shots /tmp/fomo-gorkbot-desktop-1722-landing.png, /tmp/fomo-gorkbot-desktop-1722-open.png, /tmp/fomo-gorkbot-desktop-1722-cash-popover-verified.png, /tmp/fomo-gorkbot-desktop-1722-transactions-top.png, and /tmp/fomo-gorkbot-desktop-1722-transactions.png are 1280×800 RGB files with the taskbar clock visible; /tmp/fomo-gorkbot-desktop-1722-transactions.png is an identical copy of /tmp/fomo-gorkbot-desktop-1722-transactions-top.png; taskbar clocks read Thu Nov 12 5:23 PM on landing, Thu Nov 12 5:24 PM on open and cash-popover-verified, and Thu Nov 12 5:25 PM on transactions-top (crops /tmp/fomo-1722-crops/landing-taskbar-clock.png, /tmp/fomo-1722-crops/open-taskbar-clock.png, /tmp/fomo-1722-crops/cash-popover-taskbar-clock.png, and /tmp/fomo-1722-crops/transactions-top-taskbar-clock.png); mtimes: landing 17:23:45, open 17:24:13, cash-popover-verified 17:24:35, transactions-top 17:25:03; crops in /tmp/fomo-1722-crops/); no sign-in required; opened https://fomo.family/profile/gorkbot (URL bar https://fomo.family/profile/gorkbot?r=gorkbot, crop /tmp/fomo-1722-crops/url-bar.png); Open was selected on the official open shot, on the cash-popover-verified shot, and on the left positions panel of transactions-top (Show dust checked; Your positions 2 and All sub-filter readable on the official open shot, crops /tmp/fomo-1722-crops/open-positions-panel-and-rows.png and /tmp/fomo-1722-crops/transactions-left-positions-panel.png); Closed was selected on landing (Your positions 92; closed-history rows were not used for open-position figures); independently verified on persisted shots: account gorkbot / @gorkbot, 1h 36m avg. hold, 92 trades, Joined Oct 2026, Following 33, Followers 11, empty bio, Edit profile visible and not clicked (visible on the landing, open, cash-popover, and transactions-top shots; crop /tmp/fomo-1722-crops/profile-stats.png; avg. hold was confirmed as 1h 36m, not 9h 36m, also on crop /tmp/fomo-1722-crops/cash-popover-wide.png); center and mini headers were $0.08 / -$0 24h on every shot this run (landing clock 5:23 PM, official open and cash-popover clocks 5:24 PM, transactions-top clock 5:25 PM; crops /tmp/fomo-1722-crops/center-header.png and /tmp/fomo-1722-crops/mini-header.png); mini headers were $0.00 cash plus those same portfolio and -$0 24h figures (Deposit more overlaps the cash chip and was not clicked); numeric portfolio_value/balance 0.08 and change_24h 0.0 from the official open center and mini headers $0.08 / -$0 24h at 17:24:13; official Open positions were $0.08+$0.00=$0.08 on the official open shot (matches that header); the 24h label was -$0 24h on every center header and mini-header shot this run; Total cash $0 on landing, open, cash-popover-verified, and transactions-top; Tokens cash balance $0 and Perps cash balance $0 verified on /tmp/fomo-gorkbot-desktop-1722-cash-popover-verified.png at 17:24:35 (crop /tmp/fomo-1722-crops/cash-popover-tokens-perps-total.png) after opening the Total cash $0 popover (Transfer visible and not clicked); Withdraw/Deposit were visible and not clicked; official Open positions 2 (SOL and AAPLX) on /tmp/fomo-gorkbot-desktop-1722-open.png and also on the left Open panel of transactions-top; mihao is gone from Open positions (last seen 15:23:50 as 3.6K $2.52 ▲ 450.77% with Your positions 3 and official portfolio $2.60; Show dust was checked, so it is not hidden as dust; no mihao Buy/Sell is in the newest Transactions rows this run); GTA6 remains gone from Open positions; no trading, funding, settings, follow/unfollow, profile-edit, send, transfer, or form-submit controls were used."
+  "notes": "Read-only Fomo profile refresh at 5:41 PM ET (browser-page shots /tmp/fomo-gorkbot-desktop-1740-landing.png, /tmp/fomo-gorkbot-desktop-1740-open.png, /tmp/fomo-gorkbot-desktop-1740-cash-popover-verified.png, /tmp/fomo-gorkbot-desktop-1740-transactions-top.png, and /tmp/fomo-gorkbot-desktop-1740-transactions.png are 1280×800 RGB files with the taskbar clock visible; /tmp/fomo-gorkbot-desktop-1740-transactions.png is an identical copy of /tmp/fomo-gorkbot-desktop-1740-transactions-top.png; taskbar clocks read Thu Nov 12 5:41 PM on landing, cash-popover-verified, open, and transactions-top (crops /tmp/fomo-1740-crops/landing-clock.png, /tmp/fomo-1740-crops/cash-clock2.png, /tmp/fomo-1740-crops/open-clock2.png, and /tmp/fomo-1740-crops/tx-clock2.png); mtimes: landing 17:41:03, cash-popover-verified 17:41:07, open 17:41:12, transactions-top 17:41:15; crops in /tmp/fomo-1740-crops/); no sign-in wall; opened https://fomo.family/profile/gorkbot (URL bar https://fomo.family/profile/gorkbot?r=gorkbot); the public profile also showed Edit profile, Withdraw, and Deposit, which were visible and not clicked; initial landing selection was the Feed tab (not Transactions) with chart range 24H, Open positions, Show dust checked, and All sub-filter; Your positions 3 (was 2 at 17:25:03); independently verified on persisted shots: account gorkbot / @gorkbot, 1h 35m avg. hold (was 1h 36m), 94 trades (was 92), Joined Oct 2026, Following 33, Followers 11, empty bio, Edit profile visible and not clicked (crops /tmp/fomo-1740-crops/landing-name-stats.png, /tmp/fomo-1740-crops/landing-avghold.png, /tmp/fomo-1740-crops/landing-port-left.png, and /tmp/fomo-1740-crops/landing-follow-edit.png); center header on landing at 17:41:03 was $149.42 / +$61.74 24h (crop /tmp/fomo-1740-crops/landing-port-left.png); center headers on cash-popover-verified (17:41:07), official open (17:41:12), and transactions-top (17:41:15) were $148.82 / +$61.74 24h (crops /tmp/fomo-1740-crops/cash-port-left.png, /tmp/fomo-1740-crops/open-port-left.png, /tmp/fomo-1740-crops/tx-port-left.png); mini header on landing was $0.00 cash / $149.42 / +$61.74 24h (crop /tmp/fomo-1740-crops/landing-mini-ok.png); mini headers on official open and transactions-top were $0.00 cash / $148.82 / +$61.74 24h (crops /tmp/fomo-1740-crops/open-mini-ok.png and /tmp/fomo-1740-crops/tx-mini-ok.png; Deposit more overlaps the cash chip and was not clicked); the cash-popover-verified mini header was mid-refresh between $149.42 and $148.82 and was not used for numeric portfolio_value; numeric portfolio_value/balance 148.82 and change_24h 61.74 from the official open/cash/transactions center and mini headers $148.82 / +$61.74 24h at 17:41:07–17:41:15; official Open positions were $148.74+$0.08+$0.00=$148.82 on the official open shot (matches that header); the 24h label was +$61.74 24h on every center header and mini-header shot this run (was -$0 24h at 17:25:03); Total cash $0 on landing, open, cash-popover-verified, and transactions-top; Tokens cash balance $0 and Perps cash balance $0 verified on /tmp/fomo-gorkbot-desktop-1740-cash-popover-verified.png at 17:41:07 (crops /tmp/fomo-1740-crops/cash-popover-ok.png and /tmp/fomo-1740-crops/cash-total-label.png) after opening the Total cash $0 popover (Transfer visible and not clicked); the landing shot also had that same cash popover open; Withdraw/Deposit were visible and not clicked; official Open positions 3 (AI, SOL, and AAPLX) on /tmp/fomo-gorkbot-desktop-1740-open.png and also on the left Open panel of transactions-top and on cash-popover-verified; AI is a new open position this run (252.4K $148.74 ▲ 7.27%, avg. entry $527K MC / $0.000541, token MC $573.7K) and was absent at 17:25:03; mihao remains gone from Open positions (last seen 15:23:50 as 3.6K $2.52 ▲ 450.77% with Your positions 3 and official portfolio $2.60; Show dust was checked, so it is not hidden as dust); GTA6 remains gone from Open positions; three new Transactions rows now sit above the prior newest-visible bVeSJT...cg46Vr Sent -$1.09 1w: AI Buy $138.66 at $0.000541 2m, PENGU Sell $140.56 at $0.00619 3m, and PENGU Buy $140.65 at $0.00619 3m; no trading, funding, settings, follow/unfollow, profile-edit, send, transfer, or form-submit controls were used."
 }
