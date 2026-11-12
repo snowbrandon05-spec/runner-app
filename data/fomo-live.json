@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-11T22:50:00-05:00",
-  "observed_at": "2026-11-11T22:50:00-05:00",
+  "updated_at": "2026-11-12T08:06:00-05:00",
+  "observed_at": "2026-11-12T08:06:00-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -27,8 +27,8 @@
       "address": "So11111111111111111111111111111111111111112",
       "amount": 0.000926,
       "value": 0.08,
-      "pct": -13.07,
-      "note": "Shown as 0.000926 SOL $0.08 \u25bc 13.07% (orange/red, down triangle) on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crops /tmp/fomo-2248-crops/txsc-posrows-x8.png and /tmp/fomo-2248-crops/txsc-solpct2-x16.png) at the 10:50 PM taskbar clock used for observed_at; earlier in this run the same Open + Show dust row read \u25bc 13.12% on /tmp/fomo-gorkbot-desktop-2248-open.png (crops /tmp/fomo-2248-crops/open-pos-panel-x5.png and /tmp/fomo-2248-crops/open-solrow2-x10.png, also /tmp/fomo-2248-crops/open-col-x2.png and /tmp/fomo-2248-crops/open-col.png) and \u25bc 13.14% on the independent second capture /tmp/fomo-gorkbot-desktop-2248-open-scrolled.png (crops /tmp/fomo-2248-crops/opensc-pos-panel-x5.png and /tmp/fomo-2248-crops/opensc-solrow2-x10.png) and on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-pos-panel-x5.png and /tmp/fomo-2248-crops/tx-solrow2-x10.png); /tmp/fomo-gorkbot-desktop-2248-open.png and /tmp/fomo-gorkbot-desktop-2248-open-scrolled.png are distinct files (different sha256), both with Your positions 2 / Show dust checked / Open selected; /tmp/fomo-gorkbot-desktop-2248-landing.png was still on the pre-Open All/Recent view (Your positions 92, crops /tmp/fomo-2248-crops/landing-cashcard2-x5.png and /tmp/fomo-2248-crops/landing-pos-wide-x4.png) and was not used for this SOL percent; /tmp/fomo-gorkbot-desktop-2248-cash-popover.png and /tmp/fomo-gorkbot-desktop-2248-cash-overlay.png are the same file and show the Tokens/Perps overlay over the pre-Open positions panel, and were not used for this SOL percent; token contract not shown this run so prior verified address So11111111111111111111111111111111111111112 was kept; was -13.12% at 22:35:00; Open selected, Show dust checked, Your positions 2"
+      "pct": -14.44,
+      "note": "Shown as 0.000926 SOL $0.08 \u25bc 14.44% (orange/red, down triangle) with PnL -$0.01 on /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/tx-posfull-x5.png and /tmp/fomo-0804-crops/transactions-chips-x5.png) at the 8:06 AM taskbar clock used for observed_at (file mtime 08:07:00); earlier in this run the same Open + Show dust row read \u25bc 14.46% on /tmp/fomo-gorkbot-desktop-0804-open.png (crops /tmp/fomo-0804-crops/open-filter-ruler-x3.png, /tmp/fomo-0804-crops/open-chips-x5.png, and /tmp/fomo-0804-crops/open-lower-x4.png) and independently \u25bc 14.46% on /tmp/fomo-gorkbot-desktop-0804-open-scrolled.png (crops /tmp/fomo-0804-crops/open-scrolled-lower-x4.png and /tmp/fomo-0804-crops/open-scrolled-rows-x5.png); /tmp/fomo-gorkbot-desktop-0804-open.png and /tmp/fomo-gorkbot-desktop-0804-open-scrolled.png are distinct files (different sha256), both with Your positions 2 / Show dust checked / Open selected at 8:06 AM (mtime 08:06:21); /tmp/fomo-gorkbot-desktop-0804-landing.png was still on the pre-Open All/Recent view (Your positions 92) and was not used for this SOL percent; /tmp/fomo-gorkbot-desktop-0804-cash-popover.png and /tmp/fomo-gorkbot-desktop-0804-cash-overlay.png show the Tokens/Perps overlay over the pre-Open positions panel and were not used for this SOL percent; /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png did not show the mid-column Open positions panel (left mid empty while the Transactions list was scrolled, crop /tmp/fomo-0804-crops/transactions-scrolled-leftpos-x4.png) and was not used for this SOL percent; token contract not shown this run so prior verified address So11111111111111111111111111111111111111112 was kept; was -13.07% at 22:50:00; Open selected, Show dust checked, Your positions 2; secondary All token-type filter (square icon) selected next to Tokens/Perps"
     },
     {
       "symbol": "AAPLX",
@@ -36,8 +36,8 @@
       "address": "XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp",
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": 3.09,
-      "note": "Shown as 0.00000829 AAPLX $0.00 \u25b2 3.09% (green, up triangle) on /tmp/fomo-gorkbot-desktop-2248-open.png (crops /tmp/fomo-2248-crops/open-pos-panel-x5.png, /tmp/fomo-2248-crops/open-solrow2-x10.png, /tmp/fomo-2248-crops/open-col-x2.png, and /tmp/fomo-2248-crops/open-col.png), and independently confirmed at the same 3.09% on /tmp/fomo-gorkbot-desktop-2248-open-scrolled.png (crops /tmp/fomo-2248-crops/opensc-pos-panel-x5.png and /tmp/fomo-2248-crops/opensc-solrow2-x10.png), /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-pos-panel-x5.png and /tmp/fomo-2248-crops/tx-solrow2-x10.png), and /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crops /tmp/fomo-2248-crops/txsc-posrows-x8.png and /tmp/fomo-2248-crops/txsc-solpct2-x16.png); /tmp/fomo-gorkbot-desktop-2248-open.png and /tmp/fomo-gorkbot-desktop-2248-open-scrolled.png are distinct files (different sha256); /tmp/fomo-gorkbot-desktop-2248-landing.png, /tmp/fomo-gorkbot-desktop-2248-cash-popover.png, and /tmp/fomo-gorkbot-desktop-2248-cash-overlay.png were still on the pre-Open All/Recent view and were not used for this AAPLX percent; token contract not shown this run so prior verified address XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp was kept; was +3.09% at 22:35:00; Open selected, Show dust checked, Your positions 2"
+      "pct": 3.34,
+      "note": "Shown as 0.00000829 AAPLX $0.00 \u25b2 3.34% (green, up triangle) with PnL +$0 on /tmp/fomo-gorkbot-desktop-0804-open.png (crops /tmp/fomo-0804-crops/open-filter-ruler-x3.png, /tmp/fomo-0804-crops/open-chips-x5.png, /tmp/fomo-0804-crops/open-lower-x4.png, and /tmp/fomo-0804-crops/open-pcts-x10.png), and independently confirmed at the same 3.34% on /tmp/fomo-gorkbot-desktop-0804-open-scrolled.png (crops /tmp/fomo-0804-crops/open-scrolled-lower-x4.png, /tmp/fomo-0804-crops/open-scrolled-rows-x5.png, and /tmp/fomo-0804-crops/open-scrolled-pcts-x10.png) and on /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/tx-posfull-x5.png and /tmp/fomo-0804-crops/transactions-chips-x5.png); /tmp/fomo-gorkbot-desktop-0804-open.png and /tmp/fomo-gorkbot-desktop-0804-open-scrolled.png are distinct files (different sha256); /tmp/fomo-gorkbot-desktop-0804-landing.png, /tmp/fomo-gorkbot-desktop-0804-cash-popover.png, and /tmp/fomo-gorkbot-desktop-0804-cash-overlay.png were still on the pre-Open All/Recent view and were not used for this AAPLX percent; /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png did not show the mid-column Open positions panel and was not used for this AAPLX percent; token contract not shown this run so prior verified address XsbEhLAtcf6HdfpFZ5xEMdqW8nfAvcsP5bdudRLJzJp was kept; was +3.09% at 22:50:00; Open selected, Show dust checked, Your positions 2"
     }
   ],
   "trades": [
@@ -50,7 +50,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on persisted shots at 2026-11-11T22:50:00-05:00; newest fully visible row is bVeSJT...cg46Vr Sent -$1.09 1w at the top of the Transactions list on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png, /tmp/fomo-2248-crops/tx-top8-full-x4.png, and /tmp/fomo-2248-crops/tx-first-token-x8.png, header Token/Action/Amount/Price/Time; Price column was visible this run); Received +$0.25 from 0xf3e0...62b8fe was not above that row; already absent at 12:05:12 through 22:35:00 and this run; the 7 leading Received rows (+$0.25, +$0.24, +$0.21, +$0.14, +$0.10, +$0.90, +$0.12) were not visible this run",
+      "note": "not visible on persisted shots at 2026-11-12T08:06:00-05:00; newest fully visible row is bVeSJT...cg46Vr Sent -$1.09 1w at the top of the Transactions list on /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/transactions-table-x3.png, /tmp/fomo-0804-crops/transactions-top8-x4.png, and /tmp/fomo-0804-crops/tx-firstrow-x5.png, header Token/Action/Amount/Price/Time; Price column was visible this run); Received +$0.25 from 0xf3e0...62b8fe was not above that row; already absent at 12:05:12 through 22:50:00 and this run; the 7 leading Received rows (+$0.25, +$0.24, +$0.21, +$0.14, +$0.10, +$0.90, +$0.12) were not visible this run",
       "price": null
     },
     {
@@ -62,7 +62,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on persisted shots at 2026-11-11T22:50:00-05:00; newest fully visible row is bVeSJT...cg46Vr Sent -$1.09 1w at the top of the Transactions list on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png, /tmp/fomo-2248-crops/tx-top8-full-x4.png, and /tmp/fomo-2248-crops/tx-first-token-x8.png, header Token/Action/Amount/Price/Time; Price column was visible this run); Received +$0.25 from 0xf3e0...62b8fe was not above that row; already absent at 12:05:12 through 22:35:00 and this run; the 7 leading Received rows (+$0.25, +$0.24, +$0.21, +$0.14, +$0.10, +$0.90, +$0.12) were not visible this run",
+      "note": "not visible on persisted shots at 2026-11-12T08:06:00-05:00; newest fully visible row is bVeSJT...cg46Vr Sent -$1.09 1w at the top of the Transactions list on /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/transactions-table-x3.png, /tmp/fomo-0804-crops/transactions-top8-x4.png, and /tmp/fomo-0804-crops/tx-firstrow-x5.png, header Token/Action/Amount/Price/Time; Price column was visible this run); Received +$0.25 from 0xf3e0...62b8fe was not above that row; already absent at 12:05:12 through 22:50:00 and this run; the 7 leading Received rows (+$0.25, +$0.24, +$0.21, +$0.14, +$0.10, +$0.90, +$0.12) were not visible this run",
       "price": null
     },
     {
@@ -74,7 +74,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on persisted shots at 2026-11-11T22:50:00-05:00; newest fully visible row is bVeSJT...cg46Vr Sent -$1.09 1w at the top of the Transactions list on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png, /tmp/fomo-2248-crops/tx-top8-full-x4.png, and /tmp/fomo-2248-crops/tx-first-token-x8.png, header Token/Action/Amount/Price/Time; Price column was visible this run); Received +$0.25 from 0xf3e0...62b8fe was not above that row; already absent at 12:05:12 through 22:35:00 and this run; the 7 leading Received rows (+$0.25, +$0.24, +$0.21, +$0.14, +$0.10, +$0.90, +$0.12) were not visible this run",
+      "note": "not visible on persisted shots at 2026-11-12T08:06:00-05:00; newest fully visible row is bVeSJT...cg46Vr Sent -$1.09 1w at the top of the Transactions list on /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/transactions-table-x3.png, /tmp/fomo-0804-crops/transactions-top8-x4.png, and /tmp/fomo-0804-crops/tx-firstrow-x5.png, header Token/Action/Amount/Price/Time; Price column was visible this run); Received +$0.25 from 0xf3e0...62b8fe was not above that row; already absent at 12:05:12 through 22:50:00 and this run; the 7 leading Received rows (+$0.25, +$0.24, +$0.21, +$0.14, +$0.10, +$0.90, +$0.12) were not visible this run",
       "price": null
     },
     {
@@ -86,7 +86,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on persisted shots at 2026-11-11T22:50:00-05:00; newest fully visible row is bVeSJT...cg46Vr Sent -$1.09 1w at the top of the Transactions list on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png, /tmp/fomo-2248-crops/tx-top8-full-x4.png, and /tmp/fomo-2248-crops/tx-first-token-x8.png, header Token/Action/Amount/Price/Time; Price column was visible this run); Received +$0.25 from 0xf3e0...62b8fe was not above that row; already absent at 12:05:12 through 22:35:00 and this run; the 7 leading Received rows (+$0.25, +$0.24, +$0.21, +$0.14, +$0.10, +$0.90, +$0.12) were not visible this run",
+      "note": "not visible on persisted shots at 2026-11-12T08:06:00-05:00; newest fully visible row is bVeSJT...cg46Vr Sent -$1.09 1w at the top of the Transactions list on /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/transactions-table-x3.png, /tmp/fomo-0804-crops/transactions-top8-x4.png, and /tmp/fomo-0804-crops/tx-firstrow-x5.png, header Token/Action/Amount/Price/Time; Price column was visible this run); Received +$0.25 from 0xf3e0...62b8fe was not above that row; already absent at 12:05:12 through 22:50:00 and this run; the 7 leading Received rows (+$0.25, +$0.24, +$0.21, +$0.14, +$0.10, +$0.90, +$0.12) were not visible this run",
       "price": null
     },
     {
@@ -98,7 +98,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on persisted shots at 2026-11-11T22:50:00-05:00; newest fully visible row is bVeSJT...cg46Vr Sent -$1.09 1w at the top of the Transactions list on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png, /tmp/fomo-2248-crops/tx-top8-full-x4.png, and /tmp/fomo-2248-crops/tx-first-token-x8.png, header Token/Action/Amount/Price/Time; Price column was visible this run); Received +$0.25 from 0xf3e0...62b8fe was not above that row; already absent at 12:05:12 through 22:35:00 and this run; the 7 leading Received rows (+$0.25, +$0.24, +$0.21, +$0.14, +$0.10, +$0.90, +$0.12) were not visible this run",
+      "note": "not visible on persisted shots at 2026-11-12T08:06:00-05:00; newest fully visible row is bVeSJT...cg46Vr Sent -$1.09 1w at the top of the Transactions list on /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/transactions-table-x3.png, /tmp/fomo-0804-crops/transactions-top8-x4.png, and /tmp/fomo-0804-crops/tx-firstrow-x5.png, header Token/Action/Amount/Price/Time; Price column was visible this run); Received +$0.25 from 0xf3e0...62b8fe was not above that row; already absent at 12:05:12 through 22:50:00 and this run; the 7 leading Received rows (+$0.25, +$0.24, +$0.21, +$0.14, +$0.10, +$0.90, +$0.12) were not visible this run",
       "price": null
     },
     {
@@ -110,7 +110,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on persisted shots at 2026-11-11T22:50:00-05:00; newest fully visible row is bVeSJT...cg46Vr Sent -$1.09 1w at the top of the Transactions list on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png, /tmp/fomo-2248-crops/tx-top8-full-x4.png, and /tmp/fomo-2248-crops/tx-first-token-x8.png, header Token/Action/Amount/Price/Time; Price column was visible this run); Received +$0.25 from 0xf3e0...62b8fe was not above that row; already absent at 12:05:12 through 22:35:00 and this run; the 7 leading Received rows (+$0.25, +$0.24, +$0.21, +$0.14, +$0.10, +$0.90, +$0.12) were not visible this run",
+      "note": "not visible on persisted shots at 2026-11-12T08:06:00-05:00; newest fully visible row is bVeSJT...cg46Vr Sent -$1.09 1w at the top of the Transactions list on /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/transactions-table-x3.png, /tmp/fomo-0804-crops/transactions-top8-x4.png, and /tmp/fomo-0804-crops/tx-firstrow-x5.png, header Token/Action/Amount/Price/Time; Price column was visible this run); Received +$0.25 from 0xf3e0...62b8fe was not above that row; already absent at 12:05:12 through 22:50:00 and this run; the 7 leading Received rows (+$0.25, +$0.24, +$0.21, +$0.14, +$0.10, +$0.90, +$0.12) were not visible this run",
       "price": null
     },
     {
@@ -122,7 +122,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not visible on persisted shots at 2026-11-11T22:50:00-05:00; newest fully visible row is bVeSJT...cg46Vr Sent -$1.09 1w at the top of the Transactions list on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png, /tmp/fomo-2248-crops/tx-top8-full-x4.png, and /tmp/fomo-2248-crops/tx-first-token-x8.png, header Token/Action/Amount/Price/Time; Price column was visible this run); Received +$0.25 from 0xf3e0...62b8fe was not above that row; already absent at 12:05:12 through 22:35:00 and this run; the 7 leading Received rows (+$0.25, +$0.24, +$0.21, +$0.14, +$0.10, +$0.90, +$0.12) were not visible this run",
+      "note": "not visible on persisted shots at 2026-11-12T08:06:00-05:00; newest fully visible row is bVeSJT...cg46Vr Sent -$1.09 1w at the top of the Transactions list on /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/transactions-table-x3.png, /tmp/fomo-0804-crops/transactions-top8-x4.png, and /tmp/fomo-0804-crops/tx-firstrow-x5.png, header Token/Action/Amount/Price/Time; Price column was visible this run); Received +$0.25 from 0xf3e0...62b8fe was not above that row; already absent at 12:05:12 through 22:50:00 and this run; the 7 leading Received rows (+$0.25, +$0.24, +$0.21, +$0.14, +$0.10, +$0.90, +$0.12) were not visible this run",
       "price": null
     },
     {
@@ -134,7 +134,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "newest visible row bVeSJT...cg46Vr Sent -$1.09 1w at the top of /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png, /tmp/fomo-2248-crops/tx-top8-full-x4.png, and /tmp/fomo-2248-crops/tx-first-token-x8.png); visible at 2026-11-11T22:50:00-05:00; Price blank; Received +$0.25 from 0xf3e0...62b8fe was not above that row; no newer row this run; header Token/Action/Amount/Price/Time; Price column was visible this run",
+      "note": "newest visible row bVeSJT...cg46Vr Sent -$1.09 1w at the top of /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/transactions-table-x3.png, /tmp/fomo-0804-crops/transactions-top8-x4.png, and /tmp/fomo-0804-crops/tx-firstrow-x5.png); visible at 2026-11-12T08:06:00-05:00; Price blank; Received +$0.25 from 0xf3e0...62b8fe was not above that row; no newer row this run; header Token/Action/Amount/Price/Time",
       "price": null
     },
     {
@@ -146,7 +146,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "COCORO Sell $1.19, Price $0.00000265, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png and /tmp/fomo-2248-crops/tx-top8-full-x4.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "COCORO Sell $1.19, Price $0.00000265, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/transactions-table-x3.png and /tmp/fomo-0804-crops/transactions-top8-x4.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 2.65e-06
     },
     {
@@ -158,7 +158,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "COCORO Buy $2.72, Price $0.00000596, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png and /tmp/fomo-2248-crops/tx-top8-full-x4.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "COCORO Buy $2.72, Price $0.00000596, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/transactions-table-x3.png and /tmp/fomo-0804-crops/transactions-top8-x4.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 5.96e-06
     },
     {
@@ -170,7 +170,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "HYPE Sell $2.92, Price $87.94, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png and /tmp/fomo-2248-crops/tx-top8-full-x4.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "HYPE Sell $2.92, Price $87.94, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/transactions-table-x3.png and /tmp/fomo-0804-crops/transactions-top8-x4.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 87.94
     },
     {
@@ -182,7 +182,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "HYPE Buy $2.79, Price $87.94, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png and /tmp/fomo-2248-crops/tx-top8-full-x4.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "HYPE Buy $2.79, Price $87.94, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/transactions-table-x3.png and /tmp/fomo-0804-crops/transactions-top8-x4.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 87.94
     },
     {
@@ -194,7 +194,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "Anakin Sell $2.99, Price $0.00310, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png and /tmp/fomo-2248-crops/tx-top8-full-x4.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "Anakin Sell $2.99, Price $0.00310, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/transactions-table-x3.png and /tmp/fomo-0804-crops/transactions-top8-x4.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 0.0031
     },
     {
@@ -206,7 +206,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "2bnNGc...g5pj... Received +$3.06, Price blank, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png, /tmp/fomo-2248-crops/tx-top8-full-x4.png, and /tmp/fomo-2248-crops/tx-received-row-x8.png); visible at 2026-11-11T22:50:00-05:00; the Token cell is UI-truncated as 2bnNGc...g5pj... (ending after g5pj not fully readable this run)",
+      "note": "2bnNGc...g5pjVD Received +$3.06, Price blank, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/transactions-table-x3.png and /tmp/fomo-0804-crops/transactions-top8-x4.png); visible at 2026-11-12T08:06:00-05:00",
       "price": null
     },
     {
@@ -218,7 +218,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "bVeSJT...cg46Vr Sent -$81.80, Price blank, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png and /tmp/fomo-2248-crops/tx-top8-full-x4.png); visible at 2026-11-11T22:50:00-05:00",
+      "note": "bVeSJT...cg46Vr Sent -$81.80, Price blank, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions.png (crops /tmp/fomo-0804-crops/transactions-table-x3.png and /tmp/fomo-0804-crops/transactions-top8-x4.png) and at the first fully visible row of /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00",
       "price": null
     },
     {
@@ -230,7 +230,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "FOCO Sell $82.75, Price $0.000644, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png and /tmp/fomo-2248-crops/tx-top8-full-x4.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "FOCO Sell $82.75, Price $0.000644, 1w fully visible on both /tmp/fomo-gorkbot-desktop-0804-transactions.png (crop /tmp/fomo-0804-crops/transactions-table-x3.png) and /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 0.000644
     },
     {
@@ -242,7 +242,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "FOCO Buy $27.88, Price $0.000633, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png and /tmp/fomo-2248-crops/tx-top8-full-x4.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "FOCO Buy $27.88, Price $0.000633, 1w fully visible on both /tmp/fomo-gorkbot-desktop-0804-transactions.png (crop /tmp/fomo-0804-crops/transactions-table-x3.png) and /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 0.000633
     },
     {
@@ -254,7 +254,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "HALLOWEEN Sell $29.06, Price $0.0000306, 1w fully visible on both /tmp/fomo-gorkbot-desktop-2248-transactions.png (crops /tmp/fomo-2248-crops/tx-table-full-x3.png and /tmp/fomo-2248-crops/tx-top8-full-x4.png) and /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "HALLOWEEN Sell $29.06, Price $0.0000306, 1w fully visible on both /tmp/fomo-gorkbot-desktop-0804-transactions.png (crop /tmp/fomo-0804-crops/transactions-table-x3.png) and /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 3.06e-05
     },
     {
@@ -266,7 +266,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "FOCO Buy $46.24, Price $0.000536, 1w fully visible on both /tmp/fomo-gorkbot-desktop-2248-transactions.png (crop /tmp/fomo-2248-crops/tx-table-full-x3.png) and /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "FOCO Buy $46.24, Price $0.000536, 1w fully visible on both /tmp/fomo-gorkbot-desktop-0804-transactions.png (crop /tmp/fomo-0804-crops/transactions-table-x3.png) and /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 0.000536
     },
     {
@@ -278,7 +278,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "HALLOWEEN Sell $48.13, Price $0.000121, 1w fully visible on both /tmp/fomo-gorkbot-desktop-2248-transactions.png (crop /tmp/fomo-2248-crops/tx-table-full-x3.png) and /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "HALLOWEEN Sell $48.13, Price $0.000121, 1w fully visible on both /tmp/fomo-gorkbot-desktop-0804-transactions.png (crop /tmp/fomo-0804-crops/transactions-table-x3.png) and /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 0.000121
     },
     {
@@ -290,7 +290,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "HALLOWEEN Buy $106.95, Price $0.0000785, 1w fully visible on both /tmp/fomo-gorkbot-desktop-2248-transactions.png (crop /tmp/fomo-2248-crops/tx-table-full-x3.png) and /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "HALLOWEEN Buy $106.95, Price $0.0000785, 1w fully visible on both /tmp/fomo-gorkbot-desktop-0804-transactions.png (crop /tmp/fomo-0804-crops/transactions-table-x3.png) and /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 7.85e-05
     },
     {
@@ -302,7 +302,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "SOL Sell $108.00, Price $95.88, 1w fully visible on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); the same row was clipped by the market ticker at the bottom of /tmp/fomo-gorkbot-desktop-2248-transactions.png and was not used from that shot; visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "SOL Sell $108.00, Price $95.88, 1w fully visible on both /tmp/fomo-gorkbot-desktop-0804-transactions.png (crop /tmp/fomo-0804-crops/transactions-table-x3.png) and /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 95.88
     },
     {
@@ -314,7 +314,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "bVeSJT...cg46Vr Sent -$106.99, Price blank, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00",
+      "note": "bVeSJT...cg46Vr Sent -$106.99, Price blank, 1w fully visible on both /tmp/fomo-gorkbot-desktop-0804-transactions.png (crop /tmp/fomo-0804-crops/transactions-table-x3.png) and /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00",
       "price": null
     },
     {
@@ -326,7 +326,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "HUSS Sell $108.15, Price $0.0000668, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "HUSS Sell $108.15, Price $0.0000668, 1w fully visible on both /tmp/fomo-gorkbot-desktop-0804-transactions.png (crop /tmp/fomo-0804-crops/transactions-table-x3.png) and /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 6.68e-05
     },
     {
@@ -338,7 +338,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "SOL Buy $98.18, Price $95.97, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "SOL Buy $98.18, Price $95.97, 1w fully visible on both /tmp/fomo-gorkbot-desktop-0804-transactions.png (crop /tmp/fomo-0804-crops/transactions-table-x3.png) and /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 95.97
     },
     {
@@ -350,7 +350,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "HUSS Sell $99.18, Price $0.000138, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "HUSS Sell $99.18, Price $0.000138, 1w fully visible on both /tmp/fomo-gorkbot-desktop-0804-transactions.png (crop /tmp/fomo-0804-crops/transactions-table-x3.png) and /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 0.000138
     },
     {
@@ -362,7 +362,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "HUSS Buy $4.10, Price $0.0000509, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "HUSS Buy $4.10, Price $0.0000509, 1w fully visible on both /tmp/fomo-gorkbot-desktop-0804-transactions.png (crop /tmp/fomo-0804-crops/transactions-table-x3.png) and /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 5.09e-05
     },
     {
@@ -374,7 +374,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "SOL Sell $4.30, Price $95.97, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "SOL Sell $4.30, Price $95.97, 1w fully visible on both /tmp/fomo-gorkbot-desktop-0804-transactions.png (crop /tmp/fomo-0804-crops/transactions-table-x3.png) and /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 95.97
     },
     {
@@ -386,7 +386,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "HUSS Buy $96.74, Price $0.0000418, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "HUSS Buy $96.74, Price $0.0000418, 1w fully visible on both /tmp/fomo-gorkbot-desktop-0804-transactions.png (crop /tmp/fomo-0804-crops/transactions-table-x3.png, last fully visible row above the ticker) and /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 4.18e-05
     },
     {
@@ -398,7 +398,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "A-RSI Sell $4.86, Price $0.00000264, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "A-RSI Sell $4.86, Price $0.00000264, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 2.64e-06
     },
     {
@@ -410,7 +410,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "A-RSI Buy $99.05, Price $0.0000525, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "A-RSI Buy $99.05, Price $0.0000525, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 5.25e-05
     },
     {
@@ -422,7 +422,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "David Sell $163.20, Price $0.000320, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "David Sell $163.20, Price $0.000320, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 0.00032
     },
     {
@@ -434,7 +434,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "David Buy $201.56, Price $0.000387, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "David Buy $201.56, Price $0.000387, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 0.000387
     },
     {
@@ -446,7 +446,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "DOUGHBRIKS Sell $203.46, Price $0.000260, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "DOUGHBRIKS Sell $203.46, Price $0.000260, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 0.00026
     },
     {
@@ -458,7 +458,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "DOUGHBRIKS Buy $29.32, Price $0.000413, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "DOUGHBRIKS Buy $29.32, Price $0.000413, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 0.000413
     },
     {
@@ -470,7 +470,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "DOUGHBRIKS Buy $99.05, Price $0.000409, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "DOUGHBRIKS Buy $99.05, Price $0.000409, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 0.000409
     },
     {
@@ -482,7 +482,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "DAVID Sell $130.87, Price $0.00157, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "DAVID Sell $130.87, Price $0.00157, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 0.00157
     },
     {
@@ -494,7 +494,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "DOUGHBRIKS Buy $231.71, Price $0.000477, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price",
+      "note": "DOUGHBRIKS Buy $231.71, Price $0.000477, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 0.000477
     },
     {
@@ -506,7 +506,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "DAVID Buy $149.05, Price $0.00177, 1w on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png); visible at 2026-11-11T22:50:00-05:00; Price column confirmed the prior stored price; next row (DAVID Sell, likely $384.48) was clipped by the market ticker and was not used this run",
+      "note": "DAVID Buy $149.05, Price $0.00177, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 0.00177
     },
     {
@@ -518,7 +518,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not re-read row-by-row at 2026-11-11T21:41:00-05:00; the Transactions list still began at bVeSJT...cg... Sent -$1.09 1w on /tmp/fomo-gorkbot-desktop-2136-transactions.png and still ended at SOL Sell $64.25 2w on /tmp/fomo-gorkbot-desktop-2136-transactions-further1.png; intermediate rows were not re-read one-by-one this run; no Price column this run, so prior verified price was kept",
+      "note": "DAVID Sell $384.48, Price $0.00183, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 0.00183
     },
     {
@@ -530,7 +530,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not re-read row-by-row at 2026-11-11T21:41:00-05:00; the Transactions list still began at bVeSJT...cg... Sent -$1.09 1w on /tmp/fomo-gorkbot-desktop-2136-transactions.png and still ended at SOL Sell $64.25 2w on /tmp/fomo-gorkbot-desktop-2136-transactions-further1.png; intermediate rows were not re-read one-by-one this run; no Price column this run, so prior verified price was kept",
+      "note": "DAVID Buy $285.54, Price $0.00135, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 0.00135
     },
     {
@@ -542,7 +542,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not re-read row-by-row at 2026-11-11T21:41:00-05:00; the Transactions list still began at bVeSJT...cg... Sent -$1.09 1w on /tmp/fomo-gorkbot-desktop-2136-transactions.png and still ended at SOL Sell $64.25 2w on /tmp/fomo-gorkbot-desktop-2136-transactions-further1.png; intermediate rows were not re-read one-by-one this run; no Price column this run, so prior verified price was kept",
+      "note": "Pikmin Sell $66.64, Price $0.0000471, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png); visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price",
       "price": 4.71e-05
     },
     {
@@ -554,7 +554,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "not re-read row-by-row at 2026-11-11T21:41:00-05:00; the Transactions list still began at bVeSJT...cg... Sent -$1.09 1w on /tmp/fomo-gorkbot-desktop-2136-transactions.png and still ended at SOL Sell $64.25 2w on /tmp/fomo-gorkbot-desktop-2136-transactions-further1.png; intermediate rows were not re-read one-by-one this run; no Price column this run, so prior verified price was kept",
+      "note": "HI Sell $222.13, Price $0.000383, 1w on /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png), last fully visible row above the market ticker; visible at 2026-11-12T08:06:00-05:00; Price column confirmed the prior stored price; the next stored row (Pikmin Buy $4.42) was not visible this run",
       "price": 0.000383
     },
     {
@@ -2791,5 +2791,5 @@
     }
   ],
   "risk": null,
-  "notes": "Read-only Fomo profile refresh at 10:50 PM ET (desktop taskbar clock was visible this run: /tmp/fomo-gorkbot-desktop-2248-landing.png Wed Nov 11 10:47 PM; /tmp/fomo-gorkbot-desktop-2248-cash-popover.png//tmp/fomo-gorkbot-desktop-2248-cash-overlay.png Wed Nov 11 10:48 PM; /tmp/fomo-gorkbot-desktop-2248-open.png and /tmp/fomo-gorkbot-desktop-2248-open-scrolled.png Wed Nov 11 10:49 PM; /tmp/fomo-gorkbot-desktop-2248-transactions.png Wed Nov 11 10:49 PM; /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png Wed Nov 11 10:50 PM; observed_at/updated_at use the latest visible taskbar clock 10:50 PM, recorded as 22:50:00; /tmp/fomo-gorkbot-desktop-2248-cash-popover.png and /tmp/fomo-gorkbot-desktop-2248-cash-overlay.png are byte-identical; /tmp/fomo-gorkbot-desktop-2248-open.png and /tmp/fomo-gorkbot-desktop-2248-open-scrolled.png are independent captures with different sha256; screenshot file mtimes are 22:48 ET for landing/cash, 22:49 ET for open/open-scrolled, and 22:50 ET for transactions/transactions-scrolled, consistent with the visible clocks (TX mtime 22:50:03 while the visible clock was still 10:49 PM); crops in /tmp/fomo-2248-crops/, including /tmp/fomo-2248-crops/all-clocks-sheet.png); no sign-in required; opened https://fomo.family/profile/gorkbot (final URL https://fomo.family/profile/gorkbot?r=gorkbot); independently verified on persisted shots: account gorkbot / @gorkbot, 1h 36m avg. hold, 92 trades, Joined Oct 2026, Following 33, Followers 11, empty bio, Edit profile visible and not clicked, and no trade badge (crops /tmp/fomo-2248-crops/landing-account-wide-x3.png, /tmp/fomo-2248-crops/landing-hold-wide-x4.png, /tmp/fomo-2248-crops/landing-value-tight-x6.png, and /tmp/fomo-gorkbot-desktop-2248-landing.png); center header $0.08 / +$0 24h on /tmp/fomo-gorkbot-desktop-2248-landing.png (crop /tmp/fomo-2248-crops/landing-value-tight-x6.png) and mini $0.00 cash / $0.08 / +$0 24h on /tmp/fomo-gorkbot-desktop-2248-landing.png, /tmp/fomo-gorkbot-desktop-2248-cash-popover.png//tmp/fomo-gorkbot-desktop-2248-cash-overlay.png, and /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png (crops /tmp/fomo-2248-crops/landing-mini-hi-x6.png, /tmp/fomo-2248-crops/cash-mini-hi-x6.png, and /tmp/fomo-2248-crops/txsc-table-full-x3.png); numeric change_24h still 0.0; Total cash $0 and Tokens/Perps overlay both verified this run (Tokens cash balance $0 / Perps cash balance $0 on /tmp/fomo-gorkbot-desktop-2248-cash-overlay.png, crops /tmp/fomo-2248-crops/cash-box-wide-x5.png and /tmp/fomo-2248-crops/cash-overlay-tight-x5.png); /tmp/fomo-gorkbot-desktop-2248-cash-popover.png and /tmp/fomo-gorkbot-desktop-2248-cash-overlay.png are the same capture with the Tokens/Perps overlay already visible, opened from the mid-column Total cash $0 amount; Transfer was visible and not clicked; Open positions SOL 0.000926 $0.08 -13.07% (latest, on /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png at 10:50 PM) and AAPLX 0.00000829 $0.00 +3.09%; SOL percent earlier this run was -13.12% on /tmp/fomo-gorkbot-desktop-2248-open.png and -13.14% on /tmp/fomo-gorkbot-desktop-2248-open-scrolled.png and /tmp/fomo-gorkbot-desktop-2248-transactions.png (all 10:49 PM); /tmp/fomo-gorkbot-desktop-2248-open.png and /tmp/fomo-gorkbot-desktop-2248-open-scrolled.png are independent 10:49 PM Open + Show dust captures, not a byte-identical copy; /tmp/fomo-gorkbot-desktop-2248-transactions.png also showed Your positions 2 / Show dust / Open with both position rows fully visible (crop /tmp/fomo-2248-crops/tx-pos-panel-x5.png); trades_count still 92; newest visible tx Sent -$1.09 1w to bVeSJT...cg46Vr; also visible on that top-of-list shot: COCORO Sell $1.19, COCORO Buy $2.72, HYPE Sell $2.92, HYPE Buy $2.79, Anakin Sell $2.99, 2bnNGc...g5pj... Received +$3.06, bVeSJT...cg46Vr Sent -$81.80, FOCO Sell $82.75, all 1w; GTA6 absent as a new trade this run; Transactions table had Token/Action/Amount/Price/Time this run, and visible Price values confirmed the prior stored prices (no price field changes); /tmp/fomo-gorkbot-desktop-2248-landing.png showed Your positions 92 before Open + Show dust was applied and was not used as the open-count (crop /tmp/fomo-2248-crops/landing-cashcard2-x5.png); verified open count is Your positions 2 with Show dust checked on /tmp/fomo-gorkbot-desktop-2248-open.png (crop /tmp/fomo-2248-crops/open-pos-panel-x5.png), /tmp/fomo-gorkbot-desktop-2248-open-scrolled.png (crop /tmp/fomo-2248-crops/opensc-pos-panel-x5.png), and /tmp/fomo-gorkbot-desktop-2248-transactions.png (crop /tmp/fomo-2248-crops/tx-pos-panel-x5.png); the 7 leading Received rows were still not visible; this run did not scroll to the end of the Transactions list (no further1 shot); last end-of-list verification remains 22:16:00, ending at SOL Sell $64.25 2w; /tmp/fomo-gorkbot-desktop-2248-transactions-scrolled.png showed later 1w rows after scrolling past the top block, from HALLOWEEN Sell $29.06 through DAVID Buy $149.05 1w (crop /tmp/fomo-2248-crops/txsc-table-full-x3.png), including a fully visible SOL Sell $108.00 $95.88 1w; the following DAVID Sell row was clipped by the ticker and was not used; rows fully re-read this run had amounts and prices matching the stored values; no trading, fund movement, settings change, sign-in, or restart"
+  "notes": "Read-only Fomo profile refresh at 8:06 AM ET (desktop taskbar clock was visible this run: /tmp/fomo-gorkbot-desktop-0804-landing.png Thu Nov 12 8:04 AM; /tmp/fomo-gorkbot-desktop-0804-cash-popover.png and /tmp/fomo-gorkbot-desktop-0804-cash-overlay.png Thu Nov 12 8:05 AM; /tmp/fomo-gorkbot-desktop-0804-open.png, /tmp/fomo-gorkbot-desktop-0804-open-scrolled.png, /tmp/fomo-gorkbot-desktop-0804-transactions.png, and /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png Thu Nov 12 8:06 AM; observed_at/updated_at use the latest visible taskbar clock 8:06 AM, recorded as 08:06:00; /tmp/fomo-gorkbot-desktop-0804-cash-popover.png and /tmp/fomo-gorkbot-desktop-0804-cash-overlay.png are independent captures with different sha256 (not byte-identical); /tmp/fomo-gorkbot-desktop-0804-open.png and /tmp/fomo-gorkbot-desktop-0804-open-scrolled.png are independent captures with different sha256; screenshot file mtimes are 08:05:15 ET for landing (visible clock still 8:04 AM), 08:05:31/08:05:39 ET for cash-popover/cash-overlay, 08:06:21 ET for open/open-scrolled, and 08:07:00 ET for transactions/transactions-scrolled (visible clock still 8:06 AM), consistent with the visible clocks; crops in /tmp/fomo-0804-crops/, including /tmp/fomo-0804-crops/all-clocks-sheet.png); no sign-in required; opened https://fomo.family/profile/gorkbot (final URL https://fomo.family/profile/gorkbot?r=gorkbot); independently verified on persisted shots: account gorkbot / @gorkbot, 1h 36m avg. hold, 92 trades, Joined Oct 2026, Following 33, Followers 11, empty bio, Edit profile visible and not clicked, and no trade badge (crops /tmp/fomo-0804-crops/landing-topleft-x2.png, /tmp/fomo-0804-crops/landing-stats-final-x5.png, /tmp/fomo-0804-crops/landing-follows-x4.png, /tmp/fomo-0804-crops/landing-value-final-x8.png, and /tmp/fomo-gorkbot-desktop-0804-landing.png); center header $0.08 / -$0 24h on /tmp/fomo-gorkbot-desktop-0804-landing.png (crop /tmp/fomo-0804-crops/landing-value-final-x8.png) and mini $0.00 cash / $0.08 / -$0 24h on /tmp/fomo-gorkbot-desktop-0804-landing.png, /tmp/fomo-gorkbot-desktop-0804-cash-popover.png, /tmp/fomo-gorkbot-desktop-0804-cash-overlay.png, and /tmp/fomo-gorkbot-desktop-0804-open.png (crops /tmp/fomo-0804-crops/landing-mini-x4.png, /tmp/fomo-0804-crops/cash-popover-minihi-x5.png, and /tmp/fomo-0804-crops/open-mini2-x4.png); numeric change_24h still 0.0; Total cash $0 and Tokens/Perps overlay both verified this run (Tokens cash balance $0 / Perps cash balance $0 on /tmp/fomo-gorkbot-desktop-0804-cash-popover.png and /tmp/fomo-gorkbot-desktop-0804-cash-overlay.png, crops /tmp/fomo-0804-crops/cash-popover-lower-x4.png and /tmp/fomo-0804-crops/cash-overlay-lower-x4.png); overlay opened from the mid-column Total cash $0 amount; Transfer was visible and not clicked; Open positions SOL 0.000926 $0.08 -14.44% (latest, on /tmp/fomo-gorkbot-desktop-0804-transactions.png at 8:06 AM) and AAPLX 0.00000829 $0.00 +3.34%; SOL percent earlier this run was -14.46% on /tmp/fomo-gorkbot-desktop-0804-open.png and /tmp/fomo-gorkbot-desktop-0804-open-scrolled.png (both 8:06 AM); /tmp/fomo-gorkbot-desktop-0804-open.png and /tmp/fomo-gorkbot-desktop-0804-open-scrolled.png are independent 8:06 AM Open + Show dust captures, not a byte-identical copy; /tmp/fomo-gorkbot-desktop-0804-transactions.png also showed Your positions 2 / Show dust / Open with both position rows fully visible (crop /tmp/fomo-0804-crops/tx-posfull-x5.png); /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png did not show the Open positions panel; trades_count still 92; newest visible tx Sent -$1.09 1w to bVeSJT...cg46Vr; also visible on that top-of-list shot: COCORO Sell $1.19, COCORO Buy $2.72, HYPE Sell $2.92, HYPE Buy $2.79, Anakin Sell $2.99, 2bnNGc...g5pjVD Received +$3.06, bVeSJT...cg46Vr Sent -$81.80, FOCO Sell $82.75, all 1w; GTA6 absent as a new trade this run; Transactions table had Token/Action/Amount/Price/Time this run, and visible Price values confirmed the prior stored prices (no price field changes); /tmp/fomo-gorkbot-desktop-0804-landing.png showed Your positions 92 before Open + Show dust was applied and was not used as the open-count; verified open count is Your positions 2 with Show dust checked on /tmp/fomo-gorkbot-desktop-0804-open.png (crop /tmp/fomo-0804-crops/open-headerchips-x5.png), /tmp/fomo-gorkbot-desktop-0804-open-scrolled.png (crop /tmp/fomo-0804-crops/opensc-headerchips-x5.png), and /tmp/fomo-gorkbot-desktop-0804-transactions.png (crop /tmp/fomo-0804-crops/tx-posfull-x5.png); the secondary All token-type filter (square icon) was selected next to Tokens/Perps; the 7 leading Received rows were still not visible; this run did not scroll to the end of the Transactions list (no further1 shot); last end-of-list verification remains 22:16:00, ending at SOL Sell $64.25 2w; /tmp/fomo-gorkbot-desktop-0804-transactions.png showed the top block through HUSS Buy $96.74 1w (crop /tmp/fomo-0804-crops/transactions-table-x3.png); /tmp/fomo-gorkbot-desktop-0804-transactions-scrolled.png showed later 1w rows after scrolling past the top block, from bVeSJT...cg46Vr Sent -$81.80 through HI Sell $222.13 1w (crop /tmp/fomo-0804-crops/transactions-scrolled-table-x3.png), including a fully visible DAVID Sell $384.48 and DAVID Buy $285.54; the following Pikmin Buy row was not visible below the ticker and was not used; rows fully re-read this run had amounts and prices matching the stored values; no trading, fund movement, settings change, sign-in, or restart"
 }
