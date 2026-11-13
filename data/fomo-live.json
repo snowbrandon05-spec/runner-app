@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T15:06:09-05:00",
-  "observed_at": "2026-11-13T15:06:09-05:00",
+  "updated_at": "2026-11-13T15:29:48-05:00",
+  "observed_at": "2026-11-13T15:29:48-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -17,27 +17,27 @@
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": -376.6,
-  "portfolio_value": 281.04,
-  "balance": 281.04,
+  "change_24h": -422.2,
+  "portfolio_value": 312.66,
+  "balance": 312.66,
   "positions": [
     {
       "symbol": "Sakura",
       "name": "Sakura",
       "address": null,
       "amount": 1200000.0,
-      "value": 280.4,
-      "pct": -28.66,
-      "note": "Shown as 1.2M Sakura $280.40 ▼ 28.66% (red), avg. entry $308.3K MC / $0.000322, token MC $219.8K, PnL −$113.34 / −28.66% on official full capture /tmp/fomo-gorkbot-desktop-1458-full-now.png (1920×1200 RGB, mtime 15:06:09 ET, taskbar Fri Nov 13 3:06 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1458-full-now-official.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1458-full-1280.png; crops under /tmp/fomo-1458-official/) at 15:06:09 ET; numeric fields use that official shot (crops /tmp/fomo-1458-official/now-ok-pos-all3-x4.png, /tmp/fomo-1458-official/now-ok-pos-all3-lz3.png, /tmp/fomo-1458-official/now-ok-hdrval-lz3.png, /tmp/fomo-1458-official/now-ok-trchip-lz3.png, /tmp/fomo-1458-official/now-ok-cashrow-lz3.png, /tmp/fomo-1458-official/now-ok-follow-lz3.png). Open tab, Show dust on, All selected, header Your positions 3. Amount 1.2M (unchanged vs 14:48:40, 14:33:45, 14:04:52, 13:56:43, 13:39:29, 13:16:59, 13:05:20, 12:50:45 and earlier 1.2M prints). Address not shown. Value/PnL moved from $299.81 / −$93.93 / −23.75% and token MC $235K at official 14:48:40; avg. entry MC is still $308.3K / $0.000322. Helper open frame at 15:02:20 showed 1.2M $271.80 ▼ 30.84%, token MC $213.1K, PnL −$121.94 / −30.84%."
+      "value": 311.58,
+      "pct": -20.78,
+      "note": "Shown as 1.2M Sakura $311.58 ▼ 20.78% (red), avg. entry $308.3K MC / $0.000322, token MC $244.3K, PnL −$82.16 / −20.78% on official full capture /tmp/fomo-gorkbot-desktop-1522-full-now.png (1920×1200 RGB, mtime 15:29:48 ET, taskbar Fri Nov 13 3:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1522-full-now-official.png and /tmp/fomo-gorkbot-desktop-1522-full-now-b.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1522-full-1280.png; crops under /tmp/fomo-1522-official/) at 15:29:48 ET; numeric fields use that official shot (crops /tmp/fomo-1522-official/now-ok-pos-all3-x4.png, /tmp/fomo-1522-official/now-ok-pos-all3-lz3.png, /tmp/fomo-1522-official/now-ok-hdrval-lz3.png, /tmp/fomo-1522-official/now-ok-trchip-lz3.png, /tmp/fomo-1522-official/now-ok-cashrow-lz3.png, /tmp/fomo-1522-official/now-ok-follow-lz3.png, /tmp/fomo-1522-official/now-ok-pnl-x6.png). Open tab, Show dust on, All selected, header Your positions 3. Amount 1.2M (unchanged vs 15:06:09, 14:48:40, 14:33:45, 14:04:52, 13:56:43, 13:39:29, 13:16:59, 13:05:20, 12:50:45 and earlier 1.2M prints). Address not shown. Value/PnL moved from $280.40 / −$113.34 / −28.66% and token MC $219.8K at official 15:06:09; avg. entry MC is still $308.3K / $0.000322. Helper open frame at 15:25:41 showed 1.2M $268.68 ▼ 31.82%, token MC $210.6K."
     },
     {
       "symbol": "SOL",
       "name": "SOL",
       "address": null,
-      "amount": 0.00798,
-      "value": 0.64,
-      "pct": 0.5,
-      "note": "Shown as 0.00798 SOL $0.64 ▲ 0.50% (green), avg. entry $48.0B MC / $79.98, token MC $48.2B, PnL +$0 / +0.50% on official full capture /tmp/fomo-gorkbot-desktop-1458-full-now.png (1920×1200 RGB, mtime 15:06:09 ET; crops /tmp/fomo-1458-official/now-ok-pos-all3-x4.png, /tmp/fomo-1458-official/now-ok-pos-all3-lz3.png). Amount moved from 0.00489 $0.39 ▼ 0.06% (token MC $48.0B) at official 14:48:40. Helper open frame at 15:02:20 already showed 0.00798 SOL $0.64 ▲ 0.33% (green), avg. entry $48.0B MC / $79.98, token MC $48.1B, PnL +$0 / +0.33%. No new SOL buy is visible at the top of the un-scrolled official or helper Transactions list. Address not shown."
+      "amount": 0.0135,
+      "value": 1.08,
+      "pct": 0.23,
+      "note": "Shown as 0.0135 SOL $1.08 ▲ 0.23% (green), avg. entry $48.1B MC / $80.13, token MC $48.2B, PnL +$0 / +0.23% on official full capture /tmp/fomo-gorkbot-desktop-1522-full-now.png (1920×1200 RGB, mtime 15:29:48 ET; crops /tmp/fomo-1522-official/now-ok-pos-all3-x4.png, /tmp/fomo-1522-official/now-ok-pos-all3-lz3.png). Amount moved from 0.00798 $0.64 ▲ 0.50% (avg. entry $48.0B MC / $79.98, token MC $48.2B) at official 15:06:09. Helper open frame at 15:25:41 already showed 0.0135 SOL $1.08. No new SOL buy is visible at the top of the un-scrolled official or helper Transactions list. Address not shown."
     },
     {
       "symbol": "AAPLX",
@@ -45,8 +45,8 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": 3.75,
-      "note": "Shown as 0.00000829 AAPLX $0.00 ▲ 3.75% (green), avg. entry $220.6M MC / $346.08, token MC $228.9M, PnL +$0 / +3.75% on official full capture /tmp/fomo-gorkbot-desktop-1458-full-now.png (1920×1200 RGB, mtime 15:06:09 ET; crop /tmp/fomo-1458-official/now-ok-pos-all3-x4.png). Amount 0.00000829 unchanged vs 14:48:40, 14:33:45, 14:04:52, 13:56:43, 13:39:29 and earlier; pct moved from +3.84% and token MC $229.1M at official 14:48:40. Address not shown."
+      "pct": 3.68,
+      "note": "Shown as 0.00000829 AAPLX $0.00 ▲ 3.68% (green), avg. entry $220.6M MC / $346.08, token MC $228.7M, PnL +$0 / +3.68% on official full capture /tmp/fomo-gorkbot-desktop-1522-full-now.png (1920×1200 RGB, mtime 15:29:48 ET; crop /tmp/fomo-1522-official/now-ok-pos-all3-x4.png). Amount 0.00000829 unchanged vs 15:06:09, 14:48:40, 14:33:45, 14:04:52, 13:56:43, 13:39:29 and earlier; pct moved from +3.75% and token MC $228.9M at official 15:06:09. Address not shown."
     }
   ],
   "trades": [
@@ -60,7 +60,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000277,
-      "note": "newest visible Token/Action row: Sakura Buy $2.56 at $0.000277, 41m (was 23m at official 14:48:40; was 38m on the 15:04:03 helper transactions frame). Still the newest row; no new trades since official 14:48:40. Visible on official full capture /tmp/fomo-gorkbot-desktop-1458-full-now.png (1920×1200 RGB, mtime 15:06:09 ET, taskbar Fri Nov 13 3:06 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1458-full-now-official.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1458-full-1280.png; crops under /tmp/fomo-1458-official/)."
+      "note": "newest visible Token/Action row: Sakura Buy $2.56 at $0.000277, 1h (was 41m at official 15:06:09; was 23m at official 14:48:40). Still the newest row; no new trades since official 15:06:09. Visible on official full capture /tmp/fomo-gorkbot-desktop-1522-full-now.png (1920×1200 RGB, mtime 15:29:48 ET, taskbar Fri Nov 13 3:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1522-full-now-official.png and /tmp/fomo-gorkbot-desktop-1522-full-now-b.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1522-full-1280.png; crops under /tmp/fomo-1522-official/)."
     },
     {
       "ts": null,
@@ -72,7 +72,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 80.07,
-      "note": "second row: SOL Sell $1.88 at $80.07, 41m (was 23m at official 14:48:40; was 38m on the 15:04:03 helper frame). Visible on official full capture /tmp/fomo-gorkbot-desktop-1458-full-now.png (1920×1200 RGB, mtime 15:06:09 ET, taskbar Fri Nov 13 3:06 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1458-full-now-official.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1458-full-1280.png; crops under /tmp/fomo-1458-official/)."
+      "note": "second row: SOL Sell $1.88 at $80.07, 1h (was 41m at official 15:06:09; was 23m at official 14:48:40). Visible on official full capture /tmp/fomo-gorkbot-desktop-1522-full-now.png (1920×1200 RGB, mtime 15:29:48 ET, taskbar Fri Nov 13 3:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1522-full-now-official.png and /tmp/fomo-gorkbot-desktop-1522-full-now-b.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1522-full-1280.png; crops under /tmp/fomo-1522-official/)."
     },
     {
       "ts": null,
@@ -84,7 +84,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000283,
-      "note": "third row: Sakura Sell $0.98 at $0.000283, 41m (was 23m at official 14:48:40; was 39m on the 15:04:03 helper frame). Visible on official full capture /tmp/fomo-gorkbot-desktop-1458-full-now.png (1920×1200 RGB, mtime 15:06:09 ET, taskbar Fri Nov 13 3:06 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1458-full-now-official.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1458-full-1280.png; crops under /tmp/fomo-1458-official/)."
+      "note": "third row: Sakura Sell $0.98 at $0.000283, 1h (was 41m at official 15:06:09; was 23m at official 14:48:40). Visible on official full capture /tmp/fomo-gorkbot-desktop-1522-full-now.png (1920×1200 RGB, mtime 15:29:48 ET, taskbar Fri Nov 13 3:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1522-full-now-official.png and /tmp/fomo-gorkbot-desktop-1522-full-now-b.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1522-full-1280.png; crops under /tmp/fomo-1522-official/)."
     },
     {
       "ts": null,
@@ -96,7 +96,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000344,
-      "note": "fourth row: Sakura Buy $1.95 at $0.000344, 1h (still 1h at official 14:48:40; was 1h on the 15:04:03 helper frame). Visible on official full capture /tmp/fomo-gorkbot-desktop-1458-full-now.png (1920×1200 RGB, mtime 15:06:09 ET, taskbar Fri Nov 13 3:06 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1458-full-now-official.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1458-full-1280.png; crops under /tmp/fomo-1458-official/)."
+      "note": "fourth row: Sakura Buy $1.95 at $0.000344, 1h (still 1h at official 15:06:09 and 14:48:40). Visible on official full capture /tmp/fomo-gorkbot-desktop-1522-full-now.png (1920×1200 RGB, mtime 15:29:48 ET, taskbar Fri Nov 13 3:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1522-full-now-official.png and /tmp/fomo-gorkbot-desktop-1522-full-now-b.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1522-full-1280.png; crops under /tmp/fomo-1522-official/)."
     },
     {
       "ts": null,
@@ -108,7 +108,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 79.87,
-      "note": "fifth row: SOL Sell $2.15 at $79.87, 1h (still 1h at official 14:48:40; was 1h on the 15:04:03 helper frame). Visible on official full capture /tmp/fomo-gorkbot-desktop-1458-full-now.png (1920×1200 RGB, mtime 15:06:09 ET, taskbar Fri Nov 13 3:06 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1458-full-now-official.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1458-full-1280.png; crops under /tmp/fomo-1458-official/)."
+      "note": "fifth row: SOL Sell $2.15 at $79.87, 1h (still 1h at official 15:06:09 and 14:48:40). Visible on official full capture /tmp/fomo-gorkbot-desktop-1522-full-now.png (1920×1200 RGB, mtime 15:29:48 ET, taskbar Fri Nov 13 3:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1522-full-now-official.png and /tmp/fomo-gorkbot-desktop-1522-full-now-b.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1522-full-1280.png; crops under /tmp/fomo-1522-official/)."
     },
     {
       "ts": null,
@@ -120,7 +120,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000384,
-      "note": "sixth row: Sakura Buy $23.92 at $0.000384, 3h (was 2h at official 14:48:40; was 3h on the 15:04:03 helper frame). Visible on official full capture /tmp/fomo-gorkbot-desktop-1458-full-now.png (1920×1200 RGB, mtime 15:06:09 ET, taskbar Fri Nov 13 3:06 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1458-full-now-official.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1458-full-1280.png; crops under /tmp/fomo-1458-official/)."
+      "note": "sixth row: Sakura Buy $23.92 at $0.000384, 3h (still 3h at official 15:06:09; was 2h at official 14:48:40). Visible on official full capture /tmp/fomo-gorkbot-desktop-1522-full-now.png (1920×1200 RGB, mtime 15:29:48 ET, taskbar Fri Nov 13 3:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1522-full-now-official.png and /tmp/fomo-gorkbot-desktop-1522-full-now-b.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1522-full-1280.png; crops under /tmp/fomo-1522-official/)."
     },
     {
       "ts": null,
@@ -132,7 +132,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 79.54,
-      "note": "seventh row: SOL Sell $24.50 at $79.54, 3h (was 2h at official 14:48:40; was 3h on the 15:04:03 helper frame). Visible on official full capture /tmp/fomo-gorkbot-desktop-1458-full-now.png (1920×1200 RGB, mtime 15:06:09 ET, taskbar Fri Nov 13 3:06 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1458-full-now-official.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1458-full-1280.png; crops under /tmp/fomo-1458-official/)."
+      "note": "seventh row: SOL Sell $24.50 at $79.54, 3h (still 3h at official 15:06:09; was 2h at official 14:48:40). Visible on official full capture /tmp/fomo-gorkbot-desktop-1522-full-now.png (1920×1200 RGB, mtime 15:29:48 ET, taskbar Fri Nov 13 3:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1522-full-now-official.png and /tmp/fomo-gorkbot-desktop-1522-full-now-b.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1522-full-1280.png; crops under /tmp/fomo-1522-official/)."
     },
     {
       "ts": null,
@@ -144,7 +144,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.00019,
-      "note": "eighth row: Sakura Buy $2.49 at $0.000190, 10h (still 10h at official 14:48:40; was 10h on the 15:04:03 helper frame). Visible on official full capture /tmp/fomo-gorkbot-desktop-1458-full-now.png (1920×1200 RGB, mtime 15:06:09 ET, taskbar Fri Nov 13 3:06 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1458-full-now-official.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1458-full-1280.png; crops under /tmp/fomo-1458-official/)."
+      "note": "eighth row: Sakura Buy $2.49 at $0.000190, 10h (still 10h at official 15:06:09 and 14:48:40). Visible on official full capture /tmp/fomo-gorkbot-desktop-1522-full-now.png (1920×1200 RGB, mtime 15:29:48 ET, taskbar Fri Nov 13 3:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1522-full-now-official.png and /tmp/fomo-gorkbot-desktop-1522-full-now-b.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1522-full-1280.png; crops under /tmp/fomo-1522-official/)."
     },
     {
       "ts": null,
@@ -3124,5 +3124,5 @@
     }
   ],
   "risk": null,
-  "notes": "Read-only official capture of public https://fomo.family/profile/gorkbot?r=gorkbot (no sign-in wall). Session already logged in (Edit profile visible on helper landing /tmp/fomo-gorkbot-desktop-1458-landing.png at 15:00:15 ET and on the official 15:06:09 frame: Following 34, Followers 13, display name gorkbot, empty bio); nothing was traded, transferred, or changed. A computerUse helper reloaded the already-open profile, saved landing, cash, open, and transactions-top shots, and left Transactions + All selected, list un-scrolled, Open + Show dust on, with no popover or modal. Helper cash-chip click on the top-right $0.00 cash / Deposit more chip opened nothing — no Tokens/Perps cash-balance popover and no Deposit/Withdraw menu (screenshot /tmp/fomo-gorkbot-desktop-1458-cash-popover.png, mtime 15:00:50 ET, header then $279.19 / −$376.60 24h, Total cash $0); Escape was pressed afterward and no popover remained; Transfer/Deposit/Withdraw were not clicked. The always-visible cash row already showed Total cash $0, and the official top-right chip showed $0.00 cash / Deposit more. Tokens/Perps popover was not open on the official 15:06 frame and was not obtained this pass; tokens/perps recorded 0 because total is $0. Helper shots /tmp/fomo-gorkbot-desktop-1458-{landing,cash-popover,open,transactions-top}.png have mtimes 15:00:15, 15:00:50, 15:02:20, 15:04:03 ET (all 3356×1830); helper full frame is a copy of the transactions-top frame saved as /tmp/fomo-gorkbot-desktop-1458-helper-full-now.png (mtime 15:04:03 ET, header $262.26 / −$376.60 24h, Transactions + All). Official portfolio, change_24h, cash, positions, and visible trades come from a later full 1920×1200 capture of display :2 (the helper Chrome session, left on the clean Transactions view) saved as /tmp/fomo-gorkbot-desktop-1458-full-now.png (1920×1200 RGB, mtime 15:06:09 ET, taskbar Fri Nov 13 3:06 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1458-full-now-official.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1458-full-1280.png; crops under /tmp/fomo-1458-official/). A simultaneous 1920×1200 grab of display :1 (/tmp/fomo-gorkbot-desktop-1458-full-d1-now.png, mtime 15:06:07 ET) showed $281.04 / −$376.60 24h, Total cash $0, Your positions 3 (Sakura 1.2M $280.40 ▼ 28.66%, SOL 0.00798 $0.64 ▲ 0.50%, AAPLX 0.00000829 $0.00 ▲ 3.75%), Following 34, Followers 13, 1h 38m avg. hold, 108 trades, but had the Feed tab selected, so it was not used for official trades. An earlier :2 grab 2s before the official frame (/tmp/fomo-gorkbot-desktop-1458-full-d2-now.png, mtime 15:06:07 ET) showed the same $281.04 / −$376.60 24h and the same Open positions (Sakura 1.2M $280.40 ▼ 28.66%, SOL 0.00798 $0.64 ▲ 0.50%, AAPLX 0.00000829 $0.00 ▲ 3.75%). Official header and top-right chip both $281.04 / −$376.60 24h (crops /tmp/fomo-1458-official/now-ok-hdrval-lz3.png, /tmp/fomo-1458-official/now-ok-trchip-lz3.png, /tmp/fomo-1458-official/now-ok-cashrow-lz3.png, /tmp/fomo-1458-official/now-ok-follow-lz3.png). Position values on that official frame sum to 280.40 + 0.64 + 0.00 = 281.04, matching the $281.04 header exactly. Portfolio fluctuated during the pass: landing $279.71 / −$376.60 at 15:00:15, cash-popover $279.19 / −$376.60 at 15:00:50, open $272.44 / −$376.60 at 15:02:20, transactions-top and helper-full $262.26 / −$376.60 at 15:04:03; official $281.04 / −$376.60 at 15:06:09. 24h was −$376.60 on the landing, cash-popover, open, transactions-top, helper-full, d1, d2, and both the official header and top-right chip (it was −$395.98 on the prior official 14:48:40 frame). Cash on the official frame is Total cash $0 and $0.00 cash chip. Open positions 3 (Show dust on, Open, All): Sakura 1.2M $280.40 ▼ 28.66% (red), avg. entry $308.3K MC / $0.000322, token MC $219.8K, PnL −$113.34 / −28.66%; SOL 0.00798 $0.64 ▲ 0.50% (green), avg. entry $48.0B MC / $79.98, token MC $48.2B, PnL +$0 / +0.50%; AAPLX 0.00000829 $0.00 ▲ 3.75% (green), avg. entry $220.6M MC / $346.08, token MC $228.9M, PnL +$0 / +3.75% (crops /tmp/fomo-1458-official/now-ok-pos-all3-x4.png, /tmp/fomo-1458-official/now-ok-pos-all3-lz3.png). Sakura amount 1.2M is unchanged vs 14:48:40; value/PnL moved from $299.81 / −$93.93 / −23.75% and token MC $235K at 14:48:40; avg. entry MC is still $308.3K. SOL amount moved from 0.00489 $0.39 ▼ 0.06% at official 14:48:40 to 0.00798 $0.64 ▲ 0.50%; helper open at 15:02:20 already showed 0.00798 SOL $0.64 ▲ 0.33%. No new SOL buy is visible at the top of the un-scrolled official or helper Transactions list. Newest official Transactions rows are unchanged since 14:48:40: Sakura Buy $2.56 at $0.000277, now 41m (was 23m; was 38m on the 15:04:03 helper frame); second is SOL Sell $1.88 at $80.07, 41m; third is Sakura Sell $0.98 at $0.000283, 41m; fourth is Sakura Buy $1.95 at $0.000344, still 1h. GTA6 is still gone (was 1.6K $8.97 at 12:50:45) with no GTA6 row in the un-scrolled Transactions window; FLOAT still gone. avg. hold 1h 38m (unchanged), 108 trades (unchanged), Following 34, Followers 13 (unchanged); 1920×1200 official full shot (LANCZOS 1280×800 copy also saved)."
+  "notes": "Read-only official capture of public https://fomo.family/profile/gorkbot?r=gorkbot (no sign-in wall). Session already logged in (Edit profile visible on helper landing /tmp/fomo-gorkbot-desktop-1522-landing.png at 15:24:47 ET and on the official 15:29:48 frame: Following 34, Followers 13, display name gorkbot, empty bio); nothing was traded, transferred, or changed. A computerUse helper reloaded the already-open profile, saved landing, cash, open, and transactions-top shots, and left Transactions + All selected, list un-scrolled, Open + Show dust on, with no popover or modal. Helper cash-chip click on the top-right $0.00 cash / Deposit more chip opened nothing — no Tokens/Perps cash-balance popover and no Deposit/Withdraw menu (screenshot /tmp/fomo-gorkbot-desktop-1522-cash-popover.png, mtime 15:25:23 ET, header then $263.79 / −$396.72 24h, Total cash $0); Escape was pressed afterward and no popover remained; Transfer/Deposit/Withdraw were not clicked. The always-visible cash row already showed Total cash $0, and the official top-right chip showed $0.00 cash / Deposit more. Tokens/Perps popover was not open on the official 15:29 frame and was not obtained this pass; tokens/perps recorded 0 because total is $0. Helper shots /tmp/fomo-gorkbot-desktop-1522-{landing,cash-popover,open,transactions-top}.png have mtimes 15:24:47, 15:25:23, 15:25:41, 15:27:06 ET (all 1280×800); helper full frame is a copy of the transactions-top frame saved as /tmp/fomo-gorkbot-desktop-1522-helper-full-now.png (mtime 15:27:06 ET, header $283.98 / −$396.72 24h, Transactions + All). Official portfolio, change_24h, cash, positions, and visible trades come from a later full 1920×1200 capture of display :2 (the helper Chrome session, left on the clean Transactions view) saved as /tmp/fomo-gorkbot-desktop-1522-full-now.png (1920×1200 RGB, mtime 15:29:48 ET, taskbar Fri Nov 13 3:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1522-full-now-official.png and /tmp/fomo-gorkbot-desktop-1522-full-now-b.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1522-full-1280.png; crops under /tmp/fomo-1522-official/). A 15:28:36 1920×1200 grab of display :1 (/tmp/fomo-gorkbot-desktop-1522-full-d1-now.png, mtime 15:28:36 ET) showed $309.13 / −$422.20 24h, Total cash $0, Your positions 3 (Sakura 1.2M $308.04 ▼ 21.67%, SOL 0.0135 $1.08 ▲ 0.36%), Following 34, Followers 13, 1h 38m avg. hold, 108 trades, but had the Feed/thesis panel selected, so it was not used for official trades. An earlier :2 grab at 15:28:36 (/tmp/fomo-gorkbot-desktop-1522-full-d2-now.png, mtime 15:28:36 ET) showed header and top-right chip both $309.13 / −$422.20 24h and the same Open positions (Sakura 1.2M $308.04 ▼ 21.67%, SOL 0.0135 $1.08 ▲ 0.36%, AAPLX 0.00000829 $0.00 ▲ 3.69%). A 15:28:38 :2 grab (preserved as /tmp/fomo-gorkbot-desktop-1522-full-now-152838-headerchip-mismatch.png) had header $311.88 vs top-right chip $309.13, so it was not used as official. Official header and top-right chip both $312.66 / −$422.20 24h (crops /tmp/fomo-1522-official/now-ok-hdrval-lz3.png, /tmp/fomo-1522-official/now-ok-trchip-lz3.png, /tmp/fomo-1522-official/now-ok-cashrow-lz3.png, /tmp/fomo-1522-official/now-ok-follow-lz3.png). Position values on that official frame sum to 311.58 + 1.08 + 0.00 = 312.66, matching the $312.66 header exactly. Portfolio fluctuated during the pass: landing $264.28 / −$396.72 at 15:24:47, cash-popover $263.79 / −$396.72 at 15:25:23, open $269.76 / −$396.72 at 15:25:41, transactions-top and helper-full $283.98 / −$396.72 at 15:27:06; the helper later reported a page read of $279.00 / −$396.72 after those shots; d2 $309.13 / −$422.20 at 15:28:36; official $312.66 / −$422.20 at 15:29:48. 24h was −$396.72 on the landing, cash-popover, open, transactions-top, and helper-full shots, and −$422.20 on the d1, d2, 15:28:38 mismatch, official header, and official top-right chip (it was −$376.60 on the prior official 15:06:09 frame). Cash on the official frame is Total cash $0 and $0.00 cash chip. Open positions 3 (Show dust on, Open, All): Sakura 1.2M $311.58 ▼ 20.78% (red), avg. entry $308.3K MC / $0.000322, token MC $244.3K, PnL −$82.16 / −20.78%; SOL 0.0135 $1.08 ▲ 0.23% (green), avg. entry $48.1B MC / $80.13, token MC $48.2B, PnL +$0 / +0.23%; AAPLX 0.00000829 $0.00 ▲ 3.68% (green), avg. entry $220.6M MC / $346.08, token MC $228.7M, PnL +$0 / +3.68% (crops /tmp/fomo-1522-official/now-ok-pos-all3-x4.png, /tmp/fomo-1522-official/now-ok-pos-all3-lz3.png, /tmp/fomo-1522-official/now-ok-pnl-x6.png). Sakura amount 1.2M is unchanged vs 15:06:09; value/PnL moved from $280.40 / −$113.34 / −28.66% and token MC $219.8K at 15:06:09; avg. entry MC is still $308.3K. SOL amount moved from 0.00798 $0.64 ▲ 0.50% at official 15:06:09 to 0.0135 $1.08 ▲ 0.23%; helper open at 15:25:41 already showed 0.0135 SOL $1.08. No new SOL buy is visible at the top of the un-scrolled official or helper Transactions list. Newest official Transactions rows are unchanged since 15:06:09: Sakura Buy $2.56 at $0.000277, now 1h (was 41m); second is SOL Sell $1.88 at $80.07, 1h; third is Sakura Sell $0.98 at $0.000283, 1h; fourth is Sakura Buy $1.95 at $0.000344, still 1h. GTA6 is still gone (was 1.6K $8.97 at 12:50:45) with no GTA6 row in the un-scrolled Transactions window; FLOAT still gone. avg. hold 1h 38m (unchanged), 108 trades (unchanged), Following 34, Followers 13 (unchanged); 1920×1200 official full shot (LANCZOS 1280×800 copy also saved)."
 }
