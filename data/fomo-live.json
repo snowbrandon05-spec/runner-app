@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T12:37:10-05:00",
-  "observed_at": "2026-11-13T12:37:10-05:00",
+  "updated_at": "2026-11-13T12:50:45-05:00",
+  "observed_at": "2026-11-13T12:50:45-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -17,27 +17,36 @@
     "total": 0.0
   },
   "starting_balance": null,
-  "change_24h": -198.81,
-  "portfolio_value": 535.99,
-  "balance": 535.99,
+  "change_24h": -128.53,
+  "portfolio_value": 659.96,
+  "balance": 659.96,
   "positions": [
     {
       "symbol": "Sakura",
       "name": "Sakura",
       "address": null,
       "amount": 1200000.0,
-      "value": 535.15,
-      "pct": 37.08,
-      "note": "Shown as 1.2M Sakura $535.15 \u25b2 37.08% (green), avg. entry $308.3K MC / $0.000322, token MC $423.5K, PnL +$144.94 / +37.08% on official full capture /tmp/fomo-gorkbot-desktop-1233-full-now.png (1920\u00d71200 RGB, mtime 12:37:10 ET, taskbar Fri Nov 13 12:37 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1233-full-1280.png; crops under /tmp/fomo-1233-official/) at 12:37:10 ET; numeric fields use that official shot. Open tab, Show dust on, All selected, header Your positions 3. Amount 1.2M (unchanged vs 12:24:37, 12:11:45, 11:50:27 and earlier 1.2M prints). Address not shown. Value was $545.82 on helper cash-popover (behind the Deposit with dialog) at 12:36:12, and $544.49 (+$154.28 / +39.47%, token MC $430.9K) on helper open at 12:36:38."
+      "value": 650.1,
+      "pct": 66.48,
+      "note": "Shown as 1.2M Sakura $650.10 ▲ 66.48% (green), avg. entry $308.3K MC / $0.000322, token MC $514.5K, PnL +$259.89 / +66.48% on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET; numeric fields use that official shot (crops /tmp/fomo-1243-official/ok-poshead2-x3.png, /tmp/fomo-1243-official/ok-cash-x3.png, /tmp/fomo-1243-official/ok-sakura3-x4.png). Open tab, Show dust on, All selected, header Your positions 4. Amount 1.2M (unchanged vs 12:37:10, 12:24:37, 12:11:45 and earlier 1.2M prints). Address not shown. Helper readout at 12:50:09 had Sakura $617.21 +$227.01 / +58.07% (token MC $488.5K); helper open /tmp/fomo-gorkbot-desktop-1243-open.png (3356×1830, mtime 12:48:19 ET) was mid-move (header then $592.04)."
+    },
+    {
+      "symbol": "GTA6",
+      "name": "GTA6",
+      "address": null,
+      "amount": 1600.0,
+      "value": 8.97,
+      "pct": null,
+      "note": "Shown as 1.6K GTA6 $8.97 (green), avg. entry -- MC / $0, token MC $5.42M, PnL +$8.97 / ▲ -- (percent not shown; pct recorded null) on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET; crops /tmp/fomo-1243-official/ok-postable-x3.png, /tmp/fomo-1243-official/ok-poshead2-x3.png) at 12:50:45 ET. Amount recorded as 1600.0 from the on-screen 1.6K (exact token count not shown). Address not shown. This GTA6 row was gone from Open positions at 12:37:10 and reappeared during the 12:43 read-only capture (helper readout: 1.6K $5.98 +$5.98 / ▲ --, token MC $3.61M at 12:50:09; official later $8.97). No GTA6 transaction is visible at the top of the un-scrolled official Transactions list (newest remains Sakura Buy $23.92). No trade action was taken this run."
     },
     {
       "symbol": "SOL",
       "name": "SOL",
       "address": "So11111111111111111111111111111111111111112",
-      "amount": 0.0104,
-      "value": 0.84,
-      "pct": 0.61,
-      "note": "Shown as 0.0104 SOL $0.84 \u25b2 0.61% (green), avg. entry $47.8B MC / $79.68, token MC $48.1B, PnL +$0 / +0.61% on official full capture /tmp/fomo-gorkbot-desktop-1233-full-now.png (1920\u00d71200 RGB, mtime 12:37:10 ET, taskbar Fri Nov 13 12:37 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1233-full-1280.png; crops under /tmp/fomo-1233-official/) at 12:37:10 ET; numeric fields use that official shot. Amount 0.0104 (was 0.00624 at 12:24:37; was 0.00358 at 12:11:45). No new SOL transaction is visible at the top of the un-scrolled official Transactions list (newest SOL row remains Sell $24.50 at $79.54, now 40m). Address kept as the previously stored official SOL mint; it was not shown on this profile frame. Helper cash-popover at 12:36:12 and open at 12:36:38 also showed 0.0104 SOL $0.84 (+0.51% at 12:36:38)."
+      "amount": 0.0111,
+      "value": 0.89,
+      "pct": 0.63,
+      "note": "Shown as 0.0111 SOL $0.89 ▲ 0.63% (green), avg. entry $47.8B MC / $79.68, token MC $48.1B, PnL +$0 / +0.63% on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET; crops /tmp/fomo-1243-official/ok-postable-x3.png) at 12:50:45 ET. Amount 0.0111 (was 0.0104 at 12:37:10); no new SOL transaction is visible at the top of the un-scrolled official Transactions list. Address carried from prior verified SOL mint, not shown on this profile frame. Helper readout at 12:50:09 had 0.0111 SOL $0.89 +$0.01 / +0.75% (token MC $48.2B)."
     },
     {
       "symbol": "AAPLX",
@@ -46,7 +55,7 @@
       "amount": 8.29e-06,
       "value": 0.0,
       "pct": 3.85,
-      "note": "Shown as 0.00000829 AAPLX $0.00 \u25b2 3.85% (green), avg. entry $220.6M MC / $346.08, token MC $229.1M, PnL +$0 / +3.85% on official full capture /tmp/fomo-gorkbot-desktop-1233-full-now.png (1920\u00d71200 RGB, mtime 12:37:10 ET, taskbar Fri Nov 13 12:37 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1233-full-1280.png; crops under /tmp/fomo-1233-official/) at 12:37:10 ET; numeric fields use that official shot. Dust position, Show dust on. Amount unchanged vs 12:24:37, 12:11:45, 11:50:27 and 11:34:27. Address not shown."
+      "note": "Shown as 0.00000829 AAPLX $0.00 ▲ 3.85% (green), avg. entry $220.6M MC / $346.08, token MC $229.1M, PnL +$0 / +3.85% on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET; crops /tmp/fomo-1243-official/ok-postable-x3.png) at 12:50:45 ET. Dust row, Show dust on. Amount unchanged vs 12:37:10. Address not shown. Helper readout at 12:50:09 matched $0.00 / +3.85% (token MC $229.1M)."
     }
   ],
   "trades": [
@@ -60,7 +69,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000384,
-      "note": "newest visible Token/Action row: Sakura Buy $23.92 at $0.000384, 40m (was 28m at 12:24:37; was 11m at 12:08:39 / 12:11:45). Visible on official full capture /tmp/fomo-gorkbot-desktop-1233-full-now.png (1920\u00d71200 RGB, mtime 12:37:10 ET, taskbar Fri Nov 13 12:37 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1233-full-1280.png; crops under /tmp/fomo-1233-official/) at 12:37:10 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1233-transactions-top.png (1920\u00d71200, mtime 12:36:45 ET) showed the same un-scrolled top rows (first two ages 40m). Crops: /tmp/fomo-1233-official/ok-txfulltop-x3.png, /tmp/fomo-1233-official/ok-pos-zone-x3.png, /tmp/fomo-1233-official/ok-posrows-x4.png."
+      "note": "newest visible Token/Action row: Sakura Buy $23.92 at $0.000384, 54m (was 40m at 12:37:10; was 28m at 12:24:37; was 11m at 12:08:39 / 12:11:45). Helper transactions-top first two ages were 52m at 12:48:44. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -72,7 +81,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 79.54,
-      "note": "second row: SOL Sell $24.50 at $79.54, 40m (was 28m at 12:24:37; was 12m at 12:08:39 / 12:11:45). Visible on official full capture /tmp/fomo-gorkbot-desktop-1233-full-now.png (1920\u00d71200 RGB, mtime 12:37:10 ET, taskbar Fri Nov 13 12:37 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1233-full-1280.png; crops under /tmp/fomo-1233-official/) at 12:37:10 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1233-transactions-top.png (1920\u00d71200, mtime 12:36:45 ET) showed the same un-scrolled top rows (first two ages 40m). Crops: /tmp/fomo-1233-official/ok-txfulltop-x3.png, /tmp/fomo-1233-official/ok-pos-zone-x3.png, /tmp/fomo-1233-official/ok-posrows-x4.png."
+      "note": "second row: SOL Sell $24.50 at $79.54, 54m (was 40m at 12:37:10; was 28m at 12:24:37; was 12m at 12:08:39 / 12:11:45). Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -84,7 +93,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.00019,
-      "note": "third row: Sakura Buy $2.49 at $0.000190, 7h (still 7h at 12:24:37, 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1233-full-now.png (1920\u00d71200 RGB, mtime 12:37:10 ET, taskbar Fri Nov 13 12:37 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1233-full-1280.png; crops under /tmp/fomo-1233-official/) at 12:37:10 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1233-transactions-top.png (1920\u00d71200, mtime 12:36:45 ET) showed the same un-scrolled top rows (first two ages 40m). Crops: /tmp/fomo-1233-official/ok-txfulltop-x3.png, /tmp/fomo-1233-official/ok-pos-zone-x3.png, /tmp/fomo-1233-official/ok-posrows-x4.png."
+      "note": "third row: Sakura Buy $2.49 at $0.000190, 8h (was 7h at 12:37:10, 12:24:37, 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -96,7 +105,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000215,
-      "note": "fourth row: Sakura Sell $0.73 at $0.000215, 7h (still 7h at 12:24:37). Visible on official full capture /tmp/fomo-gorkbot-desktop-1233-full-now.png (1920\u00d71200 RGB, mtime 12:37:10 ET, taskbar Fri Nov 13 12:37 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1233-full-1280.png; crops under /tmp/fomo-1233-official/) at 12:37:10 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1233-transactions-top.png (1920\u00d71200, mtime 12:36:45 ET) showed the same un-scrolled top rows (first two ages 40m). Crops: /tmp/fomo-1233-official/ok-txfulltop-x3.png, /tmp/fomo-1233-official/ok-pos-zone-x3.png, /tmp/fomo-1233-official/ok-posrows-x4.png."
+      "note": "fourth row: Sakura Sell $0.73 at $0.000215, 8h (was 7h at 12:37:10 and 12:24:37). Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -108,7 +117,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 79.86,
-      "note": "fifth row: SOL Sell $2.06 at $79.86, 7h (still 7h at 12:24:37). Visible on official full capture /tmp/fomo-gorkbot-desktop-1233-full-now.png (1920\u00d71200 RGB, mtime 12:37:10 ET, taskbar Fri Nov 13 12:37 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1233-full-1280.png; crops under /tmp/fomo-1233-official/) at 12:37:10 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1233-transactions-top.png (1920\u00d71200, mtime 12:36:45 ET) showed the same un-scrolled top rows (first two ages 40m). Crops: /tmp/fomo-1233-official/ok-txfulltop-x3.png, /tmp/fomo-1233-official/ok-pos-zone-x3.png, /tmp/fomo-1233-official/ok-posrows-x4.png."
+      "note": "fifth row: SOL Sell $2.06 at $79.86, 8h (was 7h at 12:37:10 and 12:24:37). Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -120,7 +129,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000272,
-      "note": "sixth row: Sakura Buy $6.55 at $0.000272, 8h (still 8h at 12:24:37). Visible on official full capture /tmp/fomo-gorkbot-desktop-1233-full-now.png (1920\u00d71200 RGB, mtime 12:37:10 ET, taskbar Fri Nov 13 12:37 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1233-full-1280.png; crops under /tmp/fomo-1233-official/) at 12:37:10 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1233-transactions-top.png (1920\u00d71200, mtime 12:36:45 ET) showed the same un-scrolled top rows (first two ages 40m). Crops: /tmp/fomo-1233-official/ok-txfulltop-x3.png, /tmp/fomo-1233-official/ok-pos-zone-x3.png, /tmp/fomo-1233-official/ok-posrows-x4.png."
+      "note": "sixth row: Sakura Buy $6.55 at $0.000272, 8h (was 8h at 12:37:10 and 12:24:37). Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -132,7 +141,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 79.67,
-      "note": "seventh row: SOL Sell $6.79 at $79.67, 8h (still 8h at 12:24:37). Visible on official full capture /tmp/fomo-gorkbot-desktop-1233-full-now.png (1920\u00d71200 RGB, mtime 12:37:10 ET, taskbar Fri Nov 13 12:37 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1233-full-1280.png; crops under /tmp/fomo-1233-official/) at 12:37:10 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1233-transactions-top.png (1920\u00d71200, mtime 12:36:45 ET) showed the same un-scrolled top rows (first two ages 40m). Crops: /tmp/fomo-1233-official/ok-txfulltop-x3.png, /tmp/fomo-1233-official/ok-pos-zone-x3.png, /tmp/fomo-1233-official/ok-posrows-x4.png."
+      "note": "seventh row: SOL Sell $6.79 at $79.67, 8h (was 8h at 12:37:10 and 12:24:37). Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -144,7 +153,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000321,
-      "note": "eighth row: Sakura Buy $357.98 at $0.000321, 8h (still 8h at 12:24:37, 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1233-full-now.png (1920\u00d71200 RGB, mtime 12:37:10 ET, taskbar Fri Nov 13 12:37 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1233-full-1280.png; crops under /tmp/fomo-1233-official/) at 12:37:10 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1233-transactions-top.png (1920\u00d71200, mtime 12:36:45 ET) showed the same un-scrolled top rows (first two ages 40m). Crops: /tmp/fomo-1233-official/ok-txfulltop-x3.png, /tmp/fomo-1233-official/ok-pos-zone-x3.png, /tmp/fomo-1233-official/ok-posrows-x4.png."
+      "note": "eighth row: Sakura Buy $357.98 at $0.000321, 8h (still 8h at 12:37:10, 12:24:37, 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -156,7 +165,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.014,
-      "note": "ninth row: mihao Sell $361.20 at $0.0140, 8h (still 8h at 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1219-full-now.png (1920\u00d71200 RGB, mtime 12:24:37 ET, taskbar Fri Nov 13 12:24 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1219-full-1280.png; crops under /tmp/fomo-1219-official/) at 12:24:37 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1219-transactions-top.png (1920\u00d71200, mtime 12:21:48 ET) and transactions-top2 /tmp/fomo-gorkbot-desktop-1219-transactions-top2.png (1920\u00d71200, mtime 12:23:42 ET) showed the same un-scrolled top rows (first two ages 25m then 27m). Crops: /tmp/fomo-1219-official/v3-txtable-x3.png, /tmp/fomo-1219-official/ok-pos-zone-x3.png."
+      "note": "ninth row: mihao Sell $361.20 at $0.0140, 8h (still 8h at 12:37:10, 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -168,7 +177,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.0149,
-      "note": "tenth row: mihao Buy $387.46 at $0.0149, 10h (still 10h at 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1219-full-now.png (1920\u00d71200 RGB, mtime 12:24:37 ET, taskbar Fri Nov 13 12:24 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1219-full-1280.png; crops under /tmp/fomo-1219-official/) at 12:24:37 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1219-transactions-top.png (1920\u00d71200, mtime 12:21:48 ET) and transactions-top2 /tmp/fomo-gorkbot-desktop-1219-transactions-top2.png (1920\u00d71200, mtime 12:23:42 ET) showed the same un-scrolled top rows (first two ages 25m then 27m). Crops: /tmp/fomo-1219-official/v3-txtable-x3.png, /tmp/fomo-1219-official/ok-pos-zone-x3.png."
+      "note": "tenth row: mihao Buy $387.46 at $0.0149, 10h (still 10h at 12:37:10, 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -180,7 +189,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 4.53e-06,
-      "note": "eleventh row: PEPE Sell $372.34 at $0.00000453, 10h (still 10h at 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1219-full-now.png (1920\u00d71200 RGB, mtime 12:24:37 ET, taskbar Fri Nov 13 12:24 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1219-full-1280.png; crops under /tmp/fomo-1219-official/) at 12:24:37 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1219-transactions-top.png (1920\u00d71200, mtime 12:21:48 ET) and transactions-top2 /tmp/fomo-gorkbot-desktop-1219-transactions-top2.png (1920\u00d71200, mtime 12:23:42 ET) showed the same un-scrolled top rows (first two ages 25m then 27m). Crops: /tmp/fomo-1219-official/v3-txtable-x3.png, /tmp/fomo-1219-official/ok-pos-zone-x3.png."
+      "note": "eleventh row: PEPE Sell $372.34 at $0.00000453, 10h (still 10h at 12:37:10, 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -192,7 +201,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 4.55e-06,
-      "note": "twelfth row: PEPE Buy $373.95 at $0.00000455, 10h (still 10h at 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1219-full-now.png (1920\u00d71200 RGB, mtime 12:24:37 ET, taskbar Fri Nov 13 12:24 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1219-full-1280.png; crops under /tmp/fomo-1219-official/) at 12:24:37 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1219-transactions-top.png (1920\u00d71200, mtime 12:21:48 ET) and transactions-top2 /tmp/fomo-gorkbot-desktop-1219-transactions-top2.png (1920\u00d71200, mtime 12:23:42 ET) showed the same un-scrolled top rows (first two ages 25m then 27m). Crops: /tmp/fomo-1219-official/v3-txtable-x3.png, /tmp/fomo-1219-official/ok-pos-zone-x3.png."
+      "note": "twelfth row: PEPE Buy $373.95 at $0.00000455, 10h (still 10h at 12:37:10, 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -204,7 +213,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 164.23,
-      "note": "thirteenth row: NVDAX Sell $1.52 at $164.23, 10h (still 10h at 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1219-full-now.png (1920\u00d71200 RGB, mtime 12:24:37 ET, taskbar Fri Nov 13 12:24 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1219-full-1280.png; crops under /tmp/fomo-1219-official/) at 12:24:37 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1219-transactions-top.png (1920\u00d71200, mtime 12:21:48 ET) and transactions-top2 /tmp/fomo-gorkbot-desktop-1219-transactions-top2.png (1920\u00d71200, mtime 12:23:42 ET) showed the same un-scrolled top rows (first two ages 25m then 27m). Crops: /tmp/fomo-1219-official/v3-txtable-x3.png, /tmp/fomo-1219-official/ok-pos-zone-x3.png."
+      "note": "thirteenth row: NVDAX Sell $1.52 at $164.23, 11h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -216,7 +225,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 79.87,
-      "note": "fourteenth row: SOL Sell $2.98 at $79.87, 10h (still 10h at 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1219-full-now.png (1920\u00d71200 RGB, mtime 12:24:37 ET, taskbar Fri Nov 13 12:24 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1219-full-1280.png; crops under /tmp/fomo-1219-official/) at 12:24:37 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1219-transactions-top.png (1920\u00d71200, mtime 12:21:48 ET) and transactions-top2 /tmp/fomo-gorkbot-desktop-1219-transactions-top2.png (1920\u00d71200, mtime 12:23:42 ET) showed the same un-scrolled top rows (first two ages 25m then 27m). Crops: /tmp/fomo-1219-official/v3-txtable-x3.png, /tmp/fomo-1219-official/ok-pos-zone-x3.png."
+      "note": "fourteenth row: SOL Sell $2.98 at $79.87, 11h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -228,7 +237,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 8.72e-06,
-      "note": "fifteenth row: believe Sell $13.02 at $0.00000872, 10h (still 10h at 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1219-full-now.png (1920\u00d71200 RGB, mtime 12:24:37 ET, taskbar Fri Nov 13 12:24 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1219-full-1280.png; crops under /tmp/fomo-1219-official/) at 12:24:37 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1219-transactions-top.png (1920\u00d71200, mtime 12:21:48 ET) and transactions-top2 /tmp/fomo-gorkbot-desktop-1219-transactions-top2.png (1920\u00d71200, mtime 12:23:42 ET) showed the same un-scrolled top rows (first two ages 25m then 27m). Crops: /tmp/fomo-1219-official/v3-txtable-x3.png, /tmp/fomo-1219-official/ok-pos-zone-x3.png."
+      "note": "fifteenth row: believe Sell $13.02 at $0.00000872, 11h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -240,7 +249,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 6e-05,
-      "note": "sixteenth row: believe Buy $91.91 at $0.0000600, 11h (was 10h at 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1219-full-now.png (1920\u00d71200 RGB, mtime 12:24:37 ET, taskbar Fri Nov 13 12:24 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1219-full-1280.png; crops under /tmp/fomo-1219-official/) at 12:24:37 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1219-transactions-top.png (1920\u00d71200, mtime 12:21:48 ET) and transactions-top2 /tmp/fomo-gorkbot-desktop-1219-transactions-top2.png (1920\u00d71200, mtime 12:23:42 ET) showed the same un-scrolled top rows (first two ages 25m then 27m). Crops: /tmp/fomo-1219-official/v3-txtable-x3.png, /tmp/fomo-1219-official/ok-pos-zone-x3.png."
+      "note": "sixteenth row: believe Buy $91.91 at $0.0000600, 11h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -252,7 +261,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000141,
-      "note": "seventeenth row: AI Sell $93.26 at $0.000141, 11h (still 11h at 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1219-full-now.png (1920\u00d71200 RGB, mtime 12:24:37 ET, taskbar Fri Nov 13 12:24 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1219-full-1280.png; crops under /tmp/fomo-1219-official/) at 12:24:37 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1219-transactions-top.png (1920\u00d71200, mtime 12:21:48 ET) and transactions-top2 /tmp/fomo-gorkbot-desktop-1219-transactions-top2.png (1920\u00d71200, mtime 12:23:42 ET) showed the same un-scrolled top rows (first two ages 25m then 27m). Crops: /tmp/fomo-1219-official/v3-txtable-x3.png, /tmp/fomo-1219-official/ok-pos-zone-x3.png."
+      "note": "seventeenth row: AI Sell $93.26 at $0.000141, 11h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -264,7 +273,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "eighteenth row: GAHu6t\u2026q75D7V Received +$0.45, 11h (truncated label visible; token address not fully shown, stored token left null). Still 11h at 12:11:45 and 12:21:48. Visible on official full capture /tmp/fomo-gorkbot-desktop-1219-full-now.png (1920\u00d71200 RGB, mtime 12:24:37 ET, taskbar Fri Nov 13 12:24 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1219-full-1280.png; crops under /tmp/fomo-1219-official/) at 12:24:37 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1219-transactions-top.png (1920\u00d71200, mtime 12:21:48 ET) and transactions-top2 /tmp/fomo-gorkbot-desktop-1219-transactions-top2.png (1920\u00d71200, mtime 12:23:42 ET) showed the same un-scrolled top rows (first two ages 25m then 27m). Crops: /tmp/fomo-1219-official/v3-txtable-x3.png, /tmp/fomo-1219-official/ok-pos-zone-x3.png."
+      "note": "eighteenth row: GAHu6t...q75D7V Received +$0.45; no price shown, 11h. Token still recorded as null to match prior snapshots (truncated address shown on official). Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -276,7 +285,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "nineteenth row: GAHu6t\u2026q75D7V Received +$0.19, 11h (truncated label visible; token address not fully shown, stored token left null). Still 11h at 12:11:45 and 12:21:48. Visible on official full capture /tmp/fomo-gorkbot-desktop-1219-full-now.png (1920\u00d71200 RGB, mtime 12:24:37 ET, taskbar Fri Nov 13 12:24 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1219-full-1280.png; crops under /tmp/fomo-1219-official/) at 12:24:37 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1219-transactions-top.png (1920\u00d71200, mtime 12:21:48 ET) and transactions-top2 /tmp/fomo-gorkbot-desktop-1219-transactions-top2.png (1920\u00d71200, mtime 12:23:42 ET) showed the same un-scrolled top rows (first two ages 25m then 27m). Crops: /tmp/fomo-1219-official/v3-txtable-x3.png, /tmp/fomo-1219-official/ok-pos-zone-x3.png."
+      "note": "nineteenth row: GAHu6t...q75D7V Received +$0.19; no price shown, 12h. Token still recorded as null to match prior snapshots (truncated address shown on official). Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -288,7 +297,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000285,
-      "note": "twentieth row: AI Buy $1.90 at $0.000285, 11h (still 11h at 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1219-full-now.png (1920\u00d71200 RGB, mtime 12:24:37 ET, taskbar Fri Nov 13 12:24 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1219-full-1280.png; crops under /tmp/fomo-1219-official/) at 12:24:37 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1219-transactions-top.png (1920\u00d71200, mtime 12:21:48 ET) and transactions-top2 /tmp/fomo-gorkbot-desktop-1219-transactions-top2.png (1920\u00d71200, mtime 12:23:42 ET) showed the same un-scrolled top rows (first two ages 25m then 27m). Crops: /tmp/fomo-1219-official/v3-txtable-x3.png, /tmp/fomo-1219-official/ok-pos-zone-x3.png."
+      "note": "twentieth row: AI Buy $1.90 at $0.000285, 12h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -300,7 +309,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000289,
-      "note": "twenty-first row: AI Buy $1.90 at $0.000289, 11h, fully visible at the bottom of the un-scrolled official Transactions list (still 11h at 12:11:45 and 12:21:48). Visible on official full capture /tmp/fomo-gorkbot-desktop-1219-full-now.png (1920\u00d71200 RGB, mtime 12:24:37 ET, taskbar Fri Nov 13 12:24 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1219-full-1280.png; crops under /tmp/fomo-1219-official/) at 12:24:37 ET. Official frame had Transactions + All selected, un-scrolled. Helper transactions-top /tmp/fomo-gorkbot-desktop-1219-transactions-top.png (1920\u00d71200, mtime 12:21:48 ET) and transactions-top2 /tmp/fomo-gorkbot-desktop-1219-transactions-top2.png (1920\u00d71200, mtime 12:23:42 ET) showed the same un-scrolled top rows (first two ages 25m then 27m). Crops: /tmp/fomo-1219-official/v3-txtable-x3.png, /tmp/fomo-1219-official/ok-pos-zone-x3.png."
+      "note": "twenty-first row: AI Buy $1.90 at $0.000289, 12h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -312,7 +321,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000284,
-      "note": "twentieth row: AI Buy $1.90 at $0.000284, 11h (age was 10h at 11:34:27) Visible on official full capture /tmp/fomo-gorkbot-desktop-1144-full-now.png (1920\u00d71200 RGB, mtime 11:50:27 ET, taskbar Fri Nov 13 11:50 AM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1144-full-1280.png; crops under /tmp/fomo-1144-official/) at 11:50:27 ET. Transactions + All selected, un-scrolled."
+      "note": "twenty-second row: AI Buy $1.90 at $0.000284, 12h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -324,7 +333,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000285,
-      "note": "twenty-first row: AI Buy $1.90 at $0.000285, 11h (age was 10h at 11:34:27) Visible on official full capture /tmp/fomo-gorkbot-desktop-1144-full-now.png (1920\u00d71200 RGB, mtime 11:50:27 ET, taskbar Fri Nov 13 11:50 AM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1144-full-1280.png; crops under /tmp/fomo-1144-official/) at 11:50:27 ET. Transactions + All selected, un-scrolled."
+      "note": "twenty-third row: AI Buy $1.90 at $0.000285, 12h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -336,7 +345,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000284,
-      "note": "twenty-second row: AI Buy $1.90 at $0.000284, 11h (age was 10h at 11:34:27) Visible on official full capture /tmp/fomo-gorkbot-desktop-1144-full-now.png (1920\u00d71200 RGB, mtime 11:50:27 ET, taskbar Fri Nov 13 11:50 AM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1144-full-1280.png; crops under /tmp/fomo-1144-official/) at 11:50:27 ET. Transactions + All selected, un-scrolled."
+      "note": "twenty-fourth row: AI Buy $1.90 at $0.000284, 12h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -348,7 +357,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000285,
-      "note": "twenty-third row: AI Buy $1.90 at $0.000285, 11h (age was 10h at 11:34:27) Visible on official full capture /tmp/fomo-gorkbot-desktop-1144-full-now.png (1920\u00d71200 RGB, mtime 11:50:27 ET, taskbar Fri Nov 13 11:50 AM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1144-full-1280.png; crops under /tmp/fomo-1144-official/) at 11:50:27 ET. Transactions + All selected, un-scrolled."
+      "note": "twenty-fifth row: AI Buy $1.90 at $0.000285, 12h (last fully visible row on the official 12:50:45 frame; helper transactions-top also showed a 26th partial AI Buy $1.90 at $0.000289, 12h, which was not fully visible on the official shot). Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -360,7 +369,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000289,
-      "note": "twenty-fourth (last fully visible) row: AI Buy $1.90 at $0.000289, 11h (age was 10h at 11:34:27) at the bottom of the official un-scrolled Transactions window Visible on official full capture /tmp/fomo-gorkbot-desktop-1144-full-now.png (1920\u00d71200 RGB, mtime 11:50:27 ET, taskbar Fri Nov 13 11:50 AM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1144-full-1280.png; crops under /tmp/fomo-1144-official/) at 11:50:27 ET. Transactions + All selected, un-scrolled."
+      "note": "twenty-fourth (last fully visible) row: AI Buy $1.90 at $0.000289, 11h (age was 10h at 11:34:27) at the bottom of the official un-scrolled Transactions window Visible on official full capture /tmp/fomo-gorkbot-desktop-1144-full-now.png (1920×1200 RGB, mtime 11:50:27 ET, taskbar Fri Nov 13 11:50 AM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1144-full-1280.png; crops under /tmp/fomo-1144-official/) at 11:50:27 ET. Transactions + All selected, un-scrolled."
     },
     {
       "ts": null,
@@ -372,7 +381,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still the newest visible Token/Action row: GAHu6t\u2026q75D7V Received +$0.11, 39m, at the top of official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png (crops /tmp/fomo-2256-official/tx-tx-head-z.png and /tmp/fomo-2256-official/tx-txtop-only-4x.png) at 23:00:08 ET (taskbar 10:59 PM). Official Open /tmp/fomo-gorkbot-desktop-2256-open.png at 22:59:45 had Feed selected, so Token/Action rows are taken from official transactions-top with Transactions and All already selected and Action/Amount/Price/Time columns visible. Same newest row as 22:44:49, when it was 23m. Relative 39m on the 10:59 PM transactions-top shot is about 10:20 PM ET; ts left null."
+      "note": "still the newest visible Token/Action row: GAHu6t…q75D7V Received +$0.11, 39m, at the top of official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png (crops /tmp/fomo-2256-official/tx-tx-head-z.png and /tmp/fomo-2256-official/tx-txtop-only-4x.png) at 23:00:08 ET (taskbar 10:59 PM). Official Open /tmp/fomo-gorkbot-desktop-2256-open.png at 22:59:45 had Feed selected, so Token/Action rows are taken from official transactions-top with Transactions and All already selected and Action/Amount/Price/Time columns visible. Same newest row as 22:44:49, when it was 23m. Relative 39m on the 10:59 PM transactions-top shot is about 10:20 PM ET; ts left null."
     },
     {
       "ts": null,
@@ -384,7 +393,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the second row GAHu6t\u2026q75D7V Received +$0.23, 1h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
+      "note": "still visible as the second row GAHu6t…q75D7V Received +$0.23, 1h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
     },
     {
       "ts": null,
@@ -396,7 +405,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the third row GAHu6t\u2026q75D7V Received +$0.16, 2h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
+      "note": "still visible as the third row GAHu6t…q75D7V Received +$0.16, 2h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
     },
     {
       "ts": null,
@@ -408,7 +417,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the fourth row GAHu6t\u2026q75D7V Received +$0.11, 2h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
+      "note": "still visible as the fourth row GAHu6t…q75D7V Received +$0.11, 2h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
     },
     {
       "ts": null,
@@ -420,7 +429,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the fifth row GAHu6t\u2026q75D7V Received +$0.42, 2h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
+      "note": "still visible as the fifth row GAHu6t…q75D7V Received +$0.42, 2h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
     },
     {
       "ts": null,
@@ -432,7 +441,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the sixth row GAHu6t\u2026q75D7V Received +$0.21, 3h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
+      "note": "still visible as the sixth row GAHu6t…q75D7V Received +$0.21, 3h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
     },
     {
       "ts": null,
@@ -444,7 +453,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the seventh row GAHu6t\u2026q75D7V Received +$0.16, 3h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
+      "note": "still visible as the seventh row GAHu6t…q75D7V Received +$0.16, 3h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
     },
     {
       "ts": null,
@@ -456,7 +465,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the eighth row GAHu6t\u2026q75D7V Received +$0.66, 3h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
+      "note": "still visible as the eighth row GAHu6t…q75D7V Received +$0.66, 3h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
     },
     {
       "ts": null,
@@ -468,7 +477,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the ninth row GAHu6t\u2026q75D7V Received +$0.37, 4h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crops /tmp/fomo-2256-official/tx-txtop-only-4x.png and /tmp/fomo-2256-official/tx-txmid-4x.png)."
+      "note": "still visible as the ninth row GAHu6t…q75D7V Received +$0.37, 4h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crops /tmp/fomo-2256-official/tx-txtop-only-4x.png and /tmp/fomo-2256-official/tx-txmid-4x.png)."
     },
     {
       "ts": null,
@@ -480,7 +489,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the tenth row GAHu6t\u2026q75D7V Received +$0.55, 4h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crops /tmp/fomo-2256-official/tx-txtop-only-4x.png and /tmp/fomo-2256-official/tx-txmid-4x.png)."
+      "note": "still visible as the tenth row GAHu6t…q75D7V Received +$0.55, 4h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crops /tmp/fomo-2256-official/tx-txtop-only-4x.png and /tmp/fomo-2256-official/tx-txmid-4x.png)."
     },
     {
       "ts": null,
@@ -492,7 +501,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the eleventh row GAHu6t\u2026q75D7V Received +$0.20, 4h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txmid-4x.png)."
+      "note": "still visible as the eleventh row GAHu6t…q75D7V Received +$0.20, 4h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txmid-4x.png)."
     },
     {
       "ts": null,
@@ -540,7 +549,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as bVeSJT\u2026cg46Vr Sent -$1.09, price blank, 1w, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txmid-4x.png)."
+      "note": "still visible as bVeSJT…cg46Vr Sent -$1.09, price blank, 1w, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txmid-4x.png)."
     },
     {
       "ts": null,
@@ -791,7 +800,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "still visible as 2bnNGc\u2026g5pjVD Received +$3.06, price blank, 1w, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crops /tmp/fomo-2256-official/tx-txmid-4x.png and /tmp/fomo-2256-official/tx-bottom-4x.png).",
+      "note": "still visible as 2bnNGc…g5pjVD Received +$3.06, price blank, 1w, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crops /tmp/fomo-2256-official/tx-txmid-4x.png and /tmp/fomo-2256-official/tx-bottom-4x.png).",
       "price": null
     },
     {
@@ -803,7 +812,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "still visible as bVeSJT\u2026cg46Vr Sent -$81.80, price blank, 1w, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-bottom-4x.png).",
+      "note": "still visible as bVeSJT…cg46Vr Sent -$81.80, price blank, 1w, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-bottom-4x.png).",
       "price": null
     },
     {
@@ -899,7 +908,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "twentieth fully visible row bVeSJT\u2026cg46Vr Sent -$106.99, price blank, 1w on /tmp/fomo-gorkbot-desktop-1815-transactions-top.png (crop /tmp/fomo-1815-crops/tx-rows-all.png) at 18:18:17 ET.",
+      "note": "twentieth fully visible row bVeSJT…cg46Vr Sent -$106.99, price blank, 1w on /tmp/fomo-gorkbot-desktop-1815-transactions-top.png (crop /tmp/fomo-1815-crops/tx-rows-all.png) at 18:18:17 ET.",
       "price": null
     },
     {
@@ -1229,7 +1238,7 @@
     {
       "ts": null,
       "side": "sell",
-      "token": "\u76d8\u53e4\u5e01",
+      "token": "盘古币",
       "usd": 15.86,
       "mcap": null,
       "pnl_usd": null,
@@ -1241,7 +1250,7 @@
     {
       "ts": null,
       "side": "buy",
-      "token": "\u76d8\u53e4\u5e01",
+      "token": "盘古币",
       "usd": 11.69,
       "mcap": null,
       "pnl_usd": null,
@@ -3064,5 +3073,5 @@
     }
   ],
   "risk": null,
-  "notes": "Read-only official capture of public https://fomo.family/profile/gorkbot?r=gorkbot (no sign-in wall). Session already logged in (Edit profile visible); nothing was traded, transferred, or changed. A computerUse helper found a Sakura trade/thesis modal already open from https://fomo.family/profile/gorkbot?r=gorkbot&tradeid=42b6869c-7602-49c3-b41b-0928a0328777 and closed it with the modal X only (URL returned to https://fomo.family/profile/gorkbot?r=gorkbot with no tradeid). An earlier read-only 1920\u00d71200 grab while that modal was still open, /tmp/fomo-gorkbot-desktop-1233-full-now.png temporarily saved at 12:34:40 ET, showed header and chip $566.01 / -$198.81 24h, Total cash $0, Your positions 3, and the modal 1.2M Sakura $561.64 +$171.43 / +43.85% at $0.000464 (that mid-run modal frame was then overwritten by the official 12:37:10 clean-profile grab of the same filename). The helper clicked the $0.00 cash / Deposit more chip and a Deposit with dialog opened (Crypto \u2013 Transfer USDC from a crypto wallet; Credit or debit \u2013 Coming soon!; fomo mobile app QR); no Tokens/Perps cash-balance popover opened (Crypto / credit were not clicked; dismissed with Escape). Helper shots /tmp/fomo-gorkbot-desktop-1233-{landing,cash-popover,open,transactions-top}.png are 1920\u00d71200 RGB, mtimes 12:36:04, 12:36:12, 12:36:38, 12:36:45 ET. Official portfolio, change_24h, cash, account, positions, and visible trades come from a subsequent full 1920\u00d71200 capture of the already-open clean profile saved at /tmp/fomo-gorkbot-desktop-1233-full-now.png, 1920\u00d71200 RGB, mtime 12:37:10 ET, taskbar Fri Nov 13 12:37 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1233-full-1280.png (same frame); crops under /tmp/fomo-1233-official/. That official frame had Transactions + All selected, un-scrolled, and Open + All with Show dust on still showing Your positions 3 in the main column. observed_at/updated_at 2026-11-13T12:37:10-05:00. Official center header and top-right chip: $535.99 / -$198.81 24h (crops /tmp/fomo-1233-official/ok-hdr-x3.png, /tmp/fomo-1233-official/ok-trchip-x4.png). Filters: Your positions 3, Show dust on, Open selected (not Closed), All selected (crops /tmp/fomo-1233-official/ok-cashwide-x4.png, /tmp/fomo-1233-official/ok-pos-zone-x3.png, /tmp/fomo-1233-official/ok-posrows-x4.png). Visible official position sum 535.15+0.84+0.00=535.99 matches header $535.99. Earlier 1233 helper shots (not official): landing /tmp/fomo-gorkbot-desktop-1233-landing.png mtime 12:36:04 showed $546.65 / -$198.81 24h (center header and top-right chip) and $0.00 cash chip; cash-popover /tmp/fomo-gorkbot-desktop-1233-cash-popover.png mtime 12:36:12 showed $546.66 / -$198.81 24h, $0.00 cash chip, and a Deposit with dialog, with positions behind the dialog including Sakura 1.2M $545.82, SOL 0.0104 $0.84, AAPLX 0.00000829 $0.00 (no Tokens/Perps cash-balance popover; Transfer/Deposit/Withdraw were not clicked through); open /tmp/fomo-gorkbot-desktop-1233-open.png mtime 12:36:38 showed center header and chip $545.33 / -$198.81 24h, Your positions 3, Show dust on, Open + All, and positions Sakura 1.2M $544.49 +$154.28 / +39.47% (token MC $430.9K), SOL 0.0104 $0.84 +0.51%, AAPLX 0.00000829 $0.00 +3.85% (sum 545.33); transactions-top /tmp/fomo-gorkbot-desktop-1233-transactions-top.png mtime 12:36:45 showed chip $544.47 / -$198.81 24h and the same un-scrolled Transactions + All top rows. Helper 24h was -$198.81 on landing, cash-popover, open, transactions-top, and official 12:37:10. Cash on official 12:37:10 shot: Total cash $0 in the cash row (Withdraw/Deposit remain in the always-visible cash row) and the $0.00 cash / Deposit more chip plus $535.99 / -$198.81 24h chip in the top right (crops /tmp/fomo-1233-official/ok-cashwide-x4.png, /tmp/fomo-1233-official/ok-trchip-x4.png). Tokens/Perps popover was not opened on the official 12:37 frame (Transfer/Deposit/Withdraw were not clicked). tokens/perps/total recorded 0.00 because Total cash is $0; cash split was not invented. Account on official full shot: gorkbot / @gorkbot, bio empty, Following 34, Followers 12, Edit profile visible, avg. hold 1h 39m, 106 trades, Joined Oct 2026 (crops /tmp/fomo-1233-official/ok-acct-x3.png, /tmp/fomo-1233-official/ok-followfull-x4.png, /tmp/fomo-1233-official/ok-txhead-x4.png). #1 Trade chip was not visible in this official frame. Open positions 3, on-screen order: Sakura 1.2M $535.15 +37.08%; SOL 0.0104 $0.84 +0.61%; AAPLX dust 0.00000829 $0.00 +3.85%. FLOAT is still gone from Open positions. GTA6 is still gone. Sakura amount still 1.2M (same as 12:24:37). SOL amount 0.0104 (was 0.00624 at 12:24:37); no new SOL transaction is visible at the top of the un-scrolled official Transactions list. Newest visible transaction is still Sakura Buy $23.92 at $0.000384, now 40m (was 28m at 12:24:37). Second row is still SOL Sell $24.50 at $79.54, now 40m (was 28m)."
+  "notes": "Read-only official capture of public https://fomo.family/profile/gorkbot?r=gorkbot (no sign-in wall). Session already logged in (Edit profile visible on helper landing /tmp/fomo-gorkbot-desktop-1243-landing.png at 12:45:46 ET: Following 34, Followers 12, display name gorkbot, empty bio with pencil); nothing was traded, transferred, or changed. A computerUse helper opened the clean profile and saved landing, cash, open, and transactions-top shots, then left Transactions + All selected, list un-scrolled, with Your positions visible and Show dust on. Helper cash-chip click: no Tokens/Perps cash-balance popover and no Deposit/Withdraw menu or dialog appeared after one click of the $0.00 cash / Deposit more chip (screenshot /tmp/fomo-gorkbot-desktop-1243-cash-popover.png, 3356×1830, mtime 12:46:11 ET); the always-visible cash row already showed Total cash $0. Helper shots /tmp/fomo-gorkbot-desktop-1243-{landing,cash-popover,open,transactions-top}.png are 3356×1830 RGB, mtimes 12:45:46, 12:46:11, 12:48:19, 12:48:44 ET (helper viewport, not the 1920×1200 desktop). Official portfolio, change_24h, cash, positions, and visible trades come from a subsequent full 1920×1200 capture of the already-open clean profile saved as /tmp/fomo-gorkbot-desktop-1243-full-now.png at 12:50:45 ET (LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/; taskbar Fri Nov 13 12:50 PM). Official header and top-right chip both $659.96 / -$128.53 24h (crops /tmp/fomo-1243-official/ok-hdr-x4.png, /tmp/fomo-1243-official/ok-trchip-x4.png). Position values on that official frame sum to 650.10 + 8.97 + 0.89 + 0.00 = 659.96. Portfolio fluctuated during the helper pass: landing $584.26 at 12:45:46, cash-popover $584.61 at 12:46:11, open $592.04 at 12:48:19, transactions-top $628.16 at 12:48:44; helper readout after those shots was $624.08 / -$128.53 24h at 12:50:09; 24h stayed -$128.53 on landing, cash-popover, open, transactions-top, helper readout, and official 12:50:45. Cash on official 12:50:45 shot: Total cash $0 in the cash row (Withdraw/Deposit remain in the always-visible cash row) and the $0.00 cash / Deposit more chip plus $659.96 / -$128.53 24h chip in the top right (crops /tmp/fomo-1243-official/ok-cashwide-x4.png, /tmp/fomo-1243-official/ok-trchip-x4.png). Tokens/Perps popover was not opened on the official 12:50 frame (Transfer/Deposit/Withdraw were not clicked). tokens/perps/total recorded 0.00 because Total cash is $0; cash split was not invented. Account on official full shot: @gorkbot, 1h 39m avg. hold, 106 trades, Joined Oct 2026 (crops /tmp/fomo-1243-official/ok-acct-x3.png, /tmp/fomo-1243-official/name-contrast-x3.png). Display name gorkbot, bio empty, Following 34, Followers 12, and Edit profile were verified on helper landing /tmp/fomo-gorkbot-desktop-1243-landing.png at 12:45:46 (crop /tmp/fomo-1243-official/helper-landing-follow-x2.png, /tmp/fomo-1243-official/helper-landing-acct-x2.png); the official 12:50:45 follow/Edit-profile cluster was not clearly resolved in official header crops (tight framing under the Chrome UI). #1 Trade chip was not visible in the official frame. Open positions 4, on-screen order: Sakura 1.2M $650.10 +66.48%; GTA6 1.6K $8.97 +$8.97 / --%; SOL 0.0111 $0.89 +0.63%; AAPLX dust 0.00000829 $0.00 +3.85%. FLOAT is still gone from Open positions. GTA6 has reappeared (it was gone at 12:37:10); no GTA6 row is visible at the top of the un-scrolled official Transactions list. Sakura amount still 1.2M (same as 12:37:10). SOL amount 0.0111 (was 0.0104 at 12:37:10); no new SOL transaction is visible at the top of the un-scrolled official Transactions list. Newest visible transaction is still Sakura Buy $23.92 at $0.000384, now 54m (was 40m at 12:37:10; helper transactions-top 52m at 12:48:44). Second row is still SOL Sell $24.50 at $79.54, now 54m (was 40m). 25 transaction rows were fully visible on the official un-scrolled list."
 }
