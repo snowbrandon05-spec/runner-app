@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-13T20:13:51-05:00",
-  "observed_at": "2026-11-13T20:13:51-05:00",
+  "updated_at": "2026-11-13T20:29:06-05:00",
+  "observed_at": "2026-11-13T20:29:06-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
     "bio": null,
     "followers": 16,
     "following": 34,
-    "avg_hold": "1h 42m",
-    "trades_count": 115,
+    "avg_hold": "1h 43m",
+    "trades_count": 117,
     "joined": "Oct 2026"
   },
   "cash": {
@@ -18,17 +18,17 @@
   },
   "starting_balance": null,
   "change_24h": -592.84,
-  "portfolio_value": 103.64,
-  "balance": 103.64,
+  "portfolio_value": 114.53,
+  "balance": 114.53,
   "positions": [
     {
       "symbol": "COCORO",
       "name": "COCORO",
       "address": null,
-      "amount": 967100.0,
-      "value": 102.96,
-      "pct": -4.6,
-      "note": "Shown as 967.1K COCORO $102.96 ▼ 4.60% (red), avg. entry $104.7K MC / $0.000110, token MC $101.1K, PnL −$4.96 / −4.60% on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); Open tab, Show dust on, All selected, header Your positions 4, official Transactions tab selected so trades are from that official shot."
+      "amount": 1200000.0,
+      "value": 114.07,
+      "pct": -11.1,
+      "note": "Shown as 1.2M COCORO $114.07 ▼ 11.10% (red), avg. entry $98.5K MC / $0.000104, token MC $88.4K, PnL −$14.24 / −11.10% on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); Open tab, Show dust on, All selected, header Your positions 4, official Transactions tab selected so trades are from that official shot."
     },
     {
       "symbol": "AVGOX",
@@ -36,17 +36,17 @@
       "address": null,
       "amount": 0.000984,
       "value": 0.34,
-      "pct": -2.3,
-      "note": "Shown as 0.000984 AVGOX $0.34 ▼ 2.30% (red), avg. entry $86.0M MC / $344.26, token MC $85.3M, PnL −$0 / −2.30% on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); Open tab, Show dust on, All selected, header Your positions 4, official Transactions tab selected so trades are from that official shot."
+      "pct": -1.8,
+      "note": "Shown as 0.000984 AVGOX $0.34 ▼ 1.80% (red), avg. entry $86.0M MC / $344.26, token MC $85.5M, PnL −$0 / −1.80% on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); Open tab, Show dust on, All selected, header Your positions 4, official Transactions tab selected so trades are from that official shot."
     },
     {
       "symbol": "SOL",
       "name": "SOL",
       "address": null,
-      "amount": 0.00434,
-      "value": 0.34,
-      "pct": -2.47,
-      "note": "Shown as 0.00434 SOL $0.34 ▼ 2.47% (red), avg. entry $47.6B MC / $79.29, token MC $46.4B, PnL −$0.01 / −2.47% on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); Open tab, Show dust on, All selected, header Your positions 4, official Transactions tab selected so trades are from that official shot."
+      "amount": 0.00147,
+      "value": 0.11,
+      "pct": -0.06,
+      "note": "Shown as 0.00147 SOL $0.11 ▼ 0.06% (red), avg. entry $46.5B MC / $77.40, token MC $46.4B, PnL −$0 / −0.06% on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); Open tab, Show dust on, All selected, header Your positions 4, official Transactions tab selected so trades are from that official shot."
     },
     {
       "symbol": "AAPLX",
@@ -55,10 +55,70 @@
       "amount": 8.29e-06,
       "value": 0.0,
       "pct": 3.24,
-      "note": "Shown as 0.00000829 AAPLX $0.00 ▲ 3.24% (green), avg. entry $220.6M MC / $346.08, token MC $227.8M, PnL +$0 / +3.24% on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); Open tab, Show dust on, All selected, header Your positions 4, official Transactions tab selected so trades are from that official shot."
+      "note": "Shown as 0.00000829 AAPLX $0.00 ▲ 3.24% (green), avg. entry $220.6M MC / $346.08, token MC $227.8M, PnL +$0 / +3.24% on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); Open tab, Show dust on, All selected, header Your positions 4, official Transactions tab selected so trades are from that official shot."
     }
   ],
   "trades": [
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "COCORO",
+      "usd": 20.39,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "price": 0.000079,
+      "note": "newest visible Token/Action row: COCORO Buy $20.39 at $0.0000790, 4m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "SOL",
+      "usd": 20.9,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "price": 77.32,
+      "note": "second visible Token/Action row: SOL Sell $20.90 at $77.32, 5m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "SOL",
+      "usd": 17.92,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "price": 77.34,
+      "note": "third visible Token/Action row: SOL Buy $17.92 at $77.34, 6m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
+    },
+    {
+      "ts": null,
+      "side": "sell",
+      "token": "PENGU",
+      "usd": 18.3,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "price": 0.00609,
+      "note": "fourth visible Token/Action row: PENGU Sell $18.30 at $0.00609, 6m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
+    },
+    {
+      "ts": null,
+      "side": "buy",
+      "token": "PENGU",
+      "usd": 18.32,
+      "mcap": null,
+      "pnl_usd": null,
+      "pnl_pct": null,
+      "by": "feed",
+      "price": 0.00609,
+      "note": "fifth visible Token/Action row: PENGU Buy $18.32 at $0.00609, 6m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
+    },
     {
       "ts": null,
       "side": "buy",
@@ -69,7 +129,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.00011,
-      "note": "newest visible Token/Action row: COCORO Buy $107.93 at $0.000110, 26s. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "sixth visible Token/Action row: COCORO Buy $107.93 at $0.000110, 15m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -81,7 +141,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000112,
-      "note": "second visible Token/Action row: CSI Sell $108.85 at $0.000112, 6m. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "seventh visible Token/Action row: CSI Sell $108.85 at $0.000112, 21m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -93,7 +153,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 343.26,
-      "note": "third visible Token/Action row: AVGOX Sell $1.07 at $343.26, 46m. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "eighth visible Token/Action row: AVGOX Sell $1.07 at $343.26, 1h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -105,7 +165,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "fourth visible Token/Action row: 4gng9A...HJrgwX Received +$0.56, 53m; no price shown. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "ninth visible Token/Action row: 4gng9A...HJrgwX Received +$0.56, 1h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -117,7 +177,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "fifth visible Token/Action row: 4gng9A...HJrgwX Received +$0.32, 1h; no price shown. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "tenth visible Token/Action row: 4gng9A...HJrgwX Received +$0.32, 1h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -129,7 +189,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000231,
-      "note": "sixth visible Token/Action row: CSI Buy $4.62 at $0.000231, 1h. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "eleventh visible Token/Action row: CSI Buy $4.62 at $0.000231, 1h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -141,7 +201,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 343.98,
-      "note": "seventh visible Token/Action row: AVGOX Sell $3.00 at $343.98, 1h. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twelfth visible Token/Action row: AVGOX Sell $3.00 at $343.98, 1h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -153,7 +213,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "eighth visible Token/Action row: 4gng9A...HJrgwX Received +$0.40, 1h; no price shown. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "thirteenth visible Token/Action row: 4gng9A...HJrgwX Received +$0.40, 1h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -165,7 +225,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "ninth visible Token/Action row: 4gng9A...HJrgwX Received +$0.90, 1h; no price shown. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "fourteenth visible Token/Action row: 4gng9A...HJrgwX Received +$0.90, 2h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -177,7 +237,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "tenth visible Token/Action row: 4gng9A...HJrgwX Received +$1.02, 2h; no price shown. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "fifteenth visible Token/Action row: 4gng9A...HJrgwX Received +$1.02, 2h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -189,7 +249,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "eleventh visible Token/Action row: 4gng9A...HJrgwX Received +$0.46, 2h; no price shown. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "sixteenth visible Token/Action row: 4gng9A...HJrgwX Received +$0.46, 2h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -201,7 +261,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 344.11,
-      "note": "twelfth visible Token/Action row: AVGOX Sell $1.92 at $344.11, 2h. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "seventeenth visible Token/Action row: AVGOX Sell $1.92 at $344.11, 2h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -213,7 +273,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "thirteenth visible Token/Action row: 4gng9A...HJrgwX Received +$1.13, 2h; no price shown. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "eighteenth visible Token/Action row: 4gng9A...HJrgwX Received +$1.13, 2h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -225,7 +285,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "fourteenth visible Token/Action row: 4gng9A...HJrgwX Received +$0.65, 2h; no price shown. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "nineteenth visible Token/Action row: 4gng9A...HJrgwX Received +$0.65, 3h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -237,7 +297,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 9.58e-05,
-      "note": "fifteenth visible Token/Action row: CSI Buy $2.80 at $0.0000958, 3h. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twentieth visible Token/Action row: CSI Buy $2.80 at $0.0000958, 3h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -249,7 +309,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 344.38,
-      "note": "sixteenth visible Token/Action row: AVGOX Sell $3.00 at $344.38, 3h. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-first visible Token/Action row: AVGOX Sell $3.00 at $344.38, 3h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -261,7 +321,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "seventeenth visible Token/Action row: 4gng9A...HJrgwX Received +$1.67, 3h; no price shown. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-second visible Token/Action row: 4gng9A...HJrgwX Received +$1.67, 3h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -273,7 +333,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "eighteenth visible Token/Action row: 4gng9A...HJrgwX Received +$0.21, 3h; no price shown. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-third visible Token/Action row: 4gng9A...HJrgwX Received +$0.21, 3h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -285,7 +345,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000211,
-      "note": "nineteenth visible Token/Action row: CSI Buy $46.22 at $0.000211, 3h. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-fourth visible Token/Action row: CSI Buy $46.22 at $0.000211, 3h (bottom of un-scrolled official window). Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -3457,5 +3517,5 @@
     }
   ],
   "risk": null,
-  "notes": "Read-only official capture of public https://fomo.family/profile/gorkbot?r=gorkbot (no sign-in wall). Session already logged in (Edit profile visible on official follow/edit crop /tmp/fomo-2009-d2b-follow2.png and on earlier official frames: Following 34, Followers 16, display name gorkbot, empty bio); nothing was traded, transferred, or changed by this feed run. A computerUse helper navigated to https://fomo.family/profile/gorkbot?r=gorkbot (no trade modal / tradeId), selected Transactions (All), and opened the cash popover once; helper-transactions /tmp/fomo-gorkbot-desktop-2009-helper-transactions.png and helper-inline /tmp/fomo-gorkbot-desktop-2009-helper-inline.png are the same 1920×1200 bytes (mtime 20:10:58 ET), already on Transactions + All with Open and Show dust on, then $109.55 / $108.88 cash, Open positions 3 (AVGOX 0.000984 $0.34, SOL 0.00434 $0.34, AAPLX 0.00000829 $0.00), newest row CSI Sell $108.85 at $0.000112, 3m. Helper cash popover /tmp/fomo-gorkbot-desktop-2009-helper-cash.png (1920×1200, mtime 20:11:05 ET) showed Tokens cash balance $108.88 and Perps cash balance $0 with Total cash $108.88 (that split is from before the later COCORO buy). Official numeric fields use the later official :2 frame with Transactions (All) still selected, Open and Show dust on, at official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); a second :2 grab 34s later is /tmp/fomo-gorkbot-desktop-2009-full-now-b.png, mtime 20:14:25 ET, already $144.44 / −$592.84 24h and $0.00 cash, COCORO 967.1K $143.77 ▲ 33.21% / +$35.84, token MC $141.2K, AVGOX $0.34 / −2.33% / 0.000984, SOL $0.34 / −2.46% / 0.00434, AAPLX $0.00 / +3.24% / 0.00000829. Earlier official :2 ffmpeg grab /tmp/fomo-gorkbot-desktop-2009-full-d2-now.png at 20:10:29 (Feed selected, Open, Show dust on) showed header and top-right chip $109.55 / −$558.52 24h and $108.88 cash, Open positions 3 (AVGOX 0.000984 $0.34 ▼ 1.96%, SOL 0.00434 $0.34 ▼ 2.36%, AAPLX 0.00000829 $0.00 ▲ 3.24%), CSI already gone from Open, Feed top post gorkbot Sell CSI $109 at $109.6K MC, 3m. Mid official :2 grab /tmp/fomo-gorkbot-desktop-2009-full-d2-later.png at 20:12:34 (Transactions + All, Open, Show dust on) showed header and top-right chip $109.55 / −$592.84 24h and $108.88 cash, same 3 open dust positions, newest official row CSI Sell $108.85 at $0.000112, 5m. :1 grab /tmp/fomo-gorkbot-desktop-2009-full-d1-now.png at 20:10:29 showed header and top-right chip $109.55 / −$558.52 24h and $108.88 cash, Closed tab selected (Your positions 114), CSI closed $250.78 invested • 3m, PnL −$141.93 / −56.59% (Feed tab so trades are not from that :1 frame). :1 later /tmp/fomo-gorkbot-desktop-2009-full-d1-later.png at 20:12:34 showed $109.55 / −$592.84 24h and $108.88 cash, Closed still selected, CSI closed • 5m, same −$141.93 / −56.59%. :1 at 20:13:51 /tmp/fomo-gorkbot-desktop-2009-full-d1b-now.png showed top-right chip $0.00 cash, $103.64 / −$592.84 24h, 115 trades, and $103.64 in the header (Closed tab still selected). LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-2009-full-now-1280.png; crops under /tmp/fomo-2009-official/. Official portfolio $103.64 (was $143.37 at 19:56:25) with Open positions 4 (COCORO 967.1K $102.96 ▼ 4.60%, AVGOX 0.000984 $0.34 ▼ 2.30%, SOL 0.00434 $0.34 ▼ 2.47%, AAPLX 0.00000829 $0.00 ▲ 3.24%). CSI is no longer in Open positions (sold); official Transactions newest rows are COCORO Buy $107.93 at $0.000110, 26s, then CSI Sell $108.85 at $0.000112, 6m. AVGOX amount increased to 0.000984 $0.34 from 0.000719 $0.25 at official 19:56:25 (no newer AVGOX buy visible above the CSI sell). SOL amount 0.00434 unchanged; AAPLX amount 0.00000829 unchanged. Official Total cash $0 and $0.00 cash chip; official frame did not have the Tokens/Perps split open (only Total cash $0, Withdraw, and Deposit were shown; Deposit/Withdraw were not clicked), so cash.tokens and cash.perps are recorded 0 because total is $0. Followers 16; Following 34; trades count 115 (was 114). Second visible official row is CSI Sell $108.85 at $0.000112, 6m; third is AVGOX Sell $1.07 at $343.26, 46m; fourth is 4gng9A...HJrgwX Received +$0.56, 53m; fifth is 4gng9A...HJrgwX Received +$0.32, 1h."
+  "notes": "Read-only helper capture of public https://fomo.family/profile/gorkbot?r=gorkbot (no sign-in wall). Session already logged in (Edit profile visible on helper-transactions /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png: Following 34, Followers 16, display name gorkbot, empty bio); nothing was traded, transferred, or changed by this feed run. A computerUse helper navigated to https://fomo.family/profile/gorkbot?r=gorkbot (no trade modal / tradeId), reloaded, selected Open with Show dust on and All, clicked the Total cash control, then selected Transactions (All). Official numeric fields use helper-transactions /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); Transactions (All) selected, Open and Show dust on, header Your positions 4. Header and top-right chip $114.53 / −$592.84 24h and $0.00 cash, Total cash $0, 117 trades, 1h 43m avg. hold. Earlier helper-open /tmp/fomo-gorkbot-desktop-2027-helper-open.png (1920×1200, mtime 20:28:50 ET, taskbar Fri Nov 13 8:27 PM, Feed tab) showed $104.83 / −$592.84 24h and $0.00 cash, Open positions 4 (COCORO 1.2M $104.38 ▼ 18.65% / −$23.94, token MC $80.9K, AVGOX $0.34 / −1.81% / 0.000984, SOL $0.11 / −0.06% / 0.00147, AAPLX $0.00 / +3.24% / 0.00000829). Helper cash shot /tmp/fomo-gorkbot-desktop-2027-helper-cash.png (1920×1200, mtime 20:28:59 ET, taskbar Fri Nov 13 8:28 PM) showed $110.22 / −$592.84 24h and $0.00 cash, Total cash $0 focused (I-beam), COCORO 1.2M $109.77 ▼ 14.45% / −$18.54, token MC $85.1K; the Tokens/Perps popover card is not visible in that PNG (unlike the 20:11 ET helper cash shot), so tokens/perps are recorded 0 because total cash is $0. The helper reported the portfolio moved through $106.30, $104.83, $110.22, $114.53, and $111.25 while watching; numeric fields are from the 20:29:06 transactions frame only. LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-2027-full-now-1280.png; crops under /tmp/fomo-2027-official/ (Open positions visible on the left of the official helper-transactions frame)."
 }
