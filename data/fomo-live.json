@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-13T21:43:25-05:00",
-  "observed_at": "2026-11-13T21:43:25-05:00",
+  "updated_at": "2026-11-13T22:03:19-05:00",
+  "observed_at": "2026-11-13T22:03:19-05:00",
   "account": {
     "handle": "gorkbot",
     "display_name": "gorkbot",
@@ -17,7 +17,7 @@
     "total": 0
   },
   "starting_balance": null,
-  "change_24h": -770.27,
+  "change_24h": -723.49,
   "portfolio_value": 0.0,
   "balance": 0.0,
   "positions": [
@@ -27,8 +27,8 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": 3.23,
-      "note": "Shown as 0.00000829 AAPLX $0.00 ▲ 3.23% (green), avg. entry $220.6M MC / $346.08, token MC $227.7M, PnL +$0 / +3.23% on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
+      "pct": 3.22,
+      "note": "Shown as 0.00000829 AAPLX $0.00 ▲ 3.22% (green) on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot. Avg. entry, token MC, and the dollar PnL column are not shown in this official full-desktop layout."
     }
   ],
   "trades": [
@@ -42,7 +42,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "newest visible Token/Action row: 6XqdWr...t1bXVg Sent -$14.22, 18m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
+      "note": "newest visible Token/Action row: 6XqdWr...t1bXVg Sent -$14.22, 38m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
     },
     {
       "ts": null,
@@ -54,7 +54,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 341.65,
-      "note": "second visible Token/Action row: AVGOX Sell $14.51 at $341.65, 19m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
+      "note": "second visible Token/Action row: AVGOX Sell $14.51 at $341.65, 39m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
     },
     {
       "ts": null,
@@ -66,7 +66,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 341.86,
-      "note": "third visible Token/Action row: AVGOX Buy $14.18 at $341.86, 19m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
+      "note": "third visible Token/Action row: AVGOX Buy $14.18 at $341.86, 39m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
     },
     {
       "ts": null,
@@ -78,7 +78,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 75.92,
-      "note": "fourth visible Token/Action row: SOL Sell $14.57 at $75.92, 19m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
+      "note": "fourth visible Token/Action row: SOL Sell $14.57 at $75.92, 39m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
     },
     {
       "ts": null,
@@ -90,7 +90,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 75.86,
-      "note": "fifth visible Token/Action row: SOL Buy $14.11 at $75.86, 19m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
+      "note": "fifth visible Token/Action row: SOL Buy $14.11 at $75.86, 39m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
     },
     {
       "ts": null,
@@ -102,7 +102,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000157,
-      "note": "sixth visible Token/Action row: AURA Sell $14.41 at $0.000157, 19m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
+      "note": "sixth visible Token/Action row: AURA Sell $14.41 at $0.000157, 39m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
     },
     {
       "ts": null,
@@ -114,7 +114,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000173,
-      "note": "seventh visible Token/Action row: AURA Buy $16.11 at $0.000173, 38m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
+      "note": "seventh visible Token/Action row: AURA Buy $16.11 at $0.000173, 58m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
     },
     {
       "ts": null,
@@ -126,7 +126,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 2.5e-05,
-      "note": "eighth visible Token/Action row: RARECOIN Sell $16.76 at $0.0000250, 48m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
+      "note": "eighth visible Token/Action row: RARECOIN Sell $16.76 at $0.0000250, 1h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
     },
     {
       "ts": null,
@@ -138,7 +138,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 6.29e-05,
-      "note": "ninth visible Token/Action row: RARECOIN Buy $42.79 at $0.0000629, 54m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
+      "note": "ninth visible Token/Action row: RARECOIN Buy $42.79 at $0.0000629, 1h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
     },
     {
       "ts": null,
@@ -150,7 +150,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 9.96e-05,
-      "note": "tenth visible Token/Action row: 坐以待币 Sell $43.69 at $0.0000996, 54m. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
+      "note": "tenth visible Token/Action row: 坐以待币 Sell $43.69 at $0.0000996, 1h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
     },
     {
       "ts": null,
@@ -162,7 +162,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.00017,
-      "note": "eleventh visible Token/Action row: 坐以待币 Buy $74.46 at $0.000170, 1h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
+      "note": "eleventh visible Token/Action row: 坐以待币 Buy $74.46 at $0.000170, 1h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
     },
     {
       "ts": null,
@@ -174,7 +174,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 8.26e-08,
-      "note": "twelfth visible Token/Action row: Mog Sell $17.75 at $0.0000000826, 1h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
+      "note": "twelfth visible Token/Action row: Mog Sell $17.75 at $0.0000000826, 1h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
     },
     {
       "ts": null,
@@ -186,7 +186,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 8.28e-08,
-      "note": "thirteenth visible Token/Action row: Mog Buy $18.00 at $0.0000000828, 1h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
+      "note": "thirteenth visible Token/Action row: Mog Buy $18.00 at $0.0000000828, 1h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
     },
     {
       "ts": null,
@@ -198,7 +198,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 4.8e-05,
-      "note": "fourteenth visible Token/Action row: COCORO Sell $58.05 at $0.0000480, 1h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
+      "note": "fourteenth visible Token/Action row: COCORO Sell $58.05 at $0.0000480, 1h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
     },
     {
       "ts": null,
@@ -210,7 +210,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 7.9e-05,
-      "note": "fifteenth visible Token/Action row: COCORO Buy $20.39 at $0.0000790, 1h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
+      "note": "fifteenth visible Token/Action row: COCORO Buy $20.39 at $0.0000790, 1h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot."
     },
     {
       "ts": null,
@@ -3658,5 +3658,5 @@
     }
   ],
   "risk": null,
-  "notes": "Read-only helper capture of public https://fomo.family/profile/gorkbot?r=gorkbot (no sign-in wall). Session already logged in (Edit profile visible on official helper-transactions /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png and on helper-cash /tmp/fomo-gorkbot-desktop-2140-helper-cash.png; not clicked). Did not trade, move funds, change account settings, or restart any trader. Reloaded, selected Open with Show dust on and All, clicked the Total cash control, then selected Transactions (All). Official numeric fields use official helper-transactions capture /tmp/fomo-gorkbot-desktop-2140-helper-transactions.png (1280×800 RGB, mtime 21:43:25 ET, taskbar Fri Nov 13 9:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2140-full-now.png, /tmp/fomo-gorkbot-desktop-2140-full-now-official.png, /tmp/fomo-gorkbot-desktop-2140-helper-official.png, and /tmp/fomo-gorkbot-desktop-2140-full-now-1280.png); crops under /tmp/fomo-2140-official/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot. Header and top-right chip $0.00 / −$770.27 24h and $0.00 cash, Total cash $0, 123 trades, 1h 39m avg. hold. Earlier helper-landing /tmp/fomo-gorkbot-desktop-2140-helper-landing.png (1280×800, mtime 21:42:10 ET, taskbar Fri Nov 13 9:41 PM, Feed tab, Closed selected) showed $0.00 / −$770.27 24h, Your positions 123, Total cash $0. Helper-open /tmp/fomo-gorkbot-desktop-2140-helper-open.png (1280×800, mtime 21:42:22 ET, taskbar Fri Nov 13 9:42 PM, Feed tab, Open and Show dust on) showed $0.00 / −$770.27 24h and Total cash $0, Open positions 1 (AAPLX 0.00000829 $0.00 ▲ 3.23% / +$0, avg. entry $220.6M MC / $346.08, token MC $227.8M). Helper cash shot /tmp/fomo-gorkbot-desktop-2140-helper-cash.png (1280×800, mtime 21:42:54 ET, taskbar Fri Nov 13 9:42 PM) showed $0.00 / −$770.27 24h and $0.00 cash, Total cash $0, Tokens cash balance $0, Perps cash balance $0 (Tokens/Perps popover card visible in that PNG); Open positions 1, same AAPLX row except token MC $227.8M. The Tokens/Perps popover card is not visible in the official Transactions PNG, so tokens/perps use the helper-cash split because official Total cash was still $0. Official portfolio $0.00 (unchanged from $0.00 at 21:33:23) with Open positions 1 (AAPLX 0.00000829 $0.00 ▲ 3.23%); official token MC $227.7M (was $227.8M at 21:33:23). Newest official top row is still 6XqdWr...t1bXVg Sent −$14.22, now 18m (was 8m at official 21:33:23). Cash $0.00 (unchanged); Followers 16 (unchanged); Following 34; trades count 123; avg. hold 1h 39m; change_24h −$770.27 (unchanged). Seventh visible official row is AURA Buy $16.11 at $0.000173, now 38m (was 28m at official 21:33:23). Visible official Transactions (All) also include RARECOIN Sell $16.76 at $0.0000250, 48m; RARECOIN Buy $42.79 at $0.0000629, 54m; 坐以待币 Sell $43.69 at $0.0000996, 54m; 坐以待币 Buy $74.46 at $0.000170, 1h; Mog Sell $17.75 at $0.0000000826, 1h; Mog Buy $18.00 at $0.0000000828, 1h; COCORO Sell $58.05 at $0.0000480, 1h; COCORO Buy $20.39 at $0.0000790, 1h; SOL Sell $20.90 at $77.32, 1h; SOL Buy $17.92 at $77.34, 1h; PENGU Sell $18.30 at $0.00609, 1h; PENGU Buy $18.32 at $0.00609, 1h; COCORO Buy $107.93 at $0.000110, 1h; CSI Sell $108.85 at $0.000112, 1h; AVGOX Sell $1.07 at $343.26, 2h; 4gng9A...HJrgwX Received +$0.56, 2h; 4gng9A...HJrgwX Received +$0.32, 2h."
+  "notes": "Read-only helper capture of public https://fomo.family/profile/gorkbot?r=gorkbot (no sign-in wall). Session already logged in (Edit profile visible on official helper-transactions /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png and on helper-cash /tmp/fomo-gorkbot-desktop-2156-helper-cash.png; not clicked). Did not trade, move funds, change account settings, or restart any trader. Reloaded, selected Open with Show dust on and All, clicked the Total cash control, then selected Transactions (All). Official numeric fields use official helper-transactions capture /tmp/fomo-gorkbot-desktop-2156-helper-transactions.png (1280×800 RGB LANCZOS resize of the full 1920×1200 desktop, mtime 22:03:19 ET, taskbar Fri Nov 13 10:03 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2156-full-now.png, /tmp/fomo-gorkbot-desktop-2156-full-now-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-official.png, /tmp/fomo-gorkbot-desktop-2156-helper-open.png, and /tmp/fomo-gorkbot-desktop-2156-full-now-1280.png); crops under /tmp/fomo-2156-v5/; Open tab, Show dust on, All selected, header Your positions 1, official Transactions tab selected so trades are from that official shot. Header and top-right chip $0.00 / −$723.49 24h and $0.00 cash, Total cash $0, 123 trades, 1h 39m avg. hold. An earlier same-run cropped 1280×800 landing /tmp/fomo-gorkbot-desktop-2156-helper-landing.png (mtime 21:58:24 ET; a crop of the 1920×1200 desktop, not a full-desktop frame) showed $0.00 / −$770.27 24h with the positions card still loading. After resetting browser zoom to 100% and recapturing the full desktop, official and helper-cash frames show −$723.49 24h. Helper cash shot /tmp/fomo-gorkbot-desktop-2156-helper-cash.png (1280×800 LANCZOS of the 1920×1200 desktop, mtime 22:03:27 ET, taskbar Fri Nov 13 10:03 PM) showed $0.00 / −$723.49 24h and $0.00 cash, Total cash $0, Tokens cash balance $0, Perps cash balance $0 (Tokens/Perps popover card visible in that PNG); Open positions 1 (AAPLX 0.00000829 $0.00 ▲ 3.22%). Native 1920×1200 helper-cash frame /tmp/fomo-gorkbot-desktop-2156-helper-cash-1920.png (mtime 22:02:38 ET, taskbar Fri Nov 13 10:02 PM) also showed $0.00 / −$723.49 24h, Total cash $0, Tokens cash balance $0, Perps cash balance $0, and the same AAPLX row; Sent was 37m on that frame. The Tokens/Perps popover card is not visible in the official Transactions PNG, so tokens/perps use the helper-cash split because official Total cash was still $0. Official portfolio $0.00 (unchanged from $0.00 at 21:43:25) with Open positions 1 (AAPLX 0.00000829 $0.00 ▲ 3.22%; was ▲ 3.23% at 21:43:25). Newest official top row is still 6XqdWr...t1bXVg Sent −$14.22, now 38m (was 18m at official 21:43:25; the official ticker text is truncated to 6XqdWr...t1b...). Cash $0.00 (unchanged); Followers 16 (unchanged); Following 34; trades count 123; avg. hold 1h 39m; change_24h −$723.49 (was −$770.27 at 21:43:25 and on the earlier 21:58 cropped landing). Seventh visible official row is AURA Buy $16.11 at $0.000173, now 58m (was 38m at official 21:43:25). Fifteen Transactions (All) rows are fully visible on the official 10:03 frame, through COCORO Buy $20.39 at $0.0000790, 1h. Rows below that (SOL Sell $20.90 through 4gng9A...HJrgwX Received +$0.32) were cut off and are kept from the last official verification at 21:43:25."
 }
