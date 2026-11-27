@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T08:37:32-05:00",
-  "observed_at": "2026-11-27T08:37:32-05:00",
+  "updated_at": "2026-11-27T09:03:30-05:00",
+  "observed_at": "2026-11-27T09:03:30-05:00",
   "account": {
     "avg_hold": "2h 43m",
     "bio": null,
@@ -17,7 +17,7 @@
     "total": 0
   },
   "starting_balance": null,
-  "change_24h": -468.58,
+  "change_24h": -473.77,
   "portfolio_value": 0.01,
   "balance": 0.01,
   "positions": [
@@ -28,7 +28,7 @@
       "amount": 8.29e-06,
       "value": 0.0,
       "pct": 3.97,
-      "note": "Shown as 0.00000829 AAPLX $0.00 +3.97% (green), MC $229.4M, avg entry $220.6M MC / $346.08, PnL +$0 on the published 08:37:32 1920x1200 official Open frame /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Amount, value, and avg entry unchanged vs published 08:07:33 official (then +3.86% green, MC $229.1M). Visible Open order remains AAPLX then Snowball."
+      "note": "Shown as 0.00000829 AAPLX $0.00 +3.97% (green), MC $229.4M, avg entry $220.6M MC / $346.08, PnL +$0 on the published 09:03:30 1920x1200 official Open frame /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Amount, value, percent, MC, and avg entry unchanged vs published 08:37:32 official. Visible Open order remains AAPLX then Snowball."
     },
     {
       "symbol": "Snowball",
@@ -36,8 +36,8 @@
       "address": null,
       "amount": 4.02,
       "value": 0.0,
-      "pct": 192.73,
-      "note": "Shown as 4.02 Snowball $0.00 +192.73% (green), MC $701.9K, avg entry $239.8K MC / $0.000247, PnL +$0 on the published 08:37:32 1920x1200 official Open frame /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Amount, value, and avg entry unchanged vs published 08:07:33 official (then +173.93% green, MC $656.8K). This remains leftover dust after the large 1.1M Snowball position was closed in the 14:37-15:05 window. Later frames after the official 08:37:32 PNG (open-total-cash at 08:38:11 showed Snowball MC $705.8K / +194.69%) were not published."
+      "pct": 165.63,
+      "note": "Shown as 4.02 Snowball $0.00 +165.63% (green), MC $636.9K, avg entry $239.8K MC / $0.000247, PnL +$0 on the published 09:03:30 1920x1200 official Open frame /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Amount, value, and avg entry unchanged vs published 08:37:32 official (then +192.73% green, MC $701.9K). This remains leftover dust after the large 1.1M Snowball position was closed in the 14:37-15:05 window. Later frames after the official 09:03:30 PNG (open-total-cash at 09:03:52 showed Snowball MC $664.8K / +173.06%; open-cash-chip-menu at 09:04:04 showed MC $648.4K / +170.42%) were not published."
     }
   ],
   "trades": [
@@ -51,7 +51,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000135,
-      "note": "Elonmas Buy $36.54, price $0.000135, 1d, published 08:37:32 official Open Transactions un-scrolled row 1 on /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Same row as published 0804; age stayed 1d."
+      "note": "Elonmas Buy $36.54, price $0.000135, 1d, published 09:03:30 official Open Transactions un-scrolled row 1 on /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Same row as published 0833; age stayed 1d."
     },
     {
       "ts": null,
@@ -63,7 +63,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "H8sMJS...dK3WjS Received +$37.29, 1d, published 08:37:32 official Open Transactions un-scrolled row 2 on /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Same row as published 0804; age stayed 1d."
+      "note": "H8sMJS...dK3WjS Received +$37.29, 1d, published 09:03:30 official Open Transactions un-scrolled row 2 on /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Same row as published 0833; age stayed 1d."
     },
     {
       "ts": null,
@@ -75,7 +75,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000193,
-      "note": "Elonmas Buy $24.04, price $0.000193, 1d, published 08:37:32 official Open Transactions un-scrolled row 3 on /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Same row as published 0804; age stayed 1d."
+      "note": "Elonmas Buy $24.04, price $0.000193, 1d, published 09:03:30 official Open Transactions un-scrolled row 3 on /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Same row as published 0833; age stayed 1d."
     },
     {
       "ts": null,
@@ -87,7 +87,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.00066,
-      "note": "JIMMY Buy $24.04, price $0.000660, 1d, published 08:37:32 official Open Transactions un-scrolled row 4 on /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Same row as published 0804; age stayed 1d."
+      "note": "JIMMY Buy $24.04, price $0.000660, 1d, published 09:03:30 official Open Transactions un-scrolled row 4 on /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Same row as published 0833; age stayed 1d."
     },
     {
       "ts": null,
@@ -99,7 +99,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "5g7yNH...d7aBWs Received +$49.07, 1d, published 08:37:32 official Open Transactions un-scrolled row 5 on /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Same row as published 0804; age stayed 1d."
+      "note": "5g7yNH...d7aBWs Received +$49.07, 1d, published 09:03:30 official Open Transactions un-scrolled row 5 on /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Same row as published 0833; age stayed 1d."
     },
     {
       "ts": null,
@@ -111,7 +111,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000749,
-      "note": "JIMMY Buy $232.49, price $0.000749, 1d, published 08:37:32 official Open Transactions un-scrolled row 6 on /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Same row as published 0804; age stayed 1d."
+      "note": "JIMMY Buy $232.49, price $0.000749, 1d, published 09:03:30 official Open Transactions un-scrolled row 6 on /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Same row as published 0833; age stayed 1d."
     },
     {
       "ts": null,
@@ -123,7 +123,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.00442,
-      "note": "PENGU Sell $234.59, price $0.00442, 1d, published 08:37:32 official Open Transactions un-scrolled row 7 on /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Same row as published 0804; age stayed 1d."
+      "note": "PENGU Sell $234.59, price $0.00442, 1d, published 09:03:30 official Open Transactions un-scrolled row 7 on /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Same row as published 0833; age stayed 1d."
     },
     {
       "ts": null,
@@ -135,7 +135,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.00442,
-      "note": "PENGU Buy $234.75, price $0.00442, 1d, published 08:37:32 official Open Transactions un-scrolled row 8 on /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Same row as published 0804; age stayed 1d."
+      "note": "PENGU Buy $234.75, price $0.00442, 1d, published 09:03:30 official Open Transactions un-scrolled row 8 on /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Same row as published 0833; age stayed 1d."
     },
     {
       "ts": null,
@@ -147,7 +147,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "6XqdWr...t1bXVg Sent -$14.22, 1w, published 08:37:32 official Open Transactions un-scrolled row 9 on /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Same row as published 0804; age stayed 1w."
+      "note": "6XqdWr...t1bXVg Sent -$14.22, 1w, published 09:03:30 official Open Transactions un-scrolled row 9 on /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Same row as published 0833; age stayed 1w."
     },
     {
       "ts": null,
@@ -159,7 +159,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 341.65,
-      "note": "AVGOX Sell $14.51, price $341.65, 1w, published 08:37:32 official Open Transactions un-scrolled row 10 on /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Same row as published 0804; age stayed 1w."
+      "note": "AVGOX Sell $14.51, price $341.65, 1w, published 09:03:30 official Open Transactions un-scrolled row 10 on /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Same row as published 0833; age stayed 1w."
     },
     {
       "ts": null,
@@ -171,7 +171,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 341.86,
-      "note": "AVGOX Buy $14.18, price $341.86, 1w, published 08:37:32 official Open Transactions un-scrolled row 11 on /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Same row as published 0804; age stayed 1w."
+      "note": "AVGOX Buy $14.18, price $341.86, 1w, published 09:03:30 official Open Transactions un-scrolled row 11 on /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Same row as published 0833; age stayed 1w."
     },
     {
       "ts": null,
@@ -183,7 +183,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 75.92,
-      "note": "SOL Sell $14.57, price $75.92, 1w, published 08:37:32 official Open Transactions un-scrolled row 12 on /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Same row as published 0804; age stayed 1w."
+      "note": "SOL Sell $14.57, price $75.92, 1w, published 09:03:30 official Open Transactions un-scrolled row 12 on /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Same row as published 0833; age stayed 1w."
     },
     {
       "ts": null,
@@ -195,7 +195,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 75.86,
-      "note": "SOL Buy $14.11, price $75.86, 1w, published 08:37:32 official Open Transactions un-scrolled row 13 on /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Same row as published 0804; age stayed 1w."
+      "note": "SOL Buy $14.11, price $75.86, 1w, published 09:03:30 official Open Transactions un-scrolled row 13 on /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Same row as published 0833; age stayed 1w."
     },
     {
       "ts": null,
@@ -207,7 +207,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000157,
-      "note": "AURA Sell $14.41, price $0.000157, 1w, published 08:37:32 official Open Transactions un-scrolled row 14 on /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Same row as published 0804; age stayed 1w."
+      "note": "AURA Sell $14.41, price $0.000157, 1w, published 09:03:30 official Open Transactions un-scrolled row 14 on /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Same row as published 0833; age stayed 1w."
     },
     {
       "ts": null,
@@ -219,7 +219,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000173,
-      "note": "AURA Buy $16.11, price $0.000173, 1w, published 08:37:32 official Open Transactions un-scrolled row 15 on /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Same row as published 0804; age stayed 1w."
+      "note": "AURA Buy $16.11, price $0.000173, 1w, published 09:03:30 official Open Transactions un-scrolled row 15 on /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Same row as published 0833; age stayed 1w."
     },
     {
       "ts": null,
@@ -231,7 +231,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 2.5e-05,
-      "note": "Token name covered by the New version available / Reload toast in the published 08:37:32 official Open Transactions un-scrolled row 16 on /tmp/fomo-gorkbot-desktop-0833-helper-official.png. Same covered row as published 0804; age stayed 1w. Live-DOM / later-frame RARECOIN was not borrowed. Reload was not clicked."
+      "note": "Token name covered by the New version available / Reload toast in the published 09:03:30 official Open Transactions un-scrolled row 16 on /tmp/fomo-gorkbot-desktop-0900-helper-official.png. Same covered row as published 0833; age stayed 1w. Live-DOM / later-frame RARECOIN was not borrowed. Reload was not clicked."
     },
     {
       "ts": null,
@@ -3847,5 +3847,5 @@
     }
   ],
   "risk": null,
-  "notes": "Read-only helper capture of public https://fomo.family/profile/gorkbot?r=gorkbot (no sign-in wall). Chrome was already running from the previous 0804 pass with user-data-dir /home/box/chrome-profile/Fork-2. The helper reused that window, zoom 100%, maximized, on the clean profile URL; the page was already live so the address bar was not used. Official frames were taken after selecting Open + Transactions. Deposit, Withdraw, and Transfer were not clicked. Reload was not clicked. Open, Transactions, Show dust, All, and 24H were confirmed on the official Open frame. This pass is published from the verified official Open + Transactions frame /tmp/fomo-gorkbot-desktop-0833-helper-official.png (PNG mtime 08:37:32 ET, 212362 bytes, md5 016a497ebc2d81e6d9091c60fc48717f, same bytes as /tmp/fomo-gorkbot-desktop-0833-helper-open-positions.png and /tmp/fomo-gorkbot-desktop-0833-helper-transactions.png, which are later copies of the official file; taskbar Fri Nov 27 8:37 AM; Open selected, Show dust checked, header Your positions 2, All filter, Transactions selected, 24H chart period; no 24H chart hover point; no Tokens/Perps popover; no Deposit/Withdraw menu; no token hover card; no cursor tooltip on cash figures; pointer on the empty OS taskbar). Published figures below are taken from that frozen official PNG, not from later live-DOM numbers or later frames. Official 08:37:32 ET figures: center $0.01 / -$468.58 24h (orange/red), orange/red 24H chart that rises with two humps, then falls sharply to a long flat low at the right edge. Header cash chip $0.00 cash / Deposit more and header portfolio chip $0.01 / -$468.58 24h are both clear on the official frame and match the large center figures. Account on the official frame: gorkbot / @gorkbot, Joined Oct 2026, 2h 43m avg. hold, 143 trades (unchanged vs 08:07:33), no bio. Following 34 and Followers 15 are visible on this official frame (they were not in the 0804 official header crop) and match the prior verified values. Cash total $0 on the official mid-page Total cash card and matching header chip. Tokens cash $0 and Perps cash $0 were verified on the mid-page Tokens/Perps popover in /tmp/fomo-gorkbot-desktop-0833-helper-open-total-cash.png (mtime 08:38:11 ET, 216406 bytes, md5 52d5d35b33b2efd9a9a4f425b9e5241f; Open selected, Transfer was not clicked; later live tick of Snowball MC $705.8K / +194.69% was not published) and again on /tmp/fomo-gorkbot-desktop-0833-helper-closed-total-cash-retake.png (mtime 08:47:53 ET, 240488 bytes, md5 a59e7c67b79b7ba3a66ff7f9570b692a; Closed selected, Transfer was not clicked). Parent visual inspection of /tmp/fomo-gorkbot-desktop-0833-helper-closed-total-cash-INVALID-shows-chip-menu.png (mtime 08:41:47 ET, 237966 bytes, md5 402e312d56204ad94d78f8bd467865da) found the top-right Deposit/Withdraw chip menu on Closed page 3, not the mid-page Tokens/Perps popover (helper had claimed a popover); it was left unused. Parent visual inspection of /tmp/fomo-gorkbot-desktop-0833-helper-open-cash-chip-menu.png (mtime 08:38:18 ET, 215510 bytes, md5 0c28faed4c3c807bb1850871f1aaff85) shows the Deposit/Withdraw menu under the top-right $0.00 cash chip; Deposit and Withdraw were not clicked. /tmp/fomo-gorkbot-desktop-0833-helper-closed-cash-chip-menu.png (mtime 08:41:51 ET, 234575 bytes, md5 7f34b7c35ca9518cf576157a82a51a88) does not show that menu (helper had claimed it did); it is a clean un-hovered Closed page 3 top (first PENGU $140.65 2w, then COCORO $2.72 3w). Those menu/popover files are not official. Official Open header Your positions 2, Show dust checked, All, visible order: AAPLX MC $229.4M, position $0.00, 0.00000829 AAPLX, avg entry $220.6M MC / $346.08, PnL +$0 (+3.97%) green; Snowball MC $701.9K, position $0.00, 4.02 Snowball, avg entry $239.8K MC / $0.000247, PnL +$0 (+192.73%) green. A New version available / Reload toast is visible at the bottom of the official Open frame and covers the last official Transactions token name; Reload was not clicked. The toast does not cover any official Open percent. Vs published 08:07:33 ET pass 0804 official: center stayed $0.01 / -$468.58 24h (header portfolio chip also $0.01 / -$468.58, matching the official center); cash total $0 unchanged on the official mid-page card and header chip; Tokens and Perps were re-verified this pass at $0 on open-total-cash.png and closed-total-cash-retake.png. Open count stayed 2 with the same token set and order (AAPLX, then Snowball); AAPLX amount/value/entry unchanged at 0.00000829 / $0.00 / $346.08, percent +3.86%->+3.97% green, MC $229.1M->$229.4M; Snowball amount/value/entry unchanged at 4.02 / $0.00 / $239.8K MC / $0.000247, percent +173.93%->+192.73% green, MC $656.8K->$701.9K. Official Transactions top 16 unchanged vs 0804: Elonmas Buy $36.54 still row 1; rows 1-8 stayed 1d; rows 9-16 stayed 1w; row 16 token name still covered by the Reload toast and left unknown / null (live-DOM / later-frame RARECOIN was not borrowed). No new official Transactions row was added. Closed: header Your positions 143 (unchanged), sort Recent, 6 pages 25/25/25/25/25/18. Parent-inspected Closed first-row tops: closed-page1-top.png 08:38:56 ET, 232942 bytes, md5 415e9044b9cb93ef1b76a2047fe28b7b (first SOL $0.57 invested 14h, avg entry $71.34 / avg exit $71.19, PnL -$0 / 0.20%; then PENGU $93.60 16h, PENGU $93.60 17h, Snowball $330.05 17h, PAIR $662.23 18h). closed-page2-top.png 08:39:26 ET, 236427 bytes, md5 13a9e5e3afe6c85013b42906473402fe (first Mog $18.00 1w). closed-page3-top.png 08:39:37 ET, 234944 bytes, md5 b3b93214806e049e5bcf4f6e2774b43b (first PENGU $140.65 2w; then COCORO $2.72 3w). closed-page4-top-retake.png 08:46:38 ET, 232934 bytes, md5 55b1beff05e1cf336d3957f97d12fbad (first HYPE $2.20 3w; the first closed-page4-top was left as closed-page4-top-INVALID-shows-end.png, nearly identical to the valid page-4 end). closed-page5-top-retake.png 08:47:35 ET, 235934 bytes, md5 bbf0cf29e5f8dcd4e5473c2522ebcbed (first AAPLX $42.91 3w; the first closed-page5-top was left as closed-page5-top-INVALID-shows-end.png; a first retake also showed the end and was left as closed-page5-top-retake-INVALID-shows-end.png). closed-page6-top-retake.png 08:47:17 ET, 233784 bytes, md5 8a811ca02973602970a025f6c2ca3114 (first GAGE $14.92 4w; the first closed-page6-top was left as closed-page6-top-INVALID-shows-end.png). Parent-inspected valid Closed last-rows ends with selected pagination digit: closed-page1-end.png 08:39:18 ET, 258190 bytes, md5 f8cf2e7a6d837b3406e0a03a640e2e7f (last 坐以待币 $74.12 1w, digit 1); closed-page2-end.png 08:39:30 ET, 256905 bytes, md5 138feb39e03eedadcf6bafcb7c66ad00 (last PENGU $58.63 2w, digit 2); closed-page3-end.png 08:39:42 ET, 255209 bytes, md5 9be96d7e66b301de6aabcfde3ba61a84 (last XMR $2.93 3w, digit 3); closed-page4-end.png 08:40:04 ET, 256218 bytes, md5 d0aa04a27b8ebd91bc9a357c29accf14 (last SOL $2.82 3w, digit 4); closed-page5-end.png 08:40:39 ET, 257532 bytes, md5 05468052343f9767b45969f0055674ba (last AI $14.92 4w, digit 5); closed-page6-end.png 08:41:16 ET, 255556 bytes, md5 a2145b7143fd25544838eaf84273c206 (last SOL $64.28 1mo, digit 6). Closed first and last rows per page are unchanged vs 0804 in tokens and invested amounts. Page 1 first row is still SOL $0.57 14h; later page-1 ages advanced only (second PENGU 16h->17h, PAIR 17h->18h). Helper leftover: Chrome left on the clean profile URL, zoom 100%, Closed selected, Closed page 3 scrolled to top (first PENGU $140.65 2w), pointer on the empty taskbar, Reload toast still visible and not clicked."
+  "notes": "Read-only helper capture of public https://fomo.family/profile/gorkbot?r=gorkbot (no sign-in wall). Chrome was already running from the previous 0833 pass with user-data-dir /home/box/chrome-profile/Fork-2. The helper reused that window, zoom 100%, maximized, on the clean profile URL; the page was already live so the address bar was not used. Official frames were taken after selecting Open + Transactions. Deposit, Withdraw, and Transfer were not clicked. Reload was not clicked. Open, Transactions, Show dust, All, and 24H were confirmed on the official Open frame. This pass is published from the verified official Open + Transactions frame /tmp/fomo-gorkbot-desktop-0900-helper-official.png (PNG mtime 09:03:30 ET, 211268 bytes, md5 06cce4b65cae8d66f4ce3292f19e5fd1, same bytes as /tmp/fomo-gorkbot-desktop-0900-helper-open-positions.png and /tmp/fomo-gorkbot-desktop-0900-helper-transactions.png, which are later copies of the official file; taskbar Fri Nov 27 9:03 AM; Open selected, Show dust checked, header Your positions 2, All filter, Transactions selected, 24H chart period; no 24H chart hover point; no Tokens/Perps popover; no Deposit/Withdraw menu; no token hover card; no cursor tooltip on cash figures; pointer on the empty OS taskbar). Published figures below are taken from that frozen official PNG, not from later live-DOM numbers or later frames. Official 09:03:30 ET figures: center $0.01 / -$473.77 24h (orange/red), orange/red 24H chart that rises with two humps, then falls sharply to a long flat low at the right edge. Header cash chip $0.00 cash / Deposit more and header portfolio chip $0.01 / -$473.77 24h are both clear on the official frame and match the large center figures. Account on the official frame: gorkbot / @gorkbot, Joined Oct 2026, 2h 43m avg. hold, 143 trades (unchanged vs 08:37:32), no bio. Following 34 and Followers 15 are visible on this official frame and match the prior verified values. Cash total $0 on the official mid-page Total cash card and matching header chip. Tokens cash $0 and Perps cash $0 were verified on the mid-page Tokens/Perps popover in /tmp/fomo-gorkbot-desktop-0900-helper-open-total-cash.png (mtime 09:03:52 ET, 216246 bytes, md5 28e92008b09343398ce5b40eb5e7fa3d; Open selected, Transfer was not clicked; later live tick of Snowball MC $664.8K / +173.06% was not published) and again on /tmp/fomo-gorkbot-desktop-0900-helper-closed-total-cash.png (mtime 09:08:22 ET, 237724 bytes, md5 d8903b0b5725e9a3bc94e08d97177763; Closed selected on page 6 top, Transfer was not clicked). Parent visual inspection of /tmp/fomo-gorkbot-desktop-0900-helper-open-cash-chip-menu.png (mtime 09:04:04 ET, 214736 bytes, md5 3be9773fe40b14186f9f8964581ce6e8) shows the Deposit/Withdraw menu under the top-right $0.00 cash chip; Deposit and Withdraw were not clicked. /tmp/fomo-gorkbot-desktop-0900-helper-closed-cash-chip-menu.png (mtime 09:08:38 ET, 236661 bytes, md5 db854c040ae604942f64d5572d14465b) also shows that menu on Closed page 6 top; Deposit and Withdraw were not clicked. Those menu/popover files are not official. Official Open header Your positions 2, Show dust checked, All, visible order: AAPLX MC $229.4M, position $0.00, 0.00000829 AAPLX, avg entry $220.6M MC / $346.08, PnL +$0 (+3.97%) green; Snowball MC $636.9K, position $0.00, 4.02 Snowball, avg entry $239.8K MC / $0.000247, PnL +$0 (+165.63%) green. A New version available / Reload toast is visible at the bottom of the official Open frame and covers the last official Transactions token name; Reload was not clicked. The toast does not cover any official Open percent. Vs published 08:37:32 ET pass 0833 official: center stayed $0.01, 24h changed -$468.58 -> -$473.77 (header portfolio chip also $0.01 / -$473.77, matching the official center); cash total $0 unchanged on the official mid-page card and header chip; Tokens and Perps were re-verified this pass at $0 on open-total-cash.png and closed-total-cash.png. Open count stayed 2 with the same token set and order (AAPLX, then Snowball); AAPLX amount/value/entry/percent/MC unchanged at 0.00000829 / $0.00 / $346.08 / +3.97% green / $229.4M; Snowball amount/value/entry unchanged at 4.02 / $0.00 / $239.8K MC / $0.000247, percent +192.73%->+165.63% green, MC $701.9K->$636.9K. Account stats unchanged (143 trades, Following 34, Followers 15, 2h 43m avg. hold). Official Transactions top 16 unchanged vs 0833 (same sides, tokens, usd, and prices; ages still 1d for rows 1-8 and 1w for rows 9-16; row 16 token name still covered by the Reload toast and recorded as unknown / null; live-DOM / later-frame RARECOIN was not borrowed). Closed header Your positions 143, sort Recent, 6 pages 25/25/25/25/25/18, verified by parent visual inspection of this pass's top and end PNGs. closed-page1-top.png 09:05:04 ET, 231649 bytes, md5 cc449133cdeaadad51be62f22b00af46 (first SOL $0.57 invested 15h, then PENGU $93.60 17h, PENGU $93.60 17h, Snowball $330.05 18h, PAIR $662.23 18h); closed-page1-end.png 09:05:23 ET, 203897 bytes, md5 b9ac39bcba08dd2138290a1feb374fe9 (last 坐以待币 $74.12 1w, RARECOIN $42.79 1w above it, digit 1 selected); closed-page2-top.png 09:05:53 ET, 234983 bytes, md5 446c602f704ef57c9b2408c563734d3a (first Mog $18.00 1w); closed-page2-end.png 09:06:08 ET, 256416 bytes, md5 7d341b839a66e7a1e4438fd9970d33ec (last PENGU $58.63 2w, digit 2); closed-page3-top.png 09:06:58 ET, 233711 bytes, md5 bf20d59ea6aff5ffc53fd49844dcf012 (first PENGU $140.65 2w, then COCORO $2.72 3w, HYPE $2.79 3w, Anakin $3.06 3w, FOCO $74.12 3w); closed-page3-end.png 09:06:29 ET, 254719 bytes, md5 a10105608bd34bc4798b3075eca87084 (last XMR $2.93 3w, digit 3); closed-page4-top.png 09:07:26 ET, 232098 bytes, md5 c0a0f48b7eb9928332acad87b6ca2d30 (first HYPE $2.20 3w, then SPCX, SIS, SIS, LUMI); closed-page4-end.png 09:07:13 ET, 255726 bytes, md5 1300f6e710a33173fd2e8b1f1905cbfa (last SOL $2.82 3w, digit 4); closed-page5-top.png 09:07:46 ET, 235022 bytes, md5 01693cc54e064c911408a773da811101 (first AAPLX $42.91 3w, then NATIONS, George, AAPLCAT, PENGU); closed-page5-end.png 09:07:35 ET, 256925 bytes, md5 5fc799006cc9e6a931722b3118dec4e0 (last AI $14.92 4w, digit 5); closed-page6-top.png 09:08:07 ET, 233462 bytes, md5 f92b8ca497484e1df42fe73717a85daf (first GAGE $14.92 4w, then PIZZA, VI, GTA6, OREN; parent inspection found the pointer on the mid-page Total cash card with no popover visible; first rows were fully visible); closed-page6-end.png 09:07:55 ET, 255072 bytes, md5 ffbd8ec751d74b198715f95357fc97b1 (last SOL $64.28 1mo, digit 6). Closed first and last rows per page are unchanged vs 0833 in tokens and invested amounts; only ages advanced (page 1 first SOL 14h->15h; page 3 COCORO age 2w->3w). No new Closed rows. Helper leftover: Chrome left on the clean profile URL, zoom 100%, Closed selected, Closed page 3 scrolled to top (first PENGU $140.65 2w), pointer on the empty taskbar, Reload toast still visible and not clicked."
 }
