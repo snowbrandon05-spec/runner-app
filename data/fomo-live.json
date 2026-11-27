@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T16:48:32-05:00",
-  "observed_at": "2026-11-27T16:48:32-05:00",
+  "updated_at": "2026-11-27T17:24:48-05:00",
+  "observed_at": "2026-11-27T17:24:48-05:00",
   "account": {
     "avg_hold": "2h 43m",
     "bio": null,
@@ -17,9 +17,9 @@
     "total": 0
   },
   "starting_balance": null,
-  "change_24h": 0.05,
-  "portfolio_value": 0.01,
-  "balance": 0.01,
+  "change_24h": 0.09,
+  "portfolio_value": 0.0,
+  "balance": 0.0,
   "positions": [
     {
       "symbol": "AAPLX",
@@ -27,8 +27,8 @@
       "address": null,
       "amount": 8.29e-06,
       "value": 0.0,
-      "pct": 4.01,
-      "note": "Shown as 0.00000829 AAPLX $0.00 +4.01% (green), MC $229.5M, avg entry $220.6M MC / $346.08, PnL +$0 on the published 16:48:32 1920x1200 official Open frame /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Amount, value, percent, MC, and avg entry unchanged vs published 16:29:53 official. Visible Open order on this official frame is AAPLX then Snowball. Account stats were visible on this official Open frame because the left profile identity block was already expanded. Later frames after the official 16:48:32 PNG were not used for marks."
+      "pct": 4.03,
+      "note": "Shown as 0.00000829 AAPLX $0.00 +4.03% (green), MC $229.5M, avg entry $220.6M MC / $346.08, PnL +$0 on the published 17:24:48 1920x1200 official Open frame /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Amount, value, MC, and avg entry unchanged vs published 16:48:32 official; percent 4.01%->4.03%. Visible Open order on this official frame is AAPLX then Snowball. Account stats were visible on this official Open frame because the left profile identity block was already expanded. Later frames after the official 17:24:48 PNG were not used for marks."
     },
     {
       "symbol": "Snowball",
@@ -36,8 +36,8 @@
       "address": null,
       "amount": 4.02,
       "value": 0.0,
-      "pct": 117.28,
-      "note": "Shown as 4.02 Snowball $0.00 +117.28% (green), MC $521K, avg entry $239.8K MC / $0.000247, PnL +$0 on the published 16:48:32 1920x1200 official Open frame /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Amount, value, and avg entry unchanged vs published 16:29:53 official (then +140.28% green, MC $576.1K). Visible Open order on this official frame is AAPLX then Snowball. This remains leftover dust after the large 1.1M Snowball position was closed in the 14:37-15:05 window. Parent visual inspection of the official PNG crop reads MC $521K and +117.28%. Later frames after the official 16:48:32 PNG ticked live (open-total-cash.png Snowball MC $519.5K / +116.68%) and were not used for marks."
+      "pct": 95.95,
+      "note": "Shown as 4.02 Snowball $0.00 +95.95% (green), MC $469.8K, avg entry $239.8K MC / $0.000247, PnL +$0 on the published 17:24:48 1920x1200 official Open frame /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Amount, value, and avg entry unchanged vs published 16:48:32 official (then +117.28% green, MC $521K). Visible Open order on this official frame is AAPLX then Snowball. This remains leftover dust after the large 1.1M Snowball position was closed in the 14:37-15:05 window. Parent visual inspection of the official PNG crop reads MC $469.8K and +95.95%. Later frames after the official 17:24:48 PNG ticked live and were not used for marks."
     }
   ],
   "trades": [
@@ -51,7 +51,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000135,
-      "note": "Elonmas Buy $36.54, price $0.000135, 1d, published 16:48:32 official Open Transactions un-scrolled row 1 on /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Same row as published 1626; age stayed 1d."
+      "note": "Elonmas Buy $36.54, price $0.000135, 1d, published 17:24:48 official Open Transactions un-scrolled row 1 on /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Same row as published 1645; age stayed 1d."
     },
     {
       "ts": null,
@@ -63,7 +63,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "H8sMJS...dK3WjS Received +$37.29, 1d, published 16:48:32 official Open Transactions un-scrolled row 2 on /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Same row as published 1626; age stayed 1d."
+      "note": "H8sMJS...dK3WjS Received +$37.29, 1d, published 17:24:48 official Open Transactions un-scrolled row 2 on /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Same row as published 1645; age stayed 1d."
     },
     {
       "ts": null,
@@ -75,7 +75,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000193,
-      "note": "Elonmas Buy $24.04, price $0.000193, 1d, published 16:48:32 official Open Transactions un-scrolled row 3 on /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Same row as published 1626; age stayed 1d."
+      "note": "Elonmas Buy $24.04, price $0.000193, 1d, published 17:24:48 official Open Transactions un-scrolled row 3 on /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Same row as published 1645; age stayed 1d."
     },
     {
       "ts": null,
@@ -87,7 +87,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.00066,
-      "note": "JIMMY Buy $24.04, price $0.000660, 1d, published 16:48:32 official Open Transactions un-scrolled row 4 on /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Same row as published 1626; age stayed 1d."
+      "note": "JIMMY Buy $24.04, price $0.000660, 1d, published 17:24:48 official Open Transactions un-scrolled row 4 on /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Same row as published 1645; age stayed 1d."
     },
     {
       "ts": null,
@@ -99,7 +99,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "5g7yNH...d7aBWs Received +$49.07, 1d, published 16:48:32 official Open Transactions un-scrolled row 5 on /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Same row as published 1626; age stayed 1d."
+      "note": "5g7yNH...d7aBWs Received +$49.07, 1d, published 17:24:48 official Open Transactions un-scrolled row 5 on /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Same row as published 1645; age stayed 1d."
     },
     {
       "ts": null,
@@ -111,7 +111,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000749,
-      "note": "JIMMY Buy $232.49, price $0.000749, 1d, published 16:48:32 official Open Transactions un-scrolled row 6 on /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Same row as published 1626; age stayed 1d."
+      "note": "JIMMY Buy $232.49, price $0.000749, 1d, published 17:24:48 official Open Transactions un-scrolled row 6 on /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Same row as published 1645; age stayed 1d."
     },
     {
       "ts": null,
@@ -123,7 +123,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.00442,
-      "note": "PENGU Sell $234.59, price $0.00442, 1d, published 16:48:32 official Open Transactions un-scrolled row 7 on /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Same row as published 1626; age stayed 1d."
+      "note": "PENGU Sell $234.59, price $0.00442, 1d, published 17:24:48 official Open Transactions un-scrolled row 7 on /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Same row as published 1645; age stayed 1d."
     },
     {
       "ts": null,
@@ -135,7 +135,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.00442,
-      "note": "PENGU Buy $234.75, price $0.00442, 1d, published 16:48:32 official Open Transactions un-scrolled row 8 on /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Same row as published 1626; age stayed 1d."
+      "note": "PENGU Buy $234.75, price $0.00442, 1d, published 17:24:48 official Open Transactions un-scrolled row 8 on /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Same row as published 1645; age stayed 1d."
     },
     {
       "ts": null,
@@ -147,7 +147,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "6XqdWr...t1bXVg Sent -$14.22, 1w, published 16:48:32 official Open Transactions un-scrolled row 9 on /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Same row as published 1626; age stayed 1w."
+      "note": "6XqdWr...t1bXVg Sent -$14.22, 1w, published 17:24:48 official Open Transactions un-scrolled row 9 on /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Same row as published 1645; age stayed 1w."
     },
     {
       "ts": null,
@@ -159,7 +159,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 341.65,
-      "note": "AVGOX Sell $14.51, price $341.65, 1w, published 16:48:32 official Open Transactions un-scrolled row 10 on /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Same row as published 1626; age stayed 1w."
+      "note": "AVGOX Sell $14.51, price $341.65, 1w, published 17:24:48 official Open Transactions un-scrolled row 10 on /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Same row as published 1645; age stayed 1w."
     },
     {
       "ts": null,
@@ -171,7 +171,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 341.86,
-      "note": "AVGOX Buy $14.18, price $341.86, 1w, published 16:48:32 official Open Transactions un-scrolled row 11 on /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Same row as published 1626; age stayed 1w."
+      "note": "AVGOX Buy $14.18, price $341.86, 1w, published 17:24:48 official Open Transactions un-scrolled row 11 on /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Same row as published 1645; age stayed 1w."
     },
     {
       "ts": null,
@@ -183,7 +183,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 75.92,
-      "note": "SOL Sell $14.57, price $75.92, 1w, published 16:48:32 official Open Transactions un-scrolled row 12 on /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Same row as published 1626; age stayed 1w."
+      "note": "SOL Sell $14.57, price $75.92, 1w, published 17:24:48 official Open Transactions un-scrolled row 12 on /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Same row as published 1645; age stayed 1w."
     },
     {
       "ts": null,
@@ -195,7 +195,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 75.86,
-      "note": "SOL Buy $14.11, price $75.86, 1w, published 16:48:32 official Open Transactions un-scrolled row 13 on /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Same row as published 1626; age stayed 1w."
+      "note": "SOL Buy $14.11, price $75.86, 1w, published 17:24:48 official Open Transactions un-scrolled row 13 on /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Same row as published 1645; age stayed 1w."
     },
     {
       "ts": null,
@@ -207,7 +207,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000157,
-      "note": "AURA Sell $14.41, price $0.000157, 1w, published 16:48:32 official Open Transactions un-scrolled row 14 on /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Same row as published 1626; age stayed 1w."
+      "note": "AURA Sell $14.41, price $0.000157, 1w, published 17:24:48 official Open Transactions un-scrolled row 14 on /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Same row as published 1645; age stayed 1w."
     },
     {
       "ts": null,
@@ -219,7 +219,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000173,
-      "note": "AURA Buy $16.11, price $0.000173, 1w, published 16:48:32 official Open Transactions un-scrolled row 15 on /tmp/fomo-gorkbot-desktop-1645-helper-official.png. Same row as published 1626; age stayed 1w."
+      "note": "AURA Buy $16.11, price $0.000173, 1w, published 17:24:48 official Open Transactions un-scrolled row 15 on /tmp/fomo-gorkbot-desktop-1721-helper-official.png. Same row as published 1645; age stayed 1w."
     },
     {
       "ts": null,
@@ -231,7 +231,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 2.5e-05,
-      "note": "RARECOIN Sell $16.76, price $0.0000250, 1w, published 16:48:32 official Open Transactions un-scrolled row 16 on /tmp/fomo-gorkbot-desktop-1645-helper-official.png. The token name is covered by the New version available / Reload toast on this official Open frame. The name RARECOIN is not borrowed from the leftover precheck, later frames, or the DOM; it was already verified on the published 16:03:22 official Open frame and is kept because side, usd, and price on this official match that earlier official row and are unchanged. Age stayed 1w. Reload was not clicked. Because the profile identity block was expanded on this official, fewer Transactions rows were in view than on some earlier official frames; rows 17+ were not visible."
+      "note": "RARECOIN Sell $16.76, price $0.0000250, 1w, published 17:24:48 official Open Transactions un-scrolled row 16 on /tmp/fomo-gorkbot-desktop-1721-helper-official.png. The token name is covered by the New version available / Reload toast on this official Open frame. The name RARECOIN is not borrowed from the leftover, later frames, or the DOM; it was already verified on the published 16:03:22 official Open frame and is kept because side, usd, and price on this official match that earlier official row and are unchanged. Age stayed 1w. Reload was not clicked. Because the profile identity block was expanded on this official, fewer Transactions rows were in view than on some earlier official frames; rows 17+ were not visible."
     },
     {
       "ts": null,
@@ -243,7 +243,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "JIMMY Buy $35.00, price glyph $0.0₅00283, 6h, official 08:17:59 Open Transactions un-scrolled row 2 on /tmp/fomo-gorkbot-desktop-0813-helper-official.png."
+      "note": "JIMMY Buy $35.00, price glyph $0.0\u208500283, 6h, official 08:17:59 Open Transactions un-scrolled row 2 on /tmp/fomo-gorkbot-desktop-0813-helper-official.png."
     },
     {
       "ts": null,
@@ -255,7 +255,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "JIMMY Buy $10.00, price glyph $0.0₅00274, 6h, official 08:17:59 Open Transactions un-scrolled row 3 on /tmp/fomo-gorkbot-desktop-0813-helper-official.png."
+      "note": "JIMMY Buy $10.00, price glyph $0.0\u208500274, 6h, official 08:17:59 Open Transactions un-scrolled row 3 on /tmp/fomo-gorkbot-desktop-0813-helper-official.png."
     },
     {
       "ts": null,
@@ -267,7 +267,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "JIMMY Buy $50.00, price glyph $0.0₅00261, 6h, official 08:17:59 Open Transactions un-scrolled row 4 on /tmp/fomo-gorkbot-desktop-0813-helper-official.png."
+      "note": "JIMMY Buy $50.00, price glyph $0.0\u208500261, 6h, official 08:17:59 Open Transactions un-scrolled row 4 on /tmp/fomo-gorkbot-desktop-0813-helper-official.png."
     },
     {
       "ts": null,
@@ -279,7 +279,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "JIMMY Buy $52.00, price glyph $0.0₅00260, 6h, official 08:17:59 Open Transactions un-scrolled row 5 on /tmp/fomo-gorkbot-desktop-0813-helper-official.png."
+      "note": "JIMMY Buy $52.00, price glyph $0.0\u208500260, 6h, official 08:17:59 Open Transactions un-scrolled row 5 on /tmp/fomo-gorkbot-desktop-0813-helper-official.png."
     },
     {
       "ts": null,
@@ -291,7 +291,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "Elonmas Buy $81.00, price glyph $0.0₅000127, 6h, official 08:17:59 Open Transactions un-scrolled row 6 on /tmp/fomo-gorkbot-desktop-0813-helper-official.png."
+      "note": "Elonmas Buy $81.00, price glyph $0.0\u2085000127, 6h, official 08:17:59 Open Transactions un-scrolled row 6 on /tmp/fomo-gorkbot-desktop-0813-helper-official.png."
     },
     {
       "ts": null,
@@ -303,7 +303,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "Elonmas Buy $117.00, price glyph $0.0₅000146, 6h, official 08:17:59 Open Transactions un-scrolled row 7 on /tmp/fomo-gorkbot-desktop-0813-helper-official.png."
+      "note": "Elonmas Buy $117.00, price glyph $0.0\u2085000146, 6h, official 08:17:59 Open Transactions un-scrolled row 7 on /tmp/fomo-gorkbot-desktop-0813-helper-official.png."
     },
     {
       "ts": null,
@@ -332,26 +332,26 @@
     {
       "ts": null,
       "side": "sell",
-      "token": "坐以待币",
+      "token": "\u5750\u4ee5\u5f85\u5e01",
       "usd": 43.69,
       "mcap": null,
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
       "price": 9.96e-05,
-      "note": "Visible on the official 13:57:25 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1352-helper-official.png as 坐以待币 Sell $43.69, price $0.0000996, now 1w (was 6d at official 20:28:53; 10th un-scrolled Transactions row; Price column visible; was 5d at official 20:30:11; was 5d at official 13:36:24; was 5d at official 13:21:13; was 5d at official 13:05:23; was 5d at official 12:46:47; was 5d at official 12:35:53; was 5d at official 12:17:48; was 5d at official 12:05:20; was 5d at official 11:41:18; was 5d at official 11:21:10; was 5d at official 11:01:33; was 5d at official 10:47:40; was 5d at official 10:27:04; was 5d at official 10:13:51; was 5d at official 09:53:42; was 5d at official 09:32:59; was 5d at official 09:14:59; was 5d at official 09:00:49; was 5d at official 08:36:58; was 5d at official 08:21:56; was 4d at official 10:52:08; was 4d at official 10:36:38; was 4d at official 10:18:00; was 4d at official 09:56:39; was 4d at official 09:40:16; was 4d at official 09:16:26; was 4d at official 08:58:10; was 4d at official 08:41:35; was 4d at official 08:17:08; was 4d at official 22:57:27; was 4d at official 22:46:15; was 4d at official 22:25:57; was 4d at official 22:05:26; was 4d at official 21:47:29; was 4d at official 21:22:24; was 4d at official 21:06:40; was 4d at official 20:51:22; was 3d at official 20:40:56; was 3d at official 20:18:19; was 3d at official 20:03:38; was 3d at official 19:42:45; was 3d at official 19:25:15; was 3d at official 18:48:35; was 3d at official 18:35:17; was 3d at official 18:21:48; was 3d at official 18:01:35; was 3d at official 17:34:10; was 3d at official 17:05:52; was 3d at official 16:42:06; was 3d at official 16:21:09; was 3d at official 16:01:48; was 3d at official 15:37:57; was 3d at official 15:19:36; was 3d at official 15:01:45; was 3d at official 14:40:21; was 3d at official 14:19:22; was 3d at official 14:07:40; was 3d at official 13:48:39; was 3d at official 13:33:48; was 3d at official 13:21:56; was 3d at official 13:05:53; was 3d at official 12:51:33; was 3d at official 12:33:15; was 3d at official 12:16:21; was 3d at official 11:56:14; was 3d at official 11:35:39; was 3d at official 11:19:37; was 3d at official 11:09:48; was 3d at official 10:55:07; was 3d at official 10:46:01; was 3d at official 10:34:02; was 3d at official 10:23:30; was 3d at official 10:08:52; was 3d at official 09:54:34; was 3d at official 09:37:00; was 3d at official 09:11:41; was 3d at official 08:51:35; was 3d at official 08:42:01; was 3d at official 08:23:18; was 3d at official 08:12:35; was 3d at official 22:56:44; was 3d at official 22:38:15; was 3d at official 22:19:24; was 3d at official 21:57:26; was 3d at official 21:37:04; was 3d at official 21:19:51; was 3d at official 21:00:46; was 3d at official 20:49:25; was 2d at official 20:42:07). Not fully visible on official 1280x800 this pass (below the official fold). Re-read on the later-same-pass 09:54:34 1920x1200 Closed cash-frame Transactions table (Price column visible). 坐以待币 Sell $43.69, price $0.0000996, now 2d on the 09:54:34 1920x1200 Closed cash-frame (was 2d on the 1920x1200 frame at official 09:18:26; was 2d on the 08:57:44 open cash-frame at official 08:57:11; was 2d on the 08:09:37 open cash-frame at official 08:09:00; was 2d on the 23:03:57 cash-frame at official 23:03:34; was 2d on the 22:31:15 cash-frame at official 22:30:47; was 2d on the 22:08:46 cash-frame at official 22:08:24; was 2d on the 21:07:58 cash-frame at official 21:07:10; was 1d on the 20:39:04 cash-frame at official 20:38:45; was 1d on the 20:15:20 cash-frame at official 20:15:01; was 1d on the 19:45:19 cash-frame at official 19:45:01; was 1d on the 19:23:21 cash-frame at official 19:23:00; was 1d on the 19:01:14 cash-frame at official 19:00:48; was 1d on the 18:37:51 cash-frame at official 18:37:28; was 1d on the 18:09:35 cash-frame at official 18:08:55; was 1d on the 17:49:23 cash-frame at official 17:48:58; was 1d on the 17:05:29 cash-frame at official 17:04:52; was 1d on the 16:52:59 cash-frame at official 16:52:41; was 1d on the 16:35:49 cash-frame at official 16:34:08; was 1d on the 16:13:41 cash-frame at official 16:13:19; was 1d on the 16:01:02 cash-frame at official 16:00:42; was 1d on the 15:42:10 cash-frame at official 15:41:36; was 1d on the 15:08:50 cash-frame at official 15:08:28; was 1d on the 14:44:14 cash-frame at official 14:43:56; was 1d on the 14:14:50 cash-frame at official 14:14:29; was 1d on the 14:00:54 cash-frame at official 14:00:36; was 1d on the 13:47:13 cash-frame at official 13:46:50; was 1d on the 12:59:20 cash-frame at official 12:59:00; was 1d on the 12:48:52 cash-frame at official 12:48:40; was 1d on the 11:02:27 cash-frame at official 11:02:18; was 1d on the 10:34:13 cash-frame at official 10:34:06; was 1d on the 10:26:13 cash-frame at official 10:26:10; was 1d on the 09:35:29 cash-frame at official 09:35:19; was 1d on the 09:13:37 cash-frame at official 09:13:33; was 1d on the 08:42:56 cash-frame at official 08:42:46; was 1d on the 08:15:00 cash-frame at official 08:14:46; was 1d on the 23:03:59 cash-frame at official 23:03:50; was 1d on the 22:41:16 cash-frame at official 22:40:33; was 1d on the 22:13:43 cash-frame at official 22:13:35; was 1d on the 22:02:00 cash-frame at official 22:01:31; was 1d on the 21:54:34 cash-frame at official 21:54:12; was 1d on the 20:58:32 cash-frame at official 20:58:27; was 23h on the 20:33:47 cash-frame at official 20:33:59; was 23h on the 20:05:00 cash-frame at official 20:05:10; was 22h at official 19:36:01; was 21h at official 19:07:13 and official 18:43:03; was 20h at official 18:09:37 and official 17:45:22). Visible on official native 1280x800 RGB helper-official grab /tmp/fomo-gorkbot-desktop-1352-helper-official.png (PNG mtime 09:53:35 ET; window-only native 1280x800 RGB including browser chrome, no OS taskbar in the frame, helper reported shell clock 09:53:35 ET at official capture; same bytes also at /tmp/fomo-gorkbot-desktop-0951-full-now.png, /tmp/fomo-gorkbot-desktop-1352-helper-official-1280.png, and /tmp/fomo-gorkbot-desktop-1352-helper-full-now.png). The official grab is a 0,0-1280x800 screen region of a native 1280x800 Chrome window at (0,0). Terminal was minimized and no other window overlaps the official frame. Followers 15, Following 34, and Edit profile are fully visible on the official 1280x800 shot this pass, as are the official top-right chips ($0.00 cash and $0.00 / -$0 24h). The official 1280x800 right-hand profile panel had Feed selected, not Transactions, so the Token/Action table and its Price column are not on the official shot this pass; official Feed cards are not used as Transactions rows. A later-same-pass native 1920x1200 cash-frame /tmp/fomo-gorkbot-desktop-1352-helper-cash.png (PNG mtime 09:54:33 ET, taskbar Mon Nov 16 9:54 AM; same bytes also at /tmp/fomo-gorkbot-desktop-1352-helper-open-cash.png and /tmp/fomo-gorkbot-desktop-1352-helper-transactions.png) has Transactions selected, Closed selected (Your positions 123), and Total cash $0, and is the source for the Closed header count, the visible Closed rows, and the un-scrolled Token/Action table this pass. No hover card overlaps the Transactions Price column on that Closed cash-frame. A later-same-pass 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1352-helper-cash-open.png (PNG mtime 09:57:26 ET, taskbar Mon Nov 16 9:57 AM; same bytes also at /tmp/fomo-gorkbot-desktop-1352-helper-open-positions.png) has Transactions still selected, Open selected (Your positions 1, Show dust on, All selected), and Total cash $0, and is the source for Open positions this pass. That open frame is a full-desktop 1920x1200 capture of an unmaximized Chrome window (white desktop gap to the right and below the window) with the page scrolled so the center portfolio label and range pills are not in the frame; the AAPLX row, Total cash $0, top-right chips, and Transactions table are visible. Crops under /tmp/fomo-0951-crops/. The 09:54:34 Closed cash-frame is a full-desktop capture of a maximized Chrome window, so that 1920x1200 PNG includes the OS taskbar along the bottom, below the page ticker, covering no portfolio, cash, positions, or Transactions figures (taskbar Mon Nov 16 9:54 AM). The 09:57:26 open cash-frame is a full-desktop 1920x1200 capture that includes the OS taskbar along the bottom (taskbar Mon Nov 16 9:57 AM) and a white desktop gap outside the unmaximized Chrome window, covering no portfolio, cash, positions, or Transactions figures. Taskbar window labels (box-chrome and Terminal) sit in the OS taskbar at the bottom of the 1920x1200 frames and do not cover page content."
+      "note": "Visible on the official 13:57:25 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1352-helper-official.png as \u5750\u4ee5\u5f85\u5e01 Sell $43.69, price $0.0000996, now 1w (was 6d at official 20:28:53; 10th un-scrolled Transactions row; Price column visible; was 5d at official 20:30:11; was 5d at official 13:36:24; was 5d at official 13:21:13; was 5d at official 13:05:23; was 5d at official 12:46:47; was 5d at official 12:35:53; was 5d at official 12:17:48; was 5d at official 12:05:20; was 5d at official 11:41:18; was 5d at official 11:21:10; was 5d at official 11:01:33; was 5d at official 10:47:40; was 5d at official 10:27:04; was 5d at official 10:13:51; was 5d at official 09:53:42; was 5d at official 09:32:59; was 5d at official 09:14:59; was 5d at official 09:00:49; was 5d at official 08:36:58; was 5d at official 08:21:56; was 4d at official 10:52:08; was 4d at official 10:36:38; was 4d at official 10:18:00; was 4d at official 09:56:39; was 4d at official 09:40:16; was 4d at official 09:16:26; was 4d at official 08:58:10; was 4d at official 08:41:35; was 4d at official 08:17:08; was 4d at official 22:57:27; was 4d at official 22:46:15; was 4d at official 22:25:57; was 4d at official 22:05:26; was 4d at official 21:47:29; was 4d at official 21:22:24; was 4d at official 21:06:40; was 4d at official 20:51:22; was 3d at official 20:40:56; was 3d at official 20:18:19; was 3d at official 20:03:38; was 3d at official 19:42:45; was 3d at official 19:25:15; was 3d at official 18:48:35; was 3d at official 18:35:17; was 3d at official 18:21:48; was 3d at official 18:01:35; was 3d at official 17:34:10; was 3d at official 17:05:52; was 3d at official 16:42:06; was 3d at official 16:21:09; was 3d at official 16:01:48; was 3d at official 15:37:57; was 3d at official 15:19:36; was 3d at official 15:01:45; was 3d at official 14:40:21; was 3d at official 14:19:22; was 3d at official 14:07:40; was 3d at official 13:48:39; was 3d at official 13:33:48; was 3d at official 13:21:56; was 3d at official 13:05:53; was 3d at official 12:51:33; was 3d at official 12:33:15; was 3d at official 12:16:21; was 3d at official 11:56:14; was 3d at official 11:35:39; was 3d at official 11:19:37; was 3d at official 11:09:48; was 3d at official 10:55:07; was 3d at official 10:46:01; was 3d at official 10:34:02; was 3d at official 10:23:30; was 3d at official 10:08:52; was 3d at official 09:54:34; was 3d at official 09:37:00; was 3d at official 09:11:41; was 3d at official 08:51:35; was 3d at official 08:42:01; was 3d at official 08:23:18; was 3d at official 08:12:35; was 3d at official 22:56:44; was 3d at official 22:38:15; was 3d at official 22:19:24; was 3d at official 21:57:26; was 3d at official 21:37:04; was 3d at official 21:19:51; was 3d at official 21:00:46; was 3d at official 20:49:25; was 2d at official 20:42:07). Not fully visible on official 1280x800 this pass (below the official fold). Re-read on the later-same-pass 09:54:34 1920x1200 Closed cash-frame Transactions table (Price column visible). \u5750\u4ee5\u5f85\u5e01 Sell $43.69, price $0.0000996, now 2d on the 09:54:34 1920x1200 Closed cash-frame (was 2d on the 1920x1200 frame at official 09:18:26; was 2d on the 08:57:44 open cash-frame at official 08:57:11; was 2d on the 08:09:37 open cash-frame at official 08:09:00; was 2d on the 23:03:57 cash-frame at official 23:03:34; was 2d on the 22:31:15 cash-frame at official 22:30:47; was 2d on the 22:08:46 cash-frame at official 22:08:24; was 2d on the 21:07:58 cash-frame at official 21:07:10; was 1d on the 20:39:04 cash-frame at official 20:38:45; was 1d on the 20:15:20 cash-frame at official 20:15:01; was 1d on the 19:45:19 cash-frame at official 19:45:01; was 1d on the 19:23:21 cash-frame at official 19:23:00; was 1d on the 19:01:14 cash-frame at official 19:00:48; was 1d on the 18:37:51 cash-frame at official 18:37:28; was 1d on the 18:09:35 cash-frame at official 18:08:55; was 1d on the 17:49:23 cash-frame at official 17:48:58; was 1d on the 17:05:29 cash-frame at official 17:04:52; was 1d on the 16:52:59 cash-frame at official 16:52:41; was 1d on the 16:35:49 cash-frame at official 16:34:08; was 1d on the 16:13:41 cash-frame at official 16:13:19; was 1d on the 16:01:02 cash-frame at official 16:00:42; was 1d on the 15:42:10 cash-frame at official 15:41:36; was 1d on the 15:08:50 cash-frame at official 15:08:28; was 1d on the 14:44:14 cash-frame at official 14:43:56; was 1d on the 14:14:50 cash-frame at official 14:14:29; was 1d on the 14:00:54 cash-frame at official 14:00:36; was 1d on the 13:47:13 cash-frame at official 13:46:50; was 1d on the 12:59:20 cash-frame at official 12:59:00; was 1d on the 12:48:52 cash-frame at official 12:48:40; was 1d on the 11:02:27 cash-frame at official 11:02:18; was 1d on the 10:34:13 cash-frame at official 10:34:06; was 1d on the 10:26:13 cash-frame at official 10:26:10; was 1d on the 09:35:29 cash-frame at official 09:35:19; was 1d on the 09:13:37 cash-frame at official 09:13:33; was 1d on the 08:42:56 cash-frame at official 08:42:46; was 1d on the 08:15:00 cash-frame at official 08:14:46; was 1d on the 23:03:59 cash-frame at official 23:03:50; was 1d on the 22:41:16 cash-frame at official 22:40:33; was 1d on the 22:13:43 cash-frame at official 22:13:35; was 1d on the 22:02:00 cash-frame at official 22:01:31; was 1d on the 21:54:34 cash-frame at official 21:54:12; was 1d on the 20:58:32 cash-frame at official 20:58:27; was 23h on the 20:33:47 cash-frame at official 20:33:59; was 23h on the 20:05:00 cash-frame at official 20:05:10; was 22h at official 19:36:01; was 21h at official 19:07:13 and official 18:43:03; was 20h at official 18:09:37 and official 17:45:22). Visible on official native 1280x800 RGB helper-official grab /tmp/fomo-gorkbot-desktop-1352-helper-official.png (PNG mtime 09:53:35 ET; window-only native 1280x800 RGB including browser chrome, no OS taskbar in the frame, helper reported shell clock 09:53:35 ET at official capture; same bytes also at /tmp/fomo-gorkbot-desktop-0951-full-now.png, /tmp/fomo-gorkbot-desktop-1352-helper-official-1280.png, and /tmp/fomo-gorkbot-desktop-1352-helper-full-now.png). The official grab is a 0,0-1280x800 screen region of a native 1280x800 Chrome window at (0,0). Terminal was minimized and no other window overlaps the official frame. Followers 15, Following 34, and Edit profile are fully visible on the official 1280x800 shot this pass, as are the official top-right chips ($0.00 cash and $0.00 / -$0 24h). The official 1280x800 right-hand profile panel had Feed selected, not Transactions, so the Token/Action table and its Price column are not on the official shot this pass; official Feed cards are not used as Transactions rows. A later-same-pass native 1920x1200 cash-frame /tmp/fomo-gorkbot-desktop-1352-helper-cash.png (PNG mtime 09:54:33 ET, taskbar Mon Nov 16 9:54 AM; same bytes also at /tmp/fomo-gorkbot-desktop-1352-helper-open-cash.png and /tmp/fomo-gorkbot-desktop-1352-helper-transactions.png) has Transactions selected, Closed selected (Your positions 123), and Total cash $0, and is the source for the Closed header count, the visible Closed rows, and the un-scrolled Token/Action table this pass. No hover card overlaps the Transactions Price column on that Closed cash-frame. A later-same-pass 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1352-helper-cash-open.png (PNG mtime 09:57:26 ET, taskbar Mon Nov 16 9:57 AM; same bytes also at /tmp/fomo-gorkbot-desktop-1352-helper-open-positions.png) has Transactions still selected, Open selected (Your positions 1, Show dust on, All selected), and Total cash $0, and is the source for Open positions this pass. That open frame is a full-desktop 1920x1200 capture of an unmaximized Chrome window (white desktop gap to the right and below the window) with the page scrolled so the center portfolio label and range pills are not in the frame; the AAPLX row, Total cash $0, top-right chips, and Transactions table are visible. Crops under /tmp/fomo-0951-crops/. The 09:54:34 Closed cash-frame is a full-desktop capture of a maximized Chrome window, so that 1920x1200 PNG includes the OS taskbar along the bottom, below the page ticker, covering no portfolio, cash, positions, or Transactions figures (taskbar Mon Nov 16 9:54 AM). The 09:57:26 open cash-frame is a full-desktop 1920x1200 capture that includes the OS taskbar along the bottom (taskbar Mon Nov 16 9:57 AM) and a white desktop gap outside the unmaximized Chrome window, covering no portfolio, cash, positions, or Transactions figures. Taskbar window labels (box-chrome and Terminal) sit in the OS taskbar at the bottom of the 1920x1200 frames and do not cover page content."
     },
     {
       "ts": null,
       "side": "buy",
-      "token": "坐以待币",
+      "token": "\u5750\u4ee5\u5f85\u5e01",
       "usd": 74.46,
       "mcap": null,
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
       "price": 0.00017,
-      "note": "Visible on the official 13:57:25 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1352-helper-official.png Price column as 坐以待币 Buy $74.46, price $0.000170, age 1w (was age 6d at official 20:28:53; 11th un-scrolled Transactions row; Price column visible; six digits after the decimal, visibly shorter than $0.0000996 on the Sell row above it; was age 5d at official 20:30:11; was age 5d at official 13:36:24; was age 5d at official 13:21:13; was age 5d at official 13:05:23; was age 5d at official 12:46:47; was age 5d at official 12:35:53; was age 5d at official 12:17:48; was age 5d at official 12:05:20; was age 5d at official 11:41:18; was age 5d at official 11:21:10; was age 5d at official 11:01:33; was age 5d at official 10:47:40; was age 5d at official 10:27:04; was age 5d at official 10:13:51; was age 5d at official 09:53:42; was age 5d at official 09:32:59; was age 5d at official 09:14:59; was age 5d at official 09:00:49; was age 5d at official 08:36:58; was age 5d at official 08:21:56; was age 4d at official 10:52:08; was age 4d at official 10:36:38; was age 4d at official 10:18:00; was age 4d at official 09:56:39; was age 4d at official 09:40:16; was age 4d at official 09:16:26; was age 4d at official 08:58:10; was age 4d at official 08:41:35; was age 4d at official 08:17:08; was age 4d at official 22:57:27; was age 4d at official 22:46:15; was age 4d at official 22:25:57; was age 4d at official 22:05:26; was age 4d at official 21:47:29; was age 4d at official 21:22:24; was age 4d at official 21:06:40; was age 4d at official 20:51:22; was age 4d at official 20:40:56; was age 3d at official 20:18:19; was age 3d at official 20:03:38; was age 3d at official 19:42:45; was age 3d at official 19:25:15; was age 3d at official 18:48:35; was age 3d at official 18:35:17; was age 3d at official 18:21:48; was age 3d at official 18:01:35; was age 3d at official 17:34:10; was age 3d at official 17:05:52; was age 3d at official 16:42:06; was age 3d at official 16:21:09; was age 3d at official 16:01:48; was age 3d at official 15:37:57; was age 3d at official 15:19:36; was age 3d at official 15:01:45; was age 3d at official 14:40:21; was age 3d at official 14:19:22; was age 3d at official 14:07:40; was age 3d at official 13:48:39; was age 3d at official 13:33:48; was age 3d at official 13:21:56; was age 3d at official 13:05:53; was age 3d at official 12:51:33; was age 3d at official 12:33:15; was age 3d at official 12:16:21; was age 3d at official 11:56:14; was age 3d at official 11:35:39; was age 3d at official 11:19:37; was age 3d at official 11:09:48; was age 3d at official 10:55:07; was age 3d at official 10:46:01; was age 3d at official 10:34:02; was age 3d at official 10:23:30; was age 3d at official 10:08:52; was age 3d at official 09:54:34; was age 3d at official 09:37:00; was age 3d at official 09:11:41; was age 3d at official 08:51:35; was age 3d at official 08:42:01; was age 3d at official 08:23:18; was age 3d at official 08:12:35; was age 3d at official 22:56:44; was age 3d at official 22:38:15; was age 3d at official 22:19:24; was age 3d at official 21:57:26; was age 3d at official 21:37:04; was age 3d at official 21:19:51; was age 3d at official 21:00:46; was age 3d at official 20:49:25; was age 3d at official 20:42:07; was age 2d at official 20:26:17). Visible on the official 18:04:45 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1803-helper-official.png Price column and on the later-same-pass 18:04:58 Closed cash-frame as 坐以待币 Buy $74.46, price $0.000170, age 2d (11th un-scrolled Transactions row; Price column visible; six digits after the decimal, visibly shorter than $0.0000996 on the Sell row above it). Visible on the official 17:51:30 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1749-helper-official.png Price column and on the later-same-pass 17:51:42 Closed cash-frame as 坐以待币 Buy $74.46, price $0.000170, age 2d (11th un-scrolled Transactions row; Price column visible; six digits after the decimal, visibly shorter than $0.0000996 on the Sell row above it). Visible on the official 17:15:27 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1714-helper-official.png Price column and on the later-same-pass 17:15:40 Closed cash-frame as 坐以待币 Buy $74.46, price $0.000170, age 2d (11th un-scrolled Transactions row; Price column visible; six digits after the decimal, visibly shorter than $0.0000996 on the Sell row above it). Visible on the official 17:08:09 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1706-helper-official.png Price column and on the later-same-pass 17:08:24 Closed cash-frame as 坐以待币 Buy $74.46, price $0.000170, age 2d (11th un-scrolled Transactions row; Price column visible; six digits after the decimal, visibly shorter than $0.0000996 on the Sell row above it). Visible on the official 16:59:49 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1657-helper-official.png Price column and on the later-same-pass 17:00:02 Closed cash-frame as 坐以待币 Buy $74.46, price $0.000170, age 2d (11th un-scrolled Transactions row; Price column visible; six digits after the decimal, visibly shorter than $0.0000996 on the Sell row above it). Visible on the official 16:46:40 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1644-helper-official.png Price column and on the later-same-pass 16:46:52 Closed cash-frame as 坐以待币 Buy $74.46, price $0.000170, age 2d (11th un-scrolled Transactions row; Price column visible; six digits after the decimal, visibly shorter than $0.0000996 on the Sell row above it). Re-read on a 3x nearest-neighbor zoom of the official 16:30:37 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1629-helper-official.png Price column, and visible on the later-same-pass 16:33:17 Closed cash-frame, as 坐以待币 Buy $74.46, price $0.000170, age 2d (11th un-scrolled Transactions row; Price column visible; six digits after the decimal, visibly shorter than $0.0000996 on the Sell row above it). This corrects the $0.0000170 / 1.7e-05 value stored from official 16:22:58. Re-read on the official 16:22:58 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1620-helper-official.png and on the later-same-pass 16:23:17 Closed cash-frame as 坐以待币 Buy $74.46, price $0.0000170, age 2d (11th un-scrolled Transactions row; Price column visible). Not fully visible on official 1280x800 this pass (below the official fold). Re-read on the later-same-pass 09:54:34 1920x1200 Closed cash-frame Transactions table (Price column visible). 坐以待币 Buy $74.46, price $0.000170, now 2d on the 09:54:34 1920x1200 Closed cash-frame (was 2d on the 1920x1200 frame at official 09:18:26; was 2d on the 08:57:44 open cash-frame at official 08:57:11; was 2d on the 08:09:37 open cash-frame at official 08:09:00; was 2d on the 23:03:57 cash-frame at official 23:03:34; was 2d on the 22:31:15 cash-frame at official 22:30:47; was 2d on the 22:08:46 cash-frame at official 22:08:24; was 2d on the 21:07:58 cash-frame at official 21:07:10; was 2d on the 20:39:04 cash-frame at official 20:38:45; was 1d on the 20:15:20 cash-frame at official 20:15:01; was 1d on the 19:45:19 cash-frame at official 19:45:01; was 1d on the 19:23:21 cash-frame at official 19:23:00; was 1d on the 19:01:14 cash-frame at official 19:00:48; was 1d on the 18:37:51 cash-frame at official 18:37:28; was 1d on the 18:09:35 cash-frame at official 18:08:55; was 1d on the 17:49:23 cash-frame at official 17:48:58; was 1d on the 17:05:29 cash-frame at official 17:04:52; was 1d on the 16:52:59 cash-frame at official 16:52:41; was 1d on the 16:35:49 cash-frame at official 16:34:08; was 1d on the 16:13:41 cash-frame at official 16:13:19; was 1d on the 16:01:02 cash-frame at official 16:00:42; was 1d on the 15:42:10 cash-frame at official 15:41:36; was 1d on the 15:08:50 cash-frame at official 15:08:28; was 1d on the 14:44:14 cash-frame at official 14:43:56; was 1d on the 14:14:50 cash-frame at official 14:14:29; was 1d on the 14:00:54 cash-frame at official 14:00:36; was 1d on the 13:47:13 cash-frame at official 13:46:50; was 1d on the 12:59:20 cash-frame at official 12:59:00; was 1d on the 12:48:52 cash-frame at official 12:48:40; was 1d on the 11:02:27 cash-frame at official 11:02:18; was 1d on the 10:34:13 cash-frame at official 10:34:06; was 1d on the 10:26:13 cash-frame at official 10:26:10; was 1d on the 09:35:29 cash-frame at official 09:35:19; was 1d on the 09:13:37 cash-frame at official 09:13:33; was 1d on the 08:42:56 cash-frame at official 08:42:46; was 1d on the 08:15:00 cash-frame at official 08:14:46; was 1d on the 23:03:59 cash-frame at official 23:03:50; was 1d on the 22:41:16 cash-frame at official 22:40:33; was 1d on the 22:13:43 cash-frame at official 22:13:35; was 1d on the 22:02:00 cash-frame at official 22:01:31; was 1d on the 21:54:34 cash-frame at official 21:54:12; was 1d on the 20:58:32 cash-frame at official 20:58:27; was 23h on the 20:33:47 cash-frame at official 20:33:59; was 23h on the 20:05:00 cash-frame at official 20:05:10; was 22h at official 19:36:01; was 21h at official 19:07:13 and official 18:43:03; was 20h at official 18:09:37 and official 17:45:22). Visible on official native 1280x800 RGB helper-official grab /tmp/fomo-gorkbot-desktop-1352-helper-official.png (PNG mtime 09:53:35 ET; window-only native 1280x800 RGB including browser chrome, no OS taskbar in the frame, helper reported shell clock 09:53:35 ET at official capture; same bytes also at /tmp/fomo-gorkbot-desktop-0951-full-now.png, /tmp/fomo-gorkbot-desktop-1352-helper-official-1280.png, and /tmp/fomo-gorkbot-desktop-1352-helper-full-now.png). The official grab is a 0,0-1280x800 screen region of a native 1280x800 Chrome window at (0,0). Terminal was minimized and no other window overlaps the official frame. Followers 15, Following 34, and Edit profile are fully visible on the official 1280x800 shot this pass, as are the official top-right chips ($0.00 cash and $0.00 / -$0 24h). The official 1280x800 right-hand profile panel had Feed selected, not Transactions, so the Token/Action table and its Price column are not on the official shot this pass; official Feed cards are not used as Transactions rows. A later-same-pass native 1920x1200 cash-frame /tmp/fomo-gorkbot-desktop-1352-helper-cash.png (PNG mtime 09:54:33 ET, taskbar Mon Nov 16 9:54 AM; same bytes also at /tmp/fomo-gorkbot-desktop-1352-helper-open-cash.png and /tmp/fomo-gorkbot-desktop-1352-helper-transactions.png) has Transactions selected, Closed selected (Your positions 123), and Total cash $0, and is the source for the Closed header count, the visible Closed rows, and the un-scrolled Token/Action table this pass. No hover card overlaps the Transactions Price column on that Closed cash-frame. A later-same-pass 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1352-helper-cash-open.png (PNG mtime 09:57:26 ET, taskbar Mon Nov 16 9:57 AM; same bytes also at /tmp/fomo-gorkbot-desktop-1352-helper-open-positions.png) has Transactions still selected, Open selected (Your positions 1, Show dust on, All selected), and Total cash $0, and is the source for Open positions this pass. That open frame is a full-desktop 1920x1200 capture of an unmaximized Chrome window (white desktop gap to the right and below the window) with the page scrolled so the center portfolio label and range pills are not in the frame; the AAPLX row, Total cash $0, top-right chips, and Transactions table are visible. Crops under /tmp/fomo-0951-crops/. The 09:54:34 Closed cash-frame is a full-desktop capture of a maximized Chrome window, so that 1920x1200 PNG includes the OS taskbar along the bottom, below the page ticker, covering no portfolio, cash, positions, or Transactions figures (taskbar Mon Nov 16 9:54 AM). The 09:57:26 open cash-frame is a full-desktop 1920x1200 capture that includes the OS taskbar along the bottom (taskbar Mon Nov 16 9:57 AM) and a white desktop gap outside the unmaximized Chrome window, covering no portfolio, cash, positions, or Transactions figures. Taskbar window labels (box-chrome and Terminal) sit in the OS taskbar at the bottom of the 1920x1200 frames and do not cover page content."
+      "note": "Visible on the official 13:57:25 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1352-helper-official.png Price column as \u5750\u4ee5\u5f85\u5e01 Buy $74.46, price $0.000170, age 1w (was age 6d at official 20:28:53; 11th un-scrolled Transactions row; Price column visible; six digits after the decimal, visibly shorter than $0.0000996 on the Sell row above it; was age 5d at official 20:30:11; was age 5d at official 13:36:24; was age 5d at official 13:21:13; was age 5d at official 13:05:23; was age 5d at official 12:46:47; was age 5d at official 12:35:53; was age 5d at official 12:17:48; was age 5d at official 12:05:20; was age 5d at official 11:41:18; was age 5d at official 11:21:10; was age 5d at official 11:01:33; was age 5d at official 10:47:40; was age 5d at official 10:27:04; was age 5d at official 10:13:51; was age 5d at official 09:53:42; was age 5d at official 09:32:59; was age 5d at official 09:14:59; was age 5d at official 09:00:49; was age 5d at official 08:36:58; was age 5d at official 08:21:56; was age 4d at official 10:52:08; was age 4d at official 10:36:38; was age 4d at official 10:18:00; was age 4d at official 09:56:39; was age 4d at official 09:40:16; was age 4d at official 09:16:26; was age 4d at official 08:58:10; was age 4d at official 08:41:35; was age 4d at official 08:17:08; was age 4d at official 22:57:27; was age 4d at official 22:46:15; was age 4d at official 22:25:57; was age 4d at official 22:05:26; was age 4d at official 21:47:29; was age 4d at official 21:22:24; was age 4d at official 21:06:40; was age 4d at official 20:51:22; was age 4d at official 20:40:56; was age 3d at official 20:18:19; was age 3d at official 20:03:38; was age 3d at official 19:42:45; was age 3d at official 19:25:15; was age 3d at official 18:48:35; was age 3d at official 18:35:17; was age 3d at official 18:21:48; was age 3d at official 18:01:35; was age 3d at official 17:34:10; was age 3d at official 17:05:52; was age 3d at official 16:42:06; was age 3d at official 16:21:09; was age 3d at official 16:01:48; was age 3d at official 15:37:57; was age 3d at official 15:19:36; was age 3d at official 15:01:45; was age 3d at official 14:40:21; was age 3d at official 14:19:22; was age 3d at official 14:07:40; was age 3d at official 13:48:39; was age 3d at official 13:33:48; was age 3d at official 13:21:56; was age 3d at official 13:05:53; was age 3d at official 12:51:33; was age 3d at official 12:33:15; was age 3d at official 12:16:21; was age 3d at official 11:56:14; was age 3d at official 11:35:39; was age 3d at official 11:19:37; was age 3d at official 11:09:48; was age 3d at official 10:55:07; was age 3d at official 10:46:01; was age 3d at official 10:34:02; was age 3d at official 10:23:30; was age 3d at official 10:08:52; was age 3d at official 09:54:34; was age 3d at official 09:37:00; was age 3d at official 09:11:41; was age 3d at official 08:51:35; was age 3d at official 08:42:01; was age 3d at official 08:23:18; was age 3d at official 08:12:35; was age 3d at official 22:56:44; was age 3d at official 22:38:15; was age 3d at official 22:19:24; was age 3d at official 21:57:26; was age 3d at official 21:37:04; was age 3d at official 21:19:51; was age 3d at official 21:00:46; was age 3d at official 20:49:25; was age 3d at official 20:42:07; was age 2d at official 20:26:17). Visible on the official 18:04:45 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1803-helper-official.png Price column and on the later-same-pass 18:04:58 Closed cash-frame as \u5750\u4ee5\u5f85\u5e01 Buy $74.46, price $0.000170, age 2d (11th un-scrolled Transactions row; Price column visible; six digits after the decimal, visibly shorter than $0.0000996 on the Sell row above it). Visible on the official 17:51:30 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1749-helper-official.png Price column and on the later-same-pass 17:51:42 Closed cash-frame as \u5750\u4ee5\u5f85\u5e01 Buy $74.46, price $0.000170, age 2d (11th un-scrolled Transactions row; Price column visible; six digits after the decimal, visibly shorter than $0.0000996 on the Sell row above it). Visible on the official 17:15:27 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1714-helper-official.png Price column and on the later-same-pass 17:15:40 Closed cash-frame as \u5750\u4ee5\u5f85\u5e01 Buy $74.46, price $0.000170, age 2d (11th un-scrolled Transactions row; Price column visible; six digits after the decimal, visibly shorter than $0.0000996 on the Sell row above it). Visible on the official 17:08:09 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1706-helper-official.png Price column and on the later-same-pass 17:08:24 Closed cash-frame as \u5750\u4ee5\u5f85\u5e01 Buy $74.46, price $0.000170, age 2d (11th un-scrolled Transactions row; Price column visible; six digits after the decimal, visibly shorter than $0.0000996 on the Sell row above it). Visible on the official 16:59:49 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1657-helper-official.png Price column and on the later-same-pass 17:00:02 Closed cash-frame as \u5750\u4ee5\u5f85\u5e01 Buy $74.46, price $0.000170, age 2d (11th un-scrolled Transactions row; Price column visible; six digits after the decimal, visibly shorter than $0.0000996 on the Sell row above it). Visible on the official 16:46:40 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1644-helper-official.png Price column and on the later-same-pass 16:46:52 Closed cash-frame as \u5750\u4ee5\u5f85\u5e01 Buy $74.46, price $0.000170, age 2d (11th un-scrolled Transactions row; Price column visible; six digits after the decimal, visibly shorter than $0.0000996 on the Sell row above it). Re-read on a 3x nearest-neighbor zoom of the official 16:30:37 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1629-helper-official.png Price column, and visible on the later-same-pass 16:33:17 Closed cash-frame, as \u5750\u4ee5\u5f85\u5e01 Buy $74.46, price $0.000170, age 2d (11th un-scrolled Transactions row; Price column visible; six digits after the decimal, visibly shorter than $0.0000996 on the Sell row above it). This corrects the $0.0000170 / 1.7e-05 value stored from official 16:22:58. Re-read on the official 16:22:58 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1620-helper-official.png and on the later-same-pass 16:23:17 Closed cash-frame as \u5750\u4ee5\u5f85\u5e01 Buy $74.46, price $0.0000170, age 2d (11th un-scrolled Transactions row; Price column visible). Not fully visible on official 1280x800 this pass (below the official fold). Re-read on the later-same-pass 09:54:34 1920x1200 Closed cash-frame Transactions table (Price column visible). \u5750\u4ee5\u5f85\u5e01 Buy $74.46, price $0.000170, now 2d on the 09:54:34 1920x1200 Closed cash-frame (was 2d on the 1920x1200 frame at official 09:18:26; was 2d on the 08:57:44 open cash-frame at official 08:57:11; was 2d on the 08:09:37 open cash-frame at official 08:09:00; was 2d on the 23:03:57 cash-frame at official 23:03:34; was 2d on the 22:31:15 cash-frame at official 22:30:47; was 2d on the 22:08:46 cash-frame at official 22:08:24; was 2d on the 21:07:58 cash-frame at official 21:07:10; was 2d on the 20:39:04 cash-frame at official 20:38:45; was 1d on the 20:15:20 cash-frame at official 20:15:01; was 1d on the 19:45:19 cash-frame at official 19:45:01; was 1d on the 19:23:21 cash-frame at official 19:23:00; was 1d on the 19:01:14 cash-frame at official 19:00:48; was 1d on the 18:37:51 cash-frame at official 18:37:28; was 1d on the 18:09:35 cash-frame at official 18:08:55; was 1d on the 17:49:23 cash-frame at official 17:48:58; was 1d on the 17:05:29 cash-frame at official 17:04:52; was 1d on the 16:52:59 cash-frame at official 16:52:41; was 1d on the 16:35:49 cash-frame at official 16:34:08; was 1d on the 16:13:41 cash-frame at official 16:13:19; was 1d on the 16:01:02 cash-frame at official 16:00:42; was 1d on the 15:42:10 cash-frame at official 15:41:36; was 1d on the 15:08:50 cash-frame at official 15:08:28; was 1d on the 14:44:14 cash-frame at official 14:43:56; was 1d on the 14:14:50 cash-frame at official 14:14:29; was 1d on the 14:00:54 cash-frame at official 14:00:36; was 1d on the 13:47:13 cash-frame at official 13:46:50; was 1d on the 12:59:20 cash-frame at official 12:59:00; was 1d on the 12:48:52 cash-frame at official 12:48:40; was 1d on the 11:02:27 cash-frame at official 11:02:18; was 1d on the 10:34:13 cash-frame at official 10:34:06; was 1d on the 10:26:13 cash-frame at official 10:26:10; was 1d on the 09:35:29 cash-frame at official 09:35:19; was 1d on the 09:13:37 cash-frame at official 09:13:33; was 1d on the 08:42:56 cash-frame at official 08:42:46; was 1d on the 08:15:00 cash-frame at official 08:14:46; was 1d on the 23:03:59 cash-frame at official 23:03:50; was 1d on the 22:41:16 cash-frame at official 22:40:33; was 1d on the 22:13:43 cash-frame at official 22:13:35; was 1d on the 22:02:00 cash-frame at official 22:01:31; was 1d on the 21:54:34 cash-frame at official 21:54:12; was 1d on the 20:58:32 cash-frame at official 20:58:27; was 23h on the 20:33:47 cash-frame at official 20:33:59; was 23h on the 20:05:00 cash-frame at official 20:05:10; was 22h at official 19:36:01; was 21h at official 19:07:13 and official 18:43:03; was 20h at official 18:09:37 and official 17:45:22). Visible on official native 1280x800 RGB helper-official grab /tmp/fomo-gorkbot-desktop-1352-helper-official.png (PNG mtime 09:53:35 ET; window-only native 1280x800 RGB including browser chrome, no OS taskbar in the frame, helper reported shell clock 09:53:35 ET at official capture; same bytes also at /tmp/fomo-gorkbot-desktop-0951-full-now.png, /tmp/fomo-gorkbot-desktop-1352-helper-official-1280.png, and /tmp/fomo-gorkbot-desktop-1352-helper-full-now.png). The official grab is a 0,0-1280x800 screen region of a native 1280x800 Chrome window at (0,0). Terminal was minimized and no other window overlaps the official frame. Followers 15, Following 34, and Edit profile are fully visible on the official 1280x800 shot this pass, as are the official top-right chips ($0.00 cash and $0.00 / -$0 24h). The official 1280x800 right-hand profile panel had Feed selected, not Transactions, so the Token/Action table and its Price column are not on the official shot this pass; official Feed cards are not used as Transactions rows. A later-same-pass native 1920x1200 cash-frame /tmp/fomo-gorkbot-desktop-1352-helper-cash.png (PNG mtime 09:54:33 ET, taskbar Mon Nov 16 9:54 AM; same bytes also at /tmp/fomo-gorkbot-desktop-1352-helper-open-cash.png and /tmp/fomo-gorkbot-desktop-1352-helper-transactions.png) has Transactions selected, Closed selected (Your positions 123), and Total cash $0, and is the source for the Closed header count, the visible Closed rows, and the un-scrolled Token/Action table this pass. No hover card overlaps the Transactions Price column on that Closed cash-frame. A later-same-pass 1920x1200 open cash-frame /tmp/fomo-gorkbot-desktop-1352-helper-cash-open.png (PNG mtime 09:57:26 ET, taskbar Mon Nov 16 9:57 AM; same bytes also at /tmp/fomo-gorkbot-desktop-1352-helper-open-positions.png) has Transactions still selected, Open selected (Your positions 1, Show dust on, All selected), and Total cash $0, and is the source for Open positions this pass. That open frame is a full-desktop 1920x1200 capture of an unmaximized Chrome window (white desktop gap to the right and below the window) with the page scrolled so the center portfolio label and range pills are not in the frame; the AAPLX row, Total cash $0, top-right chips, and Transactions table are visible. Crops under /tmp/fomo-0951-crops/. The 09:54:34 Closed cash-frame is a full-desktop capture of a maximized Chrome window, so that 1920x1200 PNG includes the OS taskbar along the bottom, below the page ticker, covering no portfolio, cash, positions, or Transactions figures (taskbar Mon Nov 16 9:54 AM). The 09:57:26 open cash-frame is a full-desktop 1920x1200 capture that includes the OS taskbar along the bottom (taskbar Mon Nov 16 9:57 AM) and a white desktop gap outside the unmaximized Chrome window, covering no portfolio, cash, positions, or Transactions figures. Taskbar window labels (box-chrome and Terminal) sit in the OS taskbar at the bottom of the 1920x1200 frames and do not cover page content."
     },
     {
       "ts": null,
@@ -531,7 +531,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 343.98,
-      "note": "nineteenth visible Token/Action row: AVGOX Sell $3.00 at $343.98, 2h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2055-helper-transactions.png (1280×800 RGB, mtime 20:58:42 ET, taskbar Fri Nov 13 8:58 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2055-full-now.png, /tmp/fomo-gorkbot-desktop-2055-full-now-official.png, and /tmp/fomo-gorkbot-desktop-2055-full-now-1280.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "nineteenth visible Token/Action row: AVGOX Sell $3.00 at $343.98, 2h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2055-helper-transactions.png (1280\u00d7800 RGB, mtime 20:58:42 ET, taskbar Fri Nov 13 8:58 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2055-full-now.png, /tmp/fomo-gorkbot-desktop-2055-full-now-official.png, and /tmp/fomo-gorkbot-desktop-2055-full-now-1280.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -543,7 +543,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "twentieth visible Token/Action row: 4gng9A...HJrgwX Received +$0.40, 2h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2055-helper-transactions.png (1280×800 RGB, mtime 20:58:42 ET, taskbar Fri Nov 13 8:58 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2055-full-now.png, /tmp/fomo-gorkbot-desktop-2055-full-now-official.png, and /tmp/fomo-gorkbot-desktop-2055-full-now-1280.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twentieth visible Token/Action row: 4gng9A...HJrgwX Received +$0.40, 2h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2055-helper-transactions.png (1280\u00d7800 RGB, mtime 20:58:42 ET, taskbar Fri Nov 13 8:58 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2055-full-now.png, /tmp/fomo-gorkbot-desktop-2055-full-now-official.png, and /tmp/fomo-gorkbot-desktop-2055-full-now-1280.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -555,7 +555,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "twenty-first visible Token/Action row: 4gng9A...HJrgwX Received +$0.90, 2h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2055-helper-transactions.png (1280×800 RGB, mtime 20:58:42 ET, taskbar Fri Nov 13 8:58 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2055-full-now.png, /tmp/fomo-gorkbot-desktop-2055-full-now-official.png, and /tmp/fomo-gorkbot-desktop-2055-full-now-1280.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-first visible Token/Action row: 4gng9A...HJrgwX Received +$0.90, 2h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2055-helper-transactions.png (1280\u00d7800 RGB, mtime 20:58:42 ET, taskbar Fri Nov 13 8:58 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2055-full-now.png, /tmp/fomo-gorkbot-desktop-2055-full-now-official.png, and /tmp/fomo-gorkbot-desktop-2055-full-now-1280.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -567,7 +567,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "twenty-second visible Token/Action row: 4gng9A...HJrgwX Received +$1.02, 2h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2055-helper-transactions.png (1280×800 RGB, mtime 20:58:42 ET, taskbar Fri Nov 13 8:58 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2055-full-now.png, /tmp/fomo-gorkbot-desktop-2055-full-now-official.png, and /tmp/fomo-gorkbot-desktop-2055-full-now-1280.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-second visible Token/Action row: 4gng9A...HJrgwX Received +$1.02, 2h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2055-helper-transactions.png (1280\u00d7800 RGB, mtime 20:58:42 ET, taskbar Fri Nov 13 8:58 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2055-full-now.png, /tmp/fomo-gorkbot-desktop-2055-full-now-official.png, and /tmp/fomo-gorkbot-desktop-2055-full-now-1280.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -579,7 +579,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "twenty-third visible Token/Action row: 4gng9A...HJrgwX Received +$0.46, 3h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2055-helper-transactions.png (1280×800 RGB, mtime 20:58:42 ET, taskbar Fri Nov 13 8:58 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2055-full-now.png, /tmp/fomo-gorkbot-desktop-2055-full-now-official.png, and /tmp/fomo-gorkbot-desktop-2055-full-now-1280.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-third visible Token/Action row: 4gng9A...HJrgwX Received +$0.46, 3h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2055-helper-transactions.png (1280\u00d7800 RGB, mtime 20:58:42 ET, taskbar Fri Nov 13 8:58 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2055-full-now.png, /tmp/fomo-gorkbot-desktop-2055-full-now-official.png, and /tmp/fomo-gorkbot-desktop-2055-full-now-1280.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -591,7 +591,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 344.11,
-      "note": "twenty-fourth visible Token/Action row: AVGOX Sell $1.92 at $344.11, 3h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2055-helper-transactions.png (1280×800 RGB, mtime 20:58:42 ET, taskbar Fri Nov 13 8:58 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2055-full-now.png, /tmp/fomo-gorkbot-desktop-2055-full-now-official.png, and /tmp/fomo-gorkbot-desktop-2055-full-now-1280.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-fourth visible Token/Action row: AVGOX Sell $1.92 at $344.11, 3h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2055-helper-transactions.png (1280\u00d7800 RGB, mtime 20:58:42 ET, taskbar Fri Nov 13 8:58 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2055-full-now.png, /tmp/fomo-gorkbot-desktop-2055-full-now-official.png, and /tmp/fomo-gorkbot-desktop-2055-full-now-1280.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -603,7 +603,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "twenty-second visible Token/Action row: 4gng9A...HJrgwX Received +$1.13, 3h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2038-helper-transactions.png (1920×1200 RGB, mtime 20:40:17 ET, taskbar Fri Nov 13 8:40 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2038-full-now.png and /tmp/fomo-gorkbot-desktop-2038-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-second visible Token/Action row: 4gng9A...HJrgwX Received +$1.13, 3h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2038-helper-transactions.png (1920\u00d71200 RGB, mtime 20:40:17 ET, taskbar Fri Nov 13 8:40 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2038-full-now.png and /tmp/fomo-gorkbot-desktop-2038-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -615,7 +615,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "twenty-third visible Token/Action row: 4gng9A...HJrgwX Received +$0.65, 3h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2038-helper-transactions.png (1920×1200 RGB, mtime 20:40:17 ET, taskbar Fri Nov 13 8:40 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2038-full-now.png and /tmp/fomo-gorkbot-desktop-2038-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-third visible Token/Action row: 4gng9A...HJrgwX Received +$0.65, 3h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2038-helper-transactions.png (1920\u00d71200 RGB, mtime 20:40:17 ET, taskbar Fri Nov 13 8:40 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2038-full-now.png and /tmp/fomo-gorkbot-desktop-2038-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -627,7 +627,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 9.58e-05,
-      "note": "twenty-fourth visible Token/Action row: CSI Buy $2.80 at $0.0000958, 3h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2038-helper-transactions.png (1920×1200 RGB, mtime 20:40:17 ET, taskbar Fri Nov 13 8:40 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2038-full-now.png and /tmp/fomo-gorkbot-desktop-2038-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-fourth visible Token/Action row: CSI Buy $2.80 at $0.0000958, 3h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2038-helper-transactions.png (1920\u00d71200 RGB, mtime 20:40:17 ET, taskbar Fri Nov 13 8:40 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2038-full-now.png and /tmp/fomo-gorkbot-desktop-2038-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -639,7 +639,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 344.38,
-      "note": "twenty-first visible Token/Action row: AVGOX Sell $3.00 at $344.38, 3h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-first visible Token/Action row: AVGOX Sell $3.00 at $344.38, 3h. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920\u00d71200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -651,7 +651,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "twenty-second visible Token/Action row: 4gng9A...HJrgwX Received +$1.67, 3h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-second visible Token/Action row: 4gng9A...HJrgwX Received +$1.67, 3h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920\u00d71200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -663,7 +663,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "twenty-third visible Token/Action row: 4gng9A...HJrgwX Received +$0.21, 3h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-third visible Token/Action row: 4gng9A...HJrgwX Received +$0.21, 3h; no price shown. Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920\u00d71200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -675,7 +675,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000211,
-      "note": "twenty-fourth visible Token/Action row: CSI Buy $46.22 at $0.000211, 3h (bottom of un-scrolled official window). Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920×1200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-fourth visible Token/Action row: CSI Buy $46.22 at $0.000211, 3h (bottom of un-scrolled official window). Visible on official helper-transactions capture /tmp/fomo-gorkbot-desktop-2027-helper-transactions.png (1920\u00d71200 RGB, mtime 20:29:06 ET, taskbar Fri Nov 13 8:29 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2027-full-now.png and /tmp/fomo-gorkbot-desktop-2027-full-now-official.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -687,7 +687,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000228,
-      "note": "twentieth visible Token/Action row: CSI Buy $49.05 at $0.000228, 3h. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twentieth visible Token/Action row: CSI Buy $49.05 at $0.000228, 3h. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920\u00d71200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -699,7 +699,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "twenty-first visible Token/Action row: 4gng9A...HJrgwX Received +$0.84, 3h; no price shown. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-first visible Token/Action row: 4gng9A...HJrgwX Received +$0.84, 3h; no price shown. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920\u00d71200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -711,7 +711,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000278,
-      "note": "twenty-second visible Token/Action row: CSI Buy $49.05 at $0.000278, 3h. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-second visible Token/Action row: CSI Buy $49.05 at $0.000278, 3h. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920\u00d71200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -723,7 +723,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000312,
-      "note": "twenty-third visible Token/Action row: CSI Buy $99.05 at $0.000312, 3h. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-third visible Token/Action row: CSI Buy $99.05 at $0.000312, 3h. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920\u00d71200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -735,7 +735,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000204,
-      "note": "twenty-fourth visible Token/Action row: Sakura Sell $248.28 at $0.000204, 3h. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-fourth visible Token/Action row: Sakura Sell $248.28 at $0.000204, 3h. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920\u00d71200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -747,7 +747,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.00025,
-      "note": "twenty-fifth visible Token/Action row: Sakura Buy $2.20 at $0.000250, 3h. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920×1200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
+      "note": "twenty-fifth visible Token/Action row: Sakura Buy $2.20 at $0.000250, 3h. Visible on official full capture /tmp/fomo-gorkbot-desktop-2009-full-now.png (1920\u00d71200 RGB, mtime 20:13:51 ET, taskbar Fri Nov 13 8:13 PM; same bytes also at /tmp/fomo-gorkbot-desktop-2009-full-now-official.png and /tmp/fomo-gorkbot-desktop-2009-full-d2b-now.png); official Transactions (All) selected so this row is from that official shot."
     },
     {
       "ts": null,
@@ -759,7 +759,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000247,
-      "note": "fifteenth visible Token/Action row: Sakura Sell $0.49 at $0.000247, 1h (was still visible at official 17:23:21). Visible on official full capture /tmp/fomo-gorkbot-desktop-1741-full-now.png (1920×1200 RGB, mtime 17:43:51 ET, taskbar Fri Nov 13 5:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1741-full-now-official.png; a second :2 grab 8s later is /tmp/fomo-gorkbot-desktop-1741-full-now-b.png and /tmp/fomo-gorkbot-desktop-1741-full-d2b-now.png, mtime 17:43:59 ET, header and top-right chip both $185.78 / −$498.62 24h with CSI $183.62 / −$62.54 / −25.41%, token MC $187.3K, SOL $0.34 / −1.23%, AAPLX $0.00 / +3.26%, AVGOX $0.00 / −0.47%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1741-full-1280.png; crops under /tmp/fomo-1741-official/)."
+      "note": "fifteenth visible Token/Action row: Sakura Sell $0.49 at $0.000247, 1h (was still visible at official 17:23:21). Visible on official full capture /tmp/fomo-gorkbot-desktop-1741-full-now.png (1920\u00d71200 RGB, mtime 17:43:51 ET, taskbar Fri Nov 13 5:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1741-full-now-official.png; a second :2 grab 8s later is /tmp/fomo-gorkbot-desktop-1741-full-now-b.png and /tmp/fomo-gorkbot-desktop-1741-full-d2b-now.png, mtime 17:43:59 ET, header and top-right chip both $185.78 / \u2212$498.62 24h with CSI $183.62 / \u2212$62.54 / \u221225.41%, token MC $187.3K, SOL $0.34 / \u22121.23%, AAPLX $0.00 / +3.26%, AVGOX $0.00 / \u22120.47%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1741-full-1280.png; crops under /tmp/fomo-1741-official/)."
     },
     {
       "ts": null,
@@ -771,7 +771,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 79.13,
-      "note": "sixteenth visible Token/Action row: SOL Sell $2.01 at $79.13, 1h (was 1h at official 17:23:21). Visible on official full capture /tmp/fomo-gorkbot-desktop-1741-full-now.png (1920×1200 RGB, mtime 17:43:51 ET, taskbar Fri Nov 13 5:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1741-full-now-official.png; a second :2 grab 8s later is /tmp/fomo-gorkbot-desktop-1741-full-now-b.png and /tmp/fomo-gorkbot-desktop-1741-full-d2b-now.png, mtime 17:43:59 ET, header and top-right chip both $185.78 / −$498.62 24h with CSI $183.62 / −$62.54 / −25.41%, token MC $187.3K, SOL $0.34 / −1.23%, AAPLX $0.00 / +3.26%, AVGOX $0.00 / −0.47%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1741-full-1280.png; crops under /tmp/fomo-1741-official/)."
+      "note": "sixteenth visible Token/Action row: SOL Sell $2.01 at $79.13, 1h (was 1h at official 17:23:21). Visible on official full capture /tmp/fomo-gorkbot-desktop-1741-full-now.png (1920\u00d71200 RGB, mtime 17:43:51 ET, taskbar Fri Nov 13 5:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1741-full-now-official.png; a second :2 grab 8s later is /tmp/fomo-gorkbot-desktop-1741-full-now-b.png and /tmp/fomo-gorkbot-desktop-1741-full-d2b-now.png, mtime 17:43:59 ET, header and top-right chip both $185.78 / \u2212$498.62 24h with CSI $183.62 / \u2212$62.54 / \u221225.41%, token MC $187.3K, SOL $0.34 / \u22121.23%, AAPLX $0.00 / +3.26%, AVGOX $0.00 / \u22120.47%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1741-full-1280.png; crops under /tmp/fomo-1741-official/)."
     },
     {
       "ts": null,
@@ -783,7 +783,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000277,
-      "note": "seventeenth visible Token/Action row: Sakura Buy $2.56 at $0.000277, 3h (was still visible at official 17:23:21). Visible on official full capture /tmp/fomo-gorkbot-desktop-1741-full-now.png (1920×1200 RGB, mtime 17:43:51 ET, taskbar Fri Nov 13 5:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1741-full-now-official.png; a second :2 grab 8s later is /tmp/fomo-gorkbot-desktop-1741-full-now-b.png and /tmp/fomo-gorkbot-desktop-1741-full-d2b-now.png, mtime 17:43:59 ET, header and top-right chip both $185.78 / −$498.62 24h with CSI $183.62 / −$62.54 / −25.41%, token MC $187.3K, SOL $0.34 / −1.23%, AAPLX $0.00 / +3.26%, AVGOX $0.00 / −0.47%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1741-full-1280.png; crops under /tmp/fomo-1741-official/)."
+      "note": "seventeenth visible Token/Action row: Sakura Buy $2.56 at $0.000277, 3h (was still visible at official 17:23:21). Visible on official full capture /tmp/fomo-gorkbot-desktop-1741-full-now.png (1920\u00d71200 RGB, mtime 17:43:51 ET, taskbar Fri Nov 13 5:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1741-full-now-official.png; a second :2 grab 8s later is /tmp/fomo-gorkbot-desktop-1741-full-now-b.png and /tmp/fomo-gorkbot-desktop-1741-full-d2b-now.png, mtime 17:43:59 ET, header and top-right chip both $185.78 / \u2212$498.62 24h with CSI $183.62 / \u2212$62.54 / \u221225.41%, token MC $187.3K, SOL $0.34 / \u22121.23%, AAPLX $0.00 / +3.26%, AVGOX $0.00 / \u22120.47%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1741-full-1280.png; crops under /tmp/fomo-1741-official/)."
     },
     {
       "ts": null,
@@ -795,7 +795,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 80.07,
-      "note": "eighteenth visible Token/Action row: SOL Sell $1.88 at $80.07, 3h (was still visible at official 17:23:21). Visible on official full capture /tmp/fomo-gorkbot-desktop-1741-full-now.png (1920×1200 RGB, mtime 17:43:51 ET, taskbar Fri Nov 13 5:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1741-full-now-official.png; a second :2 grab 8s later is /tmp/fomo-gorkbot-desktop-1741-full-now-b.png and /tmp/fomo-gorkbot-desktop-1741-full-d2b-now.png, mtime 17:43:59 ET, header and top-right chip both $185.78 / −$498.62 24h with CSI $183.62 / −$62.54 / −25.41%, token MC $187.3K, SOL $0.34 / −1.23%, AAPLX $0.00 / +3.26%, AVGOX $0.00 / −0.47%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1741-full-1280.png; crops under /tmp/fomo-1741-official/)."
+      "note": "eighteenth visible Token/Action row: SOL Sell $1.88 at $80.07, 3h (was still visible at official 17:23:21). Visible on official full capture /tmp/fomo-gorkbot-desktop-1741-full-now.png (1920\u00d71200 RGB, mtime 17:43:51 ET, taskbar Fri Nov 13 5:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1741-full-now-official.png; a second :2 grab 8s later is /tmp/fomo-gorkbot-desktop-1741-full-now-b.png and /tmp/fomo-gorkbot-desktop-1741-full-d2b-now.png, mtime 17:43:59 ET, header and top-right chip both $185.78 / \u2212$498.62 24h with CSI $183.62 / \u2212$62.54 / \u221225.41%, token MC $187.3K, SOL $0.34 / \u22121.23%, AAPLX $0.00 / +3.26%, AVGOX $0.00 / \u22120.47%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1741-full-1280.png; crops under /tmp/fomo-1741-official/)."
     },
     {
       "ts": null,
@@ -807,7 +807,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000283,
-      "note": "nineteenth visible Token/Action row: Sakura Sell $0.98 at $0.000283, 3h (was still visible at official 17:23:21). Visible on official full capture /tmp/fomo-gorkbot-desktop-1741-full-now.png (1920×1200 RGB, mtime 17:43:51 ET, taskbar Fri Nov 13 5:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1741-full-now-official.png; a second :2 grab 8s later is /tmp/fomo-gorkbot-desktop-1741-full-now-b.png and /tmp/fomo-gorkbot-desktop-1741-full-d2b-now.png, mtime 17:43:59 ET, header and top-right chip both $185.78 / −$498.62 24h with CSI $183.62 / −$62.54 / −25.41%, token MC $187.3K, SOL $0.34 / −1.23%, AAPLX $0.00 / +3.26%, AVGOX $0.00 / −0.47%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1741-full-1280.png; crops under /tmp/fomo-1741-official/)."
+      "note": "nineteenth visible Token/Action row: Sakura Sell $0.98 at $0.000283, 3h (was still visible at official 17:23:21). Visible on official full capture /tmp/fomo-gorkbot-desktop-1741-full-now.png (1920\u00d71200 RGB, mtime 17:43:51 ET, taskbar Fri Nov 13 5:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1741-full-now-official.png; a second :2 grab 8s later is /tmp/fomo-gorkbot-desktop-1741-full-now-b.png and /tmp/fomo-gorkbot-desktop-1741-full-d2b-now.png, mtime 17:43:59 ET, header and top-right chip both $185.78 / \u2212$498.62 24h with CSI $183.62 / \u2212$62.54 / \u221225.41%, token MC $187.3K, SOL $0.34 / \u22121.23%, AAPLX $0.00 / +3.26%, AVGOX $0.00 / \u22120.47%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1741-full-1280.png; crops under /tmp/fomo-1741-official/)."
     },
     {
       "ts": null,
@@ -819,7 +819,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000344,
-      "note": "twentieth visible Token/Action row: Sakura Buy $1.95 at $0.000344, 4h (was still visible at official 17:23:21). Visible on official full capture /tmp/fomo-gorkbot-desktop-1741-full-now.png (1920×1200 RGB, mtime 17:43:51 ET, taskbar Fri Nov 13 5:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1741-full-now-official.png; a second :2 grab 8s later is /tmp/fomo-gorkbot-desktop-1741-full-now-b.png and /tmp/fomo-gorkbot-desktop-1741-full-d2b-now.png, mtime 17:43:59 ET, header and top-right chip both $185.78 / −$498.62 24h with CSI $183.62 / −$62.54 / −25.41%, token MC $187.3K, SOL $0.34 / −1.23%, AAPLX $0.00 / +3.26%, AVGOX $0.00 / −0.47%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1741-full-1280.png; crops under /tmp/fomo-1741-official/)."
+      "note": "twentieth visible Token/Action row: Sakura Buy $1.95 at $0.000344, 4h (was still visible at official 17:23:21). Visible on official full capture /tmp/fomo-gorkbot-desktop-1741-full-now.png (1920\u00d71200 RGB, mtime 17:43:51 ET, taskbar Fri Nov 13 5:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1741-full-now-official.png; a second :2 grab 8s later is /tmp/fomo-gorkbot-desktop-1741-full-now-b.png and /tmp/fomo-gorkbot-desktop-1741-full-d2b-now.png, mtime 17:43:59 ET, header and top-right chip both $185.78 / \u2212$498.62 24h with CSI $183.62 / \u2212$62.54 / \u221225.41%, token MC $187.3K, SOL $0.34 / \u22121.23%, AAPLX $0.00 / +3.26%, AVGOX $0.00 / \u22120.47%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1741-full-1280.png; crops under /tmp/fomo-1741-official/)."
     },
     {
       "ts": null,
@@ -831,7 +831,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 79.87,
-      "note": "twenty-first visible Token/Action row: SOL Sell $2.15 at $79.87, 4h (was still visible at official 17:23:21; last fully visible official row). Visible on official full capture /tmp/fomo-gorkbot-desktop-1741-full-now.png (1920×1200 RGB, mtime 17:43:51 ET, taskbar Fri Nov 13 5:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1741-full-now-official.png; a second :2 grab 8s later is /tmp/fomo-gorkbot-desktop-1741-full-now-b.png and /tmp/fomo-gorkbot-desktop-1741-full-d2b-now.png, mtime 17:43:59 ET, header and top-right chip both $185.78 / −$498.62 24h with CSI $183.62 / −$62.54 / −25.41%, token MC $187.3K, SOL $0.34 / −1.23%, AAPLX $0.00 / +3.26%, AVGOX $0.00 / −0.47%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1741-full-1280.png; crops under /tmp/fomo-1741-official/)."
+      "note": "twenty-first visible Token/Action row: SOL Sell $2.15 at $79.87, 4h (was still visible at official 17:23:21; last fully visible official row). Visible on official full capture /tmp/fomo-gorkbot-desktop-1741-full-now.png (1920\u00d71200 RGB, mtime 17:43:51 ET, taskbar Fri Nov 13 5:43 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1741-full-now-official.png; a second :2 grab 8s later is /tmp/fomo-gorkbot-desktop-1741-full-now-b.png and /tmp/fomo-gorkbot-desktop-1741-full-d2b-now.png, mtime 17:43:59 ET, header and top-right chip both $185.78 / \u2212$498.62 24h with CSI $183.62 / \u2212$62.54 / \u221225.41%, token MC $187.3K, SOL $0.34 / \u22121.23%, AAPLX $0.00 / +3.26%, AVGOX $0.00 / \u22120.47%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1741-full-1280.png; crops under /tmp/fomo-1741-official/)."
     },
     {
       "ts": null,
@@ -843,7 +843,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000384,
-      "note": "twentieth visible Token/Action row: Sakura Buy $23.92 at $0.000384, 5h (also 5h on the 17:22:50 helper transactions-top frame; was 5h at official 17:11:26). Visible on official full capture /tmp/fomo-gorkbot-desktop-1721-full-now.png (1920×1200 RGB, mtime 17:23:21 ET, taskbar Fri Nov 13 5:23 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1721-full-now-official.png; a second :2 grab 9s later is /tmp/fomo-gorkbot-desktop-1721-full-now-b.png and /tmp/fomo-gorkbot-desktop-1721-full-d2b-now.png, mtime 17:23:30 ET, header and top-right chip $257.74 / −$601.51 24h with CSI $256.67 / +$10.50 / +4.27%, token MC $261.9K, AVGOX $0.73 / +0.09%, SOL $0.34 / −1.17%, AAPLX $0.00 / +3.26%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1721-full-1280.png; crops under /tmp/fomo-1721-official/)."
+      "note": "twentieth visible Token/Action row: Sakura Buy $23.92 at $0.000384, 5h (also 5h on the 17:22:50 helper transactions-top frame; was 5h at official 17:11:26). Visible on official full capture /tmp/fomo-gorkbot-desktop-1721-full-now.png (1920\u00d71200 RGB, mtime 17:23:21 ET, taskbar Fri Nov 13 5:23 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1721-full-now-official.png; a second :2 grab 9s later is /tmp/fomo-gorkbot-desktop-1721-full-now-b.png and /tmp/fomo-gorkbot-desktop-1721-full-d2b-now.png, mtime 17:23:30 ET, header and top-right chip $257.74 / \u2212$601.51 24h with CSI $256.67 / +$10.50 / +4.27%, token MC $261.9K, AVGOX $0.73 / +0.09%, SOL $0.34 / \u22121.17%, AAPLX $0.00 / +3.26%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1721-full-1280.png; crops under /tmp/fomo-1721-official/)."
     },
     {
       "ts": null,
@@ -855,7 +855,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 79.54,
-      "note": "twenty-first visible Token/Action row: SOL Sell $24.50 at $79.54, 5h (also 5h on the 17:22:50 helper transactions-top frame; was 5h at official 17:11:26). Visible on official full capture /tmp/fomo-gorkbot-desktop-1721-full-now.png (1920×1200 RGB, mtime 17:23:21 ET, taskbar Fri Nov 13 5:23 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1721-full-now-official.png; a second :2 grab 9s later is /tmp/fomo-gorkbot-desktop-1721-full-now-b.png and /tmp/fomo-gorkbot-desktop-1721-full-d2b-now.png, mtime 17:23:30 ET, header and top-right chip $257.74 / −$601.51 24h with CSI $256.67 / +$10.50 / +4.27%, token MC $261.9K, AVGOX $0.73 / +0.09%, SOL $0.34 / −1.17%, AAPLX $0.00 / +3.26%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1721-full-1280.png; crops under /tmp/fomo-1721-official/)."
+      "note": "twenty-first visible Token/Action row: SOL Sell $24.50 at $79.54, 5h (also 5h on the 17:22:50 helper transactions-top frame; was 5h at official 17:11:26). Visible on official full capture /tmp/fomo-gorkbot-desktop-1721-full-now.png (1920\u00d71200 RGB, mtime 17:23:21 ET, taskbar Fri Nov 13 5:23 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1721-full-now-official.png; a second :2 grab 9s later is /tmp/fomo-gorkbot-desktop-1721-full-now-b.png and /tmp/fomo-gorkbot-desktop-1721-full-d2b-now.png, mtime 17:23:30 ET, header and top-right chip $257.74 / \u2212$601.51 24h with CSI $256.67 / +$10.50 / +4.27%, token MC $261.9K, AVGOX $0.73 / +0.09%, SOL $0.34 / \u22121.17%, AAPLX $0.00 / +3.26%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1721-full-1280.png; crops under /tmp/fomo-1721-official/)."
     },
     {
       "ts": null,
@@ -867,7 +867,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.00019,
-      "note": "twenty-second visible Token/Action row: Sakura Buy $2.49 at $0.000190, 12h (also 12h on the 17:22:50 helper transactions-top frame; was 12h at official 17:11:26). Visible on official full capture /tmp/fomo-gorkbot-desktop-1721-full-now.png (1920×1200 RGB, mtime 17:23:21 ET, taskbar Fri Nov 13 5:23 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1721-full-now-official.png; a second :2 grab 9s later is /tmp/fomo-gorkbot-desktop-1721-full-now-b.png and /tmp/fomo-gorkbot-desktop-1721-full-d2b-now.png, mtime 17:23:30 ET, header and top-right chip $257.74 / −$601.51 24h with CSI $256.67 / +$10.50 / +4.27%, token MC $261.9K, AVGOX $0.73 / +0.09%, SOL $0.34 / −1.17%, AAPLX $0.00 / +3.26%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1721-full-1280.png; crops under /tmp/fomo-1721-official/)."
+      "note": "twenty-second visible Token/Action row: Sakura Buy $2.49 at $0.000190, 12h (also 12h on the 17:22:50 helper transactions-top frame; was 12h at official 17:11:26). Visible on official full capture /tmp/fomo-gorkbot-desktop-1721-full-now.png (1920\u00d71200 RGB, mtime 17:23:21 ET, taskbar Fri Nov 13 5:23 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1721-full-now-official.png; a second :2 grab 9s later is /tmp/fomo-gorkbot-desktop-1721-full-now-b.png and /tmp/fomo-gorkbot-desktop-1721-full-d2b-now.png, mtime 17:23:30 ET, header and top-right chip $257.74 / \u2212$601.51 24h with CSI $256.67 / +$10.50 / +4.27%, token MC $261.9K, AVGOX $0.73 / +0.09%, SOL $0.34 / \u22121.17%, AAPLX $0.00 / +3.26%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1721-full-1280.png; crops under /tmp/fomo-1721-official/)."
     },
     {
       "ts": null,
@@ -879,7 +879,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000215,
-      "note": "twenty-third visible Token/Action row: Sakura Sell $0.73 at $0.000215, 12h (also 12h on the 17:22:50 helper transactions-top frame; was 12h at official 17:11:26). Visible on official full capture /tmp/fomo-gorkbot-desktop-1721-full-now.png (1920×1200 RGB, mtime 17:23:21 ET, taskbar Fri Nov 13 5:23 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1721-full-now-official.png; a second :2 grab 9s later is /tmp/fomo-gorkbot-desktop-1721-full-now-b.png and /tmp/fomo-gorkbot-desktop-1721-full-d2b-now.png, mtime 17:23:30 ET, header and top-right chip $257.74 / −$601.51 24h with CSI $256.67 / +$10.50 / +4.27%, token MC $261.9K, AVGOX $0.73 / +0.09%, SOL $0.34 / −1.17%, AAPLX $0.00 / +3.26%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1721-full-1280.png; crops under /tmp/fomo-1721-official/)."
+      "note": "twenty-third visible Token/Action row: Sakura Sell $0.73 at $0.000215, 12h (also 12h on the 17:22:50 helper transactions-top frame; was 12h at official 17:11:26). Visible on official full capture /tmp/fomo-gorkbot-desktop-1721-full-now.png (1920\u00d71200 RGB, mtime 17:23:21 ET, taskbar Fri Nov 13 5:23 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1721-full-now-official.png; a second :2 grab 9s later is /tmp/fomo-gorkbot-desktop-1721-full-now-b.png and /tmp/fomo-gorkbot-desktop-1721-full-d2b-now.png, mtime 17:23:30 ET, header and top-right chip $257.74 / \u2212$601.51 24h with CSI $256.67 / +$10.50 / +4.27%, token MC $261.9K, AVGOX $0.73 / +0.09%, SOL $0.34 / \u22121.17%, AAPLX $0.00 / +3.26%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1721-full-1280.png; crops under /tmp/fomo-1721-official/)."
     },
     {
       "ts": null,
@@ -891,7 +891,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 79.86,
-      "note": "twenty-fourth visible Token/Action row: SOL Sell $2.06 at $79.86, 12h (also 12h on the 17:22:50 helper transactions-top frame; was 12h at official 17:11:26). This is the last row in the un-scrolled official 1920×1200 Transactions window; Sakura Buy $6.55 at $0.000272, SOL Sell $6.79 at $79.67, and Sakura Buy $357.98 at $0.000321 have scrolled off (they were still visible at official 17:11:26, when the window went down through Sakura Buy $357.98, 13h). Visible on official full capture /tmp/fomo-gorkbot-desktop-1721-full-now.png (1920×1200 RGB, mtime 17:23:21 ET, taskbar Fri Nov 13 5:23 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1721-full-now-official.png; a second :2 grab 9s later is /tmp/fomo-gorkbot-desktop-1721-full-now-b.png and /tmp/fomo-gorkbot-desktop-1721-full-d2b-now.png, mtime 17:23:30 ET, header and top-right chip $257.74 / −$601.51 24h with CSI $256.67 / +$10.50 / +4.27%, token MC $261.9K, AVGOX $0.73 / +0.09%, SOL $0.34 / −1.17%, AAPLX $0.00 / +3.26%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1721-full-1280.png; crops under /tmp/fomo-1721-official/)."
+      "note": "twenty-fourth visible Token/Action row: SOL Sell $2.06 at $79.86, 12h (also 12h on the 17:22:50 helper transactions-top frame; was 12h at official 17:11:26). This is the last row in the un-scrolled official 1920\u00d71200 Transactions window; Sakura Buy $6.55 at $0.000272, SOL Sell $6.79 at $79.67, and Sakura Buy $357.98 at $0.000321 have scrolled off (they were still visible at official 17:11:26, when the window went down through Sakura Buy $357.98, 13h). Visible on official full capture /tmp/fomo-gorkbot-desktop-1721-full-now.png (1920\u00d71200 RGB, mtime 17:23:21 ET, taskbar Fri Nov 13 5:23 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1721-full-now-official.png; a second :2 grab 9s later is /tmp/fomo-gorkbot-desktop-1721-full-now-b.png and /tmp/fomo-gorkbot-desktop-1721-full-d2b-now.png, mtime 17:23:30 ET, header and top-right chip $257.74 / \u2212$601.51 24h with CSI $256.67 / +$10.50 / +4.27%, token MC $261.9K, AVGOX $0.73 / +0.09%, SOL $0.34 / \u22121.17%, AAPLX $0.00 / +3.26%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1721-full-1280.png; crops under /tmp/fomo-1721-official/)."
     },
     {
       "ts": null,
@@ -903,7 +903,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000272,
-      "note": "twenty-second visible Token/Action row: Sakura Buy $6.55 at $0.000272, 12h (also 12h on the 17:10:55 helper transactions-top frame). Visible on official full capture /tmp/fomo-gorkbot-desktop-1708-full-now.png (1920×1200 RGB, mtime 17:11:26 ET, taskbar Fri Nov 13 5:11 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1708-full-now-official.png; a second :2 grab 3s later is /tmp/fomo-gorkbot-desktop-1708-full-now-b.png and /tmp/fomo-gorkbot-desktop-1708-full-d2b-now.png, mtime 17:11:30 ET, still $101.62 / −$584.74 24h with CSI $98.28 / −$145.08 / −59.61%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1708-full-1280.png; crops under /tmp/fomo-1708-official/). Helper transactions-top /tmp/fomo-gorkbot-desktop-1708-transactions-top.png (3356×1830, mtime 17:10:55 ET) showed the same row slightly earlier."
+      "note": "twenty-second visible Token/Action row: Sakura Buy $6.55 at $0.000272, 12h (also 12h on the 17:10:55 helper transactions-top frame). Visible on official full capture /tmp/fomo-gorkbot-desktop-1708-full-now.png (1920\u00d71200 RGB, mtime 17:11:26 ET, taskbar Fri Nov 13 5:11 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1708-full-now-official.png; a second :2 grab 3s later is /tmp/fomo-gorkbot-desktop-1708-full-now-b.png and /tmp/fomo-gorkbot-desktop-1708-full-d2b-now.png, mtime 17:11:30 ET, still $101.62 / \u2212$584.74 24h with CSI $98.28 / \u2212$145.08 / \u221259.61%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1708-full-1280.png; crops under /tmp/fomo-1708-official/). Helper transactions-top /tmp/fomo-gorkbot-desktop-1708-transactions-top.png (3356\u00d71830, mtime 17:10:55 ET) showed the same row slightly earlier."
     },
     {
       "ts": null,
@@ -915,7 +915,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 79.67,
-      "note": "twenty-third visible Token/Action row: SOL Sell $6.79 at $79.67, 12h (also 12h on the 17:10:55 helper transactions-top frame). A New version available / Reload toast overlaps the token name on the official frame; the row is identified by $6.79 at $79.67 and the helper transactions-top frame. Visible on official full capture /tmp/fomo-gorkbot-desktop-1708-full-now.png (1920×1200 RGB, mtime 17:11:26 ET, taskbar Fri Nov 13 5:11 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1708-full-now-official.png; a second :2 grab 3s later is /tmp/fomo-gorkbot-desktop-1708-full-now-b.png and /tmp/fomo-gorkbot-desktop-1708-full-d2b-now.png, mtime 17:11:30 ET, still $101.62 / −$584.74 24h with CSI $98.28 / −$145.08 / −59.61%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1708-full-1280.png; crops under /tmp/fomo-1708-official/). Helper transactions-top /tmp/fomo-gorkbot-desktop-1708-transactions-top.png (3356×1830, mtime 17:10:55 ET) showed the same row slightly earlier."
+      "note": "twenty-third visible Token/Action row: SOL Sell $6.79 at $79.67, 12h (also 12h on the 17:10:55 helper transactions-top frame). A New version available / Reload toast overlaps the token name on the official frame; the row is identified by $6.79 at $79.67 and the helper transactions-top frame. Visible on official full capture /tmp/fomo-gorkbot-desktop-1708-full-now.png (1920\u00d71200 RGB, mtime 17:11:26 ET, taskbar Fri Nov 13 5:11 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1708-full-now-official.png; a second :2 grab 3s later is /tmp/fomo-gorkbot-desktop-1708-full-now-b.png and /tmp/fomo-gorkbot-desktop-1708-full-d2b-now.png, mtime 17:11:30 ET, still $101.62 / \u2212$584.74 24h with CSI $98.28 / \u2212$145.08 / \u221259.61%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1708-full-1280.png; crops under /tmp/fomo-1708-official/). Helper transactions-top /tmp/fomo-gorkbot-desktop-1708-transactions-top.png (3356\u00d71830, mtime 17:10:55 ET) showed the same row slightly earlier."
     },
     {
       "ts": null,
@@ -927,7 +927,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000321,
-      "note": "twenty-fourth visible Token/Action row: Sakura Buy $357.98 at $0.000321, 13h (also 13h on the 17:10:55 helper transactions-top frame). Last fully visible row in the un-scrolled official 1920×1200 Transactions window; mihao Sell $361.20 at $0.0140 has scrolled off (it was still the 25th helper row at 17:10:55). Visible on official full capture /tmp/fomo-gorkbot-desktop-1708-full-now.png (1920×1200 RGB, mtime 17:11:26 ET, taskbar Fri Nov 13 5:11 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1708-full-now-official.png; a second :2 grab 3s later is /tmp/fomo-gorkbot-desktop-1708-full-now-b.png and /tmp/fomo-gorkbot-desktop-1708-full-d2b-now.png, mtime 17:11:30 ET, still $101.62 / −$584.74 24h with CSI $98.28 / −$145.08 / −59.61%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1708-full-1280.png; crops under /tmp/fomo-1708-official/). Helper transactions-top /tmp/fomo-gorkbot-desktop-1708-transactions-top.png (3356×1830, mtime 17:10:55 ET) showed the same row slightly earlier."
+      "note": "twenty-fourth visible Token/Action row: Sakura Buy $357.98 at $0.000321, 13h (also 13h on the 17:10:55 helper transactions-top frame). Last fully visible row in the un-scrolled official 1920\u00d71200 Transactions window; mihao Sell $361.20 at $0.0140 has scrolled off (it was still the 25th helper row at 17:10:55). Visible on official full capture /tmp/fomo-gorkbot-desktop-1708-full-now.png (1920\u00d71200 RGB, mtime 17:11:26 ET, taskbar Fri Nov 13 5:11 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1708-full-now-official.png; a second :2 grab 3s later is /tmp/fomo-gorkbot-desktop-1708-full-now-b.png and /tmp/fomo-gorkbot-desktop-1708-full-d2b-now.png, mtime 17:11:30 ET, still $101.62 / \u2212$584.74 24h with CSI $98.28 / \u2212$145.08 / \u221259.61%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1708-full-1280.png; crops under /tmp/fomo-1708-official/). Helper transactions-top /tmp/fomo-gorkbot-desktop-1708-transactions-top.png (3356\u00d71830, mtime 17:10:55 ET) showed the same row slightly earlier."
     },
     {
       "ts": null,
@@ -939,7 +939,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.014,
-      "note": "twenty-third visible Token/Action row: mihao Sell $361.20 at $0.0140, 13h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1653-full-now.png (1920×1200 RGB, mtime 16:56:03 ET, taskbar Fri Nov 13 4:56 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1653-full-now-official.png; a second :2 grab 3s later is /tmp/fomo-gorkbot-desktop-1653-full-now-b.png and /tmp/fomo-gorkbot-desktop-1653-full-d2b-now.png, mtime 16:56:07 ET, $171.49 / −$442.45 24h with CSI $170.23 / −$73.13 / −30.05%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1653-full-1280.png; crops under /tmp/fomo-1653-official/)."
+      "note": "twenty-third visible Token/Action row: mihao Sell $361.20 at $0.0140, 13h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1653-full-now.png (1920\u00d71200 RGB, mtime 16:56:03 ET, taskbar Fri Nov 13 4:56 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1653-full-now-official.png; a second :2 grab 3s later is /tmp/fomo-gorkbot-desktop-1653-full-now-b.png and /tmp/fomo-gorkbot-desktop-1653-full-d2b-now.png, mtime 16:56:07 ET, $171.49 / \u2212$442.45 24h with CSI $170.23 / \u2212$73.13 / \u221230.05%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1653-full-1280.png; crops under /tmp/fomo-1653-official/)."
     },
     {
       "ts": null,
@@ -951,7 +951,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.0149,
-      "note": "twenty-fourth visible Token/Action row: mihao Buy $387.46 at $0.0149, 14h (last fully visible un-scrolled official row; PEPE / NVDAX have scrolled off). Visible on official full capture /tmp/fomo-gorkbot-desktop-1653-full-now.png (1920×1200 RGB, mtime 16:56:03 ET, taskbar Fri Nov 13 4:56 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1653-full-now-official.png; a second :2 grab 3s later is /tmp/fomo-gorkbot-desktop-1653-full-now-b.png and /tmp/fomo-gorkbot-desktop-1653-full-d2b-now.png, mtime 16:56:07 ET, $171.49 / −$442.45 24h with CSI $170.23 / −$73.13 / −30.05%; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1653-full-1280.png; crops under /tmp/fomo-1653-official/)."
+      "note": "twenty-fourth visible Token/Action row: mihao Buy $387.46 at $0.0149, 14h (last fully visible un-scrolled official row; PEPE / NVDAX have scrolled off). Visible on official full capture /tmp/fomo-gorkbot-desktop-1653-full-now.png (1920\u00d71200 RGB, mtime 16:56:03 ET, taskbar Fri Nov 13 4:56 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1653-full-now-official.png; a second :2 grab 3s later is /tmp/fomo-gorkbot-desktop-1653-full-now-b.png and /tmp/fomo-gorkbot-desktop-1653-full-d2b-now.png, mtime 16:56:07 ET, $171.49 / \u2212$442.45 24h with CSI $170.23 / \u2212$73.13 / \u221230.05%; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1653-full-1280.png; crops under /tmp/fomo-1653-official/)."
     },
     {
       "ts": null,
@@ -963,7 +963,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 4.53e-06,
-      "note": "nineteenth row: PEPE Sell $372.34 at $0.00000453, 14h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1640-full-now.png (1920×1200 RGB, mtime 16:42:36 ET, taskbar Fri Nov 13 4:42 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1640-full-now-official.png; a second :2 grab 3s later is /tmp/fomo-gorkbot-desktop-1640-full-now-b.png and /tmp/fomo-gorkbot-desktop-1640-full-d2b-now.png, mtime 16:42:39 ET, still $248.29 / −$427.47 24h; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1640-full-1280.png; crops under /tmp/fomo-1640-official/)."
+      "note": "nineteenth row: PEPE Sell $372.34 at $0.00000453, 14h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1640-full-now.png (1920\u00d71200 RGB, mtime 16:42:36 ET, taskbar Fri Nov 13 4:42 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1640-full-now-official.png; a second :2 grab 3s later is /tmp/fomo-gorkbot-desktop-1640-full-now-b.png and /tmp/fomo-gorkbot-desktop-1640-full-d2b-now.png, mtime 16:42:39 ET, still $248.29 / \u2212$427.47 24h; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1640-full-1280.png; crops under /tmp/fomo-1640-official/)."
     },
     {
       "ts": null,
@@ -975,7 +975,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 4.55e-06,
-      "note": "twentieth row: PEPE Buy $373.95 at $0.00000455, 14h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1640-full-now.png (1920×1200 RGB, mtime 16:42:36 ET, taskbar Fri Nov 13 4:42 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1640-full-now-official.png; a second :2 grab 3s later is /tmp/fomo-gorkbot-desktop-1640-full-now-b.png and /tmp/fomo-gorkbot-desktop-1640-full-d2b-now.png, mtime 16:42:39 ET, still $248.29 / −$427.47 24h; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1640-full-1280.png; crops under /tmp/fomo-1640-official/)."
+      "note": "twentieth row: PEPE Buy $373.95 at $0.00000455, 14h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1640-full-now.png (1920\u00d71200 RGB, mtime 16:42:36 ET, taskbar Fri Nov 13 4:42 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1640-full-now-official.png; a second :2 grab 3s later is /tmp/fomo-gorkbot-desktop-1640-full-now-b.png and /tmp/fomo-gorkbot-desktop-1640-full-d2b-now.png, mtime 16:42:39 ET, still $248.29 / \u2212$427.47 24h; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1640-full-1280.png; crops under /tmp/fomo-1640-official/)."
     },
     {
       "ts": null,
@@ -987,7 +987,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 164.23,
-      "note": "twenty-first row: NVDAX Sell $1.52 at $164.23, 15h (was 14h at official 16:25:06). Visible on official full capture /tmp/fomo-gorkbot-desktop-1640-full-now.png (1920×1200 RGB, mtime 16:42:36 ET, taskbar Fri Nov 13 4:42 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1640-full-now-official.png; a second :2 grab 3s later is /tmp/fomo-gorkbot-desktop-1640-full-now-b.png and /tmp/fomo-gorkbot-desktop-1640-full-d2b-now.png, mtime 16:42:39 ET, still $248.29 / −$427.47 24h; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1640-full-1280.png; crops under /tmp/fomo-1640-official/). Last visible un-scrolled official Transactions row; no GTA6 row; FLOAT still gone."
+      "note": "twenty-first row: NVDAX Sell $1.52 at $164.23, 15h (was 14h at official 16:25:06). Visible on official full capture /tmp/fomo-gorkbot-desktop-1640-full-now.png (1920\u00d71200 RGB, mtime 16:42:36 ET, taskbar Fri Nov 13 4:42 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1640-full-now-official.png; a second :2 grab 3s later is /tmp/fomo-gorkbot-desktop-1640-full-now-b.png and /tmp/fomo-gorkbot-desktop-1640-full-d2b-now.png, mtime 16:42:39 ET, still $248.29 / \u2212$427.47 24h; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1640-full-1280.png; crops under /tmp/fomo-1640-official/). Last visible un-scrolled official Transactions row; no GTA6 row; FLOAT still gone."
     },
     {
       "ts": null,
@@ -999,7 +999,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 79.87,
-      "note": "nineteenth row: SOL Sell $2.98 at $79.87, 14h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1553-full-now.png (1920×1200 RGB, mtime 15:59:32 ET, taskbar Fri Nov 13 3:59 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1553-full-now-official.png and /tmp/fomo-gorkbot-desktop-1553-full-now-b.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1553-full-1280.png; crops under /tmp/fomo-1553-official/)."
+      "note": "nineteenth row: SOL Sell $2.98 at $79.87, 14h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1553-full-now.png (1920\u00d71200 RGB, mtime 15:59:32 ET, taskbar Fri Nov 13 3:59 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1553-full-now-official.png and /tmp/fomo-gorkbot-desktop-1553-full-now-b.png; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1553-full-1280.png; crops under /tmp/fomo-1553-official/)."
     },
     {
       "ts": null,
@@ -1011,7 +1011,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 8.72e-06,
-      "note": "twentieth row: believe Sell $13.02 at $0.00000872, 14h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1553-full-now.png (1920×1200 RGB, mtime 15:59:32 ET, taskbar Fri Nov 13 3:59 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1553-full-now-official.png and /tmp/fomo-gorkbot-desktop-1553-full-now-b.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1553-full-1280.png; crops under /tmp/fomo-1553-official/)."
+      "note": "twentieth row: believe Sell $13.02 at $0.00000872, 14h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1553-full-now.png (1920\u00d71200 RGB, mtime 15:59:32 ET, taskbar Fri Nov 13 3:59 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1553-full-now-official.png and /tmp/fomo-gorkbot-desktop-1553-full-now-b.png; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1553-full-1280.png; crops under /tmp/fomo-1553-official/)."
     },
     {
       "ts": null,
@@ -1023,7 +1023,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 6e-05,
-      "note": "twenty-first row: believe Buy $91.91 at $0.0000600, 14h. Last row visible in the un-scrolled official 1920×1200 Transactions window. Visible on official full capture /tmp/fomo-gorkbot-desktop-1553-full-now.png (1920×1200 RGB, mtime 15:59:32 ET, taskbar Fri Nov 13 3:59 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1553-full-now-official.png and /tmp/fomo-gorkbot-desktop-1553-full-now-b.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1553-full-1280.png; crops under /tmp/fomo-1553-official/)."
+      "note": "twenty-first row: believe Buy $91.91 at $0.0000600, 14h. Last row visible in the un-scrolled official 1920\u00d71200 Transactions window. Visible on official full capture /tmp/fomo-gorkbot-desktop-1553-full-now.png (1920\u00d71200 RGB, mtime 15:59:32 ET, taskbar Fri Nov 13 3:59 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1553-full-now-official.png and /tmp/fomo-gorkbot-desktop-1553-full-now-b.png; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1553-full-1280.png; crops under /tmp/fomo-1553-official/)."
     },
     {
       "ts": null,
@@ -1035,7 +1035,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000141,
-      "note": "nineteenth row: AI Sell $93.26 at $0.000141, 12h (still 12h at 13:56:43, 13:49:21, 13:39:29, and 13:16:59; was 11h at 13:05:20 and 12:50:45). Official ok-tx-bottom-x4.png shows 12h, not 13h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1401-full-now.png (1920×1200 RGB, mtime 14:04:52 ET, taskbar Fri Nov 13 2:04 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1401-full-now-official.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1401-full-1280.png; crops under /tmp/fomo-1401-official/) at 14:04:52 ET, Transactions + All, un-scrolled. Visible on the 14:46:25 helper transactions frame /tmp/fomo-gorkbot-desktop-1443-transactions-top.png (All, un-scrolled; helper reported 13h for this row) but below the fold on the official un-scrolled 1920×1200 Transactions window at 14:48:40."
+      "note": "nineteenth row: AI Sell $93.26 at $0.000141, 12h (still 12h at 13:56:43, 13:49:21, 13:39:29, and 13:16:59; was 11h at 13:05:20 and 12:50:45). Official ok-tx-bottom-x4.png shows 12h, not 13h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1401-full-now.png (1920\u00d71200 RGB, mtime 14:04:52 ET, taskbar Fri Nov 13 2:04 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1401-full-now-official.png; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1401-full-1280.png; crops under /tmp/fomo-1401-official/) at 14:04:52 ET, Transactions + All, un-scrolled. Visible on the 14:46:25 helper transactions frame /tmp/fomo-gorkbot-desktop-1443-transactions-top.png (All, un-scrolled; helper reported 13h for this row) but below the fold on the official un-scrolled 1920\u00d71200 Transactions window at 14:48:40."
     },
     {
       "ts": null,
@@ -1047,7 +1047,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "twentieth row: GAHu6t...q75D7V Received +$0.45; no price shown, 13h (was 12h at 13:56:43, 13:49:21, 13:39:29, and 13:16:59). Visible on official full capture /tmp/fomo-gorkbot-desktop-1401-full-now.png (1920×1200 RGB, mtime 14:04:52 ET, taskbar Fri Nov 13 2:04 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1401-full-now-official.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1401-full-1280.png; crops under /tmp/fomo-1401-official/) at 14:04:52 ET, Transactions + All, un-scrolled. Visible on the 14:46:25 helper transactions frame /tmp/fomo-gorkbot-desktop-1443-transactions-top.png (All, un-scrolled; helper reported 13h for this row) but below the fold on the official un-scrolled 1920×1200 Transactions window at 14:48:40."
+      "note": "twentieth row: GAHu6t...q75D7V Received +$0.45; no price shown, 13h (was 12h at 13:56:43, 13:49:21, 13:39:29, and 13:16:59). Visible on official full capture /tmp/fomo-gorkbot-desktop-1401-full-now.png (1920\u00d71200 RGB, mtime 14:04:52 ET, taskbar Fri Nov 13 2:04 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1401-full-now-official.png; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1401-full-1280.png; crops under /tmp/fomo-1401-official/) at 14:04:52 ET, Transactions + All, un-scrolled. Visible on the 14:46:25 helper transactions frame /tmp/fomo-gorkbot-desktop-1443-transactions-top.png (All, un-scrolled; helper reported 13h for this row) but below the fold on the official un-scrolled 1920\u00d71200 Transactions window at 14:48:40."
     },
     {
       "ts": null,
@@ -1059,7 +1059,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "twenty-first row: GAHu6t...q75D7V Received +$0.19; no price shown, 13h (still 13h at 13:56:43; was 12h at 13:39:29 and 13:16:59). Last fully readable row on the official un-scrolled list; the row sits at the ticker edge but amount, side, age, and the q75D7V suffix are readable (crops /tmp/fomo-1401-official/ok-tx-bottom-x4.png, /tmp/fomo-1401-official/ok-txnames-try0-x4.png). Visible on official full capture /tmp/fomo-gorkbot-desktop-1401-full-now.png (1920×1200 RGB, mtime 14:04:52 ET, taskbar Fri Nov 13 2:04 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1401-full-now-official.png; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1401-full-1280.png; crops under /tmp/fomo-1401-official/) at 14:04:52 ET, Transactions + All, un-scrolled. Visible on the 14:46:25 helper transactions frame /tmp/fomo-gorkbot-desktop-1443-transactions-top.png (All, un-scrolled; helper reported 13h for this row) but below the fold on the official un-scrolled 1920×1200 Transactions window at 14:48:40."
+      "note": "twenty-first row: GAHu6t...q75D7V Received +$0.19; no price shown, 13h (still 13h at 13:56:43; was 12h at 13:39:29 and 13:16:59). Last fully readable row on the official un-scrolled list; the row sits at the ticker edge but amount, side, age, and the q75D7V suffix are readable (crops /tmp/fomo-1401-official/ok-tx-bottom-x4.png, /tmp/fomo-1401-official/ok-txnames-try0-x4.png). Visible on official full capture /tmp/fomo-gorkbot-desktop-1401-full-now.png (1920\u00d71200 RGB, mtime 14:04:52 ET, taskbar Fri Nov 13 2:04 PM; same bytes also at /tmp/fomo-gorkbot-desktop-1401-full-now-official.png; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1401-full-1280.png; crops under /tmp/fomo-1401-official/) at 14:04:52 ET, Transactions + All, un-scrolled. Visible on the 14:46:25 helper transactions frame /tmp/fomo-gorkbot-desktop-1443-transactions-top.png (All, un-scrolled; helper reported 13h for this row) but below the fold on the official un-scrolled 1920\u00d71200 Transactions window at 14:48:40."
     },
     {
       "ts": null,
@@ -1071,7 +1071,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000285,
-      "note": "twentieth row: AI Buy $1.90 at $0.000285, 12h (still 12h at 13:16:59, 13:05:20, and 12:50:45). Visible on official full capture /tmp/fomo-gorkbot-desktop-1333-full-now.png (1920×1200 RGB, mtime 13:39:29 ET, taskbar Fri Nov 13 1:39 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1333-full-1280.png; crops under /tmp/fomo-1333-official/) at 13:39:29 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions list visible. Visible on the 14:46:25 helper transactions frame /tmp/fomo-gorkbot-desktop-1443-transactions-top.png (All, un-scrolled; helper reported 13h for this row) but below the fold on the official un-scrolled 1920×1200 Transactions window at 14:48:40."
+      "note": "twentieth row: AI Buy $1.90 at $0.000285, 12h (still 12h at 13:16:59, 13:05:20, and 12:50:45). Visible on official full capture /tmp/fomo-gorkbot-desktop-1333-full-now.png (1920\u00d71200 RGB, mtime 13:39:29 ET, taskbar Fri Nov 13 1:39 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1333-full-1280.png; crops under /tmp/fomo-1333-official/) at 13:39:29 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions list visible. Visible on the 14:46:25 helper transactions frame /tmp/fomo-gorkbot-desktop-1443-transactions-top.png (All, un-scrolled; helper reported 13h for this row) but below the fold on the official un-scrolled 1920\u00d71200 Transactions window at 14:48:40."
     },
     {
       "ts": null,
@@ -1083,7 +1083,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000289,
-      "note": "twenty-first row: AI Buy $1.90 at $0.000289, 12h (still 12h at 13:16:59, 13:05:20, and 12:50:45). Last fully readable row on the official un-scrolled list; the ticker overlaps the bottom of this row but Token/Action/Amount/Price/Time are all readable. Visible on official full capture /tmp/fomo-gorkbot-desktop-1333-full-now.png (1920×1200 RGB, mtime 13:39:29 ET, taskbar Fri Nov 13 1:39 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1333-full-1280.png; crops under /tmp/fomo-1333-official/) at 13:39:29 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions list visible."
+      "note": "twenty-first row: AI Buy $1.90 at $0.000289, 12h (still 12h at 13:16:59, 13:05:20, and 12:50:45). Last fully readable row on the official un-scrolled list; the ticker overlaps the bottom of this row but Token/Action/Amount/Price/Time are all readable. Visible on official full capture /tmp/fomo-gorkbot-desktop-1333-full-now.png (1920\u00d71200 RGB, mtime 13:39:29 ET, taskbar Fri Nov 13 1:39 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1333-full-1280.png; crops under /tmp/fomo-1333-official/) at 13:39:29 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions list visible."
     },
     {
       "ts": null,
@@ -1095,7 +1095,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000284,
-      "note": "twenty-second row: AI Buy $1.90 at $0.000284, 12h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
+      "note": "twenty-second row: AI Buy $1.90 at $0.000284, 12h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920\u00d71200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356\u00d71830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -1107,7 +1107,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000285,
-      "note": "twenty-third row: AI Buy $1.90 at $0.000285, 12h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
+      "note": "twenty-third row: AI Buy $1.90 at $0.000285, 12h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920\u00d71200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356\u00d71830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -1119,7 +1119,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000284,
-      "note": "twenty-fourth row: AI Buy $1.90 at $0.000284, 12h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
+      "note": "twenty-fourth row: AI Buy $1.90 at $0.000284, 12h. Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920\u00d71200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356\u00d71830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -1131,7 +1131,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000285,
-      "note": "twenty-fifth row: AI Buy $1.90 at $0.000285, 12h (last fully visible row on the official 12:50:45 frame; helper transactions-top also showed a 26th partial AI Buy $1.90 at $0.000289, 12h, which was not fully visible on the official shot). Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920×1200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356×1830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
+      "note": "twenty-fifth row: AI Buy $1.90 at $0.000285, 12h (last fully visible row on the official 12:50:45 frame; helper transactions-top also showed a 26th partial AI Buy $1.90 at $0.000289, 12h, which was not fully visible on the official shot). Visible on official full capture /tmp/fomo-gorkbot-desktop-1243-full-now.png (1920\u00d71200 RGB, mtime 12:50:45 ET, taskbar Fri Nov 13 12:50 PM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1243-full-1280.png; crops under /tmp/fomo-1243-official/) at 12:50:45 ET. Official frame had Transactions + All selected, un-scrolled, with the left Your positions panel visible (Show dust on, Open, All). Helper transactions-top /tmp/fomo-gorkbot-desktop-1243-transactions-top.png (3356\u00d71830, mtime 12:48:44 ET) showed the same un-scrolled top rows (first two ages 52m). Crops: /tmp/fomo-1243-official/ok-tx0-x4.png, /tmp/fomo-1243-official/tx-left.png, /tmp/fomo-1243-official/ok-txfulltop-x2.png, /tmp/fomo-1243-official/tx-bottom-x3.png."
     },
     {
       "ts": null,
@@ -1143,7 +1143,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": 0.000289,
-      "note": "twenty-fourth (last fully visible) row: AI Buy $1.90 at $0.000289, 11h (age was 10h at 11:34:27) at the bottom of the official un-scrolled Transactions window Visible on official full capture /tmp/fomo-gorkbot-desktop-1144-full-now.png (1920×1200 RGB, mtime 11:50:27 ET, taskbar Fri Nov 13 11:50 AM; LANCZOS 1280×800 copy /tmp/fomo-gorkbot-desktop-1144-full-1280.png; crops under /tmp/fomo-1144-official/) at 11:50:27 ET. Transactions + All selected, un-scrolled."
+      "note": "twenty-fourth (last fully visible) row: AI Buy $1.90 at $0.000289, 11h (age was 10h at 11:34:27) at the bottom of the official un-scrolled Transactions window Visible on official full capture /tmp/fomo-gorkbot-desktop-1144-full-now.png (1920\u00d71200 RGB, mtime 11:50:27 ET, taskbar Fri Nov 13 11:50 AM; LANCZOS 1280\u00d7800 copy /tmp/fomo-gorkbot-desktop-1144-full-1280.png; crops under /tmp/fomo-1144-official/) at 11:50:27 ET. Transactions + All selected, un-scrolled."
     },
     {
       "ts": null,
@@ -1155,7 +1155,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still the newest visible Token/Action row: GAHu6t…q75D7V Received +$0.11, 39m, at the top of official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png (crops /tmp/fomo-2256-official/tx-tx-head-z.png and /tmp/fomo-2256-official/tx-txtop-only-4x.png) at 23:00:08 ET (taskbar 10:59 PM). Official Open /tmp/fomo-gorkbot-desktop-2256-open.png at 22:59:45 had Feed selected, so Token/Action rows are taken from official transactions-top with Transactions and All already selected and Action/Amount/Price/Time columns visible. Same newest row as 22:44:49, when it was 23m. Relative 39m on the 10:59 PM transactions-top shot is about 10:20 PM ET; ts left null."
+      "note": "still the newest visible Token/Action row: GAHu6t\u2026q75D7V Received +$0.11, 39m, at the top of official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png (crops /tmp/fomo-2256-official/tx-tx-head-z.png and /tmp/fomo-2256-official/tx-txtop-only-4x.png) at 23:00:08 ET (taskbar 10:59 PM). Official Open /tmp/fomo-gorkbot-desktop-2256-open.png at 22:59:45 had Feed selected, so Token/Action rows are taken from official transactions-top with Transactions and All already selected and Action/Amount/Price/Time columns visible. Same newest row as 22:44:49, when it was 23m. Relative 39m on the 10:59 PM transactions-top shot is about 10:20 PM ET; ts left null."
     },
     {
       "ts": null,
@@ -1167,7 +1167,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the second row GAHu6t…q75D7V Received +$0.23, 1h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
+      "note": "still visible as the second row GAHu6t\u2026q75D7V Received +$0.23, 1h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
     },
     {
       "ts": null,
@@ -1179,7 +1179,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the third row GAHu6t…q75D7V Received +$0.16, 2h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
+      "note": "still visible as the third row GAHu6t\u2026q75D7V Received +$0.16, 2h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
     },
     {
       "ts": null,
@@ -1191,7 +1191,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the fourth row GAHu6t…q75D7V Received +$0.11, 2h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
+      "note": "still visible as the fourth row GAHu6t\u2026q75D7V Received +$0.11, 2h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
     },
     {
       "ts": null,
@@ -1203,7 +1203,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the fifth row GAHu6t…q75D7V Received +$0.42, 2h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
+      "note": "still visible as the fifth row GAHu6t\u2026q75D7V Received +$0.42, 2h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
     },
     {
       "ts": null,
@@ -1215,7 +1215,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the sixth row GAHu6t…q75D7V Received +$0.21, 3h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
+      "note": "still visible as the sixth row GAHu6t\u2026q75D7V Received +$0.21, 3h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
     },
     {
       "ts": null,
@@ -1227,7 +1227,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the seventh row GAHu6t…q75D7V Received +$0.16, 3h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
+      "note": "still visible as the seventh row GAHu6t\u2026q75D7V Received +$0.16, 3h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
     },
     {
       "ts": null,
@@ -1239,7 +1239,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the eighth row GAHu6t…q75D7V Received +$0.66, 3h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
+      "note": "still visible as the eighth row GAHu6t\u2026q75D7V Received +$0.66, 3h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txtop-only-4x.png)."
     },
     {
       "ts": null,
@@ -1251,7 +1251,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the ninth row GAHu6t…q75D7V Received +$0.37, 4h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crops /tmp/fomo-2256-official/tx-txtop-only-4x.png and /tmp/fomo-2256-official/tx-txmid-4x.png)."
+      "note": "still visible as the ninth row GAHu6t\u2026q75D7V Received +$0.37, 4h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crops /tmp/fomo-2256-official/tx-txtop-only-4x.png and /tmp/fomo-2256-official/tx-txmid-4x.png)."
     },
     {
       "ts": null,
@@ -1263,7 +1263,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the tenth row GAHu6t…q75D7V Received +$0.55, 4h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crops /tmp/fomo-2256-official/tx-txtop-only-4x.png and /tmp/fomo-2256-official/tx-txmid-4x.png)."
+      "note": "still visible as the tenth row GAHu6t\u2026q75D7V Received +$0.55, 4h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crops /tmp/fomo-2256-official/tx-txtop-only-4x.png and /tmp/fomo-2256-official/tx-txmid-4x.png)."
     },
     {
       "ts": null,
@@ -1275,7 +1275,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as the eleventh row GAHu6t…q75D7V Received +$0.20, 4h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txmid-4x.png)."
+      "note": "still visible as the eleventh row GAHu6t\u2026q75D7V Received +$0.20, 4h, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txmid-4x.png)."
     },
     {
       "ts": null,
@@ -1323,7 +1323,7 @@
       "pnl_pct": null,
       "by": "feed",
       "price": null,
-      "note": "still visible as bVeSJT…cg46Vr Sent -$1.09, price blank, 1w, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txmid-4x.png)."
+      "note": "still visible as bVeSJT\u2026cg46Vr Sent -$1.09, price blank, 1w, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-txmid-4x.png)."
     },
     {
       "ts": null,
@@ -1574,7 +1574,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "still visible as 2bnNGc…g5pjVD Received +$3.06, price blank, 1w, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crops /tmp/fomo-2256-official/tx-txmid-4x.png and /tmp/fomo-2256-official/tx-bottom-4x.png).",
+      "note": "still visible as 2bnNGc\u2026g5pjVD Received +$3.06, price blank, 1w, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crops /tmp/fomo-2256-official/tx-txmid-4x.png and /tmp/fomo-2256-official/tx-bottom-4x.png).",
       "price": null
     },
     {
@@ -1586,7 +1586,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "still visible as bVeSJT…cg46Vr Sent -$81.80, price blank, 1w, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-bottom-4x.png).",
+      "note": "still visible as bVeSJT\u2026cg46Vr Sent -$81.80, price blank, 1w, on official transactions-top /tmp/fomo-gorkbot-desktop-2256-transactions-top.png at 23:00:08 ET (crop /tmp/fomo-2256-official/tx-bottom-4x.png).",
       "price": null
     },
     {
@@ -1682,7 +1682,7 @@
       "pnl_usd": null,
       "pnl_pct": null,
       "by": "feed",
-      "note": "twentieth fully visible row bVeSJT…cg46Vr Sent -$106.99, price blank, 1w on /tmp/fomo-gorkbot-desktop-1815-transactions-top.png (crop /tmp/fomo-1815-crops/tx-rows-all.png) at 18:18:17 ET.",
+      "note": "twentieth fully visible row bVeSJT\u2026cg46Vr Sent -$106.99, price blank, 1w on /tmp/fomo-gorkbot-desktop-1815-transactions-top.png (crop /tmp/fomo-1815-crops/tx-rows-all.png) at 18:18:17 ET.",
       "price": null
     },
     {
@@ -2012,7 +2012,7 @@
     {
       "ts": null,
       "side": "sell",
-      "token": "盘古币",
+      "token": "\u76d8\u53e4\u5e01",
       "usd": 15.86,
       "mcap": null,
       "pnl_usd": null,
@@ -2024,7 +2024,7 @@
     {
       "ts": null,
       "side": "buy",
-      "token": "盘古币",
+      "token": "\u76d8\u53e4\u5e01",
       "usd": 11.69,
       "mcap": null,
       "pnl_usd": null,
@@ -3847,5 +3847,5 @@
     }
   ],
   "risk": null,
-  "notes": "Read-only helper capture of public https://fomo.family/profile/gorkbot?r=gorkbot (no sign-in wall). Chrome was already running from the previous 1626 pass with user-data-dir /home/box/chrome-profile/Fork-2. The helper reused that window, zoom 100%, maximized, on the clean profile URL; the page was already live so the address bar was not used. Official frames were taken after selecting Open + Transactions. Deposit, Withdraw, and Transfer were not clicked. Reload was not clicked. Open, Transactions, Show dust, All, and 24H were confirmed on the official Open frame. This pass is published from the verified official Open + Transactions frame /tmp/fomo-gorkbot-desktop-1645-helper-official.png (PNG mtime 16:48:32 ET, 207532 bytes, md5 0ddd8adb33eb697ec9765c63391add6f, same bytes as /tmp/fomo-gorkbot-desktop-1645-helper-open-positions.png and /tmp/fomo-gorkbot-desktop-1645-helper-transactions.png, which are copies of the official file; taskbar Fri Nov 27 4:48 PM). Parent visual inspection confirmed a valid un-hovered Open + Transactions frame (pointer on the empty OS taskbar, no tooltip/popover/menu, both Open rows and the Transactions table visible). No official-retake was needed. The left profile identity block was already expanded on the official Open frame, so account stats were readable there: gorkbot / @gorkbot, 2h 43m avg. hold, 143 trades, Joined Oct 2026, Following 34, Followers 15, no bio visible; unchanged vs 1626. Tokens cash $0 and Perps cash $0 were verified on /tmp/fomo-gorkbot-desktop-1645-helper-open-total-cash.png (mtime 16:48:42 ET, 211629 bytes, md5 8ba6b6373646e336cf3bdc00dd9d6763; Open selected, Tokens/Perps popover with Transfer visible, Transfer not clicked; Snowball had already drifted to MC $519.5K / +116.68% on this later frame and those Open marks were ignored) and /tmp/fomo-gorkbot-desktop-1645-helper-closed-total-cash-retake.png (mtime 16:57:10 ET, 233821 bytes, md5 80d7e47bfe1d8e5aced6f97c9fcec46c; Closed selected on page 6 top, Tokens/Perps popover with Transfer visible, Transfer not clicked). Top-right cash chip $0.00 with Deposit/Withdraw menu (not clicked) was verified on /tmp/fomo-gorkbot-desktop-1645-helper-open-cash-chip-menu.png (mtime 16:48:51 ET, 210550 bytes, md5 fccd2de90f5b88e9737081800a3866d1) and /tmp/fomo-gorkbot-desktop-1645-helper-closed-cash-chip-menu-retake.png (mtime 16:57:22 ET, 232644 bytes, md5 bbd6ed6187ec5a7d09e0d389bab65927; Closed selected). A helper Playwright pagination click accidentally opened the top-right profile dropdown; it was dismissed with Escape and nothing in it was clicked. That incident did not change account settings. Center portfolio $0.01 / +$0.05 24h GREEN on the official Open frame (header portfolio chip also $0.01 / +$0.05 24h). 24H chart: green line, steep dip then a long flat line to the right edge. Mid-page Total cash $0. Header cash chip $0.00. Open header Your positions 2, Show dust checked, All. Official Open rows: AAPLX 0.00000829 $0.00 +4.01% (green), MC $229.5M, avg entry $220.6M MC / $346.08, PnL +$0 (unchanged vs 16:29:53); Snowball 4.02 $0.00 +117.28% (green), MC $521K, avg entry $239.8K MC / $0.000247, PnL +$0. Snowball percent 140.28%->117.28% and MC $576.1K->$521K vs 16:29:53 (live ticks). Account unchanged (143 trades, 2h 43m avg. hold, Following 34, Followers 15, Joined Oct 2026). Official Transactions top 15 unchanged vs 1626 (same sides, tokens, usd, and prices; ages still 1d for rows 1-8 and 1w for rows 9-16). Row 16 side/usd/price still RARECOIN Sell $16.76 at $0.0000250, 1w; the token name is covered by the Reload toast on this official Open frame and is not re-read from the leftover, later frames, or the DOM. The name was already verified on the 16:03:22 official and is kept. Rows 17+ were not visible on this official because the expanded profile identity block left less room for the Transactions table. Closed header Your positions 143, sort Recent, 6 pages 25/25/25/25/25/18. The helper disclosed that every unsuffixed first-pass closed-pageN-top/end, closed-total-cash, and closed-cash-chip-menu file was captured in the same tool block as a Computer action and must be treated as invalid. Those unsuffixed closed-* files were left unused. Parent visual inspection used only the *-retake.png files, each confirmed as a valid first-row top or last-rows end with the pointer on the empty taskbar and no hover card: closed-page1-top-retake.png 16:54:44 ET, 228176 bytes, md5 3e70b3b254ef65547f46a86892171e6c is a VALID page-1 TOP (first SOL $0.57 invested 23h, entry $71.34 exit $71.19, PnL -$0 / -0.20%, then PENGU $93.60 1d, PENGU $93.60 1d, Snowball $330.05 1d, PAIR $662.23 1d; Closed selected, no popover); closed-page1-end-retake.png 16:54:30 ET, 306771 bytes, md5 d987248314e3659c994ecab861fd47ac is a VALID page-1 END (last 坐以待币 $74.12 1w, RARECOIN $42.79 1w above, digit 1 selected, pointer on the empty taskbar); closed-page2-top-retake.png 16:55:14 ET, 231961 bytes, md5 2330447282be7c50dc16923d2dbb1fa8 is a VALID page-2 TOP (first Mog $18.00 1w, then COCORO $128.31 1w, SOL $20.92 1w, PENGU $18.32 1w, CSI $250.78 1w); closed-page2-end-retake.png 16:55:03 ET, 300660 bytes, md5 1492fa6b4a72d35e7a4301d043431dbc is a VALID page-2 END (last PENGU $58.63 2w, NVDAX $3.40 2w above, digit 2 selected); closed-page3-top-retake.png 16:55:36 ET, 230337 bytes, md5 d29f9f41acf7411cb671c6376ab0685f is a VALID page-3 TOP (first PENGU $140.65 invested 2w, then COCORO $2.72 3w, HYPE $2.79 3w at $87.94/$87.94, Anakin $3.06 3w, FOCO $74.12 3w; Closed selected, no popover); closed-page3-end-retake.png 16:54:17 ET, 312473 bytes, md5 8fdcd33362365fa51308b49af526d7ed is a VALID page-3 END (last XMR $2.93 3w, avg entry/exit $601.39/$600.31, PnL -$0.01 / -0.19%, DJT $3.18 3w above, digit 3 selected); closed-page4-top-retake.png 16:56:04 ET, 228890 bytes, md5 fd5f50d5518669f12dce3089f2bdb856 is a VALID page-4 TOP (first HYPE $2.20 invested 3w, entry $87.28 exit $87.23, PnL -$0 / -0.06%, then SPCX $16.29 3w, SIS $104.29 3w, SIS $229.89 3w, LUMI $253.30 3w); closed-page4-end-retake.png 16:55:52 ET, 309421 bytes, md5 09dd57aba15488a34c85bf0d99f041e9 is a VALID page-4 END (last SOL $2.82 3w, AAPLCAT $42.05 3w and iCoin $37.21 3w above, digit 4 selected); closed-page5-top-retake.png 16:56:30 ET, 232375 bytes, md5 5fb81e155a5bcad48471594f9635b745 is a VALID page-5 TOP (first AAPLX $42.91 invested 3w, entry $346.57 exit $346.45, PnL -$0.01 / -0.03%, then NATIONS $59.68 3w, George $86.59 3w, AAPLCAT $101.43 3w, PENGU $93.60 3w); closed-page5-end-retake.png 16:56:18 ET, 305129 bytes, md5 62014a034f1f48c506ddae442c4f8ef7 is a VALID page-5 END (last AI $14.92 4w, TORCH $41.07 4w above, digit 5 selected); closed-page6-top-retake.png 16:56:59 ET, 229741 bytes, md5 d61ff0bdefbcaf03ea677808259116f4 is a VALID page-6 TOP (first GAGE $14.92 4w, then PIZZA $9.95 4w, VI $44.02 4w, GTA6 $39.20 4w, OREN $12.25 4w); closed-page6-end-retake.png 16:56:46 ET, 313074 bytes, md5 51565cc43d5ff2d1a22abf77d546e1a3 is a VALID page-6 END (last SOL $64.28 1mo, avg entry/exit $104.64/$104.58, PnL -$0.04 / -0.06%, McRib $63.20 1mo above, digit 6 selected). PNG-verified Closed first/last rows this pass (tokens and invested amounts) are unchanged vs 1626: page-1 first SOL $0.57 / last 坐以待币 $74.12, page-2 first Mog $18.00 / last PENGU $58.63, page-3 first PENGU $140.65 / last XMR $2.93, page-4 first HYPE $2.20 / last SOL $2.82, page-5 first AAPLX $42.91 / last AI $14.92, page-6 first GAGE $14.92 / last SOL $64.28. GTA6 invested amount on the page-6 top is $39.20, unchanged vs 1626. No new Closed rows were seen. Closed ages on the valid page-1 top vs 1626: first SOL $0.57 advanced 22h->23h; second and third PENGU $93.60 stayed 1d; Snowball $330.05 stayed 1d; PAIR $662.23 stayed 1d. The 16:46:00 ET precheck /tmp/fomo-1645-precheck.png (229501 bytes, md5 7227a05bcf8e7f7639eada119ddfa855; Closed leftover frame, taskbar Fri Nov 27 4:45 PM) already showed center and header 24h at +$0.05 green and was not used as the official Open frame or to borrow the row-16 name. Helper leftover after the official/cash/Closed/retake sequence: Chrome on the clean profile URL, zoom 100%, Closed selected, Closed page 3 scrolled to top (first PENGU $140.65 2w, then COCORO $2.72 3w, HYPE $2.79 3w, Anakin $3.06 3w, FOCO $74.12 3w), pointer on the empty taskbar, Reload toast still visible and not clicked, profile panel expanded, confirmed on parent 17:00:22 ET screenshot /tmp/fomo-gorkbot-desktop-1645-parent-leftover.png (229827 bytes, md5 dbc3615626f529d415b8478736529122, taskbar Fri Nov 27 5:00 PM). The leftover frame also shows later-tick 24h still +$0.05; that later frame was not used for official marks. Official published 24h is the official Open-frame value +$0.05."
+  "notes": "Read-only helper capture of public https://fomo.family/profile/gorkbot?r=gorkbot (no sign-in wall). Chrome was already running from the previous 1645 pass with user-data-dir /home/box/chrome-profile/Fork-2. The helper reused that window, zoom 100%, maximized, on the clean profile URL; the page was already live so the address bar was not used. Official frames were taken after selecting Open + Transactions. Deposit, Withdraw, and Transfer were not clicked. Reload was not clicked. Open, Transactions, Show dust, All, and 24H were confirmed on the official Open frame. This pass is published from the verified official Open + Transactions frame /tmp/fomo-gorkbot-desktop-1721-helper-official.png (PNG mtime 17:24:48 ET, 235618 bytes, md5 4d4b7234a2c76d375926fc2ffe3c37d9, same bytes as /tmp/fomo-gorkbot-desktop-1721-helper-open-positions.png and /tmp/fomo-gorkbot-desktop-1721-helper-transactions.png, which are copies of the official file; taskbar Fri Nov 27 5:24 PM). Parent visual inspection of official PNG crops confirmed a valid un-hovered Open + Transactions frame (pointer on the empty OS taskbar, no tooltip/popover/menu, both Open rows and the Transactions table visible). No official-retake was needed. The left profile identity block was already expanded on the official Open frame, so account stats were readable there: gorkbot / @gorkbot, 2h 43m avg. hold, 143 trades, Joined Oct 2026, Following 34, Followers 15, no bio visible; unchanged vs 1645. Center portfolio $0.00 / +$0.09 24h GREEN on the official Open frame (header portfolio chip also $0.00 / +$0.09 24h). 24H chart: green line, steep dip then a long flat line to the right edge. Mid-page Total cash $0. Header cash chip $0.00. Open header Your positions 2, Show dust checked, All. Official Open rows: AAPLX 0.00000829 $0.00 +4.03% (green), MC $229.5M, avg entry $220.6M MC / $346.08, PnL +$0 (percent 4.01%->4.03% vs 16:48:32; amount, value, MC, and avg entry unchanged); Snowball 4.02 $0.00 +95.95% (green), MC $469.8K, avg entry $239.8K MC / $0.000247, PnL +$0 (percent 117.28%->95.95% and MC $521K->$469.8K vs 16:48:32; amount, value, and avg entry unchanged). Tokens cash $0 and Perps cash $0 were verified on /tmp/fomo-gorkbot-desktop-1721-helper-open-total-cash.png (mtime 17:25:12 ET, 239907 bytes, md5 08fc00f85026af2e44332b88d247e884; Open selected, Tokens/Perps popover with Transfer visible, Transfer not clicked; Snowball had already drifted on this later frame and those Open marks were ignored). The file named open-cash-chip-menu.png (mtime 17:25:23 ET, 235490 bytes, md5 ad9336e87326160532c6f5b1c437ea9b) does not actually show the Deposit/Withdraw cash-chip menu (header chips remain visible at $0.00 cash / $0.00 +$0.09 24h with no menu); it was not used as a menu proof. Header cash $0.00 and mid-page Total cash $0 are taken from the official Open frame. A closed-tab cash popover was not captured this pass. Official Transactions top 15 unchanged vs 1645 (same sides, tokens, usd, and prices; ages still 1d for rows 1-8 and 1w for rows 9-16). Row 16 side/usd/price still RARECOIN Sell $16.76 at $0.0000250, 1w; the token name is covered by the Reload toast on this official Open frame and is kept as previously verified RARECOIN from 16:03:22 (side/usd/price unchanged). Rows 17+ were not in view because the profile identity block was expanded. Closed header Your positions 143, sort Recent. Valid closed-page1-top.png (mtime 17:26:37 ET, 258920 bytes, md5 175fc0e224fba5551438c2c5bc06ef00) is a VALID page-1 TOP (first SOL $0.57 invested 23h, entry $71.34 exit $71.19, PnL -$0 / -0.20%, then PENGU $93.60 1d, PENGU $93.60 1d, Snowball $330.05 1d, PAIR $662.23 1d; Closed selected, no popover, pointer on the empty taskbar). PNG-verified page-1 first row (token and invested amount) is unchanged vs 1645; ages on this page-1 top also unchanged vs 1645 (first SOL $0.57 stayed 23h; second and third PENGU $93.60 stayed 1d; Snowball $330.05 stayed 1d; PAIR $662.23 stayed 1d). No new Closed rows were seen. Closed pages 2-6 were not recaptured this pass; first/last tokens and invested amounts for those pages are kept from the 1645 valid *-retake.png proofs (page-2 first Mog $18.00 / last PENGU $58.63, page-3 first PENGU $140.65 / last XMR $2.93, page-4 first HYPE $2.20 / last SOL $2.82, page-5 first AAPLX $42.91 / last AI $14.92, page-6 first GAGE $14.92 / last SOL $64.28; GTA6 $39.20). Closed page count 6 (25/25/25/25/25/18) is kept from the 1645 verified pagination; the pagination row was below the fold on this page-1 top PNG. A 17:23 ET parent precheck already showed the leftover Closed page 3 and a live 24h tick, and was not used as the official Open frame. Later leftover frames after 17:24:48 (including helper leftover and parent leftover) were not used for official marks. Helper leftover /tmp/fomo-gorkbot-desktop-1721-helper-leftover.png is the same bytes as closed-page1-top.png (17:26:38 ET). Parent leftover /tmp/fomo-gorkbot-desktop-1721-parent-leftover.png at 17:29:22 ET (259251 bytes, md5 d2b204770741c5b8681f3d2adae390f2): Chrome left on clean profile URL, zoom 100%, Closed page 1 top (first SOL $0.57 invested 23h), pointer on empty taskbar, Reload toast visible not clicked, profile panel expanded."
 }
